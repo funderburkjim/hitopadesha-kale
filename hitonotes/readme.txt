@@ -1,4 +1,4 @@
-pdfs folder - the scanned images of the 'notes' section of Kale's book.
+pdfpages folder - the scanned images of the 'notes' section of Kale's book.
 ocr - Each of the scanned images was processed by the OCR functionality of
  Google Documents.
  The result is the collection of 54 files names 'hitonote_xxx_ocr.txt',
