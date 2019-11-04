@@ -1,0 +1,80 @@
+023.01F: taTA ca . paricCedo hi pARqityaM yadApannA vipattayaH .
+023.01A: taTA ca . paricCedaH hi pARqityam yadA ApannAH vipattayaH .
+
+023.02F: aparicCedakartFRAM vipadaH syuH pade pade .. 149 ..
+023.02A: aparicCedakartFRAm vipadaH syuH pade pade .. 149 ..
+
+023.03F: taTAhi . tyajedekaM kulasyArTe grAmasyArTe kulaM tyajet .
+023.03A: taTA hi . tyajet ekam kulasya arTe grAmasya arTe kulam tyajet .
+023.03P: tyajet -- aKilakulanASe samutpanne ekaM tyaktvA kularakzaRaM kartavyamiti BAva . evamagre .
+
+023.04F: grAmaM janapadasyArTe svAtmArTe pfTivIM tyajet .. 150 ..
+023.04A: grAmam janapadasya arTe svAtmArTe pfTivIm tyajet .. 150 ..
+023.04P: AtmArTe -- AtmasaMrakzaRArTaM . taTA ca SrutiH 'AtmAnaM satataM gopAyIta' iti . svAtmArTe iti pAWe svasya AtmA SarIraM tadarTe . yadAha kAlidAsaH 'SarIramAdyaM Kalu DarmasADanam' iti . atastadrakzaRAyAvaSyaM yatno viDeya ityarTaH .
+023.04P+: pfTivIM tyajet -- pfTivIvyayenApi svasaMrakzaRaM kartavyamiti BAvaH .  
+
+023.05F: aparaM ca . pAnIyaM vA nirAyAsaM svAdvannaM vA Bayottaram .
+023.05A: aparaM ca . pAnIyam vA nirAyAsam svAdu annam vA Bayottaram .
+023.05P: pAnIyaM kevalaM jalam .
+023.05P+: nirAyAsaM -- suKalaByam .
+023.05P++: Bayottaram -- BayaM uttaraM yasmin BayAnugatam .
+
+023.06F: vicArya Kalu paSyAmi tatsuKaM yatra nirvftiH .. 151 ..
+023.06A: vicArya Kalu paSyAmi tad suKam yatra nirvftiH .. 151 ..
+023.06P: suKaM -- suKakaram .
+
+023.07F: ityAlocyAhaM nirjanavanamAgataH . yataH . 
+023.07A: ita Alocya aham nirjanavanam AgataH . yataH . 
+
+023.08F: varaM vanaM vyAGragajendrasevitaM
+023.08A: varam vanam vyAGragajendrasevitam
+
+023.09F: drumAlayaM pakvaPalAmbuBojanam .
+023.09A: drumAlayam pakvaPalAmbuBojanam .
+023.09P: drumAlayam druma eva AlayaH yasmin (vane) .
+023.09P+: pakva -- pakvAni PalAni ambu ca BojanaM yasmin .
+
+023.10F: tfRAni SayyA pariDAnavalkalaM
+023.10A: tfRAni SayyA pariDAnavalkalam
+023.10P: tfRAni <ab n="ityAdi">i</ab> -- yatra tfRAnyeva SayyA valkalameva pariDAnaM tAdfgvanaM varam .
+
+023.11F: na banDumaDye DanahInajIvanam .. 152 ..
+023.11A: na banDumaDye DanahInajIvanam .. 152 ..
+
+023.12F: yo'smatpuRyodayAdanena mitreRAhaM snehAnuvfttyAnugfhItaH . aDunA ca 
+023.12A: yaH asmat puRyodayAt anena mitreRa aham snehAnuvfttyA anugfhItaH . aDunA ca 
+
+023.13F: puRyaparamparaBavadASrayaH svarga eva mayA prAptaH . yataH --
+; parsing questionable
+023.13A: puRyaparamparaBavat ASrayaH svargaH eva mayA prAptaH . yataH --
+
+; Kale typo?: Patle -> Pale (2 fruits)
+023.14F: saMsAravizavfkzasya dve eva rasavaPale .
+023.14A: saMsAravizavfkzasya dve eva rasavaPale .
+
+023.15F: kAvyAmftarasAsvAdaH saMgamaH sujanEH saha .. 153 ..
+023.15A: kAvyAmftarasAsvAdaH saMgamaH sujanEH saha .. 153 ..
+
+023.16F: manTara uvAca .
+023.16A: manTara uvAca .
+
+023.17F: arTAH pAdarajopamA girinadIvegopamaM yOvanaM 
+023.17A: arTAH pAdarajopamAH girinadIvegopamam yOvanam
+023.17P: pAdarajopamAH pAdarajeRa upamA yezAm . atra rajaSabdo'kArAntaH pulliMgaH . pAdarajo yaTA pAdAsaktaH BUtvA tatkzaRameva patati tadvadarTA api asTirAH tucCA evetyarTaH . 
+023.17P+: girinadIvegopamaM atiSIGragAmi .
+
+023.18F: AyuzyaM jalalolabinducapalaM PenopamaM jIvitaM .
+023.18A: Ayuzyam jalalolabinducapalam Penopamam jIvitam .
+023.18P: jalalola -- jalasya yaH lolaH bindustadvaccapalaM atIvAsTAyi . 
+023.18P+: Penopamam Penena jalakaPena upamA yasya kzaRaBaNguram . atra samAnArTaH SlokAMSaH BartfhareH -- AyuH kallolalolaM katipayadivasasTAyinI yOvanaSrIH . arTAH saMkalpakalpA DanasamayataqidviBramA BogapUrAH . i. 
+
+023.19F: DarmaM yo na karoti ninditamatiH svargArgalodGAwanaM
+023.19A: Darmam yaH na karoti ninditamatiH svargArgalodGAwanam
+023.19P: ninditamatiH mananaSAlinI budDiH matiH . ninditA matiH tasyA anupayujyamAnatvAt yasya .
+023.19P+: svargArgalo -- atra svargaSabdena svargadvAraM lakzyate tasya argalA banDanakAzwaM tasya udGAwita .
+
+023.20F: paScAttApayuto jarAparigataH SokAgninA dahyate .. 154 ..
+; paScAt-tApa = 'after-pain' = regret
+023.20A: paScAttApayutaH jarAparigataH SokAgninA dahyate .. 154 ..
+023.20P: jarAoarigataH jarayABiBUtaH san .
+

@@ -1,0 +1,118 @@
+014.01F: atiTiryasya BagnASo gfhAtpratinivartate .
+014.01A: atiTiH yasya BagnASaH gfhAt pratinivartate .
+014.01P: BagnA ASA yasya .
+
+014.02F: sa tasmE duzkftaM dattvA puRyamAdAya gacCati .. 63..
+014.02A: saH tasmE duzkftam dattvA puRyam AdAya gacCati .. 63..
+
+014.03F: anyacca. uttamasyApi varRasya nIco'pi gfhamAgataH .
+014.03A: anyat ca . uttamasya api varRasya nIcaH api gfham AgataH .
+
+014.04F: pUjanIyo yaTAyogyaM sarvadevamayo'tiTiH .. 64..
+014.04A: pUjanIyaH yaTAyogyam sarvadevamayaH atiTiH .. 64..
+014.04P: sarvadevamayaH -- sarvezAM devAnAM vikAraH . 
+
+014.05F: gfDro'vadat -- mArjAro
+014.05A: gfDraH avadat -- mArjAraH
+
+014.06F: hi mAMsaruciH . pakziSAvakAScAtra nivasanti . tenAhameva bravImi .
+014.06A: hi mAMsaruciH . pakziSAvakAH ca atra nivasanti . tena aham eva bravImi .
+
+014.07F: tacCrutvA mArjAro BUmiM spfzwvA karRO spfSati .  brUte
+014.07A: tad SrutvA mArjAraH BUmim spfzwvA karRO spfSati . brUte
+
+014.08F: ca -- mayA DarmaSAstraM SrutvA vItarAgeRedaM duzkaraM
+014.08A: ca -- mayA DarmaSAstram SrutvA vItarAgena idam duzkaram
+014.08P: vItaH gataH rAgaH vizayAsaktiH yasya .
+
+014.09F: vrataM cAndrAyaRamaDyavasitam . parasparaM vivadamAnAnAmapi
+014.09A: vratam cAndrAyaRam aDyavasitam . parasparam vivadamAnAnAm api
+014.09P: vivadamAnAnAm parasparavirudDArTapratipAdakAnAmityarTaH .
+
+014.10F: DarmaSAstrARAm ahiMsA paramo DarmaH ityatrEkamatyam . yataH  .
+; ekamatyam ?: cannot parse.  Kale English: quite at one  (eka+matya ?) Some relate to 'mati'
+014.10A: DarmaSAstrARAm ahiMsA paramaH DarmaH iti atra ekamatyam . yataH  .
+014.10P: ekaM mataM yezAM tAnyekamatAni tezAM BAvaH Ekamatyam. 
+
+014.11F: sarvahiMsAnivfttA ye narAH sarvasahASca ye .
+014.11A: sarvahiMsAnivfttAH ye narAH sarvasahAH ca ye .
+014.11P: sarvA vAkkAyamanaHkftA triprakAretyarTaH yA hiMsA sarvezAM vA hiMsAM tasyAH .
+
+014.12F: sarvasyASrayaBUtASca te narAH svargagAminaH .. 65..
+014.12A: sarvasya ASrayaBUtAH ca te narAH svargagAminaH .. 65..
+
+014.13F: eka eva suhfdDarmo niDane'pyanuyAti yaH .
+014.13A: ekaH eva suhft DarmaH niDane api anuyAti yaH .
+014.13P: DarmaH eva ekaH suhfdyaH niDanepyanuyAti . 
+
+; sarvananyattu ?  Kale print unclear. Changed to sarvamanyattu
+014.14F: SarIreRa samaM nASaM sarvamanyattu gacCati .. 66..
+014.14A: SarIreRa samam nASam sarvam anyat tu gacCati .. 66..
+
+014.15F: anyacca . yo'tti yasya yadA mAMsamuBayoH paSyatAntaram .
+014.15A: antay ca . yaH atti yasya yadA mAMsam uBayoH paSyata antaram .
+
+014.16F: ekasya kzaRikA prItiranyaH prARErvimucyate .. 67..
+014.16A: ekasya kzaRikA prItiH anyaH prAREH vimucyate .. 67..
+
+014.17F: api ca . martavyamiti yadduHKaM puruzasyopajAyate .
+014.17A: api ca . martavyam iti yad duHKam puruzasya upajAyate .
+
+014.18F: Sakyate nAnumAnena pareRa parivarRitum .. 68..
+014.18A: Sakyate na anumAnena pareRa parivarRitum .. 68..
+
+014.19F: SfRu punaH . svacCandavanajAtena SAkenApi prapUryate .
+014.19A: SfRu punaH . svacCandavanajAtena SAkena api prapUryate .
+014.19P: prapUryate udaramiti SezaH . 
+
+014.20F: asya dagDodarasyArTe kaH kuryAtpAtakaM mahat .. 69..
+014.20A: asya dagDodarasya arTe kaH kuryAt pAtakam mahat .. 69..
+014.20P: dagDaM tucCamudaraM tasya .
+
+014.21F: evaM viSvAsya sa mArjArastarukoware sTitaH . tato dinezu gacCatsu
+; viSvAsya ? ind. past. participle of Causal of viSvas
+014.21A: evam viSvAsya saH mArjAraH tarukoware sTitaH . tataH dinezu gacCatsu
+
+014.22F: pakziSAvakAn Akramya kowaramAnIya pratyahaM KAdati .
+014.22A: pakziSAvakAn Akramya kowaram AnIya pratyaham KAdati .
+
+014.23F: yezAmapatyAni KAditAni tEH SokArtErvilapadBiritastato
+; vilapadBiH : 3p of prap vilapat  of verb vi-lap
+014.23A: yezAm apatyAni KAditAni tEH SokArtEH vilapadBiH itastatas
+014.23P: Sokena ArtEH SokArTEH . 
+
+014.24F: jijYAsA samArabDA . tat parijYAya mArjAraH kowarAnniHsftya bahiH
+014.24A: jijYAsA samArabDA . tat parijYAya mArjAraH kowarAt niHsftya bahiH
+014.24P: pIqitEH jijYAsA jYAtumicCA anvezaRA .
+
+014.25F: palAyitaH . paScAt pakziBiritastato nirUpayadBistatra tarukoware
+014.25A: palAyitaH . paScAt pakziBiH itastatas nirUpayadBiH tatra tarukoware
+014.25P: nirUpayadBiH -- nipuRamAlokayadBiH . 
+
+014.26F: SAvakAsTIni prAptAni . anantaramanenEva jaradgavenAsmAkaM
+014.26A: SAvakAsTIni prAptAni . anantaram anena eva jaradgavena asmAkam
+
+014.27F: SAvakAH KAditA iti sarvEH pakziBirniScitya gfDro vyApAditaH .
+014.27A: SAvakAH KAditAH iti sarvEH pakziBiH niScitya gfDraH vyApAditaH .
+
+; ityAdi is uninflected, but MW does not mention as an indeclineable
+014.28F: ato'haM bravImi ajYAtakulaSIlasya ityAdi ..
+014.28A: ataH aham bravImi ajYAtakulaSIlasya ityAdi .
+
+014.29F: ityAkarRya sa jambukaH sakopamAha -- mfgasya praTamadarSanadine
+014.29A: iti AkarRya saH jambukaH sakopam Aha -- mfgasya praTamadarSanadine
+
+014.30F: BavAn apyajYAtakulaSIla eva . tatkaTaM
+014.30A: BavAn api ajYAtakulaSIlaH eva . tad kaTaM
+
+014.31F: BavatA sahEtasya snehAnuvfttiruttarottaraM varDate .
+014.31A: BavatA saha etasya snehAnuvfttiH uttarottaram varDate .
+
+014.32F: yatra vidvajjano nAsti SlAGyastatrAlpaDIrapi .
+014.32A: yatra vidvajjanaH na asti SlAGyaH tatra alpaDIH api .
+
+014.33F: nirastapAdape deSe eraRqo'pi drumAyate .. 70..
+; nirastapAdape: nirasta-pAdapa  (destroyed trees)
+014.33A: nirastapAdape deSe eraRqaH api drumAyate .. 70..
+014.33P: nirastAH pAdapA vfkzA yasmAttasmin . 
+014.33P+: drumAyate -- drumavadAcarati drumasTAne BavatItyarTaH .

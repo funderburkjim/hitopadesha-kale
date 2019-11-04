@@ -1,0 +1,96 @@
+009.01F: anantaraM sarve jAlena badDA baBUvuH .
+009.01A: anantaram sarve jAlena badDAH baBUvuH .
+
+009.02F: tato yasya vacanAttatrAvalambitAstaM sarve tiraskurvanti  . yataH .
+; tiras-kf: 'blame'
+009.02A: tataH yasya vacanAt tatra avalambitAH tam sarve tiraskurvanti . yataH .
+
+009.03F: na gaRasyAgrato gacCetsidDe kArye samaM Palam .
+009.03A: na gaRasya agrataH gacCet sidDe kArye samam Palam .
+
+009.04F: yadi kAryavipattiH syAnmuKarastatra hanyate .. 29..
+009.04A: yadi kAryavipattiH syAt muKaraH tatra hanyate .. 29..
+009.04P: kAryavipattiH -- kAryanASaH .
+009.04P+: muKaraH (muKaM rAtIti) agragaH .
+
+009.05F: tasya tiraskAraM SrutvA citragrIva uvAca -- nAyamasya dozaH . yataH .
+009.05A: tasya tiraskAram SrutvA citragrIvaH uvAca -- na ayam asya dozaH . yataH .
+
+009.06F: ApadAmApatantInAM hito'pyAyAti hetutAm .
+; ApatantInAm  ? Kale 'About to befall' Apat = fly towards, fall into
+; patantInAm f 6p of present participle patat of pat.
+009.06A: ApadAm ApatantInAm hitaH api AyAti hetutAm .
+
+009.07F: mAtfjaNGA hi vatsasya stamBIBavati banDane .. 30..
+009.07A: mAtfjaNGA hi vatsasya stamBIBavati banDane .. 30..
+009.07P: stamBIBavati ma staMBaH astaMBaH . astamBaH stamBaH sampadyate stamBIBavati .
+
+009.08F: anyacca . sa banDuryo vipannAnAmApadudDaraRakzamaH .
+; kzama (ifc.) 'able'
+009.08A: anyat ca . saH banDuH yaH vipannAnAm ApadudDaraRakzamaH .
+
+; Kale: BItaparitrARa -> durvihitAtIta (= dur + vihita + atIta)
+; BItaparitrARavastUpAlamBapaRqitaH = BIta-paritrARa + vastU + upAlamBa +apaRqitaH
+009.09F: na tu durvihitAtItavastUpAlamBapaRqitaH .. 31..
+; (dur + vihita) + atIta + vastu + upAlamBa + paRqitaH
+009.09A: na tu durvihitAtItavastUpAlamBapaRqitaH .. 31..
+009.09P: durvihiteti -- durvihitamasADukftamatItaM vA kAle'kftopAyaM yadvastu tasyopAlamBe . BitaparitrAReti pAWe BItAnAM paritrARaM tadeva vastu tasya upAlamBe. paRqitaH evaM BItAnAM paritrARaM kartavyaM evaM na kartavyamiti vAkpARqitye eva kuSalaH ityarTaH . yadvA upAlamBaH kAlayApanaM tatra paRqitaH .
+
+009.10F: vipatkAle vismaya eva kApuruzalakzaRam .
+009.10A: vipatkAle vismayaH eva kApuruzalakzaRam .
+009.10P: vismayaH -- kiMkartavyatAmUQatA iti yAvat .
+
+009.11F: tad atra DEryamavalambya pratIkAraScintyatAm . yataH .
+009.11A: tad atra DEryam avalambya pratIkAraH cintyatAm . yataH .
+009.11P: pratIkAraH -- upAyacintanena ApadaH nirAkaraRam . upasargasya GaYyamanuzye bahulaM iti dIrGaH . tandrA vigalitagAtratA .
+
+009.12F: vipadi DEryamaTAByudaye kzamA sadasi vAkyapawutA yuDi vikramaH .
+009.12A: vipadi DEryam aTa aByudaye kzamA sadasi vAkyapawutA yuDi vikramaH .
+
+009.13F: yaSasi cABirucirvyasanaM SrutO prakftisidDamidaM hi mahAtmanAm .. 32..
+009.13A: yaSasi ca aBiruciH vyasanam SrutO prakftisidDam idam hi mahAtmanAm .. 32..
+
+009.14F: sampadi yasya na harzo vipadi vizAdo raRe ca DIratvam .
+009.14A: sampadi yasya na harzaH vipadi vizAdaH raRe ca DIratvam .
+
+009.15F: taM BuvanatrayatilakaM janayati jananI sutaM viralam .. 33..
+009.15A: tam Buvanatrayatilakam janayati jananI sutam viralam .. 33..
+
+009.16F: anyacca . zaq dozAH puruzeReha hAtavyA BUtimicCatA .
+; icCatA: m3s of prap icCat of verb 'iz' (to strive , desire)
+009.16A: anyat ca . zaq dozAH puruzeRa iha hAtavyAH BUtim icCatA .
+
+009.17F: nidrA tandrA BayaM kroDa AlasyaM dIrGasUtratA .. 34..
+009.17A: nidrA tandrA Bayam kroDaH Alasyam dIrGasUtratA .. 34..
+009.17P: dIrGasUtratA -- dIrGaM sUtraM vyavasTA yasya tasya BAvaH dIrGasUtratA cirakriyatA . 'dIrGasUtrI vinaSyati' . i.paM. tantre (ca.taM)
+
+009.18F: idAnImapyevaM kriyatAm . sarvErekacittIBUya jAlamAdAyoqqIyatAm . yataH .
+009.18A: idAnIm api evam kriyatAm . sarvEH ekacittIBUya jAlam AdAya uqqIyatAm . yataH .
+009.18P: ekacittIBUya -- na ekaM cittaM yezAM te anekacittAH te ekacittAH BUtvA .
+
+009.19F: alpAnAmapi vastUnAM saMhatiH kAryasADikA .
+009.19A: alpAnAm api vastUnAm saMhatiH kAryasADikA .
+
+009.20F: tfRErguRatvamApannErbaDyante mattadantinaH .. 35..
+009.20A: tfREH guRatvam ApannEH baDyante mattadantinaH .. 35..
+
+009.21F: saMhatiH SreyasI puMsAM svakulEralpakErapi .
+009.21A: saMhatiH SreyasI puMsAm svakulEH alpakEH api .
+
+009.22F: tuzeRApi parityaktA na prarohanti taRqulAH .. 36..
+009.22A: tuzeRa api parityaktAH na prarohanti taRqulAH .. 36..
+
+009.23F: iti vicintya pakziRaH sarve jAlamAdAyotpatitAH .  anantaraM sa vyADaH
+009.23A: iti vicintya pakziRaH sarve jAlam AdAya utpatitAH .  anantaram saH vyADaH
+
+;  is DAvannacintayat (nn) right?  Yes: Sandhi Xn+aY -> XnnaY
+009.24F: sudUrAjjAlApahArakAMstAnavalokya paScAdDAvannacintayat --
+009.24A: sudUrAt jAlApahArakAn tAn avalokya paScAt DAvan acintayat --
+
+; Kale Typo (?): harantI -> haranti
+009.25F: saMhatAstu haranti me jAlaM mama vihaNgamAH .
+009.25A: saMhatAH tu haranti me jAlam mama vihaNgamAH .
+
+009.26F: yadA tu vivadizyante vaSamezyanti me tadA .. 37..
+009.26A: yadA tu vivadizyante vaSam ezyanti me tadA .. 37..
+009.26P: vivadizyante -- kalahaM karizyanti . nipatizyanti iti pAWAntaram .

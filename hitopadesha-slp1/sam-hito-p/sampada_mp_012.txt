@@ -1,0 +1,146 @@
+012.01F: iti praboDyAtiTyaM
+012.01A: iti praboDya AtiTyam
+
+012.02F: kftvAliNgya ca citragrIvastena samprezito yaTezwadeSAnsaparivAro   
+012.02A: kftvA AliNgya ca citragrIvaH tena samprezitaH yaTA izwadeSAn saparivAraH
+
+012.03F: yayO . hiraRyako'pi svavivaraM pravizwaH .
+012.03A: yayO . hiraRyakaH api svavivaram pravizwaH .
+
+012.04F: yAni kAni ca mitrARi kartavyAni SatAni ca .
+012.04A: yAni kAni ca mitrARi kartavyAni SatAni ca .
+
+012.05F: paSya mUzikamitreRa kapotA muktabanDanAH .. 53..
+012.05A: paSya mUzikamitreRa kapotAH muktabanDanAH .. 53..
+
+012.06F: aTa laGupatanakanAmA kAkaH sarvavfttAntadarSI
+012.06A: aTa laGupatanakanAmA kAkaH sarvavfttAntadarSI
+
+012.07F: sAScaryamidamAha -- aho hiraRyaka SlAGyo'si . ato'hamapi
+012.07A: sAScaryam idam Aha aho hiraRyaka SlAGyaH asi . ataH aham api
+
+012.08F: tvayA saha
+012.08A: tvayA saha
+
+012.09F: mEtrImicCAmi . ato mAM mEtryeRAnugrahItumarhasi .
+012.09A: mEtrIm icCAmi . ataH mAm mEtryeRa anugrahItum arhasi .
+
+012.10F: etacCrutvA hiraRyako'pi vivarAByantarAd Aha -- kastvam .
+012.10A: etad SrutvA hiraRyakaH api vivarAByantarAt Aha kaH tvam .
+
+012.11F: sa brUte -- laGupatanakanAmA
+012.11A: saH brUte -- laGupatanakanAmA
+
+012.12F: vAyaso'ham . hiraRyako vihasyAha -- kA tvayA saha mEtrI . yataH 
+012.12A: vAyasaH aham . hiraRyakaH vihasya Aha -- kA tvayA saha mEtrI . yataH .
+
+012.13F: yadyena yujyate loke buDastattena yojayet .
+012.13A: yad yena yujyate loke buDaH tad tena yojayet .
+
+012.14F: ahamannaM BavAnBoktA kaTaM prItirBavizyati .. 54..
+012.14A: aham annam BavAn BoktA kaTam prItiH Bavizyati .. 54..
+
+012.15F: aparaM ca . BakzyaBakzayoH prItirvipattereva kAraRaM .
+012.15A: aparam ca . BakzyaBakzayoH prItiH vipatteH eva kAraRam  .
+
+012.16F: SfgAlA pASabadDo'sO mfgaH kAkena rakzitaH .. 55..
+012.16A: SfgAlAt pASabadDaH asO mfgaH kAkena rakzitaH .. 55..
+
+012.17F: vAyaso'bravIt -- kaTametat .
+012.17A: vAyasaH abravIt -- kaTam etat .
+
+012.18F: hiraRyakaH kaTayati --
+012.18A: hiraRyakaH kaTayati --
+
+012.19F: .. kaTA 2 ..
+012.19A: .. kaTA 2 ..
+
+012.20F: asti magaDadeSe campakavatI nAmAraRyAnI . tasyAM cirAnmahatA
+012.20A: asti magaDadeSe campakavatI nAma araRyAnI . tasyAm cirAt mahatA
+012.20P: araRyAni -- mahAraRyam .
+
+012.21F: snehena mfgakAkO nivasataH . sa ca mfgaH svecCayA BrAmyan
+012.21A: snehena mfgakAkO nivasataH . saH ca mfgaH svecCayA BrAmyan
+
+012.22F: hfzwapuzwANgaH kenacicCfgAlenAvalokitaH .
+012.22A: hfzwapuzwANgaH kena cid SfgAlena avalokitaH .
+
+012.23F: taM dfzwvA SfgAlo'cintayat -- AH 
+012.23A: tam dfzwvA SfgAlaH acintayat -- AH 
+
+012.24F: kaTametanmAMsaM sulalitaM BakzayAmi . Bavatu . viSvAsaM 
+012.24A: kaTam etad mAMsam sulalitam BakzayAmi . Bavatu . viSvAsam 
+
+012.25F: tAvadutpAdayAmi . ityAlocyopasftyAbravIt -- mitra kuSalaM te .
+012.25A: tAvat utpAdayAmi . iti Alocya upasftya abravIt -- mitra kuSalam te .
+
+012.26F: mfgeRoktam -- kastvam .
+012.26A: mfgeRa uktam -- kaH tvam .
+
+012.27F: sa brUte kzudrabudDinAmA jambuko'ham . atrAraRye
+012.27A: saH brUte kzudrabudDinAmA jambukaH aham . atra araRye
+
+012.28F: banDuhIno mftavannivasAmi . idAnIM tvAM mitramAsAdya punaH
+; AsAdya ?  Somehow from Asad (sit near, find)
+012.28A: banDuhInaH mftavat nivasAmi . idAnIm tvAm mitram AsAdya punaH
+012.28P: mftavat -- mftena tulyam .
+
+012.29F: sabanDurjIvalokaM pravizwo'smi . aDunA tavAnucareRa mayA sarvaTA
+012.29A: sabanDuH jIvalokam pravizwaH asmi . aDunA tava anucareRa mayA sarvaTA
+
+012.30F: Bavitavyam . mfgeRoktam -- evamastu . tataH paScAdastaM gate
+012.30A: Bavitavyam . mfgeRa uktam -- evam astu . tataH paScAt astam gate
+012.30P: astaM gate astam iti mAntamavyayam .
+012.30P+: gate prApte .
+
+012.31F: savitari Bagavati marIcimAlini tO mfgasya vAsaBUmiM gatO .
+012.31A: savitari Bagavati marIcimAlini tO mfgasya vAsaBUmim gatO .
+012.31P: marIcimAlini -- marIcayaH raSmayaH tezAM mAlA samUhaH sA asyAstIti marIcimAlI sUryaH tasmin .
+
+012.32F: tatra campakavfkzaSAKAyAM subudDinAmA kAko mfgasya
+012.32A: tatra campakavfkzaSAKAyAm subudDinAmA kAkaH mfgasya
+
+012.33F: ciramitraM nivasati . tO dfzwvA kAko'vadat --saKe citrANga .
+012.33A: ciramitram nivasati . tO dfzwvA kAkaH avadat -- saKe citrANga .
+012.33P: ciramitram -- cirakAlAtpraBfti jAtaM mitram .
+
+012.34F: ko'yaM dvitIyaH .
+012.34A: kaH ayam dvitIyaH .
+
+012.35F: mfgo brUte -- jambuko'yam . asmatsaKyamicCannAgataH . 
+012.35A: mfgaH brUte -- jambukaH ayam . asmad saKyam icCan AgataH .
+
+012.36F: kako brute -- mitra akasmAdAgantunA saha mEtrI na yuktA . taTA coktam --
+012.36A: kakaH brute -- mitra akasmAt AgantunA saha mEtrI na yuktA . taTA ca uktam --
+
+012.37F: ajYAtakulaSIlasya vAso deyo na kasyacit .
+012.37A: ajYAtakulaSIlasya vAsaH deyaH na kasya cid .
+012.37P: kulaM ca SIlaM ca kulaSIlam . ajYAtaM kulaSIlaM yasya .
+
+012.38F: mArjArasya hi dozeRa hato gfDro jaradgavaH .. 56..
+012.38A: mArjArasya hi dozeRa hataH gfDraH jaradgavaH .. 56..
+
+012.39F: tAvAhatuH -- kaTametat .
+012.39A: tO AhatuH -- kaTam etat .
+
+012.40F: kAkaH kaTayati --
+012.40A: kAkaH kaTayati --
+
+012.42F: .. kaTA 3 ..
+012.42A: .. kaTA 3 ..
+
+012.43F: asti BAgIraTItIre gfDrakUwanAmni parvate mahAnparkawIvfkzaH .
+012.43A: asti BAgIraTItIre gfDrakUwanAmni parvate mahAn parkawIvfkzaH .
+
+012.44F: tasya koware dEvadurvipAkAt galitanaKanayano jaradgavanAmA
+012.44A: tasya koware dEvadurvipAkAt galitanaKanayanaH jaradgavanAmA
+012.44P: dEvadurvipAkAt -- duzwaH vipAkaH durvipAkaH dEvasya durvipAkastasmAt .
+012.44P+: galita -- naKA nayane ca naKanayanaM galitaM naKanayanaM yasya .
+012.44P++: potaH pAkoBekoqimBaH pfTukaH SAvakaH SiSuH . ityamaraH .
+
+012.45F: gfDraH prativasati . aTa kfpayA tajjIvanAya tadvfkzavAsinaH
+012.45A: gfDraH prativasati . aTa kfpayA tajjIvanAya tad vfkzavAsinaH
+
+012.46F: pakziRaH svAhArAtkiMcitkiMcidudDftya dadati . tenAsO jIvati .
+012.46A: pakziRaH svAhArAt kim cid kim cid udDftya dadati . tena asO jIvati .
+

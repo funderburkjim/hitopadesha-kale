@@ -1,0 +1,141 @@
+015.01F: anyacca . ayaM nijaH paro veti gaRanA laGucetasAm .
+015.01A: anyat ca . ayam nijaH paraH vA iti gaRanA laGucetasAm .
+
+015.02F: udAracaritAnAM tu vasuDEva kuwumbakam .. 71..
+015.02A: udAracaritAnAm tu vasuDA eva kuwumbakam .. 71..
+
+015.03F: yaTAyaM mfgo mama banDustaTA BavAnapi .
+015.03A: yaTA ayam mfgaH mama banDuH taTA BavAn api .
+
+015.04F: mfgo'bravIt -- kimanenottarottareRa .
+015.04A: mfgaH abravIt -- kim anena uttarottareRa .
+015.04P: uttarottareRa vAkkalahena .
+
+015.05F: sarvErekatra viSramBAlApEH suKiBiH sTIyatAm . yataH .
+; anuBavadBiH -> 3p of anuBavat, prap of anuBU
+015.05A: sarvEH ekatra viSramBAlApEH suKiBiH sTIyatAm . yataH .
+
+015.06F: na kaScitkasyacinmitraM na kaScitkasyacid ripuH .
+015.06A: na kaH cit kasya cid mitram na kaH cit kasya cid ripuH .
+
+015.07F: vyavahAreRa mitrARi jAyante ripavastaTA .. 72..
+015.07A: vyavahAreRa mitrARi jAyante ripavaH taTA .. 72..
+
+015.08F: kAkenoktam -- evamastu . aTa prAtaH sarve yaTABimatadeSaM gatAH .
+015.08A: kAkena uktam -- evam astu . aTa prAtaH sarve yaTA aBimatadeSam gatAH .
+
+015.09F: ekadA niBftaM SfgAlo brUte -- saKe  asminvanEkadeSe 
+015.09A: ekadA niBftam SfgAlaH brUte -- saKe asmin vanEkadeSe 
+015.09P: niBftaM -- rahasi .
+
+015.10F: sasyapUrRakzetramasti . tadahaM tvAM nItvA
+015.10A: sasyapUrRakzetram asti . tad aham tvAm nItvA
+
+015.11F: darSayAmi . taTA kfte sati sa mfgaH pratyahaM tatra gatvA sasyaM
+015.11A: darSayAmi . taTA kfte sati saH mfgaH pratyaham tatra gatvA sasyam
+
+015.12F: KAdati . aTa kzetrapatinA tad dfzwvA pASo 
+015.12A: KAdati . aTa kzetrapatinA tad dfzwvA pASaH
+
+015.13F: niyojitAH . anantaraM
+015.13A: niyojitAH . anantaram
+
+015.14F: punarAgato mfgaH pASErbadDo'cintayat -- ko
+015.14A: punar AgataH mfgaH pASEH badDaH acintayat -- kaH
+
+015.15F: mAmitaH kAlapASAdiva vyADapASAttrAtuM mitrAdanyaH samarTaH .
+015.15A: mAm itaH kAlapASAt iva vyADapASAt trAtum mitrAt anyaH samarTaH .
+
+015.16F: tatrAntare jambukastatrAgatyopasTito'cintayat -- PalitA 
+015.16A: tatra antare tatra jambukaH Agatya upasTitaH acintayat -- PalitA 
+015.16P: upasTitaH -- nikawasTaH .
+
+015.17F: tAvadasmAkaM kapawaprabanDena manoraTasidDiH .
+015.17A: tAvat asmAkam kapawaprabanDena manoraTasidDiH .
+015.17P: kapawaprabanDena -- kapawayuktiracanena .
+
+015.18F: etasyotkftyamAnasya mAMsAsfgliptAnyasTIni 
+015.18A: etasya utkftyamAnasya mAMsAsfgliptAni asTIni 
+
+015.19F: mayAvaSyaM prAptavyAni . tAni bAhulyena BojanAni
+015.19A: mayA avaSyam prAptavyAni . tAni bAhulyena BojanAni
+
+015.20F: Bavizyanti . mfgastaM dfzwvollasito brUte -- saKe
+015.20A: Bavizyanti . mfgaH tam dfzwvA ullasitaH brUte - saKe 
+015.20P: ullasitaH -- ullAsaM prAptaH harzitaH .
+
+015.21F: CinDi tAvanmama banDanam . satvaraM trAyasva mAm . yataH .
+015.21A: CinDi tAvat mama banDanam . satvaram trAyasva mAm . yataH .
+
+015.22F: Apatsu mitraM jAnIyAdyudDe SUramfRe Sucim .
+015.22A: Apatsu mitram jAnIyAt yudDe SUram fRe Sucim .
+015.22P: Sucim -- akuwilavyavahAraM , satyavAdinaM vA . 
+
+015.23F: BAryAM kzIRezu vittezu vyasanezu ca bAnDavAn .. 73..
+015.23A: BAryAm kzIRezu vittezu vyasanezu ca bAnDavAn .. 73..
+
+015.24F: aparaM ca . utsave vyasane cEva durBikze rAzwraviplave .
+015.24A: aparam ca . utsave vyasane ca eva durBikze rAzwraviplave .
+015.24P: rAzwraviplave -- rAzwrasya viplave vinASe rAzwrocCede .
+
+015.25F: rAjadvAre SmaSAne ca yastizWati sa bAnDavaH .. 74..
+015.25A: rAjadvAre SmaSAne ca yaH tizWati saH bAnDavaH .. 74..
+015.25P: tizWati -- yuktAsvavasTAsu samavfttireva sAhAyyakaraRe dakzaH tizWati . 
+
+015.26F: jambukaH muhurmuhuH pASaM vilokyAcintayat -- dfQastAvadayaM banDaH .
+015.26A: jambukaH muhur muhur pASam vilokya acintayat -- dfQaH tAvat ayam banDaH .
+
+015.27F: brUte ca -- saKe snAyunirmitA ete pASAH tadadya BawwArakavAre
+015.27A: brUte ca -- saKe snAyunirmitAH ete pASAH tad adya BawwArakavAre
+015.27P: BawwArakavAre -- ravivAsare .
+
+015.28F: kaTametAndantEH spfSAmi . mitra yadi citte nAnyaTA
+015.28A: kaTam etAn dantEH spfSAmi . mitra yadi citte na anyaTA
+
+015.29F: manyase tadA praBAte yattvayA vaktavyaM tatkartavyam . ityuktvA
+015.29A: manyase tadA praBAte yad tvayA vaktavyam tat kartavyam . iti uktvA
+015.29P: anyaTA manyase -- vikalpaM na gfhRAsi .
+
+; ityuktvA tatsamIpa AtmAnamAcCAdya sTitaH . anantaraM 
+015.30F: tatsamIpa AtmAnamAcCAdya sTitaH . anantaraM sa kAkaH pradozakAle mfgamanAgatamavalokyetastato'nvizya
+015.30A: tatsamipe AtmAnam AcCadya sTitaH. anantaram saH kAkaH pradozakAle mfgam anAgatam avalokya itastataH anvizya
+
+015.31F: taTAviDaM taM dfzwvovAca -- saKe kimetat . mfgeRoktam --
+015.31A: taTAviDam tam dfzwvA uvAca -- saKe kim etat . mfgeRa uktam --
+015.31P: taTA viDA daSA yasya tam .
+
+015.32F: avaDIritasuhfdvAkyasya Palametat . taTA coktam -
+015.32A: avaDIritasuhfdvAkyasya Palam etat . taTA ca uktam --
+015.32P: avaDIrita -- avaDIritaM tiraskftaM suhfdaH vAkyamupadeSaH iti yAvat tasya .
+
+015.33F: suhfdAM hitakAmAnAM yaH SfRoti na BAzitam .
+015.33A: suhfdAm hitakAmAnAm yaH SfRoti na BAzitam .
+
+015.34F: vipatsaMnihitA tasya sa naraH SatrunandanaH .. 75..
+015.34A: vipat saMnihitA tasya saH naraH SatrunandanaH .. 75..
+
+015.35F: kAko brUte -- sa vaYcakaH kvAste .
+015.35A: kAkaH brUte -- saH vaYcakaH kva Aste .
+
+015.36F: mfgeRoktaM -- manmAMsArTI tizWatyatrEva .
+015.36A: mfgeRa uktam -- manmAMsArTI tizWati atra eva .
+
+015.37F: kAko brUte -- uktameva mayA pUrvam .
+015.37A: kAkaH brUte -- uktam eva mayA pUrvam .
+
+015.38F: aparADo na me'stIti nEtadviSvAsakAraRam .
+015.38A: aparADaH na me asti iti na etad viSvAsakAraRam .
+
+015.39F: vidyate hi nfSaMseByo BayaM guRavatAmapi .. 76..
+; If 'SaMsa' means 'praise', why does 'nf-SaMsa' mean 'injuring men' (MW) ?
+015.39A: vidyate hi nfSaMseByaH Bayam guRavatAm api .. 76..
+015.39P: nfSaMseByaH -- GAtukeByaH krUreByaH .
+
+015.40F: dIpanirvARaganDaM ca suhfdvAkyamarunDatIm .
+015.40A: dIpanirvARaganDam ca suhfdvAkyam arunDatIm .
+015.40P: dIpa -- dIpasya nirvARaM jyotirlopaH tasya ganDaH .
+015.40P+: arunDatI -- tannAmnI alpA tArakA .
+
+015.41F: na jiGranti na SfRvanti na paSyanti gatAyuzaH .. 77..
+015.41A: na jiGranti na SfRvanti na paSyanti gatAyuzaH .. 77..
+

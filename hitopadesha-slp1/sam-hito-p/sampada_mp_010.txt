@@ -1,0 +1,137 @@
+010.01F: tatastezu cakzurvizayaAtikrAntezu pakzizu sa vyADo nivfttaH .
+010.01A: tataH tezu cakzuH vizayAtikrAntezu pakzizu saH vyADaH nivfttaH .
+10.01P: cakzurvizayA -- cakzuzorvizayaH taM atikrAntezu dfzwipaTamatItya gatezu .
+
+010.02F: aTa lubDakaM nivfttaM
+010.02A: aTa lubDakam nivfttam
+
+010.03F: dfzwvA kapotA UcuH --  kimidAnIM kartumucitam .
+010.03A: dfzwvA kapotAH UcuH --  kim idAnIm kartum ucitam .
+
+010.04F: citragrIva uvAca --
+010.04A: citragrIvaH uvAca --
+
+; tritayaM ?  print blurred.
+010.05F: mAtA mitraM pitA ceti svaBAvAt tritayaM hitam .
+010.05A: mAtA mitram pitA ca iti svaBAvAt tritayam hitam .
+
+010.06F: kAryakAraRataScAnye Bavanti hitabudDayaH .. 38..
+010.06A: kAryakAraRatas ca anye Bavanti hitabudDayaH .. 38..
+010.06P: kAryakAraRataH kAraRe satyeva kAryamiti niyamAt kapota -- kapotAnAM avapAtaH avarohaH tasmAt BayaM tasmAt .
+
+010.07F: tadasmAkam mitraM hiraRyako nAma mUzakarAjo
+010.07A: tad asmAkam mitram hiraRyakaH nAma mUzakarAjaH
+
+010.08F: gaRqakItIre citravane nivasati . so'smAkaM pASAMSCetsyati .
+010.08A: gaRqakItIre citravane nivasati . saH asmAkam pASAn Cetsyati.
+
+010.09F: ityAlocya sarve hiraRyakavivarasamIpaM gatAH . hiraRyakaSca
+010.09A: iti Alocya sarve hiraRyakavivarasamIpam gatAH . hiraRyakaH ca
+
+010.10F: sarvadApAyaSaNkayA SatadvAraM vivaraM kftvA nivasati .
+010.10A: sarvadA apAyaSaNkayA SatadvAram vivaram kftvA nivasati .
+
+010.11F:  tato hiraRyakaH kapotAvapAtaBayAccakitastUzRIM sTitaH .
+010.11A:  tataH hiraRyakaH kapotAvapAtaBayAt cakitaH tUzRIm sTitaH .
+
+010.12F: citragrIva uvAca -- saKe hiraRyaka kimasmAnna samBAzase .
+010.12A: citragrIvaH uvAca -- saKe hiraRyaka kim asmAn na samBAzase .
+
+010.13F: tato hiraRyakastadvacanaM pratyaBijYAya
+010.13A: tataH hiraRyakaH tad vacanam pratyaBijYAya
+010.13P: pratyaBijYAya -- sa eva mama paricitaH ayaM Sabda iti jYAtvA . 
+
+010.14F: sasamBramaM bahirniHsftyAbravIt --
+010.14A: sasamBramam bahiH niHsftya abravIt --
+010.14P: sasamBramaM satvaraM sammAnapUrvakaM ca . 'gfhamupagate saMBramaviDiH' iti BartfhariH .
+
+010.15F: AH puRyavAnasmi . priyasuhfnme citragrIvaH samAyAtaH .
+010.15A: AH puRyavAn asmi . priyasuhft me citragrIvaH samAyAtaH .
+
+010.16F: yasya mitreRa samBAzo yasya mitreRa saMsTitiH .
+010.16A: yasya mitreRa samBAzaH yasya mitreRa saMsTitiH .
+010.16P: saMBAzA -- AlApamAtram .
+
+010.17F: yasya mitreRa saMlApastato nAstIha puRyavAn .. 39..
+010.17A: yasya mitreRa saMlApaH tataH na asti iha puRyavAn .. 39..
+010.17P: saMlApaH -- anyonyaM prati BAzaRaM viSraMBAlApaH ityarTaH . 'saMlApo BAzaRaM miTaH' ityamaraH . 
+
+010.18F: pASabadDAMScEtAndfzwvA 
+010.18A: pASabadDAn ca etAn dfzwvA 
+
+010.19F: savismayaH kzaRaM sTitvovAca -- saKe kimetat .
+010.19A: savismayaH kzaRam sTitvA uvAca -- saKe kim etat .
+
+010.20F: citragrIvo'vadat --  
+010.20A: citragrIvaH avadat --
+
+; should prAktana be prAktena. NO. prAktana = 'former'
+010.21F: saKe asmAkaM prAktanajanmakarmaRaH Palametat .
+010.21A: saKe asmAkam prAktanajanmakarmaRaH Palam etat .
+010.21P: prAktana -- prAk BavaM prAktanaM , prAktanaM ca tat janma tasmin karma tasya .
+
+010.22F: yasmAcca yena ca yaTA ca yadA ca yacca
+010.22A: yasmAt ca yena ca yaTA ca yadA ca yad ca
+
+010.23F: yAvacca yatra ca SuBASuBamAtmakarma .
+010.23A: yAvat ca yatra ca SuBASuBam Atmakarma .
+
+010.24F: tasmAcca tena ca taTA ca tadA ca tacca
+010.24A: tasmAt ca tena ca taTA ca tadA ca tad ca
+
+010.25F: tAvacca tatra ca viDAtfvaSAdupEti .. 40..
+010.25A: tAvat ca tatra ca viDAtfvaSAt upEti .. 40..
+
+010.26F: rogaSokaparItApabanDanavyasanAni ca .
+010.26A: rogaSokaparItApabanDanavyasanAni ca .
+010.26P: parItApaH -- sarvataH saMtApaH pIqA . upasargasya GaYyamanuzye bahulaM iti upasarge akArasya dIrGaH .. 
+
+010.27F: AtmAparADavfkzARAM PalAnyetAni dehinAm .. 41..
+010.27A: AtmAparADavfkzARAm PalAni etAni dehinAm .. 41..
+
+010.28F: etacCrutvA hiraRyakaScitragrIvasya banDanaM CettuM
+010.28A: etad SrutvA hiraRyakaH citragrIvasya banDanam Cettum
+
+010.29F: satvaramupasarpati . citragrIva uvAca -- mitra . mA mEvaM .
+010.29A: satvaram upasarpati . citragrIvaH uvAca -- mitra . mA mA evaM .
+
+010.30F: asmadASritAnAmetezAM tAvatpASAMSCinDi tadA mama
+; 10-6-2018. changed 'CinDi' to 'CindDi' (per MW spelling)
+010.30A: asmadASritAnAm etezAm tAvat pASAn CindDi . mama
+010.30P: asmadA -- mAM ASritAH asmadASritAH tezAm .
+
+010.31F: pASaM paScAcCetsyasi .
+010.31A: pASam paScAt Cetsyasi .
+
+010.32F: hiraRyako'pyAha -- ahamalpaSaktiH . dantASca me komalAH . tad
+010.32A: hiraRyakaH api Aha -- aham alpaSaktiH . dantAH ca me komalAH . 
+
+010.33F: tadetezAM pASAMSCettuM kaTaM samarTaH . tadyAvanme dantA
+010.33A: tad etezAm pASAn Cettum kaTam samarTaH . tad yAvat me dantAH
+
+010.34F: na truwyanti tAvattava pASaM Cinadmi . tadanantaramezAmapi
+010.34A: na truwyanti tAvat tava pASam Cinadmi . tad anantaram ezAm api 
+010.34P: tAvat -- praTamam . AtmaparityAgena svaprARAn saMSaye nikzipyetyarTaH .
+
+010.35F: banDanaM yAvacCakyaM CetsyAmi . citragrIva uvAca --
+010.35A: banDanam yAvat Sakyam CetsyAmi . citragrIvaH uvAca --
+
+010.36F: astvevam . taTApi yaTASaktyezAM banDanaM KaRqaya .
+010.36A: astu evam . taTA api yaTASakti etezAm banDanam KaRqaya .
+
+010.37F: hiraRyakenoktam -- AtmaparityAgena
+010.37A: hiraRyakena uktam - AtmaparityAgena
+
+010.38F: yadASritAnAM parirakzaRaM tanna nItividAM saMmatam . yataH .
+010.38A: yadA ASritAnAm parirakzaRam tad na nItividAm saMmatam . yataH .
+
+; DanEH (3p): Unusual syntax. Kale: 'at the expense of wealth'. Similarly 'dArEH'
+010.39F: ApadarTaM DanaM rakzeddArAnrakzedDanErapi .
+010.39A: ApadarTam Danam rakzet dArAn rakzet DanEH api .
+010.39P: ApadarTamiti -- ApadarTamApatpratIkArArTam . rakzet saMgfhRIyAt .
+010.39P : dArAnsvaBAryAm . ma.smf. 7.213. ma.BA.u.pa.37.18.
+010.39P+: kiM na hataM sarvameva hataM vinASitamiti yAvat .
+
+010.40F: AtmAnaM satataM rakzeddArErapi DanErapi .. 42..
+010.40A: AtmAnam satatam rakzet dArEH api DanEH api .. 42..
+

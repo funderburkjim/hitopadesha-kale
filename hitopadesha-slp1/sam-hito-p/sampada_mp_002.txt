@@ -1,0 +1,98 @@
+002.01F: mitralABaH suhfdBedo vigrahaH saMDireva ca .
+002.01A: mitralABaH suhfdBedaH vigrahaH saMDiH eva ca .
+
+002.02F: paYcatantrAttaTAnyasmAdgranTAdAkfzya liKyate .. 9..
+002.02A: paYcatantrAt taTA anyasmAt granTAt Akfzya liKyate .. 9..
+
+002.03F: asti BAgIraTItIre pAwaliputranAmaDeyaM nagaram . tatra
+002.03A: asti BAgIraTItIre pAwaliputranAmaDeyam nagaram . tatra sarvasvAmiguRopetaH sudarSano
+002.03P: sarvasvAmi -- svAminaH guRAH svAmiguRAH . sarve ca te svAmiguRASca (karma) tEH upetaH .
+002.03P+: (tf. ta.) sudarSanaH -- SoBanaM darSanaM yasya (bahu.) .
+
+002.04F: nAma narapatirAsIt . sa BUpatirekadA kenApi pAWyamAnaM SlokadvayaM SuSrAva --
+002.04A: nAma narapatiH AsIt . saH BUpatiH ekadA kena api pAWyamAnam Slokadvayam SuSrAva --
+
+002.05F: anekasaMSayocCedi parokzArTasya darSakam .
+002.05A: anekasaMSayocCedi parokzArTasya darSakam .
+002.05P: anekasaM -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
+002.05P+: parokzArTasya -- akzRoH paraH parokzaH tasya .
+
+002.06F: sarvasya locanaM SAstraM yasya nAstyanDa eva saH .. 10..
+002.06A: sarvasya locanam SAstram yasya na asti anDaH eva saH .. 10..
+
+002.07F: yOvanaM DanasampattiH praButvamavivekitA .
+002.07A: yOvanam DanasampattiH praButvam avivekitA .
+002.07P: yOvaneti -- vayorUpaviBUtInAmekEkaM madakAraRam . iti samAnArTaH SlokAMSaH raGuvaMSe (sa. 17. Slo 13.)
+
+002.08F: ekEkamapyanarTAya kim yatra catuzwayam .. 11..
+002.08A: ekEkam api anarTAya kim yatra catuzwayam .. 11..
+
+002.09F: ityAkarRyAtmanaH putrARAmanaDigataSAstrARAM nityamunmArgagAminAM
+002.09A: iti AkarRya AtmanaH putrARAm anaDigataSAstrARAm nityam unmArgagAminAM
+002.09P: anaDigata -- anaDigatAni anaDItAni SAstrARi yEH . 
+002.09P+: unmArgagAminAM -- udgataH mArgaH unmArgaH tena gantuM SIlaM yezAM .
+
+002.10F: SAstrAnanuzWAnenodvignamanAH sa rAjA cintayAmAsa .
+002.10A: SAstrAnanuzWAnena udvignamanAH saH rAjA cintayAmAsa .
+002.10P: SAstrAnanuzWAnena -- SAstrasya ananuzWAnaM SAstrAdYollaMGanaM tena svEravartanena iti yAvat .
+
+002.11F: ko'rTaH putreRa jAtena yo na vidvAn na DArmikaH .
+002.11A: kaH arTaH putreRa jAtena yaH na vidvAn na DArmikaH .
+
+002.12F: kARena cakzuzA kiMvA cakzuHpIqEva kevalam .. 12..
+002.12A: kARena cakzuzA kim vA cakzuH pIqA eva kevalam .. 12..
+
+002.13F: ajAtamftamUrKARAM varamAdyO na cAntimaH .
+002.13A: ajAtamftamUrKARAm varam AdyO na ca antimaH .
+
+002.14F: sakfdduHKakarAvAdyAvantimastu pade pade .. 13..
+002.14A: sakft duHKakarO AdyO antimaH tu pade pade .. 13..
+002.14P: sakfddekavAram .
+
+002.15F: kiM ca . sa jAto yena jAtena yAti vaMSaH samunnatim .
+002.15A: saH jAtaH yena jAtena yAti vaMSaH samunnatim .
+
+002.16F: parivartini saMsAre mftaH ko vA na jAyate .. 14..
+002.16A: parivartini saMsAre mftaH kaH vA na jAyate .. 14..
+
+; Kale translates kaWinI as 'little finger'? MW 'chalk'
+002.17F: guRigaRagaRanAramBe na patati kaWinI susamBramAdyasya .
+002.17A: guRigaRagaRanAramBe na patati kaWinI susamBramAt yasya .
+002.17P: guRigaRagaRanAramBe yasya [putrasya kfte] 
+002.17P+: kaWinI susaMBramAt na patati 
+
+002.18F: tenAmbA yadi sutinI vada vanDyA kIdfSI nAma .. 15..
+002.18A: tena ambA yadi sutinI vada vanDyA kIdfSI nAma .. 15..
+002.18P+: tena putreRa yadi ambA tajjananI sutinI praSastaputravatI Bavet
+002.18P++: tarhi vaMDyA kIdfSI nAma Bavet iti SezaH .
+002.18P+++: yasyAH putraH guRinAM na DurIRaH sA vaMDyA eva iti BAvaH .
+
+002.19F: dAne tapasi SOrye ca yasya na praTitaM yaSaH .
+002.19A: dAne tapasi SOrye ca yasya na praTitam yaSaH .
+
+002.20F: vidyAyAmarTalABe ca mAturuccAra eva saH .. 16..
+002.20A: vidyAyAm arTalABe ca mAtuH uccAraH eva saH .. 16..
+
+002.21F: aparaM ca . varameko guRI putro na ca mUrKaSatAnyapi .
+002.21A: aparaM ca . varam ekaH guRI putraH na ca mUrKaSatAni api .
+
+002.22F: ekaScandrastamo hanti na ca tArAgaRo'api .. 17..
+002.22A: ekaH candraH tamaH hanti na ca tArAgaRaH api .. 17..
+
+002.23F: puRyatIrTe kftaM yena tapaH kvApyatiduzkaram .
+002.23A: puRyatIrTe kftam yena tapaH kva api atiduzkaram .
+002.23P: puRyatIrTe -- puRyaM ca tat tIrTaM ca tasmin . karma .
+
+002.24F: tasya putro BavedvaSyaH samfdDo DArmikaH suDIH .. 18..
+002.24A: tasya putraH Bavet vaSyaH samfdDaH DArmikaH suDIH .. 18..
+
+002.25F: arTAgamo nityamarogitA ca priyA ca BAryA priyavAdinI ca .
+002.25A: arTAgamaH nityam arogitA ca priyA ca BAryA priyavAdinI ca .
+002.25P: arTasya AgamaH prAptiH .
+002.25P+: priyA BarturaBimatA . 
+002.25P++: tena BarturanurAgitA tftIyaM suKam .
+002.25P+++: priyavAdinI BAryA caturTaM suKam . ma. BA. u. 33.82
+
+002.26F: vaSyaSca putro'rTakarI ca vidyA zaq jIvalokasya suKAni rAjan .. 19..
+002.26A: vaSyaH ca putraH arTakarI ca vidyA zaq jIvalokasya suKAni rAjan .. 19..
+

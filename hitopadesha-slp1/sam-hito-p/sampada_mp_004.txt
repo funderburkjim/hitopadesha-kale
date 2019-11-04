@@ -1,0 +1,106 @@
+004.01F: yaTA hyekena cakreRa na raTasya gatirBavet .
+004.01A: yaTA hi ekena cakreRa na raTasya gatiH Bavet .
+
+004.02F: evaM puruzakAreRa vinA dEvaM na sidDyati .. 32..
+004.02A: evaM puruzakAreRa vinA dEvam na sidDyati .. 32..
+
+004.03F: taTA ca . pUrvajanmakftaM karma taddEvamiti kaTyate .
+004.03A: taTA ca . pUrvajanmakftam karma tad dEvam iti kaTyate .
+
+004.04F: tasmAt puruzakAreRa yatnaM kuryAdatandritaH .. 33..
+004.04A: tasmAt puruzakAreRa yatnam kuryAt atandritaH .. 33..
+004.04P: atandritaH -- tandrA asya saMjAtA asO tandritaH na tandritaH atandritaH .
+
+004.05F: yaTA mftpiRqataH kartA kurute yadyadicCati .
+004.05A: yaTA mftpiRqatas kartA kurute yad yad icCati .
+004.05P: kartA kulAlaH .
+
+004.06F: evamAtmakftaM karma mAnavaH pratipadyate .. 34..
+004.06A: evam Atmakftam karma mAnavaH pratipadyate .. 34..
+004.06P: AtmakftaM karma -- karmaPalaM iti yAvat . 
+
+; kAkatAlIyavat "as in the fable of the crow and the palm-fruit, unexpectedly" (MW)
+004.07F: kAkatAlIyavatprAptaM dfzwvApi niDimagrataH .
+004.07A: kAkatAlIyavat prAptam dfzwvA api niDim agrataH .
+004.07P: kAkatalIyavat -- akasmAt . kAkAgamanamiva tAlapatanamiva kAkatAlam .
+004.07P+: samAsAcca tadvizayAditi ivArTe CaH . pA. 5.3.106.
+
+004.08F: na svayaM dEvamAdatte puruzArTamapekzate .. 35 ..
+004.08A: na svayam dEvam Adatte puruzArTam apekzate .. 35 ..
+
+004.09F: udyamena hi siDyanti kAryARi na manoraTEH .
+004.09A: udyamena hi siDyanti kAryARi na manoraTEH .
+
+004.10F: nahi suptasya siMhasya praviSanti muKe mfgAH .. 36..
+004.10A: na hi suptasya siMhasya praviSanti muKe mfgAH .. 36..
+
+004.11F: mAtApitfkrtAByAso guRitAMeti bAlakaH . 
+004.11A: mAtApitfkrtAByAsaH guRitAm eti bAlakaH . 
+004.11P: mAtrA pitrA ca kftaH aByAsaH yasya . 
+
+004.12F: na garBacyutimAtreRa putro Bavati paRqitaH .. 37 ..
+004.12A: na garBacyutimAtreRa putraH Bavati paRqitaH .. 37 ..
+
+004.13F: mAtA SatruH pitA vErI yena bAlo na pAWitaH .
+004.13A: mAtA SatruH pitA vErI yena bAlaH na pAWitaH .
+
+004.14F: na SoBate saBAmaDye haMsamaDye bako yaTA .. 38..
+004.14A: na SoBate saBAmaDye haMsamaDye bakaH yaTA .. 38..
+
+004.15F: rUpayOvanasampannA viSAlakulasamBavAH .
+004.15A: rUpayOvanasampannAH viSAlakulasamBavAH .
+004.15P: rUpaM ca yOvanaM ca tAByAM saMpannaH .
+
+004.16F: vidyAhInA na SoBante nirganDA iva kiMSukAH .. 39..
+004.16A: vidyAhInAH na SoBante nirganDAH iva kiMSukAH .. 39..
+004.16P: kiMSukAH palASapuzpARi .
+
+004.17F: mUrKo'pi SoBate tAvatsaBAyAM vastravezwitaH .
+004.17A: mUrKaH api SoBate tAvat saBAyAm vastravezwitaH .
+
+004.18F: tavacca Sobate mUrKo yAvatkiMcinna BAzate .. 40 ..
+004.18A: tavat ca Sobate mUrKaH yAvat kim cid na BAzate .. 40 ..
+
+004.19F: etaccintayitvA sa rAjA paRqitasaBAM kAritavAn . rAjovAca Bo BoH paRqitAH .
+004.19A: etad cintayitvA saH rAjA paRqitasaBAm kAritavAn . rAjA uvAca BoH BoH paRqitAH .
+
+004.20F: SrUyatAM .  asti kaScidevamBUto vidvAnyo mama putrARAM nityamunmArgagAminAmanaDigataSAstrARAmidAnIM
+; line break: ... gAminAmana-
+004.20A: SrUyatAm . asti kaH cid evam BUtaH vidvAn yaH mama putrARAm nityam unmArgagAminAm anaDigataSAstrARAm idAnIm
+
+004.21F: nItiSAstropadeSena punarjanma kArayituM samarTaH . yataH .
+004.21A: nItiSAstropadeSena punarjanma kArayitum samarTaH . yataH .
+
+004.22F: kAcaH kAYcanasaMsargAdDatte mArakatIM dyutiM .
+004.22A: kAcaH kAYcanasaMsargAt Datte mArakatIm dyutim .
+004.22P: mArakatIM -- marakatasya iyaM mArakatItAm . 
+
+004.23F: taTA satsaMniDAnena mUrKo yAti pravIRatAm .. 41..
+004.23A: taTA satsaMniDAnena mUrKaH yAti pravIRatAm .. 41..
+
+004.24F: uktaM ca . hIyate hi matistAta hInEH saha samAgamAt .
+004.24A: uktam ca . hIyate hi matiH tAta hInEH saha samAgamAt .
+
+004.25F: samESca samatAmeti viSizwESca viSizwatAm .. 42..
+; Kale typo: viSizwEca -> viSizwESca
+004.25A: samEH ca samatAm eti viSizwEH ca viSizwatAm .. 42..
+
+004.26F: atrAntare vizRuSarmanAmA mahApaRqitaH sakalanItiSAstratattvajYo bfhaspatirivAbravIt --
+004.26A: atra antare vizRuSarmanAmA mahApaRqitaH sakalanItiSAstratattvajYaH bfhaspatiH iva abravIt --
+004.26P: sakalAni -- sakalasya vA nItiSAstrasya tatvAni jAnAtIti .
+
+004.27F: deva mahAkulasamBUtA ete rAjaputrAH . tanmayA nItiM grAhayituM Sakyante . yataH .
+004.27A: deva mahAkulasamBUtAH ete rAjaputrAH . tat mayA nItim grAhayitum Sakyante . yataH .
+
+004.28F: nAdravye nihitA kAcitkriyA PalavatI Bavet .
+004.28A: na adravye nihitA kA cid kriyA PalavatI Bavet .
+
+004.29F: na vyApAraSatenApi SukavatpAWyate bakaH .. 43..
+004.29A: na vyApAraSatena api Sukavat pAWyate bakaH .. 43..
+
+004.30F: anyacca . asmiMstu nirguRaM gotre nApatyamupajAyate .
+004.30A: anyat ca . asmin tu nirguRam gotre na apatyam upajAyate .
+
+004.31F: Akare padmarAgAnAM janma kAcamaReH kutaH .. 44..
+004.31A: Akare padmarAgAnAm janma kAcamaReH kutaH .. 44..
+

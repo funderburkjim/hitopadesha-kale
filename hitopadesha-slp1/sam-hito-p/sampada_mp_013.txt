@@ -1,0 +1,110 @@
+013.01F: SAvakAnAM rakzaRaM karoti . aTa kadAciddIrGakarRanAmA 
+013.01A: SAvakAnAm rakzaRam karoti . aTa kadA cid dIrGakarRanAmA 
+
+013.02F: mArjAraH pakziSAvakAnBakzayituM tatrAgataH .
+013.02A: mArjAraH pakziSAvakAn Bakzayitum tatra AgataH .
+
+013.03F: tatastamAyAntaM dfzwvA pakziSAvakErBayArtEH kolAhalaH kftaH .
+013.03A: tataH tam AyAntam dfzwvA pakziSAvakEH BayArtEH kolAhalaH kftaH .
+013.03P: BayArtEH -- BayapIqitEH .
+013.03P+: kolAhalaH -- kalakalaH .
+
+013.04F: tacCrutvA jaradgavenoktam -- ko'yamAyAti . dIrGakarRo
+013.04A: tad SrutvA jaradgavena uktam -- kaH ayam AyAti . dIrGakarRaH
+
+013.05F: gfDramavalokya saBayamAha -- hA hato'smi . yataH .
+013.05A: gfDram avalokya saBayam Aha -- hA hataH asmi . yataH .
+
+013.06F: tAvadBayasya BetavyaM yAvadBayamanAgatam .
+013.06A: tAvat Bayasya Betavyam yAvat Bayam anAgatam .
+
+013.07F: AgataM tu BayaM vIkzya naraH kuryAdyaTocitam .. 57..
+013.07A: Agatam tu Bayam vIkzya naraH kuryAt yaTA ucitam .. 57..
+
+013.08F: aDunAsya saMniDAne  palAyitumakzamaH . tadyaTA BavitavyaM 
+013.08A: aDunA asya saMniDAne palAyitum akzamaH . tad yaTA Bavitavyam 
+
+013.09F: tadBavatu . tAvadviSvAsamutpAdyAsya samIpamupagacCAmi . 
+013.09A: tad Bavatu . tAvat viSvAsam utpAdya asya samIpam upagacCAmi . 
+
+013.10F: ItyAlocyopasftyAbravIt -- Arya tvAmaBivande .
+013.10A: iti Alocya upasftya abravIt -- Arya tvAm aBivande .
+
+013.11F: gfDro'vadat -- kastvam .
+013.11A: gfDraH avadat -- kaH tvam .
+
+013.12F: so'vadat -- mArjAro'ham .
+013.12A: saH avadat -- mArjAraH aham .
+
+013.13F: gfDro brUte -- dUramapasara . no cedDantavyo'si mayA .
+013.13A: gfDraH brUte -- dUram apasara . no ced hantavyaH asi mayA .
+
+013.14F: mArjAro'vadat -- SrUyatAM
+013.14A: mArjAraH avadat -- SrUyatAm
+
+013.15F: tAvadasmadvacanam . tato yadyahaM vaDyastadA hantavyaH . yataH .
+013.15A: tAvat asmadvacanam . tataH yadi aham vaDyaH tadA hantavyaH . yataH .
+
+013.16F: jAtimAtreRa kiM kaScidDanyate pUjyate kvacit .
+013.16A: jAtimAtreRa kim kaH cid hanyate pUjyate kva cid .
+
+013.17F: vyavahAraM parijYAya vaDyaH pUjyo'TavA Bavet .. 58..
+013.17A: vyavahAram parijYAya vaDyaH pUjyaH aTavA Bavet .. 58..
+
+013.18F: gfDro brUte -- brUhi kimarTamAgato'si .
+013.18A: gfDraH brUte -- brUhi kim arTam AgataH asi .
+
+013.19F: so'vadat -- ahamatra gaNgAtIre nityasnAyI
+013.19A: saH avadat -- aham atra gaNgAtIre nityasnAyI
+013.19P: nityasnAyI -- nityaM snAtuM SIlamasya .
+
+013.20F: brahmacArI cAndrAyaRavratamAcaraMstizWAmi . yUyaM
+013.20A: brahmacArI cAndrAyaRavratam Acaran tizWAmi . yUyam
+013.20P: cAndrAyaRavratam -- candrasya ayanaM iva ayanaM yasmin .
+013.20P+: etallakzaRamuktaM vasizWena -- mAsasya kfzRapakzAdO grAsAnadyAccaturdaSa . grAsopacayaBojI syAtpakzaSezaM samApayet . atrEva gAyetsAmAni api vA vyAhftIrjapet . eza cAndrAyaRo mAsaH pavitramfzisaMstutaH . anAdizwezu sarvezu prAyaScittaM viDIyate . ekEkaM varDayetpiRqaM Sukle kfzRe ca hrAsayet . amAvAsyAM na BuYjIta evaM cAndrAyaRo viDiH . ekEkaM hrAsayet piRqaM kfzRe Sukle ca varDayet . upaspfSaMstrizavaRametaccAndrAyaRaM smftam . iti manuSca (11.216) .
+
+013.21F: DarmajYAnaratA iti viSvAsaBUmayaH pakziRaH sarve
+013.21A: DarmajYAnaratAH iti viSvAsaBUmayaH pakziRaH sarve
+013.21P: viSvAsaBUmayaH -- viSvAsaBAjanAni SradDeyavacasaH ityarTaH . 
+
+013.22F: sarvadA mamAgre prastuvanti . ato BavadByo vidyAvayovfdDeByo
+013.22A: sarvadA mama agre prastuvanti . ataH BavadByaH vidyAvayovfdDeByaH
+
+013.23F: DarmaM SrotumihAgataH . BavantaScEtAdfSA DarmajYAH
+013.23A: Darmam Srotum iha AgataH . BavantaH ca etAdfSAH DarmajYAH
+
+013.24F: yanmAmatiTiM hantumudyatAH . gfhasTaDarmaScEzaH  
+013.24A: yad mAm atiTim hantum udyatAH . gfhasTaDarmaH ca ezaH  
+013.24P: atiTaye idaM AtiTyamatiTisatkArAdikam .
+
+013.25F: arAvapyucitaM kAryamAtiTyaM gfhamAgate .
+013.25A: arO api ucitam kAryam AtiTyam gfham Agate .
+
+013.26F: CettuH pArSvagatAM CAyAM nopasaMharate drumaH .. 59..
+013.26A: CettuH pArSvagatAm CAyAm na upasaMharate drumaH .. 59..
+
+013.27F: yadi vA DanaM nAsti tadA prItivacasApyatiTiH pUjya eva . yataH .
+013.27A: yadi vA Danam na asti tadA prItivacasA api atiTiH pUjyaH eva . yataH .
+013.28F: tfRAni BUmirudakaM vAk caturTI ca sUnftA .
+
+013.28A: tfRAni BUmiH udakam vAk caturTI ca sUnftA .
+013.28P: tfRAni tfRanirmitamAsanAdi .
+013.28P+: sUnftA -- satyA priyA ca . sUnftaM priye . satye ityamaraH .
+
+013.29F: etAnyapi satAM gehe nocCidyante kadAcana .. 60..
+013.29A: etAni api satAm gehe na ucCidyante kadA cana .. 60..
+013.29P: nocCidyante sadEva saMnihitAnItyarTaH .
+
+013.30F: aparaM ca . nirguRezvapi sattvezu dayAM kurvanti sADavaH .
+013.30A: aparam ca . nirguRezu api sattvezu dayAm kurvanti sADavaH .
+
+013.31F: na hi saMharate jyotsnAM candraScARqAlaveSmanaH .. 61..
+013.31A: na hi saMharate jyotsnAm candraH cARqAlaveSmanaH .. 61..
+
+013.32F: anyacca . gururagnirdvijAtInAM varRAnAM brAhmaRo guruH .
+013.32A: anyat ca . guruH agniH dvijAtInAm varRAnAm brAhmaRaH guruH .
+013.32P: guruH pUjyaH . 
+
+013.33F: patireko guruH strIRAM sarvatrAByAgato guruH .. 62 ..
+013.33A: patiH ekaH guruH strIRAm sarvatra aByAgataH guruH .. 62 ..
+

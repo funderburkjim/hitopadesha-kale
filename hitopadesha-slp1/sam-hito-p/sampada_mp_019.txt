@@ -1,0 +1,118 @@
+019.01F: vAyaso'vadat -- saKe manTara saviSezapUjAmasmE viDehi . yato'yaM puRyakarmaRAM DurIRaH 
+; viDehi = imp. 2s of vi-DA
+019.01A: vAyasaH avadat -- saKe manTara saviSezapUjAm asmE viDehi . yataH ayam puRyakarmaRAm DurIRaH 
+019.01P: DurIRaH -- DuraM vahati arhatIti vA .
+
+019.02F: kAruRyaratnAkaro hiraRyakanAmA mUzikarAjaH . etasya guRastutiM jihvAsahasradvayenApi 
+019.02A: kAruRyaratnAkaraH hiraRyakanAmA mUzikarAjaH . etasya guRastutim jihvAsahasradvayena api 
+
+019.03F: sarparAjo na kadAcit kaTayituM samarTaH syAt . ityuktvA citragrIvopAKyAnaM varRitavAn . 
+019.03A: sarparAjaH na kadA cid kaTayitum samarTaH syAt . iti uktvA citragrIvopAKyAnam varRitavAn . 
+
+019.04F: manTaraH sAdaraM hiraRyakaM saMpUjyAha -- Badra Atmano nirjanavanAgamanakAraRamAKyAtumarhasi .
+019.04A: manTaraH sAdaram hiraRyakam saMpUjya Aha -- Badra Atmano nirjanavanAgamanakAraRam AKyAtum arhasi .
+
+019.05F: hiraRyako'vadat -- kaTayAmi . SrUyatAm .
+019.05A: hiraRyakaH avadat -- kaTayAmi . SrUyatAm .
+
+019.06F: .. kaTA 4 ..
+019.06A: .. kaTA 4 ..
+
+019.07F: asti campakABiDAnAyAM nagaryAM parivrAjakAvasaTaH . tatra cUqAkarRo nAma parivrAw 
+019.07A: asti campakABiDAnAyAm nagaryAm parivrAjakAvasaTaH . tatra cUqAkarRaH nAma parivrAw 
+019.07P: AvasaTaH -- Ayatanam .
+
+019.08F: prativasati . sa ca BojanAvaSizwaBikzAnnasahitaM BikzApAtraM nAgadantake'vasTApya svapiti .
+019.08A: prativasati . saH ca BojanAvaSizwaBikzAnnasahitam BikzApAtram nAgadantake avasTApya svapiti .
+019.08P: nAgadantaH -- BArayazwirBityAdO nihitaH hastidantaH kAzWaviSezo vA .
+
+019.09F: ahaM ca tad annamutplutya pratyahaM BakzayAmi . anantaraM tasya priyasuhfdvIRAkarRo 
+019.09A: aham ca tad annam utplutya pratyaham BakzayAmi . anantaram tasya priyasuhfd vIRAkarRaH 
+
+019.10F: nAma parivrAjakaH samAyAtaH . tena saha kaTAprasaNgAvasTito mama trAsArTaM jarjaravaMSaKaRqena
+019.10A: nAma parivrAjakaH samAyAtaH . tena saha kaTAprasaNgAvasTitaH mama trAsArTam jarjaravaMSaKaRqena
+
+019.11F: cUqAkarRo BUmimatAqayat . vIRAkarRa uvAca -- saKe kimiti mama 
+019.11A: cUqAkarRaH BUmim atAqayat . vIRAkarRaH uvAca -- saKe kim iti mama 
+
+019.12F: kaTAvirakto'nyAsakto BavAn . cUqAkarRenoktam -- Badra nAhaM viraktaH . kiMtu paSyAyaM 
+019.12A: kaTAviraktaH anyAsaktaH BavAn . cUqAkarRena uktam -- Badra na aham viraktaH . kim tu paSya ayam 
+
+019.13F: mUziko mamApakArI sadA pAtrasTaM BikzAnnamutplutya Bakzayati . vIRAkarRo nAgadantakaM 
+019.13A: mUzikaH mama apakArI sadA pAtrasTam BikzAnnam utplutya Bakzayati . vIRAkarRaH nAgadantakam 
+
+019.14F: vilokyAha -- kaTamayaM mUzikaH svalpabalo'pyetAvaddUramutpatati . tadatra kenApi 
+019.14A: vilokya Aha -- kaTam ayam mUzikaH svalpabalaH api etAvat dUram utpatati . tad atra kena api 
+
+019.15F:  kAraRena Bavitavyam . taTA coktam --
+019.15A:  kAraRena Bavitavyam . taTA ca uktam -- 
+
+;  include here temp_hitokale_missing_01_sam1.txt
+019.16F: akasmAdyuvatI vfdDaM keSezvAkfzya cumbati .
+019.16A: akasmAt yuvatI vfdDam keSezu Akfzya cumbati .
+
+019.17F: patiM nirdayamAliNgya heturatra Bavizyati .. 109 ..
+019.17A: patim nirdayam AliNgya hetuH atra Bavizyati .. 109 ..
+019.17P: nirdayam dfQam .
+
+019.18F: cUqAkarRaH pfcCati -- kaTametat . vIRAkarRaH kaTayati --
+019.18A: cUqAkarRaH pfcCati -- kaTam etat . vIRAkarRaH kaTayati --
+
+019.19F: .. kaTA 5 ..
+019.19A: .. kaTA 5 ..
+
+019.20F: asti gOqavizaye kOSAmbI nAma nagarI . tasyAM candanadAsanAmA vaRigmahADano
+019.20A: asti gOqavizaye kOSAmbI nAma nagarI . tasyAm candanadAsanAmA vaRik mahADanaH
+
+019.21F: nivasati . tena paScime vayasi vartamAnena kAmADizWitacetasA DanadarpAllIlAvatI
+019.21A: nivasati . tena paScime vayasi vartamAnena kAmADizWitacetasA DanadarpAt lIlAvatI
+019.21P: kAmena aDizWitaM cetaH yasya tena .
+
+019.22F: nAma vaRikputrI pariRitA . sA ca makaraketorvijayavEjayantIva yOvanavatI baBUva .
+019.22A: nAma vaRikputrI pariRitA . sA ca makaraketoH vijayavEjayantI iva yOvanavatI baBUva .
+019.22P: makaraketoH kAmasya .
+019.22P+ : vijayasya vEjayantIvijayapatAkA .
+
+019.23F: sa ca vfdDapatistasyAH saMtozAya nABavat . yataH . 
+019.23A: saH ca vfdDapatiH tasyAH saMtozAya na aBavat . yataH . 
+
+019.24F: SaSinIva himArtanAM GarmArtAnAM ravAviva .
+019.24A: SaSinI iva himArtanAm GarmArtAnAm ravO iva .
+019.24P: himena -- SItenArtAnAM pIqitAnAM . 
+
+019.25F: mano na ramate strIRAM jarAjIrRendriye patO .. 110 ..
+019.25A: manaH na ramate strIRAM jarAjIrRendriye patO .. 110 ..
+019.25P: patO -- apaprayoga Arzo vA patyO ityeva sADuH .
+
+019.26F: anyacca .. palitezvapi dfzwezu puMsaH kA nAma kAmitA .
+019.26A: anyat ca .. palitezu api dfzwezu puMsaH kA nAma kAmitA .
+019.26P: palitezu dfzwezu palitaM jarasA SOklyaM ityamaraH . jarayA SuklIkftezu keSezu .
+
+019.27F: BEzajyamiva manyante yadanyamanasaH striyaH .. 111 ..
+019.27A: BEzajyam iva manyante yadanyamanasaH striyaH .. 111 ..
+019.27P: BEzajyamOzaDamiva udvegajanakatvAt .
+
+019.28F: sa ca vfdDapatistayAmatIvAnurAgavAn . yataH .
+019.28A: saH ca vfdDapatiH tayAm atIva anurAgavAn . yataH .
+
+019.29F: DanASA jIvitASA ca gurvI prARaBftAM sadA . 
+019.29A: DanASA jIvitASA ca gurvI prARaBftAm sadA . 
+
+019.30F: vfdDasya taruRI BAryA prAReByo'pi garIyasI .. 112 ..
+019.30A: vfdDasya taruRI BAryA prAReByaH api garIyasI .. 112 ..
+
+019.31F: nopaBoktuM na ca tyaktuM Saknoti vizayAjarI . 
+; vizayAjarI: how to parse?  jarI nom. sing. jarin (aged, old)
+019.31A: na upaBoktum na ca tyaktum Saknoti vizayAjarI . 
+
+019.32F: asTi nirdaSanaH Sveva jihvayA leQi kevalaM .. 113 ..
+019.32A: asTi nirdaSanaH SvA iva jihvayA leQi kevalam .. 113 ..
+
+019.33F: aTa sA lIlAvatI yOvanadarpAdatikrAntakulamaryAdA kenApi vaRikputreRa 
+019.33A: aTa sA lIlAvatI yOvanadarpAt atikrAntakulamaryAdA kena api vaRikputreRa 
+019.33P : ati -- atikrAntA kulamaryAdA kulasTItiH yayA .
+
+; Kale typo: basUva -> baBUva
+019.34F: sahAnurAgavatI baBUva . yataH .
+019.34A: saha anurAgavatI baBUva . yataH .
+

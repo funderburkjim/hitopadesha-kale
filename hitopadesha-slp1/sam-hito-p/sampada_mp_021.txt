@@ -1,0 +1,127 @@
+021.01F: tataH KanitramAdAya tena vivaraM KanitvA cirasaMcitaM mama DanaM gfhItam . tataH
+021.01A: tataH Kanitram AdAya tena vivaram KanitvA cirasaMcitam mama Danam gfhItam . tataH
+
+021.02F: praBfti nijaSaktihInaH sattvotsAhasahitaH svAhAramapyutpAdayitumakzamaH satrAsaM  
+021.02A: praBfti nijaSaktihInaH sattvotsAhasahitaH svAhAram api utpAdayitum akzamaH satrAsam
+021.02P: satvaM cotsAhaSca tAByAM rahitaH .
+
+; Kale type ?: SrUqAkarRena -> SUqAkarRena
+021.03F: mandaM mandamupasarpeSUqAkarRenAhamavalokitaH . tatastenoktaM -- 
+; Unsure of 'upasarpeSUqAkarRena' -> 'upasarpe CUqAkarRena'
+021.03A: mandam mandam upasarpe SUqAkarRena aham avalokitaH . tatas tena uktam -- 
+
+021.04F: Danena balavAnlloke DanAdBavati paRqitaH .
+021.04A: Danena balavAn loke DanAt Bavati paRqitaH .
+
+021.05F: paSyEnaM mUzikaM pApaM svajAtisamatAM gatam .. 125 ..
+021.05A: paSya enam mUzikam pApam svajAtisamatAm gatam .. 125 ..
+
+021.06F: kiM ca . arTena tu vihInasya puruzasyAlpameDasaH .
+021.06A: kiM ca . arTena tu vihInasya puruzasya alpameDasaH .
+021.06P: alpA meDA yasyAsO alpameDAH tasya .
+
+021.07F: kriyAH sarvA vinaSyanti grIzme kusarito yaTA .. 126 ..
+; ku-saritaH = small streams
+021.07A: kriyAH sarvAH vinaSyanti grIzme kusaritaH yaTA .. 126 ..
+021.07P: kusaritaH -- kutsitAH saritaH alpatoyA nadyaH .
+
+021.08F: aparaM ca . yasyArTAstasya mitrARi yasyArTAstasya bAnDavAH .
+021.08A: aparaM ca . yasya arTAH tasya mitrARi yasya arTAH tasya bAnDavAH .
+
+021.09F: yasyArTAH sa pumAnlloke yasyArTAH sa hi paRqitaH .. 127 ..
+021.09A: yasya arTAH saH pumAn loke yasya arTAH saH hi paRqitaH .. 127 ..
+
+021.10F: anyacca . aputrasya gfhaM SUnyaM sanmitrarahitasya ca .
+021.10A: anyat ca . aputrasya gfham SUnyam sanmitrarahitasya ca .
+
+021.11F: mUrKasya ca diSaH SUnyAH sarvaSUnyA daridratA .. 128 ..
+021.11A: mUrKasya ca diSaH SUnyAH sarvaSUnyA daridratA .. 128 ..
+
+021.12F: aparaM ca . tAnIndriyARyavikalAni tadeva nAma 
+; tad eva nAma = 'the same' (Kale). what is the derivation?
+; 'nAma' can mean 'certainly' (MW)
+021.12A: aparaM ca . tAni indriyARi avikalAni tad eva nAma 
+
+021.13F: sA budDirapratihatA vacanaM tadeva .
+021.13A: sA budDiH apratihatA vacanam tad eva .
+
+021.14F: arTozmaRA virahitaH puruzaH sa eva
+021.14A: arTozmaRA virahitaH puruzaH saH eva
+
+021.15F: anyaH kzaRena BavatIti vicitrametat .. 129 ..
+021.15A: anyaH kzaRena Bavati iti vicitram etat .. 129 ..
+
+021.16F: etatsarvamAkarRya mayAlocitam -- mamAtrAvasTAnamayuktamidAnIm . yaccAnyasmA
+021.16A: etat sarvam AkarRya mayA Alocitam -- mama atra avasTAnam ayuktam idAnIm . yat ca anyasmE
+
+021.17F: etadvfttAntakaTanaM tadapyanucitam . yataH .
+021.17A: etad vfttAntakaTanaM tad api anucitam . yataH .
+
+021.18F: arTanASaM manastApaM gfhe duScaritAni ca .
+021.18A: arTanASam manastApam gfhe duScaritAni ca .
+
+021.19F: vaYcanaM cApamAnaM ca matimAnna prakASayet .. 130 ..
+021.19A: vaYcanam ca apamAnam ca matimAn na prakASayet .. 130 ..
+
+021.20F: api ca . AyurvittaM gfhacCidraM mantramETunaBezajam .
+021.20A: api ca . Ayurvittam gfhacCidram mantramETunaBezajam .
+021.20P: AyuH AyuHpramARam .
+
+021.21F: tapo dAnApAnaM ca nava gopyAni yatnataH .. 131 ..
+; dAnApAna = ? dAna + apAna (Kale translation: "charity and disgrace")
+021.21A: tapaH dAnApAnam ca nava gopyAni yatnataH .. 131 ..
+021.21P: tapaH caritaM tapaH .
+
+021.22F: taTA coktam . atyantavimuKe dEve vyarTe yatne ca pOruze .
+021.22A: taTA coktam . atyantavimuKe dEve vyarTe yatne ca pOruze .
+
+021.23F: manasvino daridrasya vanAdanyatkutaH suKam .. 132 ..
+021.23A: manasvinaH daridrasya vanAt anyat kutaH suKam .. 132 ..
+
+021.24F: anyacca . manasvI mriyate kAmaM kArpaRyaM na tu gacCati	. 
+021.24A: anyat ca . manasvI mriyate kAmam kArpaRyam na tu gacCati	. 
+
+021.25F: api nirvARamAyAti nAnalo yAti SItatAm .. 133 ..
+021.25A: api nirvARam AyAti na analaH yAti SItatAm .. 133 ..
+
+021.26F: kiM ca . kusumastabakasyeva dve vfttI tu manasvinaH .
+021.26A: kiM ca . kusumastabakasya iva dve vfttI tu manasvinaH .
+
+021.27F: sarvezAM mUrDni vA tizWedviSIryeta vane'TavA .. 134 ..
+; viSIryeta: opt. 3s viSF: to crumble, perish
+021.27A: sarvezAm mUrDni vA tizWet viSIryeta vane aTavA .. 134 ..
+
+021.28F: yaccAtrEva yAcYayA jIvanaM tadatIva garhitam . yataH .
+021.28A: yat ca atra eva yAcYayA jIvanaM tad atIva garhitam . yataH .
+
+; Kale typo:? viBavahinena -> viBavahInena  (viBava-hIna = whose wealth is lost = poor man)
+021.29F: varaM viBavahInena prAREH saMtarpito'nalaH .
+021.29A: varam viBavahInena prAREH saMtarpitaH analaH .
+021.29P: viBavahInena daridreRa .
+
+021.30F: nopacArapariBrazwaH kfpaRaH prArTito janaH .. 135 ..
+021.30A: na upacArapariBrazwaH kfpaRaH prArTitaH janaH .. 135 ..
+021.30P: upacArapariBrazwaH adakziRaH ityarTaH .
+
+021.31F: dAridryAdDriyameti hrIparigataH sattvAtpariBraSyate
+; hriyam: f2s of hrI (irregular declension - cf. Huet)
+021.31A: dAridryAt hriyam eti hrIparigataH sattvAt pariBraSyate
+021.31P: hriyaMlajjAm .
+
+021.32F: niHsattvaH pariBUyate pariBavAnnirvedamApadyate .
+021.32A: niHsattvaH pariBUyate pariBavAt nirvedam Apadyate .
+021.32P: pariBUyatetiraskriyate .
+
+021.33F: nirviRRaH Sucameti Sokanihato budDyA parityajyate .
+021.33A: nirviRRaH Sucam eti SokanihataH budDyA parityajyate .
+021.33P: budDyA -- vivekaDiyA .
+
+021.34F: nirbudDiH kzayametyaho niDanatA sarvApadAmAspadaM .. 136 ..
+021.34A: nirbudDiH kzayam eti aho niDanatA sarvApadAm Aspadam .. 136 ..
+
+021.35F: kiM ca . varaM mOnaM kAryaM na ca vacanamuktaM yadanftaM 
+021.35A: kiM ca . varam mOnam kAryam na ca vacanam uktam yad anftam
+
+021.36F: varaM klEbyaM puMsAM na ca parakalatrABigamanam ..
+021.36A: varam klEbyam puMsAm na ca parakalatrABigamanam ..
+

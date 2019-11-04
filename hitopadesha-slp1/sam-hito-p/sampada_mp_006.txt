@@ -1,0 +1,118 @@
+006.01F: anyacca . vizayiRAmidamavaSyaM kartavyam .
+006.01A: anyat ca . vizayiRAm idam avaSyam kartavyam .
+006.01P: vizayiRAM -- saMsAriRAm . 
+
+006.02F: utTAyotTAya bodDavyaM kimadya sukftaM kftam .
+;Sampada, utTAya utTAya...  MW. utTAyotTAya "every time one rises (from one's bed)"
+006.02A: utTAyotTAya bodDavyam  mahadBayam upasTitam.
+006.02P: utTAyotTAyeti -- pratidinaM prabuDya mahadBayaM upasTitaM iti bodDavyaM .
+
+006.03F: maraRavyADiSokAnAM kimadya nipatizyati .. 4..
+006.03A: maraRavyADiSokAnAm kim adya nipatizyati .. 4..
+006.03P: maraRavyADiSokAnAM maDye adya kiM nipatizyati iti na jYAyate iti vicintya tatpratikAracintAparEH sTAtavyamityarTaH .
+
+006.04F: aTa tena vyADena
+006.04A: aTa tena vyADena
+
+006.05F: taRqulakaRAnvikIrya jAlaM vistIrRam . sa ca pracCanno
+006.05A: taRqulakaRAn vikIrya jAlam vistIrRam . saH ca  pracCannaH
+
+; 06-04-2018
+006.06F: BUtvA sTitaH . tasminneva kAle citragrIvanAmA kapotarAjaH
+006.06A: BUtvA sTitaH . tasmin eva kAle citragrIvanAmA kapotarAjaH
+006.06P: kapotarAjaH -- kapotAnAM rAjA . 
+
+; visarpa... Kale typo?
+006.07F: saparivAro viyati visarpaMstaRqulakaRAnavalokayAmAsa . tataH
+006.07A: saparivAraH viyati visarpan taRqulakaRAn avalokayAmAsa . tataH
+
+006.08F: kapotarAjastaRqulakaRalubDAnkapotAn pratyAha -- kuto'tra nirjane
+006.08A: kapotarAjaH taRqulakaRalubDAn kapotAn pratyAha -- kutaH atra nirjane
+006.08P: rAjAhaHsaKiByazwac iti wac pratyayaH .
+
+006.09F: vane taRqulakaRAnAM samBavaH . tan nirUpyatAM tAvat . BadramidaM na
+006.09A: vane taRqulakaRAnAm samBavaH . tad nirUpyatAm tAvat . Badram idam na
+
+006.10F: paSyAmi . prAyeRAnena taRqulakaRaloBenAsmABirapi taTA Bavitavyam .
+006.10A: paSyAmi . prAyeRa anena taRqulakaRaloBena asmABiH api taTA Bavitavyam .
+
+006.11F: kaNkaRasya tu loBena magnaH paNke sudustare .
+006.11A: kaNkaRasya tu loBena magnaH paNke sudustare .
+
+006.12F: vfdDavyAGreRa samprAptaH paTikaH sa mfto yaTA .. 5..
+006.12A: vfdDavyAGreRa samprAptaH paTikaH saH mftaH yaTA .. 5..
+006.12P: paTikaH -- panTAnaM nityaM gacCatIti paTikaH pAnTaH vA . pARi. 5.1.75 . 
+
+006.13F: kapotA UcuH -- kaTametat . so'bravIt --
+006.13A: kapotAH UcuH -- kaTam etat . saH abravIt --
+
+006.14F: .. kaTA 1 ..
+006.14A: .. kaTA 1 ..
+
+006.15F: ahamekadA dakziRAraRye carannapaSyam .
+006.15A: aham ekadA dakziRAraRye caran apaSyam .
+
+006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre
+006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre
+
+006.17F: brUte -- Bo BoH panTAH  idaM suvarRakaNkaRaM gfhyatAm .
+; pAnTAH   (traveler) cf. mw 'paTin'
+006.17A: brUte BoH BoH panTAH idam suvarRakaNkaRam gfhyatAm .
+
+006.18F: tato loBAkfzwena kenacit pAnTenAlocitam -- BAgyenEtat samBavati .
+006.18A: tataH loBAkfzwena kena cid pAnTena Alocitam -- BAgyena etat samBavati .
+
+006.19F: kiM tvasminnAtmasaMdehe pravfttirna viDeyA . yataH .
+006.19A: kim tu asmin AtmasaMdehe pravfttiH na viDeyA . yataH .
+
+006.20F: anizwAdizwalABe'pi na gatirjAyate SuBA .
+006.20A: anizwAt izwalABe api na gatiH jAyate SuBA .
+
+006.21F: yatrAste vizasaMsargo'mftaM tad api mftyave .. 6..
+006.21A: yatra Aste vizasaMsargaH amftam tad api mftyave .. 6..
+
+006.22F: kiMtu sarvatrArTArjane pravfttiH saMdeha eva . taTA coktam --
+006.22A: kiM tu sarvatra arTArjanapravfttiH saMdehaH eva . taTA ca uktam --
+006.22P : sarvatreti -- aTArjane pravfttena nareRa AtmA sarvatra saMdehe pAtyate eva .
+
+006.23F: na saMSayamanAruhya naro BadrARi paSyati .
+006.23A: na saMSayam anAruhya naraH BadrARi paSyati .
+006.23P: neti -- saMSayaM anAruhya naraH BadrARi na paSyati .
+
+006.24F: saMSayaM punarAruhya yadi jIvati paSyati .. 7..
+006.24A: saMSayam punar Aruhya yadi jIvati paSyati .. 7..
+006.24P: punaH saMSayaM Aruhya yadi jIvati tarhi BadraM paSyati eva . sAhase SrIH prativasati iti BAvaH . ma.BA.A.pa.a.140. Slo.73.
+
+006.25F: tan nirUpayAmi tAvat .
+006.25A: tad nirUpayAmi tAvat .
+
+006.26F: prakASaM brUte -- kutra tava kaNkaRam . vyAGro hastaM prasArya
+006.26A: prakASam brUte -- kutra tava kaNkaRam . vyAGraH hastam prasArya
+
+006.27F: darSayati . pAnTo'vadat -- kaTaM mArAtmake tvayi viSvAsaH .
+006.27A: darSayati . pAnTaH avadat -- kaTam mArAtmake tvayi viSvAsaH .
+006.27P: mArAtmake -- mArayatIti mAraH tAdfSaH AtmA svaBAvaH yasya . hiMsake ityarTaH .
+006.27P+: AtmA kalevare yAne svaBAve paramAtmani . iti DaraRiH.
+
+006.28F: vyAGra uvAca -- SfRu re pAnTa prAg eva
+006.28A: vyAGraH uvAca -- SfRu re pAnTa prAg eva
+
+006.29F: yOvanadaSAyAmatidurvftta Asam . anekagomAnuzARAM vaDAnme
+006.29A: yOvanadaSAyAm aham atidurvfttaH Asam . anekagomAnuzARAm vaDAt me
+
+006.30F: putrA mftA dArASca . vaMSahInaScAham .
+006.30A: putrAH mftAH dArAH ca . vaMSahInaH ca aham .
+
+006.31F: tataH kenacid DArmikeRAhamAdizwaH -- dAnaDarmAdikaM caratu
+; Adika ? not MW. Presume same sense as 'Adi'
+006.31A: tataH kena cid DArmikeRa aham AdizwaH -- dAnaDarmAdikam caratu
+006.30P: DarmikeRa -- DarmaM aDIte caratIti vA DArmikaH . 
+
+006.32F: BavAn . tadupadeSAdidAnImahaM snAnaSIlo dAtA vfdDo
+; dAtA  ?
+006.32A: BavAn . tadupadeSAt idAnIm aham snAnaSIlaH dAtA vfdDaH
+
+006.33F: galitanaKadanto na kaTaM viSvAsaBUmiH . yataH .
+006.33A: galitanaKadantaH na kaTam viSvAsaBUmiH . yataH .
+006.33P: galita -- na KaM asya iti naKaH . nakASca dantASca naKadantaM (sa.dvaM.). galitaM naKadantaM yasya .
+006.33P+: viSvAsa -- vi. pAtram .

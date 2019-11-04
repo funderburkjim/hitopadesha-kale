@@ -1,0 +1,102 @@
+035.01F: sa cEkadA pipAsAkulitaH pAnIyaM pAtuM yamunAkacCamagacCat .
+035.01A: saH ca ekadA pipAsAkulitaH pAnIyam pAtum yamunAkacCam agacCat .
+035.01P: pipAsA -- pAtumicCA pipAsA . pAnecCA tayA AkulitaH trastaH .
+035.01P+: yamunAkacCam yamunAyAH kacCaM tIram .
+
+035.02F: tena ca tatra siMhenAnanuBUtapUrvakamakAlaGanagarjitamiva
+035.02A: tena ca tatra siMhena ananuBUtapUrvakam akAlaGanagarjitam iva
+035.02P: ananuBUtapUrvam -- pUrvaM anuBUtaM anuBUtapUrvaM tanna BavatIti .
+
+035.03F: saMjIvakanarditamaSrAvi . tacCrutvA pAnIyamapItvA sacakitaH
+; aSrAvi aor[1] 3s from Sru (Huet)
+035.03A: saMjIvakanarditam aSrAvi . tad SrutvA pAnIyam apItvA sacakitaH
+
+035.04F: parivftya svasTAnamAgatya kimidamityAlocayaMstUzRIM sTitaH .
+035.04A: parivftya svasTAnam Agatya kim idam iti Alocayan tUzRIm sTitaH .
+
+035.05F: sa ca taTAviDaH karawakadamanakAByAmasya mantriputrAByAM SfgAlAByAM
+035.05A: saH ca taTAviDaH karawakadamanakAByAm asya mantriputrAByAm SfgAlAByAm
+
+035.06F: dfzwaH . taM taTAviDaM dfzwvA damanakaH karawakamAha -- saKe
+035.06A: dfzwaH . tam taTAviDam dfzwvA damanakaH karawakam Aha -- saKe
+
+035.07F: karawaka kimityayamudakArTI svAmI pAnIyamapItvA sacakito mandaM
+035.07A: karawaka kim iti ayam udakArTI svAmI pAnIyam apItvA sacakitaH mandam
+
+035.08F: mandamavatizWate .
+035.08A: mandam avatizWate .
+
+035.09F: karawako brUte -- mitra
+035.09A: karawakaH brUte -- mitra
+
+035.10F: damanaka asmanmatenAsya sevEva na kriyate . yadi taTA Bavati
+035.10A: damanaka asmanmatena asya sevA eva na kriyate . yadi taTA Bavati
+035.10P: asmanmatena -- AvayormatAnusAreRa .
+
+035.11F: tarhi kimanena svAmicezwAnirUpaRenAsmAkam . yato'nena rAjYA
+035.11A: tarhi kim anena svAmicezwAni rUpaRena asmAkam . yataH anena rAjYA
+035.11P: kimiti -- AvayoH svAmikarmaRaH nirUpaRaM kftvA ko lABaH kiM prayojanaM vA . 
+
+035.12F: vinAparADena ciramavaDIritAByAmAvAByAM mahadduHKamanuBUtam .
+; itAByAm  from 'ita' = obtained?
+035.12A: vinA aparADena ciram avaDIH itAByAm AvAByAm mahat duHKam anuBUtam .
+
+035.13F: sevayA DanamicCadBiH sevakEH paSya yatkftam .
+035.13A: sevayA Danam icCadBiH sevakEH paSya yad kftam .
+035.13P: sevakE -- sevakEH yatkftaM tatpaSya .
+
+035.14F: svAtantryaM yacCarIrasya mUQEstadapi hAritam .. 20..
+035.14A: svAtantryam yad SarIrasya mUQEH tad api hAritam .. 20..
+035.14P: kiM tadityAkAMkzAyAmAha -- svAtantryamiti . sevAM kftvA DanArjanaM kartumicCadBiH svAtantryahAnireva sampAditA na kopyanyorTaH iti BAvaH .
+
+; SItavAtAtapa = SIta+vAta+Atapa  (cold, wind, heat)
+035.15F: aparaM ca . SItavAtAtapakleSAnsahante yAnparASritAH .
+035.15A: aparam ca . SItavAtAtapakleSAn sahante yAn parASritAH .
+035.15P: SIteti -- SItaM ca vAtaSca AtapaSca SItavAtAtapaM tasmAt kleSAH tAn .
+035.15P+: parASritAH parAn ASritAH sevakAH .
+
+035.16F: tadaMSenApi meDAvI tapastaptvA suKI Bavet .. 21..
+035.16A: tad aMSena api meDAvI tapas taptvA suKI Bavet .. 21..
+035.16P: tadaMSena SItavAtAtapakleSAMSena .
+035.16P+: meDAvI -- sArAsAravicAraRAkuSalaH . SItavAtAdikleSAH soQavyAScedvaraM te soQA mokzaprApakataporTamiti matvA tapaScareRa Sreyo labDvA suKI BavatIti BAvaH .
+035.16P++: sevAyAmaNgIkftAyAM tu sadEva kleSasahanamAvaSyakaM . tapaScareRa ca yAvatsidDi . iti tadaMSatvam .
+
+035.17F: anyacca . etAvajjanmasAPalyaM yadanAyattavfttitA
+035.17A: anyat ca . etAvat janmasAPalyam yad anAyattavfttitA
+035.17P: anAyattavfttitA -- AyattA parADInA vfttiH yasya sa AyattavfttiH sa na BavatIti anAyattavfttiH tasya BAvaH tattA svatantravfttitvam .
+
+035.18F: ye parADInatAM yAtAste vE jIvanti ke mftAH .. 22..
+035.18A: ye parADInatAm yAtAH te vE jIvanti ke mftAH .. 22..
+035.18P: te vE ityAdi te vE jIvanti cet ke mftAH . te mftaprAyA iva ityarTaH . te vE ke jIvanti ke mftAH sarve mftA eva iti vA yojanIyam .
+
+035.19F: aparaM ca . ehi gacCa patottizWa vada mOnaM samAcara .
+035.19A: aparaM ca . ehi gacCa pata uttizWa vada mOnam samAcara .
+035.19P: samAcara -- svIkuru .
+
+035.20F: evamASAgrahagrastEH krIqanti Danino'rTiBiH .. 23
+035.20A: evam ASAgrahagrastEH krIqanti DaninaH arTiBiH .. 23
+035.20P: ASAgrahagrastEH -- ASA eva grahaH uparAgAdiH tena grastEH .
+
+035.21F: abuDErarTalABAya paRyastrIBiriva svayam .
+035.21A: abuDEH arTalABAya paRyastrIBiH iva svayam .
+035.21P: paRyastrIBiH -- gaRikABiH .
+
+035.22F: AtmA saMskftya saMskftya paropakaraRIkftaH .. 24..
+035.22A: AtmA saMskftya saMskftya paropakaraRIkftaH .. 24..
+035.22P: paropakaraRIkftaH -- parezAM upakaraRatAM sevAnuguRatAM nItaH . sADanIkfta iva vA .
+
+035.23F: kiM ca . yA prakftyEva capalA nipatatyaSucAvapi .
+035.23A: kim ca . yA prakftyA eva capalA nipatati aSucO api .
+
+035.24F: svAmino bahu manyante dfzwiM tAmapi sevakAH .. 25..
+035.24A: svAminaH bahu manyante dfzwim tAm api sevakAH .. 25..
+
+; bAtulo -> vAtulo
+035.25F: aparaM ca . mOnAn mUrKaH pravacanapawurvAtulo jalpako vA
+035.25A: aparam ca . mOnAt mUrKaH pravacanapawuH vAtulaH jalpakaH vA
+035.25P: mOnAnmUrKa iti -- sevakaH mOnaM DArayati cet sa mUrKa ityaBiDIyate .
+035.25P+: pravacanapawurvAkpawu syAcced vAtulaH vAtAvizwo vA jalpakaH vAcAlo veti gfhyate .
+
+035.26F: kzAntyA BIruryadi na sahate prAyaSo nABijAtaH .
+035.26A: kzAntyA BIruH yadi na sahate prAyaSas na aBijAtaH .
+035.26P: aBijAtaH kulInaH .

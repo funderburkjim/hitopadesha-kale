@@ -1,0 +1,117 @@
+007.01F: ijyADyayanadAnAni tapaH satyaM DftiH kzamA .
+007.01A: ijyA aDyayanadAnAni tapaH satyam DftiH kzamA .
+007.01P: ijyADyayana -- tizWati -- ma.BA.udyo.a. 32,56-57. ijyA yajYaH .
+007.02P+: aDyayanaM -- svADyAyAByAsaH .
+
+007.02F: aloBa iti mArgo'yaM DarmasyAzwaviDaH smftaH .. 8..
+007.02A: aloBaH iti mArgaH ayam Darmasya azwaviDaH smftaH .. 8..
+
+007.03F: tatra pUrvaScaturvargo damBArTamapi sevyate .
+007.03A: tatra pUrvaH caturvargaH damBArTam api sevyate .
+
+007.04F: uttarastu caturvargo mahAtmanyeva tizWati .. 9..
+007.04A: uttaraH tu caturvargaH mahAtmani eva tizWati .. 9..
+
+007.05F: mama cEtAvAMlloBaviraho yena
+007.05A: mama ca etAvAn loBavirahaH yena
+
+007.06F: svahastasTamapi suvarRakaNkaRaM yasmEkasmEciddAtumicCAmi .
+007.06A: svahastasTam api suvarRakaNkaRam yasmE kasmE cid dAtum icCAmi .
+
+007.07F: taTApi vyAGro mAnuzaM KAdatIti lokApavAdo durnivAraH . yataH .
+007.07A: taTA api vyAGraH mAnuzam KAdati iti lokApavAdaH durnivAraH . yataH .
+
+007.08F: gatAnugatiko lokaH kuwwanImupadeSinIm .
+007.08A: gatAnugatikaH lokaH kuwwanIm upadeSinIm .
+007.08P: gatAnugatikaH -- gataM anu gatiH yasya . 
+007.08P+: kuwwanI -- paranArIM puMsA yojayitrI strI .
+
+007.09F: pramARayati no Darme yaTA goGnamapi dvijam .. 10..
+007.09A: pramARayati no Darme yaTA goGnam api dvijam .. 10..
+
+007.10F: mayA ca DarmaSAstrARyaDItAni . SfRu --
+007.10A: mayA ca DarmaSAstrARi aDItAni . SfRu --
+
+007.11F: marusTalyAM yaTA vfzwiH kzuDArte BojanaM taTA .
+007.11A: marusTalyAm yaTA vfzwiH kzuDArte Bojanam taTA .
+
+007.12F: daridre dIyate dAnaM saPalaM pARqunandana .. 11..
+; Kale typo : dAna -> dAnaM
+007.12A: daridre dIyate dAnam saPalam pARqunandana .. 11..
+
+007.13F: prARA yaTAtmano'BIzwA BUtAnAmapi te taTA .
+007.13A: prARAH yaTA AtmanaH aBIzwAH BUtAnAm api te taTA .
+
+007.14F: AtmOpamyena BUtezu dayAM kurvanti sADavaH .. 12..
+007.14A: AtmOpamyena BUtezu dayAm kurvanti sADavaH .. 12..
+
+007.15F: aparaM ca . pratyAKyAne ca dAne ca suKaduHKe priyApriye .
+007.15A: aparam ca . pratyAKyAne ca dAne ca suKaduHKe priyApriye .
+
+007.16F: AtmOpamyena puruzaH pramARamaDigacCati .. 13..
+; Kale typo: AtmOpamyEna -> AtmOpamyena
+007.16A: AtmOpamyena puruzaH pramARam aDigacCati .. 13..
+
+007.17F: anyacca . mAtfvatparadArezu paradravyezu lozwavat .
+007.17A: anyat ca . mAtfvat paradArezu paradravyezu lozwavat .
+007.17P: mAtfvat -- mAtrA tulyaM mAtfvat .
+
+007.18F: AtmavatsarvaBUtezu yaH paSyati sa paRqitaH .. 14..
+007.18A: Atmavat sarvaBUtezu yaH paSyati saH paRqitaH .. 14..
+
+007.19F: tvaM cAtIva durgatastena tattuByaM dAtuM sayatno'ham . taTA coktam --
+007.19A: tvam ca atIva durgataH tena tat tuByam dAtum sayatnaH aham . taTA ca uktam --
+
+007.20F: daridrAnBara kOnteya mA prayacCeSvare Danam .
+007.20A: daridrAn Bara kOnteya mA prayacCa ISvare Danam .
+
+; Kale typo? nIrujasya -> nirujasya (of the health)
+007.21F: vyADitasyOzaDaM paTyaM nirujasya kimOzaDEH .. 15..
+007.21A: vyADitasya OzaDam paTyam nirujasya kim OzaDEH .. 15..
+007.21P: vyADitasya -- vyADiH asya saMjAtaH tasya .
+007.21P+: nirgatA rujA yasyAsO nIrujaH tasyOzaDEH kiM na kimapi prayojanamityarTaH . Slo. 16 -- BagavadgItA a. 17.20 .
+
+007.22F: anyacca . dAtavyamiti yaddAnaM dIyate'nupakAriRi .
+007.22A: anyat ca . dAtavyam iti yad dAnam dIyate anupakAriRi .
+
+007.23F: deSe kAle ca pAtre ca tad dAnaM sAttvikaM viduH .. 16..
+007.23A: deSe kAle ca pAtre ca tad dAnam sAttvikam viduH .. 16..
+
+007.24F: tad atra sarasi snAtvA suvarRakaNkaRaM gfhARa .. tato yAvadasO
+007.24A: tad atra sarasi snAtvA suvarRakaNkaRam gfhARa . tataH yAvat asO
+
+007.25F: tadvacaH pratIto loBAtsaraH snAtuM praviSati tAvanmahApaNke
+007.25A: tad vacaH pratItaH loBAt saraH snAtum praviSati tAvat mahApaNke
+
+007.26F: nimagnaH palAyitumakzamaH . paNke patitaM dfzwvA vyAGro'vadat --
+007.26A: nimagnaH palAyitum akzamaH . paNke patitam dfzwvA vyAGraH avadat --
+
+007.27F: ahaha mahApaNke patito'si . atastvAmahamutTApayAmi . ityuktvA
+007.27A: ahaha mahApaNke patitaH asi . atas tvAm aham utTApayAmi . iti uktvA
+
+007.28F: SanEH SanErupagamya tena vyAGreRa DftaH sa pAnTo'cintayat --
+007.28A: SanEH SanEH upagamya tena vyAGreRa DftaH saH pAnTaH acintayat --
+
+007.29F: na DarmaSAstraM paWatIti kAraRaM
+007.29A: na DarmaSAstram paWati iti kAraRaM
+
+007.30F: na cApi vedADyayanaM durAtmanaH .
+007.30A: na ca api vedADyayanam durAtmanaH .
+007.30P: kaSciddurAtmA DarmaSAstraM paWati vedADyayanaM ca karotIti durAtmanaH tasya viSvAsadAne kAraRaM na tasminna viSvasyAdityarTaH .
+
+007.31F: svaBAva evAtra taTAtiricyate
+007.31A: svaBAvaH eva atra taTA atiricyate
+
+007.32F: yaTA prakftyA maDuraM gavAM payaH .. 17..
+007.32A: yaTA prakftyA maDuram gavAm payaH .. 17..
+
+007.33F: kiM ca 
+007.33A: kim ca 
+
+007.34F: avaSendriyacittAnAM hastisnAnamiva kriyA 
+007.34A: avaSendriyacittAnAm hastisnAnam iva kriyA 
+007.34P: hastisnAna -- yaTA hastI tadanupadameva svANgaM DUlyA milinayati tadvadadaSendriyacittAnAM kriyA vikriyAnugatEva na kiMcitkAryasADikA ityarTaH .
+
+007.35F: durBagABaraRaprAyo jYAnaM BAraH kriyAM vinA .. 18..
+007.35A: durBagABaraRaprAyaH jYAnam BAraH kriyAm vinA .. 18..
+007.35P: durBagA -- duHSIlApozaRavat. durBagAyAH ABaraRavat iti vA .

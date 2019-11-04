@@ -1,0 +1,139 @@
+; calacittayA probable error, replacing with calacittatA
+018.01F: anyacca . rahasyaBedo yAcYA ca nEzWuryaM calacittatA .
+018.01A: anyat ca . rahasyaBedaH yAcYA ca nEzWuryam calacittatA .
+
+018.02F: kroDo niHsatyatA dyUtametanmitrasya dUzaRam .. 99..
+018.02A: kroDaH niHsatyatA dyUtam etad mitrasya dUzaRam .. 99..
+
+018.03F: anena vacanakrameRa tadekadUzaRapi tvayi na lakzyate . yataH .
+018.03A: anena vacanakrameRa tad ekadUzaRam api tvayi na lakzyate . yataH .
+
+; budDyate - passive  of buD.  MW spells buDyate -- is budDyate correct also?
+018.04F: pawutvaM satyavAditvaM kaTAyogena budDyate .
+018.04A: pawutvam satyavAditvam kaTAyogena budDyate .
+
+018.05F: astabDatvamacApalyaM pratyakzeRAvagamyate .. 100..
+018.05A: astabDatvam acApalyam pratyakzeRa avagamyate .. 100..
+018.05P: acApalyaM samIkzyakAritA .
+
+018.06F: aparaM ca . anyaTEva hi sOhArdaM BavetsvacCAntarAtmanaH .
+; svacCAntarAtmanaH =? (su + acCa) + antara + AtmanaH : "pure inner self"
+018.06A: aparam ca . anyaTA eva hi sOhArdam Bavet svacCAntarAtmanaH .
+018.06P: sOhArdaM -- SoBanaM hfdayaM yasya asO suhft tasya BAvaH .
+
+018.07F: pravartate'nyaTA vARI SAWyopahatacetasaH .. 101..
+018.07A: pravartate anyaTA vARI SAWyopahatacetasaH .. 101..
+018.07P: SAWyenopahatamAkrAntaM ceto yasya .
+
+018.08F: manasyanyadvacasyanyatkarmaRyanyad durAtmanAm .
+018.08A: manasi anyat vacasi anyat karmaRi anyat durAtmanAm .
+
+018.09F: manasyekaM vacasyekaM karmaRyekaM mahAtmanAm .. 102..
+018.09A: manasi ekam vacasi ekam karmaRi ekam mahAtmanAm .. 102..
+
+018.10F: tadBavatu BavatoBimatameva . ityuktvA hiraRyako mEtryaM viDAya
+018.10A: tad Bavatu BavataH aBimatam eva . iti uktvA hiraRyakaH mEtryam viDAya
+
+018.11F: BojanaviSezErvAyasaM saMtozya vivaraM pravizwaH . vAyaso'pi
+018.11A: BojanaviSezEH vAyasam saMtozya vivaram pravizwaH . vAyasaH api
+
+018.12F: svasTAnaM gataH . tataH praBfti tayoranyo'nyAhArapradAnena
+018.12A: svasTAnam gataH . tatas praBfti tayoH anyonyAhArapradAnena
+
+; kalo'tivartane ? should be kAlo'tivartate (time passes)
+018.13F: kuSalapraSnErviSramBAlApESca kAlo'tivartate .
+018.13A: kuSalapraSnEH viSramBAlApEH ca kAlaH ativartate .
+
+018.14F: ekadA laGupatanako hiraRyakamAha -- saKe 
+018.14A: ekadA laGupatanakaH hiraRyakam Aha -- saKe 
+
+018.15F: kazwataralaByAhAramidaM sTAnam . tat parityajya sTAnAntaraM
+018.15A: kazwataralaByAhAram idam sTAnam . tad parityajya sTAnAntaram
+
+018.16F: gantumicCAmi .
+018.16A: gantum icCAmi .
+
+018.17F: hiraRyako brUte -- mitra kva gantavyam . taTA coktam .
+018.17A: hiraRyakaH brUte -- mitra kva gantavyam . taTA ca uktam .
+
+018.18F: calatyekena pAdena tizWatyekena budDimAn .
+018.18A: calati ekena pAdena tizWati ekena budDimAn .
+018.18P: calatIti -- sarvaTA vicArya karmaRi pravartate .
+
+018.19F: mA'samIkzya paraM sTAnaM pUrvamAyatanaM tyajet .. 103..
+018.19A: mA asamIkzya param sTAnam pUrvam Ayatanam tyajet .. 103..
+018.19P: paraM sTAnamasamIkzya samyaganirUpyetyanvayaH .
+
+018.20F: vAyaso brUte -- mitra asti sunirUpitaM sTAnam .
+018.20A: vAyasaH brUte -- mitra asti sunirUpitam sTAnam .
+
+018.21F: hiraRyako'vadat -- kiM tat .
+018.21A: hiraRyakaH avadat -- kim tat .
+
+018.22F: vAyasaH brUte -- asti daRqakAraRye
+018.22A: vAyasaH brUte -- asti daRqakAraRye
+
+018.23F: karpUragOrABiDAnaM saraH . tatra cirakAlopArjitaH priyasuhfnme
+018.23A: karpUragOrABiDAnam saraH . tatra cirakAlopArjitaH priyasuhfd me
+
+018.24F: manTarABiDAnaH kacCapo DArmikaH prativasati . yataH .
+018.24A: manTarABiDAnaH kacCapaH DArmikaH prativasati . yataH .
+018.24P: kacCapaH kUrmaH .
+
+018.25F: paropadeSe pARqityaM sarvezAM sukaraM nfRAm .
+018.25A: paropadeSe pARqityam sarvezAm sukaram nfRAm .
+
+018.26F: Darme svIyamanuzWAnaM kasyacittu mahAtmanaH .. 104..
+018.26A: Darme svIyam anuzWAnam kasya cid tu mahAtmanaH .. 104..
+
+018.27F: sa ca BojanaviSezErmAM saMvarDayizyati .
+018.27A: saH ca BojanaviSezEH mAm saMvarDayizyati .
+
+018.28F: hiraRyako'pyAha tat kimatrAvasTAya mayA kartavyam . yataH .
+018.28A: hiraRyakaH api Aha tat kim atra avasTAya mayA kartavyam . yataH .
+
+018.29F: yasmin deSe na saMmAno na vfttirna ca bAnDavaH .
+018.29A: yasmin deSe na saMmAnaH na vfttiH na ca bAnDavaH .
+018.29P: vfttirjIvikAsADanamiti yAvat .
+
+018.30F: na ca vidyAgamaH kaScittaM deSaM parivarjayet .. 105..
+018.30A: na ca vidyAgamaH kaH cid tam deSam parivarjayet .. 105..
+
+018.31F: aparaM ca. lokayAtrA BayaM lajjA dAkziRyaM tyAgaSIlatA .
+018.31A: aparam ca. lokayAtrA Bayam lajjA dAkziRyam tyAgaSIlatA .
+
+018.32F: paYca yatra na vidyante na kuryAttatra saMsTitim .. 106..
+018.32A: paYca yatra na vidyante na kuryAt tatra saMsTitim .. 106..
+
+;018.33F: anyacca 
+;018.33A: anyat ca 
+
+018.33F: tatra mitra na vastavyaM yatra nAsti catuzwayam .
+018.33A: tatra mitra na vastavyam yatra na asti catuzwayam .
+
+018.34F: fRadAtA ca vEdyaSca SrotriyaH sajalA nadI .. 107..
+018.34A: fRadAtA ca vEdyaH ca SrotriyaH sajalA nadI .. 107..
+018.34P: SrotriyaH -- CaMdaH aDIte vetti vA SrotriyaH aDItavedaH brAhmaRaH .
+018.34P+: taduktam 'janmanA brAhmaRo jYeyaH saMskArErdvija ucyate. vidyayA yAti vipratvaM triBiH Srotriya ucyate .
+
+018.35F: tato mAmapi tatra naya .
+018.35A: tataH mAm api tatra naya .
+
+018.36F: aTa vAyasastatra tena mitreRa saha vicitrakaTAlApEH suKena tasya sarasaH
+018.36A: aTa vAyasaH tena mitreRa saha vicitrakaTAlApEH suKena tasya sarasaH
+
+018.37F: samIpaM yayO . tato manTaro dUrAdavalokya laGupatanakasya 
+018.37A: samIpam yayO . tataH manTaraH dUrAt avalokya laGupatanakasya 
+
+018.38F: yaTocitamAtiTyaM viDAya mUzikasyAtiTisatkAraM cakAra .
+018.38A: yaTA ucitam AtiTyam viDAya mUzikasya atiTisatkAram cakAra .
+
+018.39F: yataH .
+018.39A: yataH .
+
+018.40F: bAlo vA yadi vA vfdDo yuvA vA gfhamAgataH .
+018.40A: bAlaH vA yadi vA vfdDaH yuvA vA gfham AgataH .
+
+018.41F: tasya pUjA viDAtavyA sarvatrAByAgato guruH .. 108..
+018.41A: tasya pUjA viDAtavyA sarvatra aByAgataH guruH .. 108..
+

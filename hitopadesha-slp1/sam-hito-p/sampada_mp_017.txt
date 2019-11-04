@@ -1,0 +1,120 @@
+017.01F: hiraRyako brUte -- capalastvam .
+017.01A: hiraRyakaH brUte -- capalaH tvam .
+
+017.02F: capalena saha snehaH sarvaTA na kartavyaH . taTA coktam .
+017.02A: capalena saha snehaH sarvaTA na kartavyaH . taTA ca uktam .
+
+017.03F: mArjAro mahizo mezaH kAkaH kApuruzastaTA .
+017.03A: mArjAraH mahizaH mezaH kAkaH kApuruzaH taTA .
+
+017.04F: viSvAsAtpraBavantyete viSvAsastatra nocitaH .. 88..
+017.04A: viSvAsAt praBavanti ete viSvAsaH tatra na ucitaH .. 88..
+
+017.05F: kiM cAnyat . Satrupakzo BavAnasmAkam . uktaM cEtat .
+017.05A: kim ca anyat . SatrupakzaH BavAn asmAkam . uktam ca etat .
+
+017.06F: SatruRA na hi saMdaDyAtsuSlizwenApi sanDinA .
+; sandaDyAt: opt. 3s of saMDa (=sam+DA)
+017.06A: SatruRA na hi saMdaDyAt saMSlizwena api sanDinA .
+017.06P: suSlizwena -- suGawitena .
+
+017.07F: taptamapi pAnIyaM Samayatyeva pAvakam .. 89..
+017.07A: taptam api pAnIyam Samayati eva pAvakam .. 89..
+
+017.08F: durjanaH parihartavyo vidyayAlaNkfto'pi san .
+; durjanaH -- Kale print unreadable
+017.08A: durjanaH parihartavyaH vidyayA alaNkftaH api san .
+
+017.09F: maRinA BUzitaH sarpaH kimasO na BayaMkaraH .. 90..
+017.09A: maRinA BUzitaH sarpaH kim asO na BayaMkaraH .. 90..
+
+017.10F: yadaSakyaM na ta-cCakyaM yacCakyaM Sakyameva tat .
+017.10A: yad aSakyam na tad Sakyam yad Sakyam Sakyam eva tad .
+
+017.11F: nodake SakawaM yAti na ca nOrgacCati sTale .. 91..
+017.11A: na udake Sakawam yAti na ca nOH gacCati sTale .. 91..
+
+017.12F: aparaM ca . mahatApyarTasAreRa yo viSvasiti Satruzu .
+017.12A: aparam ca . mahatA api arTasAreRa yaH viSvasiti Satruzu .
+017.12P: mahatApyarTasAreRa -- hetO tftIyA . SatroH mahAnarTalABaH BUtaH iti mayA vA SatrurmahatA Danavyayena vaSIkftaH iti hetoH .  
+
+017.13F: BAryAsu ca viraktAsu tadantaM tasya jIvanam .. 92..
+017.13A: BAryAsu ca viraktAsu tad antam tasya jIvanam .. 92..
+017.13P: tadantaM tad viSvAsakaraRamevAnto'vaDiryasya .
+
+; etAvan nom. sing. etAvat
+017.14F: laGupatanako brUte -- SrutaM mayA sarvaM . taTApi mama cEtAvAnsaMkalpastvayA
+017.14A: laGupatanakaH brUte -- Srutam mayA sarvam . taTA api mama ca etAvAn saNkalpaH tvayA
+
+017.15F: saha sOhfdyamavaSyaM karaRIyamiti .
+017.15A: saha sOhfdyam avaSyam karaRIyam iti .
+
+017.16F: no cedanAhAreRAtmAnaM vyApAdayizyAmi . taTA hi .
+017.16A: no ced anAhAreRa AtmAnam vyApAdayizyAmi . taTA hi .
+017.16P: anAhAreRa -- upavAsena prAyopaveSaneneti yAvat .
+
+017.17F: mfdGawavatsuKaBedyo duHsaMDAnaSca durjano Bavati .
+017.17A: mfdGawavat suKaBedyaH duHsaMDAnaH ca durjanaH Bavati .
+017.17P: duHsaMDAnaH -- saMDAnaM punarmelanaM mEtrI ca . 
+
+017.18F: sujanastu kanakaGawavaddurBedyaScASu saMDeyaH .. 93..
+; ASu: ind. quickly
+017.18A: sujanaH tu kanakaGawavat durBedyaH ca ASu sanDeyaH .. 93..
+
+017.19F: kiM ca . dravatvAtsarvalohAnAM nimittAnmfgapakziRAm .
+017.19A: kim ca. dravatvAt sarvalohAnAm nimittAt mfgapakziRAm .
+
+017.20F: BayAlloBAcca mUrKARAM saMgataM darSanAtsatAm .. 94..
+017.20A: BayAt loBAt ca mUrKARAm saMgatam darSanAt satAm .. 94..
+
+017.21F: kiM ca . nArikelasamAkArA dfSyante hi suhfjjanAH .
+017.21A: kim ca . nArikelasamAkArAH dfSyante hi suhfjjanAH .
+
+017.22F: anye badarikAkArA bahireva manoharAH .. 95..
+017.22A: anye badarikAkArAH bahiH eva manoharAH .. 95..
+
+017.23F: snehacCede'pi sADUnAM guRA nAyAnti vikriyAm .
+017.23A: snehacCede api sADUnAm guRAH na AyAnti vikriyAm .
+
+017.24F: BaNge'pi hi mfRAlAnAmanubaDnanti tantavaH .. 96..
+017.24A: BaNge api hi mfRAlAnAm anubaDnanti tantavaH .. 96..
+017.24P: anubaDnanti -- AsaktAH tizWanti .
+
+017.25F: anyacca . Sucitvam tyAgitA SOryaM sAmAnyaM suKaduHKayoH .
+017.25A: anyat ca . Sucitvam tyAgitA SOryam sAmAnyam suKaduHKayoH .
+017.25P : tyAgitA -- tyAgaH asyAstIti tyAgI tasya BAvaH .
+017.25P+: sAmAnyaM -- samavyavahAraH .
+
+017.26F: dAkziRyaM cAnuraktiSca satyatA ca suhfdguRAH .. 97..
+017.26A: dAkziRyam ca anuraktiH ca satyatA ca suhfdguRAH .. 97..
+017.26P: dAkziRyaM -- saralatA anukUlAcaraRaM vA .
+
+017.27F: etErguRErupeto Bavadanyo mayA kaH suhftprAptavyaH .
+017.27A: etEH guREH upetaH BavadanyaH mayA kaH suhfd prAptavyaH .
+
+017.28F: ityAdi tadvacanamAkarRya hiraRyako bahirniHsftyAha
+; niHsftya: ind. past participle of niH-sf
+017.28A: ityAdi tadvacanam AkarRya hiraRyakaH bahiH niHsftya Aha
+
+017.29F: ApyAyito'haM BavatAnena vacanAmftena . taTA coktam .
+017.29A: ApyAyitaH aham BavatA anena vacanA amftena . taTA ca uktam .
+017.29P: ApyAyitaH -- tarpitaH vfdDiM prApitaH .
+
+017.30F: GarmArtaM na taTA suSItalajalEH snAnaM na muktAvalI
+017.30A: GarmArtam na taTA suSItalajalEH snAnam na muktAvalI
+017.30P: GarmArtam -- GarmeRa nidAGena ArtaM pIqitaM janaM suSItalajalEH snAnaM na taTA suKayati , muktAvalI muktAhAro na suKayati ityanvayaH . 
+
+017.31F: na SrIKaRqavilepanaM suKayati pratyaNgamapyarpitam .
+017.31A: na SrIKaRqavilepanam suKayati pratyaNgam api arpitam .
+017.31P: aNge aNge iti pratyaNgam .
+
+017.32F: prItyA sajjanaBAzitaM praBavati prAyo yaTA cetasaH
+; prAyaH =? prAyas : 'for the most part'
+017.32A: prItyA sajjanaBAzitam praBavati prAyaH yaTA cetasaH
+017.32P: prItyA <ab n="ityAdi">i</ab> -- sadyuktyA puraskftaM sanATaM 
+
+017.33F: sadyuktyA ca puraskftaM sukftinAmAkfzwimantropamam .. 98..
+017.33A: sadyuktyA ca puraskftam sukftinAm Akfzwimantropamam .. 98..
+017.33P: AkfzwimantropamaM AkfzwimantraH vaSIkaraRamantraH tena upamA yasya . atimanohAri . 
+017.33P+: prItyA -- prItipUrvakamuktaM sajjanamApitaM yaTA sukftinAM na tu durjanAnAm . tezAM eva guRagrahaRasAmarTyAt . cetasaH praBavati cetasi mudaM janayituM Saknoti taTA ityA .
+

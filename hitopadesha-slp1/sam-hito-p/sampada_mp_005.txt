@@ -1,0 +1,99 @@
+005.01F: ato'haM zaRmAsAByantare tatra putrAn nItiSAstrABijYAnkarizyAmi . rAjA savinayaM
+; line break savi-nayaM
+005.01A: ataH aham zaRmAsAByantare tatra putrAn nItiSAstrABijYAn karizyAmi . rAjA savinayam
+
+005.02F: punaruvAca --
+005.02A: punar uvAca
+
+005.03F: kIwo'pi sumanaHsaNgAdArohati satAM SiraH .
+005.03A: kIwaH api sumanaHsaNgAt Arohati satAm SiraH .
+005.03P: sumanaHsaNgAt -- sumanasaH puzpasya saNgAt .
+
+005.04F: aSmApi yAti devatvaM mahadBiH supratizWitaH .. 45..
+005.04A: aSmA api yAti devatvam mahadBiH supratizWitaH .. 45..
+
+005.05F: anyacca . yaTodayagirerdravyaM saMnikarzeRa dIpyate .
+005.05A: anyat ca . yaTA udayagireH dravyam saMnikarzeRa dIpyate .
+
+005.06F: taTA tatsaMniDAnena hInavarRo'pi dIpyate .. 46..
+005.06A: taTA tatsaMniDAnena hInavarRaH api dIpyate .. 46..
+
+005.07F: guRA guRajYezu guRA Bavanti te nirguRaM prApya Bavanti dozAH .
+005.07A: guRAH guRajYezu guRAH Bavanti te nirguRam prApya Bavanti dozAH .
+
+005.08F: AsvAdyatoyAH praBavanti nadyaH samudramAsAdya BavantyapeyAH .. 47..
+;Sampada, AsvAdya toyAH . MW AsvAdyatoya - 'having palatable water (as a stream)'
+005.08A: AsvAdyatoyAH praBavanti nadyaH samudram AsAdya Bavanti apeyAH .. 47..
+005.08P: AsvAdyatoyAH -- nadyaH AsvAdyatoyA utpannA Bavanti . yadvA samudrAdanyaM .
+005.08P+: AsAdayantyaH AsvAdyatoyAH praBavanti .
+005.08P++: kiMtu nirguRaM maDuratAguRahInaM sAgaraM prApya apeyAH Bavanti . tAsAmapi sAgarakzAradozaduzwatvAt iti BavaH .
+
+005.09F: tadetezAmasmatputrARAM nItiSAstropadeSAya BavantaH pramARam . ityuktvA tasya 
+005.09A: tad etezAm asmatputrARAm nItiSAstropadeSAya BavantaH pramARam . iti uktvA tasya 
+
+005.10F: vizRuSarmaRo bahumAnapuraHsaraM putrAnsamarpitavAn .
+005.10A: vizRuSarmaRaH bahumAnapuraHsaram putrAn samarpitavAn .
+005.10P: bahumAnapuraHsaraM -- bahumAnaH puraH saraH yasminkarmaRi tadyaTa taTA . avya .
+
+005.11F: iti prastAvikA .
+005.11A: iti prastAvikA .
+
+005.12F:  .. mitralABaH ..
+005.12A: .. mitralABaH ..
+
+005.13F: aTa prAsAdapfzWe suKopavizwAnAM rAjaputrARAM purastAt prastAvakrameRa paRqito'bravIt --
+005.13A: aTa prAsAdapfzWe suKopavizwAnAm rAjaputrARAm purastAt prastAvakrameRa paRqitaH abravIt --
+005.13P: prastAvakrameRa -- nItiSAstropadeSasya iti SezaH . 
+
+005.14F: kAvyaSAstravinodena kAlo gacCati DImatAm .
+005.14A: kAvyaSAstravinodena kAlaH gacCati DImatAm .
+005.14P: tat -- DImantaH kAvyaSAstradipaWanena AtmAnaM vinodayantaH kAlaM yApayanti . Bavantopi DImanta eva iti hetoH .
+
+005.15F: vyasanena tu mUrKARAM nidrayA kalahena vA .. 1..
+005.15A: vyasanena tu mUrKARAm nidrayA kalahena vA .. 1..
+
+005.16F: tad BavatAM vinodAya kAkakUrmAdInAM vicitrAM kaTAM kaTayAmi . rAjaputrEruktamArya
+005.16A: tad BavatAm vinodAya kAkakUrmAdInAm vicitrAm kaTAm kaTayAmi . rAjaputrEH -- uktam Arya 
+
+005.17F: kaTyatAM . vizRuSarmovAca -- SfRuta . saMprati mitralABaH prastUyate yasyAyamAdyaH SlokaH --
+005.17A: kaTyatAm . vizRuSarmaH uvAca -- SfRuta . samprati mitralABaH prastUyate . yasya ayam AdyaH SlokaH --
+005.17P: mitralABaH -- mitrARAM lABaH mitra -- sa eva lakzaRayA tatsaMjYakaH granTaH .
+
+005.18F: asADanA vittahInA budDimantaH suhfttamAH .
+005.18A: asADanAH vittahInAH budDimantaH suhfttamAH .
+
+005.19F: sADayantyASu kAryARi kAkakUrmamfgAKavaH .. 2..
+; AKu = mouse (or mole)
+005.19A: sADayanti ASu kAryARi kAkakUrmamfgAKavaH .. 2..
+
+005.20F: rAjaputrA UcuH . -- kaTametat . vizRuSarmA kaTayati -- 
+005.20A: rAjaputrAH UcuH . kaTam etat . vizRuSarmA kaTayati -- 
+
+005.21F: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAdAgatya rAtrO 
+005.21A: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAt Agatya rAtrO 
+
+005.22F: pakziRo nivasanti . aTa kadAcid avasannAyAM rAtrAvastAcalacUqAvalambini Bagavati 
+; line break Baga-vati
+005.22A: pakziRaH nivasanti . aTa kadA cid avasannAyAm rAtrO astAcalacUqAvalambini Bagavati 
+
+; Kale typo kamudi -> kumudi
+005.23F: kumudinInAyake caMdramasi laGupatananAmA vAyasaH prabudDaH kftAntamiva
+005.23A: kumudinInAyake caMdramasi laGupatananAmA vAyasaH prabudDaH kftAntam iva
+005.23P: kumudinI -- kumudinyA nAyakaH candraH tasmin .
+
+; KALE dvitIyamAyAntaM  =? dvitIyam AyAntam,  participle AyA   coming
+; KALE vyADam   =  piercer, hunter
+005.24F: dvitIyamAyAntaM vyADamapaSyat . tamAlokyAcintayat -- adya prAtarevAnizwadarSanaM jAtam . na
+; AyAntam:  prap of A-yA  (m. sing. acc.)   ??
+005.24A: dvitIyam AyAntam vyADam apaSyat . tam Alokya acintayat -- adya prAtar eva anizwadarSanam jAtam . na
+
+005.25F: jAne kimanaBimataM darSayizyati . ityuktvA tadanusaraRakrameRa vyAkulaScalati . yataH .
+005.25A: jAne kim anaBimatam darSayizyati . iti uktvA tad anusaraRakrameRa vyAkulaH calati . yataH .
+005.25P: anusaraRakrameRa -- vyADAnusaraRakrameRa .
+
+005.26F: SokasTAnasahasrARi BayasTAnaSatAni ca .
+005.26A: SokasTAnasahasrARi BayasTAnaSatAni ca .
+
+005.27F: divase divase mUQamAviSanti na paRqitam .. 3..
+005.27A: divase divase mUQam AviSanti na paRqitam .. 3..
+

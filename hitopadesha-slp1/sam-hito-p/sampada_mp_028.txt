@@ -1,0 +1,98 @@
+028.01F: asti kaliNgavizaye rukmANgado nAma nfpatiH . sa ca digvijayavyApArakrameRAgatya 
+028.01A: asti kaliNgavizaye rukmANgadaH nAma nfpatiH . saH ca digvijayavyApArakrameRa Agatya 
+028.01P: vizaye deSe
+
+028.02F: candraBAgAnadItIre samAveSitakawako vartate . prAtaSca tenAtrAgatya karpUrasaraHsamIpe
+028.02A: candraBAgAnadItIre samAveSitakawakaH vartate . prAtar ca tena atra Agatya karpUrasaraH samIpe 
+028.02P: samAveSitakawakaH -- samAvAsitaM kawakaM senA yena saH .
+
+028.03F: Bavitavyamiti vyADAnAM muKAtkiMvadantI SrUyate . tadatrApi prAtaravasTAnaM 
+028.03A: Bavitavyam iti vyADAnAm muKAt kiMvadantI SrUyate . tad atra api prAtar avasTAnam 
+028.03P: kiMvadantI -- janaSrutiH . 'kopi vAdaH' kiMvadanti ( u.sU.3.128 pA.7.1.3. ) yadvA 'kiMvadanti' iti AKyAyamAnA . anukaraRaSabdAdAKyAnaRyantAt ityAdyamarawIkAkft .
+
+028.04F: BayahetukamityAlocya yaTAvasarakAryamAraByatAm . tacCrutvA kUrmaH saBayamAha --
+; avasara:  seasonableness?
+028.04A: Bayahetukam iti Alocya yaTA avasarakAryam AraByatAm . tad SrutvA kUrmaH saBayam Aha --
+028.04P: yaTAvasarakAryam -- avasaramanatikramya vartate yaTAvasaraM kAlocitaM kAryam . 
+
+028.05F: jalASayAntaraM gacCAmi . kAkamfgAvapyuktavantO -- evamastu . tato hiraRyako
+028.05A: jalASayAntaram gacCAmi . kAkamfgO api uktavantO -- evam astu . tatas hiraRyakaH
+028.05P: jalASayAntaram -- anyo jalASayaH jalASayAntaram . nityasamAsaH .
+
+028.06F: vihasyAha -- jalASayAntare prApte manTarasya kuSalam . sTale gacCataH kaH 
+028.06A: vihasya Aha -- jalASayAntare prApte manTarasya kuSalam . sTale gacCataH kaH
+
+028.07F: pratIkAraH . yataH .
+028.07A: pratIkAraH . yataH .
+
+028.08F: amBAMsi jalajantUnAM durgaM durganivAsinAm .
+028.08A: amBAMsi jalajantUnAm durgam durganivAsinAm .
+
+028.09F: svaBUmiH SvApadAdInAM rAjYAM mantrI paraM balam .. 193..
+028.09A: svaBUmiH SvApadAdInAm rAjYAm mantrI param balam .. 193..
+
+028.10F: saKe laGupatanaka anenopadeSena taTA Bavitavyam .
+028.10A: saKe laGupatanakaH anena upadeSena taTA Bavitavyam .
+
+028.11F: svayaM vIkzya yaTA baDvAH pIqitaM kucakuqmalam .
+028.11A: svayam vIkzya yaTA baDvAH pIqitam kucakuqmalam .
+
+028.12F: vaRikputro'BavadduHKI tvaM taTEva Bavizyasi .. 194 ..
+028.12A: vaRik putraH Bavat duHKI tvam taTA eva Bavizyasi .. 194 ..
+
+028.13F: ta UcuH -- kaTametat . hiraRyakaH kaTayati --
+028.13A: te UcuH -- kaTam etat . hiraRyakaH kaTayati --
+
+028.14F: .. kaTA 7 ..
+028.14A: .. kaTA 7 ..
+
+028.15F: asti kAnyakubjavizaye vIraseno nAma rAjA | tena vIrapuranAmni nagare tuNgabalo
+028.15A: asti kAnyakubjavizaye vIrasenaH nAma rAjA | tena vIrapuranAmni nagare tuNgabalaH
+
+028.16F: nAma rAjaputro BogapatiH kftaH . sa ca mahADanastaruRa ekadA svanagare BrAmyannatiprOQayOvanAM
+028.16A: nAma rAjaputraH BogapatiH kftaH . saH ca mahADanaH taruRaH ekadA svanagare BrAmyan atiprOQayOvanAm
+028.16P: BogapatiH -- prAntADipatiH , deSaviBAgasya SAsitA .
+
+028.17F: lAvaRyavatIM nAma vaRikputravaDUmAlokayAmAsa | tataH svaharmyaM gatvA
+028.17A: lAvaRyavatIm nAma vaRikputravaDUm AlokayAmAsa | tataH svaharmyam gatvA
+
+028.18F: smarAkulamatistasyAH kfte dUtIM prezitavAn . yataH . 
+028.18A: smarAkulamatiH tasyAH kfte dUtIm prezitavAn . yataH . 
+028.18P: smareti -- smarasya SarAstezAM prahArAstErjarjaritaM hfdayaM yasyAH . 
+
+028.19F: sanmArge tavadAste praBavati puruzastAvadevendriyARAM
+028.19A: sanmArge tavat Aste praBavati puruzaH tAvat eva indriyARAm
+028.19P: praBavati indriyARAM -- indriyARi vaSIkartuM Saknoti .
+
+028.20F: lajjAM tavadviDatte vinayamapi samAlambate tAvadeva .
+028.20A: lajjAm tavat viDatte vinayam api samAlambate tAvat eva .
+
+028.21F: BrUcApAkfzwamuktAH SravaRapaTagatA nIlapakzmARa ete
+; nIlapakzmARaH ? : dark eyelashes ?
+028.21A: BrUcApAkfzwamuktAH SravaRapaTagatAH nIlapakzmARaH ete
+028.21P: BrUcApa -- BrUreva cApaH BrUcApaH .
+028.21P+: AdO AkfzwAH paScAnmuktAH AkfzwamuktAH . BrUcApAdAkfzwamuktAH BrUcApena AkfzwAH muktASceti vA .
+028.21P++: SravaRa -- SravaRasya panTAH SravaRapaTaH taM gatAH .
+028.21P+++: nIla -- nIlapuMKavantaH .
+
+028.22F: yAvallIlAvatInAM na hfdi Dftimuzo dfzwibARAH patanti .. 195 ..
+028.22A: yAvat lIlAvatInAm na hfdi DftimuzaH dfzwibARAH patanti .. 195 ..
+028.22P: DftimuzaH -- DftiM muzRantIti .
+028.22P+: dfzwibARAH -- dfzwya eva bARAH .
+
+028.23F: sApi lAvaRyavatI tadavalokanakzaRAtpraBfti smaraSaraprahArajarjaritahfdayA 
+028.23A: sA api lAvaRyavatI tad avalokanakzaRAt praBfti smaraSaraprahArajarjaritahfdayA 
+028.23P: smareti -- smarasya SarAstezAM prahArAstErjarjaritaM hfdayaM yasyAH .
+
+028.24F: tad ekacittABavat . taTA hyuktam -- 
+028.24A: tad ekacittA aBavat . taTA hi uktam -- 
+028.24P: tadekacittA -- sa eva ekaH tadekaH tasmin sa vA cittaM citte vA yasyAH . tena saha ekaM cittaM yasyAH sA iti vA .
+
+028.25F: asatyaM sAhasaM mAyA mAtsaryaM cAtilubDatA .
+028.25A: asatyam sAhasam mAyA mAtsaryam ca atilubDatA .
+028.25P: mAyA -- kapawAcaraRam .
+
+028.26F: nirguRatvamaSOcatvaM strIRAM dozAH svaBAvajAH .. 196 ..
+028.26A: nirguRatvam aSOcatvam strIRAm dozAH svaBAvajAH .. 196 ..
+028.26P: nirguRatvaM -- guRanirAsaH .
+028.26P+: aSOcatvaM -- nAsti SOcaM pAvitryaM yasyAH sA aSOcA tasyAH BAvaH aSOcatvam . 

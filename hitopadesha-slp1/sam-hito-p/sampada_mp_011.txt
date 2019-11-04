@@ -1,0 +1,116 @@
+011.01F: anyacca . DarmArTakAmamokzARAM prARAH saMsTitahetavaH .
+011.01A: anyat ca . DarmArTakAmamokzARAm prARAH saMsTitahetavaH .
+
+; Kale translation hard to correspond
+011.02F: tAnniGnatA kiM na hataM rakzatA kiM na rakzitam .. 43..
+011.02A: tAn niGnatA kim na hatam rakzatA kim na rakzitam .. 43..
+
+011.03F: citragrIva uvAca -- saKe nItistAvadIdfSyeva .
+011.03A: citragrIvaH uvAca -- saKe nItiH tAvat IdfSi eva .
+
+011.04F: kiM tvahamasmadASritAnAM duHKaM soQuM sarvaTA'samarTaH . tenedaM
+011.04A: kim tu aham asmadASritAnAm duHKam soQum sarvaTA asamarTaH . tena idam
+011.04P : sarvaTA -- sarvaprakAreRa . prakAravacane TAla iti TAlpratyayaH .
+
+011.05F: bravImi . yataH .
+011.05A: bravImi . yataH .
+
+011.06F: DanAni jIvitaM cEva parArTe prAjYa utsfjet .
+011.06A: DanAni jIvitam ca eva parArTe prAjYaH utsfjet .
+
+011.07F: sannimitte varaM tyAgo vinASe niyate sati .. 44..
+011.07A: sannimitte varam tyAgaH vinASe niyate sati .. 44..
+011.07P: sat ca tat nimittaM ca tasmin . 
+011.07P+: niyate DruvaM BAvini .
+
+011.08F: ayamaparaScAsADAraRo hetuH .
+; sADAraRaH =? 'special'(Kale);  by MW, = 'similar'
+011.08A: ayam aparaH ca sADAraRaH hetuH .
+
+011.09F: jAtidravyaguRAnAM ca sAmyamezAM mayA saha .
+011.09A: jAtidravyaguRAnAm ca sAmyam ezAm mayA saha .
+
+011.10F: matpraButvaPalaM brUhi kadA kiM tadBavizyati .. 45..
+011.10A: matpraButvaPalam brUhi kadA kim tad Bavizyati .. 45..
+
+011.11F: anyacca . vinA vartanamevEte na tyajanti mamAntikam .
+; vartanam = wages (Kale)
+011.11A: anyat ca . vinA vartanam eva ete na tyajanti mama antikam .
+011.11P: vartanaM jIvanopAyam. veta na mityarTaH .
+
+011.12F: tanme prARavyayenApi jIvayEtAnmamASritAn .. 46..
+; jIvaya: cause to live
+011.12A: tad me prARavyayena api jIvaya etAn mama ASritAn .. 46..
+
+011.13F: kiM ca . mAMsamUtrapurIzAsTirnirmite'sminkalevare .
+011.13A: kim ca . mAMsamUtrapurIzAsTiH nirmite asmin kalevare .
+011.13P: kalevare SarIre .
+
+011.14F: vinaSvare vihAyAsTAM yaSaH pAlaya mitra me .. 47..
+; vihAyAsTAm : how to parse?  
+; maybe?:  vihAya AsTAm (=? Kale 'Giving up regard')
+011.14A: vinaSvare vihAya AsTAm yaSaH pAlaya mitra me .. 47..
+011.14P: vinaSvare iti -- yaSaHSarIre Bava me dayAluH iti anurUpaBAvaH raGuvaMSe . 2.57.
+
+; interesting syntax
+011.15F: aparaM ca . paSya . yadi nityamanityena nirmalaM malavAhinA .
+011.15A: aparam ca . paSya . yadi nityam anityena nirmalam malavAhinA .
+
+
+011.16F: yaSaH kAyena laByeta tanna labDaM Bavennu kim .. 48..
+011.16A: yaSaH kAyena laByeta tad na labDam Bavet nu kim .. 48..
+
+011.17F: yataH . SarIrasya guRAnAM ca dUramatyantamantaram .
+011.17A: yataH . SarIrasya guRAnAm ca dUram atyantam antaram .
+
+011.18F: SarIraM kzaRaviDvaMsi kalpAntasTAyino guRAH .. 49..
+011.18A: SarIram kzaRaviDvaMsi kalpAntasTAyinaH guRAH .. 49..
+
+011.19F: ityAkarRya hiraRyakaH prahfzwamanAH pulakitaH sannabravIt -- sADu
+; san: m1s of prap of 'as'(2P) = 'being'
+011.19A: iti AkarRya hiraRyakaH prahfzwamanAH pulakitaH san abravIt -- sADu
+11.19P: pulakitaH -- pulakA asya saMjAtAH sa pulakitaH romAYcitaH .
+
+; Kale typo ana-nASrita --> anenASrita
+011.20F: mitra sADu . anenASritavAtsalyena trElokyasyApi praButvaM
+011.20A: mitra sADu . anena ASritavAtsalyena trElokyasya api praButvam
+011.20P: ASritezu vAtsalyena snehena . AtmanyavjYeti AtmAnaM mA tiraskuru . matimatAM praSastabudDiSAlinAm . 
+
+011.21F: tvayi yujyate . evamuktvA tena sarvezAM banDanAni CinnAni .
+011.21A: tvayi yujyate . evam uktvA tena sarvezAm banDanAni CinnAni .
+
+011.22F: tato hiraRyakaH sarvAn sAdaraM sampUjyAha -- saKe citragrIva 
+011.22A: tataH hiraRyakaH sarvAn sAdaram sampUjya Aha -- saKe citragrIva 
+
+011.23F: sarvaTAtra jAlabanDanaviDO dozamASaNkyAtmanyavajYA na kartavyA . yataH . 
+011.23A: sarvaTA atra jAlabanDanaviDO dozam ASaNkya Atmani avajYA na kartavyA . yataH . 
+
+011.24F: yo'DikAdyojanaSatAtpaSyatIhAmizaM KagaH .
+011.24A: yaH aDikAt yojanaSatAt paSyati iha Amizam KagaH .
+
+011.25F: sa eva prAptakAlastu pASabanDaM na paSyati .. 50..
+011.25A: saH eva prAptakAlaH tu pASabanDam na paSyati .. 50..
+
+011.26F: aparaM ca . SaSidivAkarayorgrahapIqanaM gajaBujaNgamayorapi banDanam .
+011.26A: aparam ca . SaSidivAkarayoH grahapIqanam gajaBujaNgamayoH api banDanam .
+
+011.27F: matimatAM ca vilokya daridratAM viDiraho balavAniti me matiH .. 51..
+011.27A: matimatAm ca vilokya daridratAm viDiH aho balavAn iti me matiH .. 51..
+
+011.28F: anyacca . vyomEkAntavihAriRo'pi vihagAH samprApnuvantyApadaM
+011.28A: anyat ca . vyomEkAntavihAriRaH api vihagAH samprApnuvanti Apadam
+011.28P: vyomEkAnta -- ekaH antaH ekAntaH vyomnaH ekAntatasmin vihartuM SIlamezAmAkASEkadeSasaMcAriRAmityarTaH . 
+
+011.29F: baDyante nipuREragADasalilAnmatsyAH samudrAdapi .
+011.29A: baDyante nipuREH agADasalilAt matsyAH samudrAt api .
+011.29P: agADamatalasparSaM salilamudakaM yasya tasmAt .
+
+011.30F: durnItaM kimihAsti kiM sucaritaM kaH sTAnalABe guRaH
+011.30A: durnItam kim iha asti kim sucaritam kaH sTAnalABe guRaH
+011.30P: durnItaM -- durnayaH .
+011.30P+: sTAnalABe -- anukUlasTAnaprAptO .
+
+011.31F: kAlo hi vyasanaprasAritakaro gfhRAti dUrAd api .. 52..
+011.31A: kAlaH hi vyasanaprasAritakaraH gfhRAti dUrAt api .. 52..
+011.31P: vyasana -- vyasanameva prasAritaH karaH yena .
+011.31P+: gfhRAtyAtmavaSaM nayati . vipattermftyoH .

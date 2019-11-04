@@ -1,0 +1,77 @@
+001.01F: .. hitopadeSaH ..
+001.01A: .. hitopadeSaH ..
+001.01P: hitasya upadeSaH: hitopadeSaH . hitaScAsO upadeSaSca iti vA . sa eva lakzaRayA tatsaMjYaH granTaH . 
+
+001.02F: prastAvikA      
+001.02A: prastAvikA   
+
+001.03F: sidDiH sADye satAmastu prasAdAt tasya DUrjaweH .
+001.03A: sidDiH sADye satAm astu prasAdAt tasya DUrjaweH .
+001.03P: DUH BAraBUtA jawA yasya asO DUrjawiH . tasya DUrjaweH prasAdAt satAM sADye aBimatavizaye sidDiH astu .
+
+001.04F: jAhnavIPenaleKeva yanmUrDni SaSinaH kalA .. 1..
+001.04A: jAhnavIPenaleKA iva yanmUrDni SaSinaH kalA .. 1..
+001.04P: jAhnavIPenaleKeva -- jahnoH apatyaM strI jAhnavI tasyA Penasya leKA .
+001.04P+: yanmUrDni -- yasya mUrDA yanmUrDA tasmin .
+
+001.05F: Sruto hitopadeSo'yaM pAwavaM saMskftoktizu .
+001.05A: SrutaH hitopadeSaH ayam pAwavam saMskftoktizu .
+001.05P: SrutaH samyagaDItaH ityarTaH .
+001.05P+: pAwavaM -- pawoH BAvaH .
+
+001.06F: vAcAM sarvatra vEcitryaM nItividyAM dadAti ca .. 2..
+001.06A: vAcAm sarvatra vEcitryam nItividyAm dadAti ca .. 2..
+001.06P: vEcitryam -- vicitrasya BAvaH .
+001.06P+: nItividyAm -- nItiSAstrajYAnam .
+
+001.07F: ajarAmaravat prAjYo vidyAmarTaM ca cintayet .
+001.07A: ajarAmaravat prAjYaH vidyAm arTam ca cintayet .
+001.07P: ajarAmaravat -- jarayA nizkrAntaH ajaraH , nAsti jarA yasya iti vA . na mriyate asO amaraH ca ajarAmaraH tena tulyam .
+
+001.08F: gfhIta iva keSezu mftyunA DarmamAcaret .. 3..
+001.08A: gfhItaH iva keSezu mftyunA Darmam Acaret .. 3..
+
+001.09F: sarvadravyezu vidyEva dravyamAhuranuttamam .
+001.09A: sarvadravyezu vidyA eva dravyam AhuH anuttamam .
+001.09P: anuttamam -- nAsti uttamam yasmAt .
+
+001.10F: ahAryatvAdanarGatvAdakzayatvAcca sarvadA .. 4..
+001.10A: ahAryatvAt anarGatvAt akzayatvAt ca sarvadA .. 4..
+001.10P: ahAryatvAt -- hartuM yogyaM SakyaM vA na BavatIti ahAryaM tasya BAvaH ahAryatvam . evam anarzyatvAdi .
+
+; Muller has saMgamayati.  Either word plausible
+001.11F: saMyojayati vidyEva nIcagApi naraM sarit .
+001.11A: saMyojayati vidyA eva nIcagA api naram sarit .
+001.11P: vidyA eva nIcagApi [satI] naraM durDarzaM nfpaM saMyojayati nIcagApi sarit durDarzaM samudramiva .
+
+; Muller uses 'durDarzaM', which makes more sense; this text so changed.
+; Kale also 'durDarzaM'
+001.12F: samudramiva durDarzaM nfpaM BAgyamataH param .. 5..
+001.12A: samudram iva durDarzam nfpam BAgyam ataH param .. 5..
+001.12P: durdarzamiti pAWaH . ataH nfpAtsamudrAcca paraM mahat BAgyaM ataHparaM narasya BAgyamiti vA .
+
+001.13F: vidyA dadAti vinayaM vinayAdyAti pAtratAm .
+001.13A: vidyA dadAti vinayam vinayAt yAti pAtratAm .
+001.13P: vidyeti -- atra kAraRamAlAlaMkAraH .
+001.13P+: tallakzaRaM yaTA -- yaTottaraM cetpUrvasya pUrvasyArTasya hetutA . tadA kAraRamAlA syAt. kA . pra . (sAhi . da . 10.76)
+
+001.14F: pAtratvAdDanamApnoti DanAdDarmaM tataH suKam .. 6..
+001.14A: pAtratvAt Danam Apnoti DanAt Darmam tataH suKam .. 6..
+
+001.15F: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
+001.15A: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
+001.15P: Sastrasya vidyA , SAstrasya vidyA , ete dve vidye pratipattaye kIrtaye BavataH . 
+
+001.16F: AdyA hAsyAya vfdDatve dvitIyAdriyate sadA .. 7..
+; Kale typo: ditIyA -> dvitIyA
+001.16A: AdyA hAsyAya vfdDatve dvitIyA Adriyate sadA .. 7..
+
+001.17F: yannave BAjane lagnaH saMskAro nAnyaTA Bavet .
+001.17A: yad nave BAjane lagnaH saMskAraH na anyaTA Bavet .
+001.17P: yaTA nave BAjane AmaBAjane ityarTaH . 
+001.17P+: lagnaH saMskAraH anyaTA na Bavet svasTAnAtpracyAvayituM pramArzwuM vA na Sakyate
+
+001.18F: kaTAcCalena bAlAnAM nItistadiha kaTyate .. 8..
+001.18A: kaTAcCalena bAlAnAm nItiH tad iha kaTyate .. 8..
+001.18P: taTA bAlA api nItimaDyApitAScetsA tezAM cetasi dfQaM padaM kuryAditi hetoH sA kaTAmizeRa bAlAnAmiha kaTyate .
+

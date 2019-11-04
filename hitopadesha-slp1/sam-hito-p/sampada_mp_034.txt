@@ -1,0 +1,115 @@
+034.01F: anyacca . aYjanasya kzayaM dfzwvA valmIkasya ca saMcayam .
+034.01A: anyat ca . aYjanasya kzayam dfzwvA valmIkasya ca saMcayam .
+
+034.02F: avanDyaM divasaM kuryAddAnADyayanakarmasu .. 10 ..
+034.02A: avanDyam divasam kuryAt dAnADyayanakarmasu .. 10 ..
+034.02P: avanDyam saFalam .
+034.02P+: dAnADyayanakarmasu -- dAnaM ca aDyayanaM ca karma vyavasAyaSca tezu . tEH iti yAvat . tftIyArTe saptamI . yadvA etezAM maDye ekena avanDyaM divasaM kuryAt .
+
+034.03F: yataH . jalabindunipAtena kramaSaH pUryate GawaH .
+034.03A: yataH . jalabindunipAtena kramaSaH pUryate GawaH .
+
+034.04F: sa hetuH sarvavidyAnAM Darmasya ca Danasya ca .. 11..
+034.04A: saH hetuH sarvavidyAnAm Darmasya ca Danasya ca .. 11..
+
+034.05F: dAnopaBogarahitA divasA yasya yAnti vE .
+034.05A: dAnopaBogarahitAH divasAH yasya yAnti vE .
+
+034.06F: sa karmakAraBastreva Svasann api na jIvati .. 12 ..
+034.06A: saH karmakAraBastrA iva Svasan api na jIvati .. 12 ..
+034.06P: karmakAraBastrA karmakAraH lohakArAdistasya BastrA dftiH carmaprasevikA . 'BastrA carmaprasevikA' ityamaraH .
+
+034.07F: iti saMcintya nandakasaMjIvakanAmAnO vfzaBO Duri niyojya
+; nAmAnO:  m2d nAman -- decline as m. cf. rAjAnO
+034.07A: iti saMcintya nandakasaMjIvakanAmAnO vfzaBO Duri niyojya
+
+034.08F: SakawaM nAnAviDadravyapUrRaM kftvA vARijyena gataH kASmIraM prati .
+034.08A: Sakawam nAnAviDadravyapUrRam kftvA vARijyena gataH kASmIraM prati .
+034.08P: vARijyena -- vARijyaM kartum . hetO tftIyA .
+
+034.09F: ko'tiBAraH samarTAnAM kiM dUraM vyavasAyinAm .
+034.09A: kaH atiBAraH samarTAnAm kim dUram vyavasAyinAm .
+
+034.10F: ko videSaH savidyAnAM kaH paraH priyavAdinAm .. 13..
+034.10A: kaH videSaH savidyAnAm kaH paraH priyavAdinAm .. 13..
+
+034.11F: aTa gacCatastasya sudurganAmni mahAraRye
+034.11A: aTa gacCataH tasya sudurganAmni mahAraRye
+
+034.12F: saMjIvako BagnajAnurnipatitaH . tamAlokya varDamAno'cintayat --
+034.12A: saMjIvakaH BagnajAnuH nipatitaH . tam Alokya varDamAnaH acintayat --
+
+034.13F: karotu nAma nItijYo vyavasAyamitastataH .
+034.13A: karotu nAma nItijYaH vyavasAyam itas tatas .
+
+034.14F: PalaM punastadevAsya yad viDermanasi sTitam .. 14..
+034.14A: Palam punar tad eva asya yad viDeH manasi sTitam .. 14..
+034.14P: viDeH : dEvasya .
+
+034.15F: kiM tu . vismayaH sarvaTA heyaH pratyUhaH sarvakarmaRAm .
+034.15A: kim tu . vismayaH sarvaTA heyaH pratyUhaH sarvakarmaRAm .
+034.15P: vismayaH cittasya paryAkulatA . 
+034.15P+: heyastyaktavyaH .
+034.15P++: pratyUhaH -- viGnaH .
+
+034.16F: tasmAdvismayamutsfjya sADye sidDirviDIyatAm .. 15..
+034.16A: tasmAt vismayam utsfjya sADye sidDiH viDIyatAm .. 15..
+
+034.17F: iti saMcintya saMjIvakaM tatra parityajya
+034.17A: iti saMcintya saMjIvakam tatra parityajya
+
+034.18F: varDamAnaH punaH svayaM DarmapuraM nAma nagaraM gatvA mahAkAyamanyaM
+034.18A: varDamAnaH punar svayam Darmapuram nAma nagaram gatvA mahAkAyam anyam
+
+034.19F: vfzaBamekaM samAnIya Duri niyojya calitaH . tataH saMjIvako'pi
+034.19A: vfzaBam ekam samAnIya Duri niyojya calitaH . tataH saMjIvakaH api
+
+034.20F: kaTaM kaTamapi Kuratraye BaraM kftvotTitaH . yataH .
+034.20A: kaTam kaTam api Kuratraye Baram kftvA utTitaH . yatas .
+034.20P: kaTaM kaTamapi mahatA prayAsena .
+
+034.21F: nimagnasya payorASO parvatAtpatitasya ca .
+034.21A: nimagnasya payorASO parvatAt patitasya ca .
+
+034.22F: takzakeRApi dazwasya AyurmarmARi rakzati .. 16..
+034.22A: takzakeRa api dazwasya AyuH marmARi rakzati .. 16..
+034.22P: AyuH -- dIrGamAyuH syAt cet . sati Ayuzi marmABiGAtaH na Bavati iti BAvaH .
+
+034.23F: nAkAle mriyate janturvidDaH SaraSatErapi .
+034.23A: na akAle mriyate jantuH vidDaH SaraSatEH api .
+
+034.24F: kuSAgreRApi saMspfzwaH prAptakAlo na jIvati .. 17..
+034.24A: kuSAgreRa api saMspfzwaH prAptakAlaH na jIvati .. 17..
+
+034.25F: arakzitaM tizWati dEvarakzitaM
+034.25A: arakzitam tizWati dEvarakzitam
+
+034.26F: surakzitaM dEvahataM vinaSyati .
+034.26A: surakzitam dEvahatam vinaSyati .
+
+034.27F: jIvatyanATo'pi vane visarjitaH
+034.27A: jIvati anATaH api vane visarjitaH
+
+034.28F: kftaprayatno'pi gfhe na jIvati .. 18..
+034.28A: kftaprayatnaH api gfhe na jIvati .. 18..
+
+034.29F: tato dinezu
+034.29A: tataH dinezu
+
+034.30F: gacCatsu saMjIvakaH svecCAhAravihAraM kftvAraRyaM BrAmyan
+034.30A: gacCatsu saMjIvakaH svecCAhAravihAram kftvA araRyam BrAmyan
+
+034.31F: hfzwapuzwANgo balavannanAda . tasminvane piNgalakanAmA siMhaH
+034.31A: hfzwapuzwANgaH balavat nanAda . tasmin vane piNgalakanAmA siMhaH
+034.31P: balavat -- uccEH .
+
+034.32F: svaBujopArjitarAjyasuKamanuBavannivasati . taTA coktam --
+034.32A: svaBujopArjitarAjyasuKam anuBavan nivasati . taTA ca uktam --
+
+034.33F: nABizeko na saMskAraH siMhasya kriyate mfgEH .
+034.33A: na aBizekaH na saMskAraH siMhasya kriyate mfgEH .
+
+034.34F: vikramArjitarAjyasya svayameva mfgendratA .. 19..
+034.34A: vikramArjitarAjyasya svayam eva mfgendratA .. 19..
+
+

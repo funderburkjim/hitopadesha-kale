@@ -1,0 +1,117 @@
+027.01F: taTA hi . janmani kleSabahule kiM nu duHKamataH param .
+027.01A: taTA hi . janmani kleSabahule kim nu duHKam atas param .
+
+027.02F: icCAsampadyato nAsti yaccecCA na nivartate .. 185..
+027.02A: icCAsampad yataH na asti yad ca icCA na nivartate .. 185..
+027.02P: icCAsampat yAvatI icCA tAvatI sampat .
+
+027.03F: anyacca BrAtaH SfRu .
+027.03A: anyat ca BrAtar SfRu .
+
+027.04F: DanaM tAvad asulaBaM labDaM kfcCreRa rakzyate .
+; tAvat = first (in this context)
+027.04A: Danam tAvat asulaBam labDam kfcCreRa pAlyate .
+
+027.05F: labDanASo yaTA mftyustasmAdetanna cintayet .. 186..
+027.05A: labDanASaH yaTA mftyuH tasmAt etad na cintayet .. 186..
+
+027.06F: tfzRAM ceha parityajya ko daridraH ka ISvaraH .
+027.06A: tfzRAm ca iha parityajya kaH daridraH kaH ISvaraH .
+
+027.07F: tasyASce prasaro datto dAsyaM ca Sirasi sTitam .. 187..
+027.07A: tasyAH ced prasaraH dattaH dAsyam ca Sirasi sTitam .. 187..
+027.07P: prasaraH -- avakASaH .
+
+027.08F: aparaM ca . yadyadeva hi vAYCeta tato vAYCAnuvartate .
+027.08A: aparam ca . yad yad eva hi vAYCeta tataH vAYCA anuvartate .
+
+027.09F: prAptaH evArTataH so'rTo yato vAYCA nivartate .. 188..
+027.09A: prAptaH eva arTataH saH arTaH yataH vAYCA nivartate .. 188..
+
+027.10F: kiM bahunA . mama pakzapAtena mayEva sahAtra kAlo nIyatAm . yataH .
+027.10A: kim bahunA.  mama pakzapAtena mayA eva saha atra kAlaH nIyatAm . yataH .
+027.10P: pakzapAtena -- snehAnuvfttyetyarTaH .
+
+027.11F: AmraRAntAH praRayAH kopAstatkzaRaBaNgurAH .
+; praRaya = 'friendship' 
+027.11A: AmaraRAntAH praRayAH kopAH tad kzaRaBaNgurAH .
+
+027.12F: parityAgASca niHsaNgA Bavanti hi mahAtmanAm .. 189..
+027.12A: parityAgAH ca niHsaNgAH Bavanti hi mahAtmanAm .. 189..
+027.12P: parityAgAH dAnAni . 'tyAgo dAne ca varjane' iti medinI .
+027.12P+: niHsaNgAH -- PalApekzArahitAH .
+027.12P++: 'dAtavyamiti yaddAnaM dIyate'nupakAriRe' iti BagavaduktatvAt .
+
+027.13F: iti SrutvA laGupatanako brUte -- Danyo'si manTara sarvadA SlAGyaguRo'si . yataH .
+027.13A: iti SrutvA laGupatanakaH brUte -- DanyaH asi manTara sarvadA SlAGyaguRaH asi . yataH .
+
+027.14F: santa eva satAM nityamApadudDaraRakzamAH .
+; santa  ? how to parse: santaH = nom. pl. m. of prap 'sat' of 'as' (Huet)
+027.14A: santaH eva satAm nityam ApadudDaraRakzamAH .
+
+027.15F: gajAnAM paNkamagnAnAM gajA eva DuraMDarAH .. 190..
+027.15A: gajAnAm paNkamagnAnAm gajAH eva DuraMDarAH .. 190..
+027.15P: DuraMDarAH DuraM DArayantIti . gajodDaraRaBAraM nirvoQuM kzamAH ityarTaH . 
+
+027.16F: SlAGyaH sa eko Buvi mAnavAnAM sa uttamaH satpuruzaH sa DanyaH .
+027.16A: SlAGyaH saH ekaH Buvi mAnavAnAm saH uttamaH satpuruzaH saH DanyaH .
+
+027.17F: yasyArTino vA SaraRAgatA vA nASAviBaNgAdvimuKAH prayAnti .. 191..
+027.17A: yasya arTinaH vA SaraRAgatAH vA na ASAviBaNgAt vimuKAH prayAnti .. 191..
+027.17P: yasyArTinaH -- atra kAlidAsaH -- kzudrepi nUnaM SaraRaM prapanne mamatvamuccEH SirasAM satIva . 
+
+027.18F: tadevaM te svecCAhAravihAraM kurvARAH saMtuzwAH suKaM nivasanti.
+027.18A: tad evam te svecCAhAravihAram kurvARAH saMtuzwAH suKam nivasanti.
+
+027.19F: aTa kadAciccitrANganAmA mfgaH kenApi trAsitastatrAgatya militaH . tataH
+; trAsitaH ?  what grammatical form? trAsin + tas ?  frightened
+;      Huet: nom. sgn. m. trAsita  ca. pp. tras
+;      (past passive part. of causal tras)
+; nAmA  ?: what grammatical form of nAman?  Maybe m. 1st person sing (like rAjan-rAjA).
+;      tricky since nAman itself is neuter.
+027.19A: aTa kadA cid citrANganAmA mfgaH kena api trAsitaH tatra Agatya militaH . tataH
+
+027.20F: tatpaScAdAyAntaM BayahetumAlokya manTaro jalaM pravizwaH . mUzikaSca vivaraM gataH . 
+; AyAntam  ? how to parse?  related to AyA
+;            m2s of AyAt (Huet) - prap of AyA?
+027.20A: tad paScAt AyAntam Bayahetum Alokya manTaraH jalam pravizwaH . mUzikaH ca vivaram gataH .
+027.20P: Bayahetum -- Bayasya hetuM kAraRaM vyADAdikam .
+
+027.21F: kAko'pyuqqIya vfkzAgramArUQaH . tato laGupatanakena sudUraM nirUpya Bayaheturna ko'pyAyAtItyAlocitam .
+027.21A: kAkaH api uqqIya vfkzAgram ArUQaH . tatas laGupatanakena sudUram nirUpya BayahetuH na kaH api AyAti iti Alocitam  .
+
+027.22F: paScAttadvacanAdAgatya punaH sarve militvA tatrEvopavizwAH .
+027.22A: paScAt tad vacanAt Agatya punaH sarve militvA tatra eva upavizwAH .
+
+027.23F: manTareRoktaM -- Badram . mfga svAgatam . svecCayodakAdyAhAro'nuBUyatAm . atrAvasTAnena 
+027.23A: manTareRa uktam -- Badram . mfga svAgatam . svecCayA udakAdi AhAraH anuBUyatAm . atra avasTAnena 
+
+027.24F: vanamidaM sanATIkriyatAm . citrANgo brUte -- lubDakatrAsito'haM BavatAM 
+027.24A: vanam idam sanATIkriyatAm . citrANgaH brUte -- lubDakatrAsitaH aham BavatAm 
+
+027.25F: SaraRamAgataH . BavadBiH saha saKyamicCAmi . hiraRyako'vadat -- mitra tattAvadasmABiH 
+027.25A: SaraRam AgataH . BavadBiH saha saKyam icCAmi . hiraRyakaH avadat -- mitra tat tAvat asmABiH 
+
+027.26F: sahAyatnena nizpannameva BavataH . yataH . 
+027.26A: saha ayatnena nizpannam eva BavataH . yataH . 
+
+027.27F: OrasaM kftasaMbanDaM taTA vaMSakramAgatam .
+027.27A: Orasam kftasaMbanDam taTA vaMSakramAgatam .
+027.27P: Orasam urasA nirmitam . yaTA BrAtrAdi .
+
+027.28F: rakzitaM vyasaneByaSca mitraM jYeyaM caturviDam .. 192..
+027.28A: rakzitam vyasaneByaH ca mitram jYeyam caturviDam .. 192..
+
+027.29F: tad atra BavatA svagfhanirviSezaM sTIyatAm . tacCrutvA mfgaH sAnando BUtvA 
+027.29A: tad atra BavatA svagfhanirviSezam sTIyatAm . tad SrutvA mfgaH sAnandaH BUtvA 
+027.29P: svagfhanirviSezaM svagfhAt nirgataH viSezaH yasminkarmaRi tadyaTA taTA .
+
+027.30F: svecCAhAraM kftvA pAnIyaM pItvA jalAsannatarucCAyAyAmupavizwaH . aTa manTareRoktam --
+027.30A: svecCAhAram kftvA pAnIyam pItvA jalAsannatarucCAyAyAm upavizwaH . aTa manTareRa uktam --
+
+027.31F: saKe mfga etasminnirjane vane kena trAsito'si . kadAcitkiM vyADAH
+027.31A: saKe mfga etasmin nirjane vane kena trAsitaH asi . kadA cid kim vyADAH 
+
+027.32F: saMcaranti . mfgeRoktam .
+027.32A: saMcaranti . mfgeRa uktam .
+

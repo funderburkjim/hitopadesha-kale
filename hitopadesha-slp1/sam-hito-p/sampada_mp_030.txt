@@ -1,0 +1,124 @@
+030.01F: kfSamapi vikalaM vA vyADitaM vA'DanaM vA
+030.01A: kfSam api vikalam vA vyADitam vA aDanam vA
+030.01P: vikalaM vikalANgamityarTaH . api sarvatra yojyaH vikalamapi patiM kulanArI api ityanvayaH . mAlinIvfttam . tallakzaRam -- nanamayayayuteyaM mAlinI BogilokEH .
+
+030.02F: patimapi kulanArI daRqaBItyAByupEti .. 203..
+030.02A: patim api kulanArI daRqaBItyA aByupEti .. 203..
+; 
+030.03F: tadyaTA lagnavelA na vicalati taTA kftvA
+030.03A: tad yaTA lagnavelA na vicalati taTA kftvA
+030.03P: lagnavelA SuBarASerudayavelA sumuhUrtaH . 'rASInAmudayo lagnam' ityamaraH . 
+
+030.04F: satvaramAgamyatAM devena . ityuktvotTAya calitaH . tato'sO
+030.04A: satvaram AgamyatAm devena . iti uktvA utTAya calitaH . tataH asO
+
+030.05F: rAjyalABAkfzwaH karpUratilakaH SfgAlavartmanA DAvan
+030.05A: rAjyalABAkfzwaH karpUratilakaH SfgAlavartmanA DAvan
+
+030.06F: mahApaNke nimagnaH . tatastena hastinoktam -- saKe SfgAla kimaDunA
+030.06A: mahApaNke nimagnaH . tataH tena hastinA uktam -- saKe SfgAla kim aDunA
+
+030.07F: viDeyam . paNke nipatito'haM mriye . parAvftya paSya .
+030.07A: viDeyam . paNke nipatitaH aham mriye . parAvftya paSya .
+
+030.08F: SfgAlena vihasyoktam -- deva mama pucCakAvalambanaM kftvottizWa .
+030.08A: SfgAlena vihasya uktam -- deva mama pucCakAvalambanam kftvA uttizWa .
+
+030.09F: yanmadviDasya vacasi tvayA pratyayaH
+; madviDasya : mad-viDA in masculine declension
+030.09A: yad madviDasya vacasi tvayA  pratyayaH
+
+030.10F: kftastatad anuBUyatAmaSaraRaM duHKam . taTA coktam --
+030.10A: kftaH tasya tad anuBUyatAm aSaraRam duHKam . taTA ca uktam --
+030.10P: aSaraRaM nAsti SaraRaM yasya . apratIkAraM iti yAvat .
+
+030.11F: yadi satsaNganirato Bavizyasi  Bavizyasi .
+030.11A: yadi satsaNganirataH Bavizyasi Bavizyasi .
+030.11P: yadi satsaNganirataH Bavizyasi tarhi Bavizyasi AyatyAM suKena vatsyasi .
+
+030.12F: taTA'sajjanagozWIzu patizyasi patizyasi .. 204..
+030.12A: taTA asajjanagozWIzu patizyasi patizyasi .. 204..
+030.12P: yadi asajjanamelake patizyasi tarhi patizyasi tava pAtaH DruvaM Bavizyati . 'yadA satsaNgarahitaH' iti pAWe yadA yadA sajjanasaMgatiM hAsyasi tadA tadA SaWAnAM haste patizyasi ityarTaH .
+
+030.13F: tato mahApaNke nimagno hastI SfgAlErBakzitaH .
+030.13A: tataH mahApaNke nimagnaH hastI SfgAlEH BakzitaH .
+
+030.14F: ato'haM bravImi -- upAyena hi yacCakyam ityAdi ..
+030.14A: ataH aham bravImi -- upAyena hi yad Sakyam ityAdi ..
+
+030.15F: tataH kuwwanyupadeSena taM cArudattanAmAnaM vaRikputraM sa rAjaputraH
+030.15A: tataH kuwwanyupadeSena tam cArudattanAmAnam vaRikputram saH rAjaputraH
+
+030.16F: sevakaM cakAra . tato'sO tena sarvaviSvAsakAryezu niyojitaH . 
+030.16A: sevakam cakAra . tataH asO tena sarvaviSvAsakAryezu niyojitaH . 
+
+030.17F: ekadA tena rAjaputreRa snAtAnuliptena kanakaratnAlaMkAraDAriRA proktam -- adyAraBya
+030.17A: ekadA tena rAjaputreRa snAtAnuliptena kanakaratnAlaMkAraDAriRA proktam -- adya AraBya
+
+030.18F: mAsamekaM mayA gOrIvrataM kartavyam . tadatra pratirAtramekAM kulInAM yuvatImAnIya
+030.18A: mAsam ekam mayA gOrIvratam kartavyam . tad atra pratirAtram ekAm kulInAm yuvatIm AnIya
+
+030.19F: samarpaya . sA mayA yaTocitena viDinA pUjayitavyA | tataH sa cArudattastaTAviDAM
+030.19A: samarpaya  . sA mayA yaTA ucitena viDinA pUjayitavyA | tataH saH cArudattaH taTAviDAm
+
+030.20F: navayuvatImAnIya samarpayati . paScAtpracCannaH sankimayaM karotIti nirUpayati .
+030.20A: navayuvatIm AnIya samarpayati . paScAt pracCannaH san kim ayam karoti iti nirUpayati .
+
+030.21F: sa ca tuNgabalastAM yuvatImaspfSanneva dUrAdvastrAlaMjAraganDacandanEH saMpUjya rakzakaM datvA
+030.21A: saH ca tuNgabalaH tAm yuvatIm aspfSan eva dUrAt vastrAlaMkAraganDacandanEH saMpUjya rakzakan datvA
+
+030.22F: prasTApayati . aTa vaRikputreRa tad dfzwvopajAtaviSvAsena loBAkfzwamanasA svavaDUH
+030.22A: prasTApayati . aTa vaRikputreRa tad dfzwvA upajAtaviSvAsena loBAkfzwamanasA svavaDUH
+
+030.23F: lAvaRyavatI samAnIya samarpitA . sa ca tuNgabalastAM hfdayapriyAM lAvaRyavatIM
+030.23A: lAvaRyavatI samAnIya samarpitA . saH ca tuNgabalaH tAm hfdayapriyAm lAvaRyavatIm
+
+030.24F: vijYAya saMBramamutTAya nirBaramAliNgya nimIlitAkzaH paryaNke tayA saha vilalAsa .
+030.24A: vijYAya saMBramam utTAya nirBaram AliNgya nimIlitAkzaH paryaNke tayA saha vilalAsa .
+
+030.25F: tadavalokya vaRikputraScitraliKita ivetikartavyatAmUQaH paraM vizAdamupagataH .
+030.25A: tad avalokya vaRikputraH citraliKitaH iva iti kartavyatA mUQaH param vizAdam upagataH .
+
+030.26F: ato'haM bravImI -- svayaM vIkzya ityAdi .. taTA tvayApi	Bavitavam iti . 
+030.26A: atas aham bravImI -- svayam vIkzya ityAdi .. taTA tvayA api Bavitavyam iti . 
+
+030.27F: tadDitavacanamavaDIrya mahatA Bayena vimugDa iva
+030.27A: tadDitavacanam avaDIrya mahatA Bayena vimugDaH iva
+030.27P: tadDita -- tat hiraRyakoktaM hitaM kalyARodarkaM ityarTaH .
+030.27P+: vimugDaH kartavyamUQaH .
+
+; manTarasstajjalASayamutsfjya pracalitaH ->
+; taM jalASayamutsfjya manTaraScalitaH
+030.28F: taM jalASayamutsfjya manTaraScalitaH . te'pi hiraRyakAdayaH
+030.28A: tam jalASayam utsfjya manTaraH calitaH . te api hiraRyakAdayaH
+
+030.29F: snehAdanizwaM
+030.29A: snehAt anizwam
+
+; SaNkamAnAstamanujagmuH -> SaNkamAnA manTaramanugacCanti
+; vane ->kAnanaM
+030.30F: SaNkamAnA manTaramanugacCanti. tataH sTale gacCankenApi vyADena kAnanaM
+030.30A: SaNkamAnAH manTaram anugacCanti . tataH sTale gacCan kena api vyADena kAnanam
+
+030.31F: paryawatA manTaraH prAptaH . prApya ca taM gfhItvotTApya Danuzi
+; paryawatA ? how to parse,  related to pari-aw ? Guess: awatA = m3s of prap 'awat' of 'aw'
+; wandering.
+030.31A: paryawatA manTaraH prAptaH .  prApya tam gfhItvA utTAya Danuzi
+
+030.32F: badDvA  BramkleSAtkzutpipAsAkulaH
+030.32A: badDvA BramakleSAt kzutpipAsAkulaH
+
+030.33F: svagfhABimuKaScalitaH . aTa  mfgavAyasamUzikAH paraM
+030.33A: svagfhABimuKaH calitaH . aTa mfgavAyasamUzikAH param
+
+; vizAdamupagatAH tam anugacCanti sma -> vizAdaM gacCantastamanujagmuH
+030.34F: vizAdaM gacCantastamanujagmuH . tato hiraRyako vilapati --
+030.34A: vizAdam gacCantaH tam anujagmuH . tataH hiraRyakaH vilapati --
+
+030.35F: ekasya duHKasya na yAvanantaM gacCAmyahaM pAramivArRavasya .
+030.35A: ekasya duHKasya na yAvat antam gacCAmi aham pAram iva arRavasya .
+030.35P: arRavaH -- arRAMsi asya santi .
+
+030.36F: tAvad dvitIyaM samupasTitaM me CidrezvanarTA bahulIBavanti .. 205..
+030.36A: tAvat dvitIyam samupasTitam me Cidrezu anarTAH bahulIBavanti .. 205..
+030.36P: Cidrezviti -- ApadApadanubanDinIti BAvaH . 

@@ -1,0 +1,76 @@
+033.01F: aparaM ca . brahmahApi naraH pUjyo yasyAsti vipulaM Danam .
+033.01A: aparam ca . brahmahA api naraH pUjyaH yasya asti vipulam Danam .
+
+033.02F: SaSinastulyavaMSo'pi nirDanaH pariBUyate .. 3..
+033.02A: SaSinaH tulyavaMSaH api nirDanaH pariBUyate .. 3..
+033.02P: SaSinaH vaMSasya iti SezaH .  == Sampada email check p. 33
+
+033.03F: anyacca . avyavasAyinamalasaM dEvaparaM sAhasAcca parihIRam .
+033.03A: anyat ca . avyavasAyinam alasam dEvaparam sAhasAt ca parihIRam .
+033.03P: avyavasAyinam -- vyavasAyaH asyAstIti vyavasAyI na vyavasAyI avyavasAyI taM anudyoginam . aTavA nacCIlye RiniH .
+033.03P+: dEvaparaM -- dEvaM paraM yasya dEvAvalambinamityarTaH . 
+
+033.04F: pramadeva hi vfdDapatiM necCatyupagUhituM lakzmIH .. 4..
+033.04A: pramadA iva hi vfdDapatim na icCati upagUhitum lakzmIH .. 4..
+033.04P: pramadA prakfzwo mado'syA astIti taruRI .
+033.04P+: upagUhituM AliMgitum .
+
+033.05F: kiM ca . AlasyaM strIsevA sarogatA janmaBUmivAtsalyam .
+033.05A: kim ca . Alasyam strIsevA sarogatA janmaBUmivAtsalyam .
+
+033.06F: saMtozo BIrutvaM zaq vyAGAtA mahattvasya .. 5..
+033.06A: saMtozaH BIrutvam zaq vyAGAtAH mahattvasya .. 5..
+033.06P: vyAGAtAH -- viGnAH pratibanDAH .
+
+033.07F: yataH . sampadA susTiraMmanyo Bavati svalpayApi yaH .
+033.07A: yataH . sampadA susTiram manyaH Bavati svalpayA api yaH .
+
+033.08F: kftakftyo viDirmanye na varDayati tasya tAm .. 6..
+033.08A: kftakftyaH viDiH manye na varDayati tasya tAm .. 6..
+
+033.09F: aparaM ca . nirutsAhaM nirAnandaM nirvIryamarinandanam .
+033.09A: aparam ca . nirutsAham nirAnandam nirvIryam arinandanam .
+
+033.10F: mA sma sImantinI kAcijjanayetputramIdfSam .. 7..
+033.10A: mA sma sImantinI kA cid janayet putram IdfSam .. 7..
+033.10P: sImantinI -- sImantaH keSaveSaH asyA asti iti .
+
+033.11F: taTA coktam . alabDaM cEva lipseta labDaM rakzet avekzayA .
+; lipseta: grammatical form ?  optative 3s of desiderative of 'laB' (desire to gain)
+033.11A: taTA ca uktam . alabDam ca eva lipseta labDam rakzet prayatnatas .
+033.11P: lipseta -- labDuM icCet .
+033.11P+: avekzayA -- vyayApavyayAdO samyakparyAlocanena .
+
+033.12F: rakzitaM varDayetsamyagvfdDaM tIryezu nikzipet .. 8..
+; tIryezu 7s of tIrya - can't find tIrya. Kale: 'worthy recipients'
+033.12A: rakzitam varDayet samyak vfdDam tIryezu nikzipet .. 8..
+033.12P: <tIrTezu .... iti medinI>
+
+033.13F: yato'labDamanicCato'nudyogAdarTAprAptireva .
+033.13A: yatas alabDam anicCataH anudyogAt arTAprAptiH eva .
+033.13P: arTayogAt -- arTasya yogAt vidyamAnaDanasADanAt .
+033.13P+: yaH alabDaM icCati sa tatprAptyarTaM vidyamAnaDanena vyavasAyaM kurute aDikaM DanaM laBate ceti . pAWAntarasyArTaH . 
+
+033.14F: labDasyApyarakzitasya niDerapi svayaM vinASaH . api ca .
+033.14A: labDasya api arakzitasya niDeH api svayam vinASaH . api ca .
+
+033.15F: avarDamAnaScArTaH kAle svalpavyayo'pyaYjanavatkzayameti .
+033.15A: avarDamAnaH ca arTaH kAle svalpavyayaH api aYjanavat kzayam eti .
+033.15P: aYjanavat -- aYjanaM yaTA svalpamapi upayujyamAnaM vyayameti taTA .
+
+033.16F: anupaBujyamAnaSca nizprayojana eva saH . taTA coktam --
+033.16A: anupaBujyamAnaH ca nizprayojanaH eva saH . taTA ca uktam --
+
+033.17F: Danena kiM yo na dadAti nASnute
+033.17A: Danena kim yaH na dadAti na aSnute
+033.17P: Danena -- tasya iti sarvatrADyAhAryam .
+
+033.18F: balena kiM yaSca ripUnna bADate .
+033.18A: balena kim yaH ca ripUn na bADate .
+
+033.19F: Srutena kiM yo na ca DarmamAcaret
+033.19A: Srutena kim yaH na ca Darmam Acaret
+
+033.20F: kimAtmanA yo na jitendriyo Bavet .. 9..
+033.20A: kim AtmanA yaH na jitendriyaH Bavet .. 9..
+

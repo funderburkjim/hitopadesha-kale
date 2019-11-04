@@ -1,0 +1,100 @@
+003.01F: ko Danyo bahuBiH putrEH kuSUlApUraRAQakEH .
+;   From MW:  granaray-filling-measures
+003.01A: kaH DanyaH bahuBiH putrEH kuSUlApUraRAQakEH .
+003.01P: kuSUlA -- ApUrayanti iti ApUraRAH . 
+003.01P+: kuSulasya ApUraRAH te ca te AQakAH ca . kevalaM viSizwasaMKyApUrakEH na tu guRamaRqitEH ityarTaH .
+
+003.02F: varamekaH kulAlambI yatra viSrUyate pitA .. 20..
+003.02A: varam ekaH kulAlambI yatra viSrUyate pitA .. 20..
+
+003.03F: fRakartA pitA SatrurmAtA ca vyaBicAriRI .
+003.03A: fRakartA pitA SatruH mAtA ca vyaBicAriRI .
+
+003.04F: BAryA rUpavatI SatruH putraH SatrurapaRqitaH .. 21..
+003.04A: BAryA rUpavatI SatruH putraH SatruH apaRqitaH .. 21..
+
+003.05F: anaByAse vizaM vidyA ajIrRe BojanaM vizam .
+003.05A: anaByAse vizam vidyA ajIrRe Bojanam vizam .
+
+003.06F: vizaM saBA daridrasya vfdDasy taruRI vizam .. 22 ..
+003.06A: vizaM saBA daridrasya vfdDasya taruRI vizam .. 22 ..
+
+003.07F: yasya kasya prasUto'pi guRavAnpUjyate naraH .
+003.07A: yasya kasya prasUtaH api guRavAn pUjyate naraH .
+
+003.08F: DanurvaMSaviSudDo'pi nirguRaH kiM karizyati .. 23..
+003.08A: DanuH vaMSaviSudDaH api nirguRaH kim karizyati .. 23..
+003.08P: DanurityA -- vaMSaviSudDopi uttamavaMSasanirmitopi DanuH nirguRaH nirjyaH cet kiM karizyati . 
+003.08P+: pakze DanurvaMSaviSudDopi viSudDakzatriyavaMSasaMBavopi kaScit nirguRaH kzatriyajAtisahajaDEryAdiguRarahitaH cet kiM karizyati .
+
+003.09F: hA hA putraka nADItaM sugatEtAsu rAtrizu .
+; sugatA: f1s.  This Grammatical form puzzling
+003.09A: hA hA putraka na aDItam sugatA etAsu rAtrizu .
+003.09P: sugata -- SoBanaM gatamAyuH kramaH asyAstIti tasya saMbudDiH . AyuH AyurmaryAdA iti yAvat .
+
+003.10F: tena tvaM viduzAM maDye paNke gOriva sIdasi .. 24..
+003.10A: tena tvam viduzAm maDye paNke gOH iva sIdasi .. 24..
+
+003.11F: tat kaTamidAnImete mama putrA guRavantaH kriyantAm . yataH .
+003.11A: tat kaTam idAnIm ete mama putrAH guRavantaH kriyantAm . yataH .
+
+003.12F: AhAranidrABayamETunaM ca sAmAnyametatpaSuBirnarARAm .
+003.12A: AhAranidrABayamETunam ca sAmAnyam etat paSuBiH narARAm .
+
+003.13F: Darmo hi tezAmADikaH viSezo DarmeRa hInAH paSuBiH samAnAH .. 25..
+003.13A: DarmaH hi tezAm ADikaH viSezaH DarmeRa hInAH paSuBiH samAnAH .. 25..
+
+003.14F: DarmArTakAmamokzARAM yasyEko'pi na vidyate .
+003.14A: DarmArTakAmamokzARAm yasya ekaH api na vidyate .
+
+003.15F: ajAgalastanasyeva tasya janma nirarTakam .. 26..
+003.15A: ajAgalastanasya iva tasya janma nirarTakam .. 26..
+
+003.16F: yaccocyate -- AyuH karma ca vittaM ca vidyA niDanameva ca .
+003.16A: yad ca ucyate -- AyuH karma ca vittam ca vidyA niDanam eva ca .
+
+003.17F: paYcEtAnyapi sfjyante garBasTasyEva dehinaH .. 27..
+003.17A: paYca etAni api sfjyante garBasTasya eva dehinaH .. 27..
+
+003.18F: kiM ca . avaSyaM BAvino BAvA Bavanti mahatAmapi .
+003.18A: kim ca . avaSyam BAvinaH BAvAH Bavanti mahatAm api .
+
+003.19F: nagnatvaM nIlakaRWasya mahAhiSayanaM hareH .. 28..
+;Sampada: 'mahAhiSayanam' is a compound of mahat ahi Sayanam. I don't think this needs to be further analysed though. Otherwise it would be a samAsavicCeda.
+003.19A: nagnatvam nIlakaRWasya mahAhiSayanam hareH .. 28..
+
+003.20F: api ca . yadaBAvi na tad Avi BAvi cenna tadanyaTA .
+003.20A: api ca . yad aBAvi na tad BAvi BAvi ced na tad anyaTA .
+
+003.21F: iti cintAvizaGno'yamagadaH kiM na pIyate .. 29..
+003.21A: iti cintAvizaGnaH ayam agadaH kim na pIyate .. 29..
+003.21P: cintAvizaGnaH -- cintA eva vizaM tat hanti iti cintAvizaGnaH .
+003.21P+: na gadaH asmAt iti agadaH .
+
+003.22F: etatkAryAkzamARAM kezAMcidAlasyavacanam .
+003.22A: etat kAryAkzamARAm kezAm cid Alasyavacanam .
+
+003.23F: na dEvamapi saMcintya tyajedudyogamAtmanaH .
+003.23A: na dEvam api saMcintya tyajet udyogam AtmanaH .
+
+003.24F: anudyogena tElAni tileByo nAptumarhati .. 30..
+003.24A: anudyogena tElAni tileByaH na Aptum arhati .. 30..
+
+; line-break lakzmI- unusual to have line break in a verse
+003.25F: anyacca . udyoginaM puruzasiMhamupEti lakzmIrdEvena 
+003.25A: anyat ca . udyoginam puruzasiMham upEti lakzmIH dEvena 
+003.25P: puruzasiMhaM -- puruzaSrezWam . samAsottarapade siMhAdiSabdAH SrezWArTavAcakA Bavanti . 
+003.25P+: syuruttarapade vyAGrapuNgavarzaBakuMjarAH . siMhaSArdUlanAgAdyAH puMsi SrezWArTagocarAH . ityamaraH .
+
+003.26F: deyamiti kApuruzA vadanti .
+003.26A: deyam iti kApuruzAH vadanti .
+
+003.27F: dEvaM nihatya kuru pOruzamAtmaSaktyA
+003.27A: dEvam nihatya kuru pOruzam AtmaSaktyA
+003.27P: AtmaSaktyA -- AtmaSaktimavalambya ityarTaH .
+
+003.28F: yatne kfte yadi na siDyati ko'tra dozaH .. 31..
+003.28A: yatne kfte yadi na siDyati kaH atra dozaH .. 31..
+003.28P: yatne kfte, i -- yatne kfte api yadi kAryaM na sidDyati tarhi atra asmin vizaye kartuH kaH dozaH na kaScidapi . 
+003.28P+: yadvA yatne kfte yadi kAryaM na sidDyati tarhi atra ko me dozaH iti kartrA vicAraRA kAryA . kAryasidDeH udyamAyattatvAt kAryavipatteSca dozaM vinA asaMBavAt .
+

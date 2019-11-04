@@ -1,0 +1,100 @@
+024.01F: yuzmABiratisaMcayaH kftaH . tasyAyaM dozaH . SfRu .
+024.01A: yuzmABiH atisaMcayaH kftaH . tasya ayam dozaH . SfRu .
+
+024.02F: upArjitAnAM vittAnAM tyAga eva hi rakzaRaM .
+024.02A: upArjitAnAm vittAnAm tyAgaH eva hi rakzaRam .
+
+024.03F: taqAgodarasaMsTAnAM parivAha ivAmBasAm .. 155 ..
+024.03A: taqAgodarasaMsTAnAm parivAhaH iva amBasAm .. 155 ..
+024.03P: taqAgodara -- taqAgasya udare saMsTA yezAM tezAm . 
+024.03P+: pUrotpIqe taqAgasya parIvAhaH pratikriyA . iti uttararAmacarite BavabUtiH .
+024.03P++: Atmano dravyaM BUmisAtkartumicCan yAM gartAM kfpaRaH Kanati sA eva tena tasyADogamanArTaM mArgaH kriyate iti BAvaH .
+
+024.04F: anyacca . yadaDo'DaH kzitO vittaM nicaKAna mitaMpacaH .
+024.04A: anyat ca . yad aDaH aDaH kzitO vittam nicaKAna mitaMpacaH .
+
+024.05F: tadaDonilayaM gantuM cakre panTAnamagrataH .. 156 ..
+024.05A: tad aDonilayam gantum cakre panTAnam agrataH .. 156 ..
+
+024.06F: anyacca . nijasOKyaM nirunDAno yo DanArjanamicCati .
+024.06A: anyat ca . nijasOKyam nirunDAnaH yaH DanArjanam icCati .
+
+; Kale typo? padArTa -> parArTa  
+;  Kale translates 'padArTaBAravAhI' as 'bearing burdens for others'
+;  so it must be 'parArTaBAravAhI'
+024.07F: parArTaBAravAhIva kleSasyEva hi BAjanam .. 157 ..
+024.07A: parArTaBAravAhI iva kleSasya eva hi BAjanam .. 157 ..
+024.07P: parA -- parArTaM BAraM voQuM SIlamasya .
+
+024.08F: aparaM ca . dAnopaBogahInena Danena Danino yadi .
+024.08A: aparam ca . dAnopaBogahInena Danena DaninaH yadi .
+
+024.09F: BavAmaH kiM na tenEva Danena Danino vayam .. 158 ..
+024.09A: BavAmaH kim na tena eva Danena DaninaH vayam .. 158 ..
+
+024.10F: anyacca . asaMBogena sAmAnyaM kfpaRasya DanaM parEH .
+024.10A: anyat ca . asaMBogena sAmAnyam kfpaRasya Danam parEH .
+024.10P: asaMBogena -- asaMBogAdDetoH .
+
+024.11F: asyedamiti saMbanDo hAnO duHKena gamyate .. 159 ..
+024.11A: asya idam iti saMbanDaH hAnO duHKena gamyate .. 159 ..
+024.11P: gamyate jYAyate . yadvA saMbanDaH duHKena gamyate yuktaH Bavati ityarTaH .
+
+024.12F: dAnaM priyavAksahitaM jYAnamagarvaM kzamAnvitaM SOryam .
+024.12A: dAnam priyavAksahitam jYAnam agarvam kzamAnvitam SOryam .
+
+024.13F: vittaM tyAganiyuktaM durlaBametaccatuzwayaM loke .. 160 ..
+024.13A: vittam tyAganiyuktam durlaBam etat catuzwayam loke .. 160 ..
+024.13P: tyAganiyuktam -- tyAge niyuktam .
+
+024.14F: uktaM ca . kartavyaH saMcayo nityaM kartavyo nAtisaMcayaH .
+024.14A: uktam ca . kartavyaH saMcayaH nityam kartavyaH na atisaMcayaH .
+
+024.15F: paSya saMcayaSIlo'sO DanuzA jambuko hataH .. 161 ..
+024.15A: paSya saMcayaSIlaH asO DanuzA jambukaH hataH .. 161 ..
+
+024.16F: tAvAhatuH -- kaTametat . manTaraH kaTayati .
+024.16A: tO AhatuH -- kaTam etat . manTaraH kaTayati .
+
+024.17F: .. kaTA 6 ..
+024.17A: .. kaTA 6 ..
+
+024.18F: AsIt kalyARakawakavAstavyo BEravo nAma vyADaH . sa cEkadA mfgamanvizyan vinDyAwavIm
+024.18A: AsIt kalyARakawakavAstavyaH BEravaH nAma vyADaH . saH ca ekadA mfgam anvizyan vinDyAwavIm
+024.18P: kalyARa -- vasatIti vAstavyaH kalyARakawake vAstavyaH kalyARakawakavAstavyaH . atra kawakaSabdaH prAntavAcI .
+
+024.19F: gataH . tena tatra vyApAditaM mfgamAdAya gacCatA GorAkftiH SUkaro dfzwaH . 
+024.19A: gataH . tena tatra vyApAditam mfgam AdAya gacCatA GorAkftiH SUkaraH dfzwaH . 
+
+024.20F: tatastena mfgaM BUmO niDAya SUkaraH SareRAhataH .
+024.20A: tatas tena mfgam BUmO niDAya SUkaraH SareRa hataH . 
+
+024.21F:  SUkareRApi GanaGoragarjanaM kftvA 
+024.21A: SUkareRa api GanaGoragarjanam kftvA 
+024.21P: Gana -- GanAnAmiva Goragarjanam .
+
+024.22F: sa vyADo muzkadeSe hataH saMSCinnadruma iva BUmO nipapAta . yataH .
+024.22A: saH vyADaH muzkadeSe hataH CinnadrumaH iva nipapAta . yataH .
+
+024.23F: jalamagnirvizaM SasteaM kzud vyADiH patanaM gireH .
+024.23A: jalam agniH vizam Sastram kzud vyADiH patanam gireH .
+
+024.24F: nimittaM kiMcid AsAdya dehI prARErvimucyate .. 162..
+024.24A: nimittam kim cid AsAdya dehI prAREH vimucyate .. 162..
+
+024.25F: aTa tayoH pAdAsPAlanena ekaH sarpo'pi mftaH . aTAnantaraM dIrGarAvo nAma jambukaH 
+024.25A: aTa tayoH pAdAsPAlanena ekaH sarpaH api mftaH . aTa anantaram dIrGarAvaH nAma jambukaH 
+024.25P: pAdAsPAlanena pAdAGAtena , pAdAvamardanena vA .
+
+024.26F: pariBramannAhArArTI tAnmftAnmfgavyADasarpaSUkarAnapaSyat . acintayacca -- 
+024.26A: pariBraman AhArArTI tAn mftAn mfgavyADasarpaSUkarAn apaSyat . acintayat ca -- 
+
+024.27F: aho adya mahadBojyaM me samupasTitam . aTavA . 
+024.27A: aho adya mahat Bojyam me samupasTitam . aTavA .
+
+024.28F: acintitAni duHKAni yaTEvAyAnti dehinAm .
+024.28A: acintitAni duHKAni yaTA eva AyAnti dehinAm .
+
+024.29F: suKAnyapi taTA manye dEvamatrAtiricyate .. 163..
+024.29A: suKAni api taTA manye dEvam atra atiricyate .. 163..
+024.29P: dEvamatrA -- suKaduHKAdidAne sarvatra dEvameva praBavati .

@@ -1,0 +1,110 @@
+022.01F: varaM prARatyAgo na ca piSunavAkyezvaBirucirvaraM 
+022.01A: varam prARatyAgaH na ca piSunavAkyezu aBiruciH varam
+022.01P: piSunaH KalaH .
+
+022.02F: BikzASitvaM na ca paraDanAsvAdanasuKam .. 137 ..
+022.02A: BikzASitvam na ca paraDanAsvAdanasuKam .. 137 ..
+022.02P: BikzASitvaM BEkzyeRa vfttiH .
+
+022.03F: varaM SUnyA SAlA na ca Kalu varaM duzwavfzaBo
+022.03A: varam SUnyA SAlA na ca Kalu varam duzwavfzaBaH
+
+022.04F: varaM veSyA patnI na punaravinItA kulavaDUH .
+022.04A: varam veSyA patnI na punar avinItA kulavaDUH .
+
+022.05F: varaM vAso'raRye na punaravivekADipapure
+022.05A: varam vAsaH araRye na punar avivekADipapure
+
+022.06F: varaM prARatyAgo na punaraDamAnAmupagamaH .. 138 ..
+022.06A: varam prARatyAgaH na punar aDamAnAm upagamaH .. 138 ..
+
+022.07F: api ca . seveva mAnamaKilaM jyotsneva tamo jareva lAvaRyam .
+022.07A: api ca . sevA iva mAnam aKilam jyotsnA iva tamaH jarA iva lAvaRyam .
+
+022.08F: hariharakaTeva duritaM guRaSatamapyarTitA harati ..139 ..
+022.08A: hariharakaTA iva duritam guRaSatam api arTitA harati ..139 ..
+022.08P: arTitA yAYcA .
+
+022.09F: iti vimfSya tatkimahaM parapiRqenAtmAnaM pozayAmi . kazwaM Bo . tadapi dvitIyaM
+022.09A: iti vimfSya tat kim aham parapiRqena AtmAnam pozayAmi . kazwam Bo . tad api dvitIyam
+
+022.10F: mftyudvAram .
+022.10A: mftyudvAram .
+
+022.11F: pallavagrAhi pARqityaM krayakrItaM ca mETunam .
+022.11A: pallavagrAhi pARqityam krayakrItam ca mETunam .
+022.11P: pallavagrAhi pallavaM grahItuM SIlamasya alpaM , anarTakaM vA .
+
+022.12F: BojanaM ca parADInaM tisraH puMsAM viqaMbanAH .. 140 ..
+022.12A: Bojanam ca parADInam tisraH puMsAm viqaMbanAH .. 140 ..
+
+022.13F: rogI cirapravAsI parAnnaBojI parAvasaTaSAyI .
+022.13A: rogI cirapravAsI parAnnaBojI parAvasaTaSAyI .
+
+022.14F: yajjIvati tanmaraRaM yanmaraRaM so'sya viSrAmaH .. 141 ..
+022.14A: yat jIvati tat maraRam yat maraRam saH asya viSrAmaH .. 141 ..
+
+022.15F: ityalocyApi loBAtpunarapyarTaM grahItuM grahamakaravam . taTA coktam .
+022.15A: iti alocya api loBAt punar api arTam grahItum graham akaravam . taTA ca uktam .
+
+022.16F: loBena budDiScalati loBo janayate tfzAm .
+022.16A: loBena budDiH calati loBaH janayate tfzAm .
+
+022.17F: tfzArto duHKamApnoti paratreha ca mAnavaH .. 142 ..
+022.17A: tfzArtaH duHKam Apnoti paratra iha ca mAnavaH .. 142 ..
+
+022.18F: tato'haM mandaM mandamupasarpastena vIRAkarRena jarjaravaMSaKaRqena tAqito'cintayam --
+022.18A: tatas aham mandam mandam upasarpaH tena vIRAkarRena jarjaravaMSaKaRqena tAqitaH acintayam --
+022.18P: jarjaraH jIrRa SvAsO vaMSaKaRqaSca tena .
+
+022.19F: lubDo hyasaMtuzwo niyatamAtmadrohI Bavati . taTA ca .
+022.19A: lubDaH hi asaMtuzwaH niyatam AtmadrohI Bavati . taTA ca .
+
+022.20F: sarvAH saMpattayastasya saMtuzwaM yasya mAnasam .
+022.20A: sarvAH saMpattayaH tasya saMtuzwam yasya mAnasam .
+
+022.21F: upAnadgUQapAdasya nanu carmAvfteva BUH .. 143 ..
+022.21A: upAnadgUQapAdasya nanu carmAvftA iva BUH .. 143 ..
+022.21P: upAna -- upAnadByAM gUQO pAdO yasya .
+
+022.22F: aparaM ca . saMtozAmftatfptAnAM yatsuKaM SAntacetasAm .
+022.22A: aparaM ca . saMtozAmftatfptAnAm yat suKam SAntacetasAm .
+
+022.23F: kutastadDanalubDAnAmitaScetaSca DAvatAm .. 144 ..
+022.23A: kutaH tad DanalubDAnAm itaH ca itaH ca DAvatAm .. 144 ..
+
+022.24F: kiM ca . tenADitaM SrutaM tena tena sarvamanuzWitam .
+022.24A: kiM ca . tena aDitam Srutam tena tena sarvam anuzWitam .
+
+022.25F: yenASAH pfzWataH kftvA nErASyamavalambitam .. 145 ..
+; ASAH f2p: hopes
+022.25A: yena ASAH pfzWataH kftvA nErASyam avalambitam .. 145 ..
+
+022.26F: api ca . aseviteSvaradvAramadfzwavirahavyaTam .
+; vyaTa:  neuter at end of compound, for vyaTA = 'pain'
+022.26A: api ca . aseviteSvaradvAram adfzwavirahavyaTam .
+022.26P: asevite -- asevitAni ISvarARAM dvArARi yasmin .
+
+022.27F: anuktaklIbavacanaM DanyaM kasyApi jIvanam .. 146 ..  
+022.27A: anuktaklIbavacanam Danyam kasya api jIvanam .. 146 ..  
+
+022.28F: yataH . na yojanaSataM dUraM bADyamAnasya tfzRayA .
+022.28A: yataH . na yojanaSatam dUram bADyamAnasya tfzRayA .
+
+022.29F: saMtuzwasya karaprApte'pyarTe Bavati nAdaraH .. 147 .. 
+; nAdaraH = ? m1s. 'disrespect'
+022.29A: saMtuzwasya karaprApte api arTe Bavati na adaraH .. 147 .. 
+
+022.30F: tadatrAvasTocitakAryaparicCedaH SreyAn .
+; avasTocitakAryaparicCedaH =? avasTA + ucita + kArya + paricCedaH =
+; 'determination of proper action in situation'
+022.30A: tad atra avasTocitakAryaparicCedaH SreyAn .
+022.30P: avasTo -- avasTAyAH ucitaM kAryaM tasya paricCedaH niScayaH .
+022.30P+: aparicCedakartFRAm -- na paricCedasya kartAraH aparicCedakartArastezAm . upasTitAyAmApadi itikartavyatAmaniScitya vartamAnAnAm .
+
+022.31F: ko Darmo BUtadayA kiM sOKyamarogitA jagati jantoH .
+022.31A: kaH DarmaH BUtadayA kim sOKyam arogitA jagati jantoH .
+
+022.32F: kaH snehaH sadBAvaH kiM pARqityaM paricCedaH .. 148 ..
+022.32A: kaH snehaH sadBAvaH kim pARqityam paricCedaH .. 148 ..
+

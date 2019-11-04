@@ -1,0 +1,122 @@
+020.01F: svAtantryaM pitfmandire nivasatiryAtrotsave 
+020.01A: svAtantryam pitfmandire nivasatiH yAtrotsave 
+020.01P: svAtantryaM -- niravagrahatvam .
+020.01P+: nivasatiH cirakAlikA iti SezaH .
+
+020.02F: saMgatirgozWIpUruzasaMniDAvaniyamo vAso videSe taTA .
+020.02A: saMgatiH gozWIpUruzasaMniDO aniyamaH vAsaH videSe taTA .
+020.02P: saMgatiH parapuruzARAmiti SezaH .
+020.02P+: gozWIpuruzasanniDO -- saByAnAM sanniDO .
+020.02P++: aniyamaH aniyantritaH .
+
+020.03F: saMsargaH sa puMScalIBirasakfd vftternirjAyAH kzatiH
+; nirjAyAH : parse? 
+020.03A: saMsargaH saH puMScalIBiH asakft vftteH nirjAyAH kzatiH
+020.03P: puMscalIBiH -- kulawABiH .
+020.03P+: asakft anekadAram .
+020.03P++: vftteH -- ucitAcArasya . 
+020.03P+++: kzatiH -- BraMSaH .
+
+020.04F: patyurvArDakamIrzitaM pravasanaM nASasya hetuH striyAH .. 114 ..
+; patyuH : 6s of pati (irregular declension)
+020.04A: patyuH vArDakam Irzitam pravasanam nASasya hetuH striyAH .. 114 ..
+020.04P: IrzitaM -- IrzyA .
+020.04P+: pravasanaM -- patyurdUradeSAvasTAnam .
+
+020.05F: aparaM ca . pAnaM durjanasaMsargaH patyA ca viraho'wanam .
+020.05A: aparam ca . pAnam durjanasaMsargaH patyA ca virahaH awanam .
+
+020.06F: svapnaScAnyagfhe vAso nArIRAM dUzaRAni zaw .. 115 .. 
+020.06A: svapnaH ca anyagfhe vAsaH nArIRAM dUzaRAni zaw .. 115 .. 
+
+;  verse 116 does not appear in the Kale translation.  
+020.07F: surUpaM puruzaM dfzwvA BrAtaraM yadi vA sutam .
+020.07A: surUpam puruzam dfzwvA BrAtaram yadi vA sutam .
+; the next line is in Kale '. . .'
+020.08F: ??? .. 116 ..
+020.08A: ??? .. 116 ..
+
+020.09F: kiM ca . sTAnaM nAsti kzaRaM nAsti prArTayitA naraH .
+020.09A: kim ca . sTAnam na asti kzaRam na asti prArTayitA naraH .
+
+020.10F: tena nArada nArIRAM satItvamupajAyate .. 117 ..
+; nArada : voc. sing. Not in translation.
+020.10A: tena nArada nArIRAM satItvam upajAyate .. 117 ..
+
+020.11F: striyo hi capalA nityaM devAnAmapi viSrutam .
+020.11A: striyaH hi capalAH nityam devAnAm api viSrutam .
+
+020.12F: tAScApi rakzitA yezAM te narAH suKaBAginaH .. 118 ..
+020.12A: tAH ca api rakzitAH yezAm te narAH suKaBAginaH .. 118 ..
+020.12P: rakzitA yezAM -- yEH .
+020.12P+: pitA rakzati ityA -- ma.smf.a.9, Slo.3 .
+
+020.13F: na strIRAmapriyaH kaScitpriyo vApi na vidyate .
+020.13A: na strIRAm apriyaH kaH cid priyaH vA api na vidyate .
+
+020.14F: gAvastfRamivAraRye prArTayanti navaM navam .. 119 ..
+; navam navam:  should it be navam naram ? (new man)
+020.14A: gAvaH tfRam iva araRye prArTayanti navam navam .. 119 ..
+
+020.15F: aparaM ca . GftakumBasamA nArI taptANgArasamaH pumAn .
+020.15A: aparam ca . GftakumBasamA nArI taptANgArasamaH pumAn .
+
+020.16F: tasmAd GftaM ca vahniM ca nEkatra sTApayed buDaH .. 120 ..
+; vahni = fire (agni = bearer of oblations)
+020.16A: tasmAt Gftam ca vahnim ca na ekatra sTApayet buDaH .. 120 ..
+
+020.17F: na lajjA na vinItatvaM na dAkziRyaM na BIrutA . 
+020.17A: na lajjA na vinItatvam na dAkziRyam na BIrutA . 
+
+020.18F: prArTanABAva evEkaH satItve kAraRaM striyAH .. 121 ..
+020.18A: prArTanABAvaH eva ekaH satItve kAraRam striyAH .. 121 ..
+
+020.19F: pitA rakzati kOmAre BartA rakzati yOvane .
+020.19A: pitA rakzati kOmAre BartA rakzati yOvane .
+
+020.20F: rakzanti sTAvire putrA na strI svAtantryamarhati .. 122 ..
+020.20A: rakzanti sTAvire putrAH na strI svAtantryam arhati .. 122 ..
+
+020.21F: ekadA sA lIlAvatI ratnAvalIkiraRakarbure paryaNke tena vaRikputreRa saha 
+020.21A: ekadA sA lIlAvatI ratnAvalIkiraRakarbure paryaNke tena vaRikputreRa saha 
+020.21P: ratnAvalI -- ratnAnAM AvalI tasyAH kiraRAH tEH karbure citrite .
+
+020.22F: viSramBAlApEH suKAsInA tamalakzitopasTitaM patimavalokya sahasotTAya keSezvAkfzya
+020.22A: viSramBAlApEH suKAsInA tam alakzitopasTitam patim avalokya sahasA utTAya keSezu Akfzya
+
+020.23F: gAQamAliNgya cumbitavatI . tenAvasareRa jAraSca palAyitaH . uktaM ca .
+020.23A: gAQam AliNgya cumbitavatI . tena avasareRa jAraH ca palAyitaH . uktam ca .
+
+020.24F: uSanA veda yacCAstraM yacca veda bfhaspatiH .  
+; veda = prf. 3s of 'vid'
+020.24A: uSanA veda yat SAstram yat ca veda bfhaspatiH .  
+
+020.25F: svaBAvenEva tacCAstraM strIbudDO supratizWitam .. 123 ..
+020.25A: svaBAvena eva tat SAstram strIbudDO supratizWitam .. 123 ..
+
+020.26F: tadAliNganamavalokya samIpavartinI kuwwanyacintayat -- akasmAdiyamenamupagUQavatI 
+020.26A: tad AliNganam avalokya samIpavartinI kuwwanI acintayat -- akasmAt iyam enam upagUQavatI 
+020.26P: upagUQavatI -- AliMgitavatI .
+
+020.27F: iti . tatastayA kuwwanyA tatkAraRaM parijYAya sA lIlAvatI guptena daRqitA .
+020.27A: iti . tatas tayA kuwwanyA tatkAraRam parijYAya sA lIlAvatI guptena daRqitA .
+020.27P: guptena daRqena iti SezaH .
+020.27P+: kuwwanyA tadgopyAM rakzitavyaM iti kiMcid dravyadAnaM tasyA AvaSyakaM baBUveti BAvaH .
+
+020.28F: ato'haM bravImi -- akasmAdyuvatI vfdDaM ityAdi .. mUzikabalopastamBena kenApi
+020.28A: ataH aham bravImi -- akasmAt yuvatI vfdDam ityAdi .. mUzikabalopastamBena kena api
+020.28P: balopastamBakena -- balopacayakAraRena .
+
+020.29F: kAraRenAtra Bavitavyam . kzaRaM vicintya parivrAjakenoktam -- kAraRaM cAtra 
+020.29A: kAraRena atra Bavitavyam . kzaRam vicintya parivrAjakena uktam -- kAraRam ca atra 
+020.29P: kzaRaM -- avasaraH .
+
+020.30F: DanabAhulyam eva Bavizyati . yataH .
+020.30A: DanabAhulyam eva Bavizyati . yataH .
+
+020.31F: DanavAnbalavAnlloke sarvaH sarvatra sarvadA .
+020.31A: DanavAn balavAn loke sarvaH sarvatra sarvadA .
+
+020.32F: praButvaM DanamUlaM hi rAjYAmapyupajAyate .. 124 ..
+020.32A: praButvam DanamUlam hi rAjYAm api upajAyate .. 124 ..
+

@@ -1,0 +1,97 @@
+026.01F: aparaM ca . nipAnamiva maRqUkAH saraH pUrRamivARqajAH .
+026.01A: aparaM ca . nipAnam iva maRqUkAH saraH pUrRam iva aRqajAH .
+026.01P: nipAnaM kUpataqAgAdi .
+
+026.02F: sodyogaM naramAyAnti vivaSAH sarvasaMpadaH .. 173 .. 
+026.02A: sodyogam naram AyAnti vivaSAH sarvasaMpadaH .. 173 .. 
+026.02P: vivaSAH paratantrAH .
+
+026.03F: anyacca . suKamApatitaM sevyaM duHKamApatitaM taTA .
+026.03A: anyat ca . suKam Apatitam sevyam duHKam Apatitam taTA .
+
+026.04F: cakravatparivartante duHKAni ca suKAni ca .. 174..
+026.04A: cakravat parivartante duHKAni ca suKAni ca .. 174..
+
+026.05F: anyacca . utsAhasaMpannamadIrGasUtraM kriyAviDijYaM vyasanezvasaktam .
+026.05A: anyat ca . utsAhasaMpannam adIrGasUtram kriyAviDijYam vyasanezu asaktam .
+026.05P: kriyAviDijYaM -- kriyA ca viDiH SAstrAjYA ca kriyAviDI tO jAnIte iti tam .
+
+026.06F: SUraM kftajYaM dfQasOhfdaM ca lakzmIH svayaM yAti nivAsahetoH .. 175..
+026.06A: SUram kftajYam dfQasOhfdam ca lakzmIH svayam yAti nivAsahetoH .. 175..
+
+026.07F: viSezataSca . vinApyarTErvIraH spfSati bahumAnonnatipadaM
+026.07A: viSezataH ca . vinA api arTEH vIraH spfSati bahumAnonnatipadam
+026.07P: spfSati -- laBate ityarTaH . 
+
+026.08F: samAyukto'pyarTEH pariBavapadaM yAti kfpaRaH .
+026.08A: samAyuktaH api arTEH pariBavapadam yAti kfpaRaH .
+026.08P: pariBavapadaM yAti -- avajYAyate , tiraskriyate .
+
+026.09F: svaBAvAdudBUtAM guRasamudayAvAptivizayAM
+026.09A: svaBAvAt udBUtAm guRasamudayAvAptivizayAm
+026.09P: svaBAvAdudButAM nisargaprAptAm .
+026.09P+: guRa -- guRAnAM SOryAdInAM samudayaH tasya avAptiH tasyA vizayAM sTAnaBUtAm .
+
+026.10F: dyutiM sEMhIM kiM SvA DftakanakamAlo'pi laBate .. 176..
+026.10A: dyutim sEMhIm kim SvA DftakanakamAlaH api laBate .. 176..
+026.10P: sEMhIM siMhasya iyaM tAm .
+
+026.11F: DanavAn iti hi madaste kiM gataviBavo vizAdamupayAsi .
+026.11A: DanavAn iti hi madaH te kim gataviBavaH vizAdam upayAsi .
+
+026.12F: karanihatakandukasamAH pAtotpAtA manuzyARAm .. 177..
+026.12A: karanihatakandukasamAH pAtotpAtAH manuzyARAm .. 177..
+
+026.13F: aparaM ca . aBracCAyA KalaprItirnavasasyAni yozitaH . 
+026.13A: aparam ca . aBracCAyA KalaprItiH navasasyAni yozitaH . 
+
+026.14F: kiMcitkAlopaBogyAni yOvanAni DanAni ca .. 178 ..
+026.14A: kim cid kAlopaBogyAni yOvanAni DanAni ca .. 178 ..
+
+026.15F: vfttyarTaM nAticezwate sA hi DAtrEva nirmitA .
+026.15A: vfttyarTam na aticezwate sA hi DAtrA eva nirmitA .
+026.15P: vfttyarTaM -- jIvikAlABArTam .
+
+026.16F: garBAdutpatite jantO mAtuH prasravataH stanO .. 179..
+026.16A: garBAt utpatite jantO mAtuH prasravataH stanO .. 179..
+
+026.17F: api ca saKe . yena SuklIkftA haMsAH SukASca haritIkftAH .
+026.17A: api ca saKe . yena SuklIkftAH haMsAH SukAH ca haritIkftAH .
+
+026.18F: mayUrAScitritA yena sa te vfttiM viDAsyati .. 180..
+026.18A: mayUrAH citritAH yena saH te vfttim viDAsyati .. 180..
+
+026.19F: aparaM ca . satAM rahasyaM SfRu mitra .
+026.19A: aparam ca . satAm rahasyam SfRu mitra .
+
+026.20F: janayantyarjane duHKaM tApayanti vipattizu .
+026.20A: janayanti arjane duHKam tApayanti vipattizu .
+
+026.21F: mohayanti ca saMpattO kaTamarTAH suKAvahAH .. 181..
+026.21A: mohayanti ca saMpattO kaTam arTAH suKAvahAH .. 181..
+
+026.22F: aparaM ca . DarmArTaM yasya vittehA varaM tasya nirIhatA .
+026.22A: aparam ca . DarmArTam yasya vittehA varam tasya nirIhatA .
+026.22P: vittehA -- dravyatfzRA .
+026.22P+: nirIhatA -- hatA tfzRABAvaH .
+
+026.23F: prakzAlanAdDi paNkasya dUrAdasparSanaM varam .. 182..
+026.23A: prakzAlanAt hi paNkasya dUrAt asparSanam varam .. 182..
+026.23P: prakzAlanA -- etadvAkyaM nyAyatvenodAhriyate 'paMkaprakzAlananyAyaH' iti saMjYAyate ca . tasyArTaH ninditakaraRAttadakaraRaM varamiti .
+
+026.24F: yataH . yaTA hyAmizamAkASe pakziBiH SvApadErBuvi .
+026.24A: yataH . yaTA hi Amizam AkASe pakziBiH SvApadEH Buvi .
+
+026.25F: Bakzyate salile nakrEstaTA sarvatra vittavAn .. 183..
+026.25A: Bakzyate salile nakrEH taTA sarvatra vittavAn .. 183..
+026.25P: nakrEH -- (svasTAnAt) na krAmatIti nakraH . 'naBrAN' -- ityAdinA naYaH prakftiBAvaH . nakrEH iti padaM sarvezAM jalajantUnAmupalakzaRam .
+026.25P+: vittavAn Bakzyate iti pUraRIyaM . sarve vittavantamupajIvantItyarTaH .
+
+026.26F: rAjataH salilAdagneScorataH svajanAd api .
+; coratas =? cora (thief) + -tas suffix.
+026.26A: rAjataH salilAt agneH coratas svajanAt api .
+026.26P: salilAt jalAt .
+
+026.27F: BayamarTavatAM nityaM mftyoH prARaBftAmiva .. 184..
+026.27A: Bayam arTavatAm nityam mftyoH prARaBftAm iva .. 184..
+

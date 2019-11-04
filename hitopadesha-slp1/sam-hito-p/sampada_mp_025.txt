@@ -1,0 +1,100 @@
+025.01F: tadBavatu . ezAM mAMsErmAsatrayaM me suKena gamizyati .
+025.01A: tad Bavatu . ezAm mAMsEH mAsatrayam me suKena gamizyati .
+
+025.02F: mAsamekaM naro yAti dvO mAsO mfgaSUkarO .
+025.02A: mAsam ekam naraH yAti dvO mAsO mfgaSUkarO .
+
+025.03F: ahirekaM dinaM yAti adya Bakzyo DanurguRaH .. 164..
+025.03A: ahiH ekam dinam yAti adya BakzyaH DanurguRaH .. 164..
+
+025.04F: tataH praTamabuBukzAyAmidaM niHsvAdu kodaRqalagnaM snAyubanDanaM KAdAmi . ityuktvA 
+025.04A: tataH praTamabuBukzAyAm idam niHsvAdu kodaRqalagnam snAyubanDanam KAdAmi . iti uktvA 
+
+025.05F: taTAkfte sati Cinne snAyubanDana utpatitena DanuzA hfdi nirBinnaH sa dIrGarAvaH 
+025.05A: taTAkfte sati Cinne snAyubanDanaH utpatitena DanuzA hfdi nirBinnaH saH dIrGarAvaH 
+
+025.06F: paYcatvaM gataH . ato'haM bravImi kartavyaH saMcayo nityamityAdi . taTA ca .
+025.06A: paYcatvam gataH . ataH aham bravImi kartavyaH saMcayaH nityam ityAdi . taTA ca .
+
+025.07F: yaddadAti yadaSnAti tadeva Danino Danam .
+025.07A: yad dadAti yad aSnAti tad eva DaninaH Danam .
+
+025.08F: anye mftasya krIqanti dArErapi DanErapi .. 165..
+025.08A: anye mftasya krIqanti dArEH api DanEH api .. 165..
+
+025.09F: kiM ca . yad dadAsi viSizweByo yaccASnAsi dine dine .
+025.09A: kim ca . yad dadAsi viSizweByaH yad ca aSnAsi dine dine .
+
+025.10F: tatte vittamahaM manye SezaM kasyApi rakzasi .. 166..
+025.10A: tad te vittam aham manye Sezam kasya api rakzasi .. 166..
+  
+025.11F: yAtu . kimidAnImatikrAntopavarRanena . yataH .
+025.11A: yAtu . kim idAnIm atikrAntopavarRanena . yataH .
+
+025.12F: nAprApyamaBivAYCanti nazwaM necCanti Socitum .
+025.12A: na aprApyam aBivAYCanti nazwam na icCanti Socitum .
+
+025.13F: Apatsvapi na muhyanti narAH paRqitabudDayaH .. 167..
+025.13A: Apatsu api na muhyanti narAH paRqitabudDayaH .. 167..
+025.13P: na muhyanti -- mohaM na prApnuvanti . kiMkartavyatAmUQA na BavantItyarTaH .
+
+025.14F: tat saKe sarvadA tvayA sotsAhena Bavitavyam . yataH .
+025.14A: tat saKe sarvadA tvayA sotsAhena Bavitavyam . yataH .
+
+025.15F: SAstrARyaDItyApi Bavanti mUrKA yastu kriyAvAn puruzaH sa vidvAn .
+025.15A: SAstrARi aDItya api Bavanti mUrKAH yaH tu kriyAvAn puruzaH saH vidvAn .
+025.15P: kriyAvAn -- ya AtmanaH SAstrajYAnaM kriyayA vyanakti sa ev paramArTato vidvAn ityarTaH . 
+
+025.16F: sucintitaM cOzaDamAturARAM na nAmamAtreRa karotyarogam .. 168..
+025.16A: sucintitam ca OzaDam AturARAm na nAmamAtreRa karoti arogam .. 168..
+025.16P: AturaH -- rugRaH .
+025.16P: nAmamAtreRa pAnaM vinetyarTaH .
+
+025.17F: anyacca . na svalpamapyaDyavasAyaBIroH karoti vijYAnaviDirguRaM hi .
+025.17A: anyat ca . na svalpam api aDyavasAyaBIroH karoti vijYAnaviDiH guRam hi .
+025.17P: aDyavasAyaBIroH -- aDyavasAyaH 'utsAhoDyavasAyaH syAt' ityamaraH . utsAhapUrvako yatnaH ityarTaH . tasmAdBIroH .
+025.17P+: vijYAnaviDiH viSizwajYAnakaraRaM . kevalaM jYAnasaMpAdanaM iti yAvat .
+
+025.18F: anDasya kiM hastatalasTito'pi prakASayatyarTamiha pradIpaH .. 169..
+025.18A: anDasya kim hastatalasTitaH api prakASayati arTam iha pradIpaH .. 169..
+025.18P: arTaM vastu .
+
+025.19F: tadatra saKe daSAtiSezeRa SAntiH karaRIyA . etadapyatikazwaM tvayA na mantavyam . yataH 
+025.19A: tad atra saKe daSA atiSezeRa SAntiH karaRIyA . etad api atikazwam tvayA na mantavyam . yataH 
+
+025.20F: rAjA kulavaDUrviprA mantriRaSca payoDarAH .
+025.20A: rAjA kulavaDUH viprAH mantriRaH ca payoDarAH .
+
+025.21F: sTAnaBrazwA na SoBante dantAH keSA naKA narAH .. 170 ..
+025.21A: sTAnaBrazwAH na SoBante dantAH keSAH naKAH narAH .. 170 ..
+
+025.22F: iti vijYAya matimAnsvasTAnaM na parityajet . 
+025.22A: iti vijYAya matimAn svasTAnam na parityajet .
+
+025.23F: kApuruzavacanametat . yataH .
+025.23A: kApuruzavacanam etat . yataH .
+
+025.24F: sTAnamutsfjya gacCanti siMhAH satpuruzA gajAH . 
+025.24A: sTAnam utsfjya gacCanti siMhAH satpuruzAH gajAH . 
+
+025.25F: tatrEva niDanaM yAnti kAkAH kApuruzA mfgAH .. 171 ..
+025.25A: tatra eva niDanam yAnti kAkAH kApuruzAH mfgAH .. 171 ..
+
+025.26F: ko vIrasya manasvinaH svavizayaH ko vA videSastaTA 
+025.26A: kaH vIrasya manasvinaH svavizayaH kaH vA videSaH taTA 
+025.26P: manasvinaH praSastaM manaH asyAstIti manasvI . 'asmAyAmeDAsrajo viniH' iti matubarTe viniH .
+
+025.27F: yaM deSaM Srayate tameva kurute bAhupratApArjitam .
+025.27A: yam deSam Srayate tam eva kurute bAhupratApArjitam .
+
+025.28F: yaddaMzwrAnaKalANgulapraharaRaH siMho vanaM gAhate 
+025.28A: yad daMzwrAnaKalANgulapraharaRaH siMhaH vanam gAhate 
+025.28P: daMzwrA -- daMzwre ca naKASca lANgulaM ca daMzwrAnaKalANgulaM praharaRaM praharaRaM yasya .
+
+; Kale typo? Cinati -> Cinatti (3s of Cid - to cut off)
+025.29F: tasminneva hatadvipendraruDirEastfzRAM CinattyAtmanA .. 172 ..
+; dvipendra = dvipa+indra = 'lordly elephant' (Kale)
+025.29A: tasmin eva hatadvipendraruDirEH tfzRAm Cinatti AtmanA .. 172 ..
+025.29P: hata -- dvAByAM pibatIti dvipaH .
+025.29P+: dvipezvindraH -- iva dvipendraH . hataH yaH dvipendraH tasya ruDirEH .
+

@@ -1,0 +1,111 @@
+008.01F: tan mayA BadraM
+008.01A: tad mayA Badram
+
+008.02F: na kftam yadatra mArAtmake viSvAsaH kftaH . taTA hyuktam --
+008.02A: na kftam yad atra mArAtmake viSvAsaH kftaH . taTA hyuktam --
+
+008.03F: nadInAM SastrapARInAM naKinAM SfNgiRAM taTA .
+008.03A: nadInAm SastrapARInAm naKinAm SfNgiRAm taTA .
+
+008.04F: viSvAso nEva kartavyaH strIzu rAjakulezu ca .. 19..
+008.04A: viSvAsaH na eva kartavyaH strIzu rAjakulezu ca .. 19..
+
+008.05F: aparaM ca . sarvasya hi parIkzyante svaBAvA netare guRAH .
+008.05A: aparam ca . sarvasya hi parIkzyante svaBAvAH na itare guRAH .
+
+008.06F: atItya hi guRAn sarvAn svaBAvo mUrDni vartate .. 20..
+; atItya = having surpassed
+008.06A: atItya hi guRAn sarvAn svaBAvaH mUrDni vartate .. 20..
+
+008.07F: anyacca . sa hi gaganavihArI kalmazaDvaMsakArI
+008.07A: anyat ca . saH hi gaganavihArI kalmazaDvaMsakArI
+008.07P: gaganavihArI -- gagane vihartuM SIlamasya . evamanyatrApi tacCIlye RiniH .
+
+008.08F: daSaSatakaraDArI jyotizAM maDyacArI .
+; kara = 'ray of light'
+; jyotis = 'stars'
+008.08A: daSaSatakaraDArI jyotizAm maDyacArI .
+
+008.09F: viDurapi viDiyogAdgrasyate rAhuRAsO
+; viDu = 'moon' (lonely)
+008.09A: viDuH api viDiyogAt grasyate rAhuRA asO
+
+008.10F: liKitamapi lalAwe projJituM kaH samarTaH .. 21..
+; lalAwa = forehead
+; projJ = to abandon
+008.10A: liKitam api lalAwe projJitum kaH samarTaH .. 21..
+
+008.11F: iti cintayannevAsO vyAGreRa vyApAditaH
+008.11A: iti cintayan eva asO vyAGreRa vyApAditaH
+
+008.12F: KAditaSca . atohaM bravImi -- kaNkaRasya tu loBena ityAdi .
+008.12A: KAditaH ca . ataH aham bravImi -- kaNkaRasya tu loBena ityAdi .
+
+; Kale has sarvaTA'vicAritaM. typo?
+008.13F: ataH eva sarvaTAvicAritaM karma na kartavyam . yataH .
+008.13A: ataH eva sarvaTA vicAritam karma na kartavyam . yataH .
+
+008.14F: sujIrRamannaM suvicakzaRaH sutaH
+008.14A: sujIrRam annam suvicakzaRaH sutaH
+
+008.15F: suSAsitA strI nfpatiH susevitaH .
+008.15A: suSAsitA strI nfpatiH susevitaH .
+
+008.16F: sucintya coktaM suvicArya yatkftaM
+008.16A: sucintya ca uktam suvicArya yad kftaM
+
+008.17F: sudIrGakAle'pi na yAti vikriyAm .. 22..
+008.17A: sudIrGakAle api na yAti vikriyAm .. 22..
+
+008.18F: tadvacanaM
+008.18A: tad vacanam
+
+008.19F: SrutvA kaScitkapotaH sadarpamAha -- AH  kimevamucyate .
+008.19A: SrutvA kaH cit kapotaH sadarpam Aha -- AH kim evam ucyate .
+
+008.20F: vfdDAnAM vacanaM grAhyamApatkAle hyupasTite .
+008.20A: vfdDAnAm vacanam grAhyam ApatkAle hi upasTite .
+
+008.21F: sarvatrEvaM vicAreRa Bojanepyapravartanam .. 23..
+008.21A: sarvatra evam vicAreRa Bojane api pravartanam .. 23..
+
+008.22F: yataH . SaNkABiH sarvamAkrAntamannaM pAnaM ca BUtale .
+008.22A: yataH . SaNkABiH sarvam AkrAntam annam pAnam ca BUtale .
+
+008.23F: pravfttiH kutra kartavyA jIvitavyaM kaTaM na vA  .. 24..
+008.23A: pravfttiH kutra kartavyA jIvitavyam kaTam na vA  .. 24..
+
+008.24F: IrzyI GfRI tvasaMtuzwaH kroDano nityaSaNkitaH .
+008.24A: IrzyI GfRI tu asaMtuzwaH kroDanaH nityaSaNkitaH 
+008.24P: irzI -- parotkarzAsahizRuH .
+008.24P+: GfRI -- jugupsanaSIlaH . GfRA tu syAjjugupsAyAM karuRAyAm . iti hEmaH .
+008.24P++: jupsA karuRe GfRe ityamaraH . ma.BA.u.a.33.90.
+
+
+008.25F: paraBAgyopajIvI ca zaqete duHKaBAginaH .. 25..
+008.25A: paraBAgyopajIvI ca zaq ete duHKaBAginaH .. 25..
+
+008.26F: etacCrutvA sarve kapotAstatropavizwAH . yataH .
+008.26A: etad SrutvA sarve kapotAH tatra upavizwAH . yataH .
+
+008.27F: sumahAntyapi SAstrARi DArayanto bahuSrutAH .
+008.27A: sumahAnti api SAstrARi DArayantaH bahuSrutAH .
+008.27P: DArayantaH -- samyagjYAnantaH .
+
+;  saMayAnAM -> saMSayAnAM.   See mw under Cettf.
+008.28F: CettAraH saMSayAnAM ca kliSyante loBamohitAH .. 26..
+008.28A: CettAraH saMSayAnAm ca kliSyante loBamohitAH .. 26..
+
+008.29F: anyacca . loBAtkroDaH praBavati loBAtkAmaH prajAyate .
+008.29A: anyat ca . loBAt kroDaH praBavati loBAt kAmaH prajAyate .
+
+008.30F: loBAnmohaSca nASaSca loBaH pApasya kAraRam .. 27..
+008.30A: loBAt mohaH ca nASaH ca loBaH pApasya kAraRam .. 27..
+
+008.31F: anyacca . asaMBavaM hemamfgasya janma taTApi rAmo luluBe mfgAya .
+008.31A: anyat ca . asaMBavam hemamfgasya janma taTA api rAmaH luluBe mfgAya .
+
+008.32F: prAyaH samApannavipattikAle Diyo'pi puMsAM malinA Bavanti .. 28..
+; DiyaH  nom. pl. f. of 'DI' (Huet)
+008.32A: prAyas samApannavipattikAle DiyaH api puMsAm malinAH Bavanti .. 28..
+008.32P: samApannA upasTitA vipattiH tasyAH kAlaH tasmin .
