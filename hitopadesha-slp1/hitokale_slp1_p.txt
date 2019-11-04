@@ -168,7 +168,7 @@
 
 002.05F: anekasaMSayocCedi parokzArTasya darSakam .
 002.05A: anekasaMSayocCedi parokzArTasya darSakam .
-002.05P: anekasaM° -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
+002.05P: anekasaMÂ° -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
 002.05P+: parokzArTasya -- akzRoH paraH parokzaH tasya .
 
 002.06F: sarvasya locanaM SAstraM yasya nAstyanDa eva saH .. 10..
@@ -224,7 +224,7 @@
 ; Kale translates kaWinI as 'little finger'? MW 'chalk'
 002.17F: guRigaRagaRanAramBe na patati kaWinI susamBramAdyasya .
 002.17A: guRigaRagaRanAramBe na patati kaWinI susamBramAt yasya .
-002.17P: guRigaRaga° -- guRAH ezAM vidyante iti guRinaH tezAM gaRaH tasya gaRanA tasyAH aramBe
+002.17P: guRigaRagaÂ° -- guRAH ezAM vidyante iti guRinaH tezAM gaRaH tasya gaRanA tasyAH aramBe
 002.17P: kaWinI -- kanizWikA 
 
 002.18F: tenAmbA yadi sutinI vada vanDyA kIdfSI nAma .. 15..
