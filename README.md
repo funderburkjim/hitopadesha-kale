@@ -20,7 +20,8 @@ Major contributions by Dr. Sampada Savardekar.
    * folder sam-hito-p : Sampada's addition of marma-prakASika notes.
      xxx.yyP:  and P+, P++, etc.
      These are merged into hitokale_slp1_p.txt. For pages 1-2, manual
-     For rest:  python mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_nnn.txt
+     For rest:  
+      python mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_nnn.txt tempsave.txt
 
 2. hitoenglish : Kale's translation, with markup related to hitokale_slp1 line numbering
    * hitoeng.txt is latest
