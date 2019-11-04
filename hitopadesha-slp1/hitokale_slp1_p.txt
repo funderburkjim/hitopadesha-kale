@@ -113,15 +113,18 @@
 001.12A: samudram iva durDarzam nfpam BAgyam ataH param .. 5..
 001.12P: durdarzamiti pAWaH . ataH nfpAtsamudrAcca paraM mahat BAgyaM ataHparaM narasya BAgyamiti vA .
 
-001.11-11E: Learning, although possessed by a low man, introduces him to the king who is (ordinarily) inapproachable, just as a river, although flowing through a low region, takes one to the inaccessible sea : (sources) from which floweth great fortune (or, the future rests with fortune).
+001.11-12E: Learning, although possessed by a low man, introduces him to the king who is (ordinarily) inapproachable, just as a river, although flowing through a low region, takes one to the inaccessible sea : (sources) from which floweth great fortune (or, the future rests with fortune).
 
 001.13F: vidyA dadAti vinayaM vinayAdyAti pAtratAm .
 001.13A: vidyA dadAti vinayam vinayAt yAti pAtratAm .
 001.13P: vidyeti -- atra kAraRamAlAlaMkAraH .
 001.13P+: tallakzaRaM yaTA -- yaTottaraM cetpUrvasya pUrvasyArTasya hetutA . tadA kAraRamAlA syAt. kA . pra . (sAhi . da . 10.76)
+; MW kAraRa-mAlA = 'a series or chain of causes' ref. sAhitya-dArpaRa
 
 001.14F: pAtratvAdDanamApnoti DanAdDarmaM tataH suKam .. 6..
 001.14A: pAtratvAt Danam Apnoti DanAt Darmam tataH suKam .. 6..
+
+001.13-14E: Learning endows one with modesty ; from (having) modesty one passes on to (gets) worthiness ; being worthy one obtains riches ; from riches religious merit and from that happiness.
 
 001.15F: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
 001.15A: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
@@ -131,6 +134,8 @@
 ; Kale typo: ditIyA -> dvitIyA
 001.16A: AdyA hAsyAya vfdDatve dvitIyA Adriyate sadA .. 7..
 
+001.15-16E: The knowledge of arms and that of the Sastras - these two lores conduce to glory: but the former exposes one to ridicule in old age, while the latter is ever respected.
+
 001.17F: yannave BAjane lagnaH saMskAro nAnyaTA Bavet .
 001.17A: yad nave BAjane lagnaH saMskAraH na anyaTA Bavet .
 001.17P: yaTA nave BAjane AmaBAjane ityarTaH . 
@@ -139,12 +144,17 @@
 001.18F: kaTAcCalena bAlAnAM nItistadiha kaTyate .. 8..
 001.18A: kaTAcCalena bAlAnAm nItiH tad iha kaTyate .. 8..
 001.18P: taTA bAlA api nItimaDyApitAScetsA tezAM cetasi dfQaM padaM kuryAditi hetoH sA kaTAmizeRa bAlAnAmiha kaTyate .
+001.18PA: taTA bAlAH api nItim aDyApitAH cet sA tezAm cetasi dfQam padam kuryAt iti hetoH sA kaTAmizeRa bAlAnAm iha kaTyate .
+
+001.17-18E: As an impression made upon a raw (earthen or so) pot can undergo no change afterwards -- so (following the same principle) in this work the science of conduct (or policy) is taught to youths under the guise of stories. 
 
 002.01F: mitralABaH suhfdBedo vigrahaH saMDireva ca .
 002.01A: mitralABaH suhfdBedaH vigrahaH saMDiH eva ca .
 
 002.02F: paYcatantrAttaTAnyasmAdgranTAdAkfzya liKyate .. 9..
 002.02A: paYcatantrAt taTA anyasmAt granTAt Akfzya liKyate .. 9..
+
+002.01-02E:   [The subjects of] "The acquisition of friends", "The separation of friends", "Making war" and "Concluding peace" are written upon, extracts being made from Panchatantra and other works.
 
 002.03F: asti BAgIraTItIre pAwaliputranAmaDeyaM nagaram . tatra
 002.03A: asti BAgIraTItIre pAwaliputranAmaDeyam nagaram . tatra sarvasvAmiguRopetaH sudarSanaH
@@ -154,13 +164,17 @@
 002.04F: nAma narapatirAsIt . sa BUpatirekadA kenApi pAWyamAnaM SlokadvayaM SuSrAva --
 002.04A: nAma narapatiH AsIt . saH BUpatiH ekadA kena api pAWyamAnam Slokadvayam SuSrAva --
 
+002.03-04E: On the bank of the Bhagirathi there is a city named Pataliputra. In it there was a king, Sudarshana by name,{;hitoeng002.txt} endowed with all princely qualities. That king once heard a couple of Slokas (stanzas) chanted by some one ; (viz.)
+
 002.05F: anekasaMSayocCedi parokzArTasya darSakam .
 002.05A: anekasaMSayocCedi parokzArTasya darSakam .
-002.05P: anekasaM -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
+002.05P: anekasaM° -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
 002.05P+: parokzArTasya -- akzRoH paraH parokzaH tasya .
 
 002.06F: sarvasya locanaM SAstraM yasya nAstyanDa eva saH .. 10..
 002.06A: sarvasya locanam SAstram yasya na asti anDaH eva saH .. 10..
+
+002.05-06E: He who does not possess (a knowledge of) Sastra, the universal eye, which totally removes various doubts and discusses things hidden from view, is surely blind.
 
 002.07F: yOvanaM DanasampattiH praButvamavivekitA .
 002.07A: yOvanam DanasampattiH praButvam avivekitA .
@@ -169,6 +183,8 @@
 002.08F: ekEkamapyanarTAya kim yatra catuzwayam .. 11..
 002.08A: ekEkam api anarTAya kim yatra catuzwayam .. 11..
 
+002.07-08E: Youth, abundance of wealth, sovereignty and inconsiderateness are the source of calamity even singly; what then, where all these four are combined !
+
 002.09F: ityAkarRyAtmanaH putrARAmanaDigataSAstrARAM nityamunmArgagAminAM
 002.09A: iti AkarRya AtmanaH putrARAm anaDigataSAstrARAm nityam unmArgagAminAM
 002.09P: anaDigata -- anaDigatAni anaDItAni SAstrARi yEH . 
@@ -176,7 +192,9 @@
 
 002.10F: SAstrAnanuzWAnenodvignamanAH sa rAjA cintayAmAsa .
 002.10A: SAstrAnanuzWAnena udvignamanAH saH rAjA cintayAmAsa .
-002.10P: SAstrAnanuzWAnena -- SAstrasya ananuzWAnaM SAstrAdYollaMGanaM tena svEravartanena iti yAvat .
+002.10P: SAstrAnanuzWAnena -- SAstrasya ananuzWAnaM SAstrAjYollaMGanaM tena svEravartanena iti yAvat .
+
+002.09-10E: On hearing this, the king, who was distracted at heart, on account of the non-attendance to (the commands of the) Sastras of his sons who had no knowledge of the Sastras and who always followed the wrong path, thought to himself:
 
 002.11F: ko'rTaH putreRa jAtena yo na vidvAn na DArmikaH .
 002.11A: kaH arTaH putreRa jAtena yaH na vidvAn na DArmikaH .
@@ -184,30 +202,36 @@
 002.12F: kARena cakzuzA kiMvA cakzuHpIqEva kevalam .. 12..
 002.12A: kARena cakzuzA kim vA cakzuH pIqA eva kevalam .. 12..
 
+002.11-12E: What is the good of (what benefit can accrue from) having a son who is neither learned nor pious (dutiful); (for) what is the use of an eye that is blind? It simply causes occular pain.
+
 002.13F: ajAtamftamUrKARAM varamAdyO na cAntimaH .
 002.13A: ajAtamftamUrKARAm varam AdyO na ca antimaH .
 
 002.14F: sakfdduHKakarAvAdyAvantimastu pade pade .. 13..
 002.14A: sakft duHKakarO AdyO antimaH tu pade pade .. 13..
-002.14P: sakfddekavAram .
+002.14P: sakfdekavAram .
+
+002.13-14E: Of sons, not born, (born and) dead and foolish, the first two are to be preferred and not the last: (for) the first two cause pain (but) once ; the last at every step. 
 
 002.15F: kiM ca . sa jAto yena jAtena yAti vaMSaH samunnatim .
-002.15A: saH jAtaH yena jAtena yAti vaMSaH samunnatim .
+002.15A: kim ca . saH jAtaH yena jAtena yAti vaMSaH samunnatim .
 
 002.16F: parivartini saMsAre mftaH ko vA na jAyate .. 14..
 002.16A: parivartini saMsAre mftaH kaH vA na jAyate .. 14..
 
+002.15-16E: Moreover . He is (really) born by whose birth the family is exalted. In this revolving world who does not die and is not born again?
+
 ; Kale translates kaWinI as 'little finger'? MW 'chalk'
 002.17F: guRigaRagaRanAramBe na patati kaWinI susamBramAdyasya .
 002.17A: guRigaRagaRanAramBe na patati kaWinI susamBramAt yasya .
-002.17P: guRigaRagaRanAramBe yasya [putrasya kfte] 
-002.17P+: kaWinI susaMBramAt na patati 
+002.17P: guRigaRaga° -- guRAH ezAM vidyante iti guRinaH tezAM gaRaH tasya gaRanA tasyAH aramBe
+002.17P: kaWinI -- kanizWikA 
 
 002.18F: tenAmbA yadi sutinI vada vanDyA kIdfSI nAma .. 15..
 002.18A: tena ambA yadi sutinI vada vanDyA kIdfSI nAma .. 15..
-002.18P: tena putreRa yadi ambA tajjananI sutinI praSastaputravatI Bavet
-002.18P+: tarhi vaMDyA kIdfSI nAma Bavet iti SezaH .
-002.18P++: yasyAH putraH guRinAM na DurIRaH sA vaMDyA eva iti BAvaH .
+002.18P: guRigaRagaRanAramBe yasya [putrasya kfte] kaWinI susaMBramAt na patati tena putreRa yadi ambA tajjananI sutinI praSastaputravatI Bavet tarhi vaMDyA kIdfSI nAma Bavet iti SezaH . yasyAH putraH guRinAM na DurIRaH sA vaMDyA eva iti BAvaH .
+
+002.17-18E: If the mother of the boy, for whom the little finger does not bend down hastily at the commencement of the enumeration of the number of meritorious men, be said to have given birth to a son, then say, what a barren woman would be like to (i.e., she is as good as a barren woman).
 
 002.19F: dAne tapasi SOrye ca yasya na praTitaM yaSaH .
 002.19A: dAne tapasi SOrye ca yasya na praTitam yaSaH .
@@ -215,11 +239,15 @@
 002.20F: vidyAyAmarTalABe ca mAturuccAra eva saH .. 16..
 002.20A: vidyAyAm arTalABe ca mAtuH uccAraH eva saH .. 16..
 
+002.19-20E: He, who is not well known for his charity, penance, bravery, learning and the acquisition of wealth, is but the excrement of his mother. 
+
 002.21F: aparaM ca . varameko guRI putro na ca mUrKaSatAnyapi .
 002.21A: aparaM ca . varam ekaH guRI putraH na ca mUrKaSatAni api .
 
 002.22F: ekaScandrastamo hanti na ca tArAgaRo'api .. 17..
 002.22A: ekaH candraH tamaH hanti na ca tArAgaRaH api .. 17..
+
+002.21-22E: Also, It is better to have one meritorious son than a hundred of foolish ones; the single moon dispels darkness; and not the whole firmament of stars.
 
 002.23F: puRyatIrTe kftaM yena tapaH kvApyatiduzkaram .
 002.23A: puRyatIrTe kftam yena tapaH kva api atiduzkaram .
@@ -227,6 +255,8 @@
 
 002.24F: tasya putro BavedvaSyaH samfdDo DArmikaH suDIH .. 18..
 002.24A: tasya putraH Bavet vaSyaH samfdDaH DArmikaH suDIH .. 18..
+
+002.23-24E: The son of him, who has practised religious austerities, extremely difficult to perform, at some holy place, will be obedient, prosperous, righteous and talented.
 
 002.25F: arTAgamo nityamarogitA ca priyA ca BAryA priyavAdinI ca .
 002.25A: arTAgamaH nityam arogitA ca priyA ca BAryA priyavAdinI ca .
@@ -238,13 +268,17 @@
 002.26F: vaSyaSca putro'rTakarI ca vidyA zaq jIvalokasya suKAni rAjan .. 19..
 002.26A: vaSyaH ca putraH arTakarI ca vidyA zaq jIvalokasya suKAni rAjan .. 19..
 
+002.25-26E: An influx of money, constant health (lit., freedom from disease), a beloved wife, and one sweet-speaking (of gentle manners), an obedient son, and learning productive of wealth -- these six, o king, are the pleasures of the mortal world. 
+
 003.01F: ko Danyo bahuBiH putrEH kuSUlApUraRAQakEH .
 ;Sampada: not able to comprehend 'kuSUlApUraRAQakEH'
-;   From MW:  granaray-filling-measures
+;   From MW:  kuSUla-ApUraRa-AQaka = granary-filling-measures
 003.01A: kaH DanyaH bahuBiH putrEH kuSUlApUraRAQakEH .
 
 003.02F: varamekaH kulAlambI yatra viSrUyate pitA .. 20..
 003.02A: varam ekaH kulAlambI yatra viSrUyate pitA .. 20..
+
+003.01-02E: Who will be (considered) blessed by having sons who are like (no better than, the adhakas* (a kind of measure) filling up (** i.e., Simply making up a particular number) a granary? It is better to have one son, who is the prop of the family and who brings fame to his father. 
 
 003.03F: fRakartA pitA SatrurmAtA ca vyaBicAriRI .
 003.03A: fRakartA pitA SatruH mAtA ca vyaBicAriRI .
@@ -252,11 +286,15 @@
 003.04F: BAryA rUpavatI SatruH putraH SatrurapaRqitaH .. 21..
 003.04A: BAryA rUpavatI SatruH putraH SatruH apaRqitaH .. 21..
 
+003.03-04E: A father who contracts debts (i.e., leaves nothing to his son but a legacy of debt) is an enemy, and so is a mother, false to her bed; a beautiful wife is an enemy; and such is an illiterate son.
+
 003.05F: anaByAse vizaM vidyA ajIrRe BojanaM vizam .
 003.05A: anaByAse vizam vidyA ajIrRe Bojanam vizam .
 
 003.06F: vizaM saBA daridrasya vfdDasy taruRI vizam .. 22 ..
 003.06A: vizaM saBA daridrasya vfdDasya taruRI vizam .. 22 ..
+
+003.05-06E: Learning if not kept up by constant study is poison ; taking food after indigestion is poison; to a poor man a public assembly is poison; and to an old man a youthful wife is poison.
 
 003.07F: yasya kasya prasUto'pi guRavAnpUjyate naraH .
 003.07A: yasya kasya prasUtaH api guRavAn pUjyate naraH .
@@ -264,21 +302,29 @@
 003.08F: DanurvaMSaviSudDo'pi nirguRaH kiM karizyati .. 23..
 003.08A: DanuH vaMSaviSudDaH api nirguRaH kim karizyati .. 23..
 
+003.07-08E: A man of merits, born of whatever parents, is honoured ; (for) what is the use of a bow that is without string though made of a faultless bamboo staff (or, what can a man of pure Kshatriya extraction do if wanting in martial vigour)?
+
 003.09F: hA hA putraka nADItaM sugatEtAsu rAtrizu .
-; sugatA: f1s.  This Grammatical form puzzling
-003.09A: hA hA putraka na aDItam sugatA etAsu rAtrizu .
+; sugata: m8s.  
+003.09A: hA hA putraka na aDItam sugata etAsu rAtrizu .
 
 003.10F: tena tvaM viduzAM maDye paNke gOriva sIdasi .. 24..
 003.10A: tena tvam viduzAm maDye paNke gOH iva sIdasi .. 24..
 
+003.09-10E: Alas! poor child, thou, who leadest an easy life, didst not acquire knowledge in these (bygone) nights, on this account dost thou come to grief (fare ill) in the society of the learned like a cow stuck in mud.
+
 003.11F: tat kaTamidAnImete mama putrA guRavantaH kriyantAm . yataH .
 003.11A: tat kaTam idAnIm ete mama putrAH guRavantaH kriyantAm . yataH .
+
+003.11-11E: Then how shall I now make my sons accomplished ! For: --
 
 003.12F: AhAranidrABayamETunaM ca sAmAnyametatpaSuBirnarARAm .
 003.12A: AhAranidrABayamETunam ca sAmAnyam etat paSuBiH narARAm .
 
-003.13F: Darmo hi tezAmADikaH viSezo DarmeRa hInAH paSuBiH samAnAH .. 25..
-003.13A: DarmaH hi tezAm ADikaH viSezaH DarmeRa hInAH paSuBiH samAnAH .. 25..
+003.13F: Darmo hi tezAmaDikaH viSezo DarmeRa hInAH paSuBiH samAnAH .. 25..
+003.13A: DarmaH hi tezAm aDikaH viSezaH DarmeRa hInAH paSuBiH samAnAH .. 25..
+
+003.12-13E: Food, sleep, fear and the enjoyment of carnal pleasures -- these men share in common with beasts ; surely the sense (or performance) of duty is their special attribute (distinguishing mark): devoid of this they are degraded to the level of (stand on a level with) beasts.
 
 003.14F: DarmArTakAmamokzARAM yasyEko'pi na vidyate .
 003.14A: DarmArTakAmamokzARAm yasya ekaH api na vidyate .
@@ -286,18 +332,25 @@
 003.15F: ajAgalastanasyeva tasya janma nirarTakam .. 26..
 003.15A: ajAgalastanasya iva tasya janma nirarTakam .. 26..
 
+003.14-15E: The life of him, who has not achieved any one of Dharma (the discharge of religious duties), Artha (the acquisition of money by fair means), Kama (the gratification of desires so as not to trespass on Dharma) and final emancipation, is as without its purpose (useless) as that of the nipple on the neck of a she-goat.
+
 003.16F: yaccocyate -- AyuH karma ca vittaM ca vidyA niDanameva ca .
 003.16A: yad ca ucyate -- AyuH karma ca vittam ca vidyA niDanam eva ca .
 
 003.17F: paYcEtAnyapi sfjyante garBasTasyEva dehinaH .. 27..
 003.17A: paYca etAni api sfjyante garBasTasya eva dehinaH .. 27..
 
+003.16-17E: Now, (as to) the declaration (doctrine) that -- (The period of) life, (the kinds of) action (one has to perform), (the amount of) wealth (to be acquired), (the degree of) knowledge (to be attained), and (the time of) death -- even these five are created (determined) while a man is yet in the womb. 
+
 003.18F: kiM ca . avaSyaM BAvino BAvA Bavanti mahatAmapi .
 003.18A: kim ca . avaSyam BAvinaH BAvAH Bavanti mahatAm api .
 
 003.19F: nagnatvaM nIlakaRWasya mahAhiSayanaM hareH .. 28..
 ;Sampada: 'mahAhiSayanam' is a compound of mahat ahi Sayanam. I don't think this needs to be further analysed though. Otherwise it would be a samAsavicCeda.
+; MW: mahAhiSayana = sleeping (of vizRu) on the great serpent
 003.19A: nagnatvam nIlakaRWasya mahAhiSayanam hareH .. 28..
+
+003.18-19E: And that, Things, which are fated, do happen even in the case of the great: (as) Siva's nakedness and Hari's having to sleep on a huge serpent.
 
 003.20F: api ca . yadaBAvi na tad Avi BAvi cenna tadanyaTA .
 003.20A: api ca . yad aBAvi na tad BAvi BAvi ced na tad anyaTA .
@@ -305,14 +358,20 @@
 003.21F: iti cintAvizaGno'yamagadaH kiM na pIyate .. 29..
 003.21A: iti cintAvizaGnaH ayam agadaH kim na pIyate .. 29..
 
+003.20-21E:  And further . What is not to be can never be, and if it is to be, it can never be otherwise -- why is this antidote against the poison of anxiety not swallowed ? --
+
 003.22F: etatkAryAkzamARAM kezAMcidAlasyavacanam .
 003.22A: etat kAryAkzamARAm kezAm cid Alasyavacanam .
+
+003.22-22E: These are the idle words of some, incapable of doing anything.
 
 003.23F: na dEvamapi saMcintya tyajedudyogamAtmanaH .
 003.23A: na dEvam api saMcintya tyajet udyogam AtmanaH .
 
 003.24F: anudyogena tElAni tileByo nAptumarhati .. 30..
 003.24A: anudyogena tElAni tileByaH na Aptum arhati .. 30..
+
+003.23-24E: Even thinking fate to be favourable one should not give up one's industry ; (for) one can never get oil from sesamum without exertion. 
 
 ; line-break lakzmI- unusual to have line break in a verse
 003.25F: anyacca . udyoginaM puruzasiMhamupEti lakzmIrdEvena 
@@ -321,11 +380,15 @@
 003.26F: deyamiti kApuruzA vadanti .
 003.26A: deyam iti kApuruzAH vadanti .
 
+003.25-26E: Moreover . Fortune approaches him, the lion among men, who is industrious. It is the weak-minded who say "Fate gives". 
+
 003.27F: dEvaM nihatya kuru pOruzamAtmaSaktyA
 003.27A: dEvam nihatya kuru pOruzam AtmaSaktyA
 
 003.28F: yatne kfte yadi na siDyati ko'tra dozaH .. 31..
 003.28A: yatne kfte yadi na siDyati kaH atra dozaH .. 31..
+
+003.27-28E: Dismissing all idea about (lit., killing) fate, put forth manly efforts depending upon your own strength; and if, after an exertion is made, success attend not, where is the blame (i.e., you are not to blame; or, find out where the fault lay)? 
 
 004.01F: yaTA hyekena cakreRa na raTasya gatirBavet .
 004.01A: yaTA hi ekena cakreRa na raTasya gatiH Bavet .
@@ -333,11 +396,15 @@
 004.02F: evaM puruzakAreRa vinA dEvaM na sidDyati .. 32..
 004.02A: evaM puruzakAreRa vinA dEvam na sidDyati .. 32..
 
+004.01-02E: Just as a chariot can not move with one wheel, so without manly exertion, fate does not succeed. 
+
 004.03F: taTA ca . pUrvajanmakftaM karma taddEvamiti kaTyate .
 004.03A: taTA ca . pUrvajanmakftam karma tad dEvam iti kaTyate .
 
 004.04F: tasmAt puruzakAreRa yatnaM kuryAdatandritaH .. 33..
 004.04A: tasmAt puruzakAreRa yatnam kuryAt atandritaH .. 33..
+
+004.03-04E: And further. What is called fate is (but) the (sum of one's) actions in a previous life; one should, therefore, make an effort manfully without being slothful.
 
 004.05F: yaTA mftpiRqataH kartA kurute yadyadicCati .
 004.05A: yaTA mftpiRqatas kartA kurute yad yad icCati .
@@ -345,12 +412,17 @@
 004.06F: evamAtmakftaM karma mAnavaH pratipadyate .. 34..
 004.06A: evam Atmakftam karma mAnavaH pratipadyate .. 34..
 
+004.05-06E: Just as a potter makes whatever he likes out of a lump of clay, so does a man reap the fruit of the action done by himself.
+
 ; kAkatAlIyavat "as in the fable of the crow and the palm-fruit, unexpectedly" (MW)
+; http://www.yogavasistha.com/crowco.htm
 004.07F: kAkatAlIyavatprAptaM dfzwvApi niDimagrataH .
 004.07A: kAkatAlIyavat prAptam dfzwvA api niDim agrataH .
 
 004.08F: na svayaM dEvamAdatte puruzArTamapekzate .. 35 ..
 004.08A: na svayam dEvam Adatte puruzArTam apekzate .. 35 ..
+
+004.07-08E: Even seeing a treasure found quite by accident in front of a man, fate does not take it up itself, but expects a manly effort of his part.
 
 004.09F: udyamena hi siDyanti kAryARi na manoraTEH .
 004.09A: udyamena hi siDyanti kAryARi na manoraTEH .
@@ -358,11 +430,15 @@
 004.10F: nahi suptasya siMhasya praviSanti muKe mfgAH .. 36..
 004.10A: na hi suptasya siMhasya praviSanti muKe mfgAH .. 36..
 
-004.11F: mAtApitfkrtAByAso guRitAMeti bAlakaH . 
-004.11A: mAtApitfkrtAByAsaH guRitAm eti bAlakaH . 
+004.09-10E: Works are accomplished by industry and not by (idle) wishes; for the deer enter not the mouth of a sleeping lion.
+
+004.11F: mAtApitfkftAByAso guRitAMeti bAlakaH . 
+004.11A: mAtApitfkftAByAsaH guRitAm eti bAlakaH . 
 
 004.12F: na garBacyutimAtreRa putro Bavati paRqitaH .. 37 ..
 004.12A: na garBacyutimAtreRa putraH Bavati paRqitaH .. 37 ..
+
+004.11-12E: A boy who is educated by his parents becomes accomplished. A son does not become a learned man by merely being dropped out of the womb.
 
 004.13F: mAtA SatruH pitA vErI yena bAlo na pAWitaH .
 004.13A: mAtA SatruH pitA vErI yena bAlaH na pAWitaH .
@@ -370,17 +446,23 @@
 004.14F: na SoBate saBAmaDye haMsamaDye bako yaTA .. 38..
 004.14A: na SoBate saBAmaDye haMsamaDye bakaH yaTA .. 38..
 
+004.13-14E: That mother is an enemy and that father a foe of the son by whom he is not taught; for he (such a son) shines not in an assembly just as a crane does not in the midst of swans.
+
 004.15F: rUpayOvanasampannA viSAlakulasamBavAH .
 004.15A: rUpayOvanasampannAH viSAlakulasamBavAH .
 
 004.16F: vidyAhInA na SoBante nirganDA iva kiMSukAH .. 39..
 004.16A: vidyAhInAH na SoBante nirganDAH iva kiMSukAH .. 39..
 
+004.15-16E: Men, endowed with beauty and youth and born of a very noble race but deficient in learning, do not shine as (do not) the scentless Kimshuka flowers.
+
 004.17F: mUrKo'pi SoBate tAvatsaBAyAM vastravezwitaH .
 004.17A: mUrKaH api SoBate tAvat saBAyAm vastravezwitaH .
 
 004.18F: tavacca Sobate mUrKo yAvatkiMcinna BAzate .. 40 ..
 004.18A: tavat ca Sobate mUrKaH yAvat kim cid na BAzate .. 40 ..
+
+004.17-18E: Even a fool, dressed in fine garments, shines in an assembly; but he shines only so long as he does not open his lips. 
 
 004.19F: etaccintayitvA sa rAjA paRqitasaBAM kAritavAn . rAjovAca Bo BoH paRqitAH .
 004.19A: etad cintayitvA saH rAjA paRqitasaBAm kAritavAn . rAjA uvAca BoH BoH paRqitAH .
@@ -392,11 +474,15 @@
 004.21F: nItiSAstropadeSena punarjanma kArayituM samarTaH . yataH .
 004.21A: nItiSAstropadeSena punarjanma kArayitum samarTaH . yataH .
 
-004.22F:     kAcaH kAYcanasaMsargAdDatte mArakatIM dyutiM .
-004.22A:     kAcaH kAYcanasaMsargAt Datte mArakatIm dyutim .
+004.19-21E: Having thus meditated the king convened a council of the learned. The King said -- Ye Pandits, listen. Is there such a learned man among you, as is able to make my sons who are always going astray and who are ignorant of the Sastras, undergo a second birth (as it were) by giving them instruction in the science of conduct? For, 
+
+004.22F: kAcaH kAYcanasaMsargAdDatte mArakatIM dyutiM .
+004.22A: kAcaH kAYcanasaMsargAt Datte mArakatIm dyutim .
 
 004.23F: taTA satsaMniDAnena mUrKo yAti pravIRatAm .. 41..
 004.23A: taTA satsaMniDAnena mUrKaH yAti pravIRatAm .. 41..
+
+004.22-23E: A piece of glass, by being in contact with gold, possesses the lustre of emerald ; similarly a fool attains proficiency by being in the company of the good. 
 
 004.24F: uktaM ca . hIyate hi matistAta hInEH saha samAgamAt .
 004.24A: uktam ca . hIyate hi matiH tAta hInEH saha samAgamAt .
@@ -405,11 +491,15 @@
 ; Kale typo: viSizwEca -> viSizwESca
 004.25A: samEH ca samatAm eti viSizwEH ca viSizwatAm .. 42..
 
+004.24-25E: It is also said -- The intellect is impaired, O friend, by the society of inferiors; it remains what it is with one's equals and is improved by association with one's superiors.
+
 004.26F: atrAntare vizRuSarmanAmA mahApaRqitaH sakalanItiSAstratattvajYo bfhaspatirivAbravIt --
 004.26A: atra antare vizRuSarmanAmA mahApaRqitaH sakalanItiSAstratattvajYaH bfhaspatiH iva abravIt --
 
 004.27F: deva mahAkulasamBUtA ete rAjaputrAH . tanmayA nItiM grAhayituM Sakyante . yataH .
 004.27A: deva mahAkulasamBUtAH ete rAjaputrAH . tat mayA nItim grAhayitum Sakyante . yataH .
+
+004.26-27E: Then a great Pandit, Visnusharman by name, who knew all the principles of the Science of conduct (or, who knew the very essence of the entire science of conduct) spoke like a second Brihaspati -- My lord, these princes are born of an exalted race. They are, therefore, capable of being instructed by me in the Nitishastra. For,
 
 004.28F: nAdravye nihitA kAcitkriyA PalavatI Bavet .
 004.28A: na adravye nihitA kA cid kriyA PalavatI Bavet .
@@ -417,11 +507,15 @@
 004.29F: na vyApAraSatenApi SukavatpAWyate bakaH .. 43..
 004.29A: na vyApAraSatena api Sukavat pAWyate bakaH .. 43..
 
+004.28-29E: No action exercised upon an unfit object can bear fruit: a crane cannot be taught (to speak) like a parrot even with hundreds of efforts. 
+
 004.30F: anyacca . asmiMstu nirguRaM gotre nApatyamupajAyate .
 004.30A: anyat ca . asmin tu nirguRam gotre na apatyam upajAyate .
 
 004.31F: Akare padmarAgAnAM janma kAcamaReH kutaH .. 44..
 004.31A: Akare padmarAgAnAm janma kAcamaReH kutaH .. 44..
+
+004.30-31E: And this other thing -- In this (royal) family a child devoid of merits cannot be born; whence can a piece of glass be produced in a mine of rubies ? 
 
 005.01F: ato'haM zaRmAsAByantare tatra putrAn nItiSAstrABijYAnkarizyAmi . rAjA savinayaM
 ; line break savi-nayaM
