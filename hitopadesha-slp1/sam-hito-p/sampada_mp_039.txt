@@ -1,0 +1,111 @@
+039.01F: paraM ca . yo nAtmaje na ca gurO na ca Bftyavarge
+039.01A: param ca . yaH na Atmaje na ca gurO na ca Bftyavarge
+
+039.02F: dIne dayAM na kurute na ca banDuvarge .
+039.02A: dIne dayAm na kurute na ca banDuvarge .
+
+039.03F: kiM tasya jIvitaPalena manuzyaloke
+039.03A: kim tasya jIvitaPalena manuzyaloke
+039.03P: kim tasya jIvitaPelena -- tasya jIvitamaPalameva nAstIti BAvaH . 
+
+039.04F: kAko'pi jIvati cirAya baliM ca BuNkte .. 44..
+039.04A: kAkaH api jIvati cirAya balim ca BuNkte .. 44..
+
+039.05F: aparamapi . ahitahitavicAraSUnyabudDeH
+039.05A: aparam api . ahitahitavicAraSUnyabudDeH
+039.05P: ahiteti -- ahitaM anizwaM hitaM SreyaskaraM tayoH vicAraH vivekaH . nirRaya iti yAvat . tatra SUnyA tadrahitA matiryasya .
+
+039.06F: SrutisamayErbahuBistiraskftasya .
+039.06A: SrutisamayEH bahuBiH tiraskftasya .
+039.06P: SrutisamayEH SrutipratipAditAcArEH . 'samayAH SapaRAcArakAlasidDAntasaMvidaH .' ityamaraH .
+039.06P+: tiraskftasya tadrahitasya iti yAvat . SAstramArgAd Brazwasya .
+
+039.07F: udaraBaraRamAtrakevalecCoH
+; icCu : wishing
+039.07A: udaraBaraRamAtrakevalecCoH
+039.07P: udara -- udarasya BaraRaM eva udaraBaraRamAtraM tadeva kevalaM icCatIti tasya.
+
+039.08F: puruzapaSoSca paSoSca ko viSezaH .. 45..
+039.08A: puruzapaSoH ca paSoH ca kaH viSezaH .. 45..
+039.08P: puruzapaSoH puruzaH paSuriva tasya .
+
+039.09F: karawako brUte --
+039.09A: karawakaH brUte --
+
+039.10F: AvAM tAvadapraDAnO . tadApyAvayoH kimanayA vicAraRayA .
+039.10A: AvAm tAvat apraDAnO . tadA api AvayoH kim anayA vicAraRayA .
+
+039.11F: damanako brUte -- 
+039.11A: damanakaH brUte --
+
+039.12F: kiyatA kAlenAmAtyAH praDAnatAmapraDAnatAM vA laBante . yataH .
+039.12A: kiyatA kAlena AmAtyAH praDAnatAm apraDAnatAm vA laBante . yataH .
+039.12P: kiyatA <ab n="ityAdi">i</ab> -- kiyAn kiMpramARakaH sa kAlaH yena amAtyAH agryaM avaraM vA padaM prApnuvanti . acirAdevetyarTaH . 
+039.12P+: yaH rAjakAryaDuraMDaraH sa SIGraM mUrDanyaM padamArohati yaH na taTA sa parAcInaM padaM laBate . taTAhi uccanIcapadalABo guRAguRanibanDano na kAlAyatta iti BAvaH .
+
+039.13F: na kasyacitkaScidiha svaBAvAd
+039.13A: na kasya cid kaH cid iha svaBAvAt
+
+039.14F: BavatyudAro'BimataH Kalo vA .
+; Kala = wicked (Kale). This sense not found in MW, but in WIL
+039.14A: Bavati udAraH aBimataH KalaH vA .
+
+039.15F: loke gurutvaM viparItatAM vA
+039.15A: loke gurutvam viparItatAm vA
+039.15P: loke <ab n="ityAdi">i</ab> -- asya samAnAMrTaH SlokAMSaH -- 'AtmEva hyAtmano banDurAtmEva ripurAtmanaH' jAtO ekavacanam .
+
+039.16F: svacezwitAnyeva naraM nayanti .. 46..
+039.16A: svacezwitAni eva naram nayanti .. 46..
+
+039.17F: kiM ca . Aropyate SilA SEle yatnena mahatA yaTA .
+; Aropyate:  causal of A-ruh: to raise
+039.17A: kim ca . Aropyate SilA SEle yatnena mahatA yaTA .
+
+039.18F: nipAtyate kzaRenADastaTAtmA guRadozayoH .. 47..
+039.18A: nipAtyate kzaRena aDas taTA AtmA guRadozayoH .. 47..
+
+039.19F: yAtyaDo'DaH vrajatyuccErnaraH svEreva karmaBiH .
+039.19A: yAti aDaH aDaH vrajati uccEH naraH svEH eva karmaBiH .
+
+039.20F: kUpasya KanitA yadvat prAkArasyeva kArakaH .. 48..
+039.20A: kUpasya KanitA yadvat prAkArasya iva kArakaH .. 48..
+
+039.21F: tadBadra . svayatnAyatto hyAtmA sarvasya .
+039.21A: tad Badra . svayatnAyattaH hi AtmA sarvasya .
+
+039.22F: karawako brUte -- aTa BavAnkiM bravIti .
+039.22A: karawakaH brUte -- aTa BavAn kim bravIti .
+
+039.23F: sa Aha -- ayaM tAvatsvAmI
+039.23A: saH Aha -- ayam tAvat svAmI
+
+039.24F: piNgalakaH kuto'pi kAraRAt sacakitaH parivftyopavizwaH .
+039.24A: piNgalakaH kutaH api kAraRAt sacakitaH parivftya upavizwaH .
+
+039.25F: karawako brUte -- kiM tattvaM jAnAsi . damanako brUte -- kimatrAviditamasti . uktaM ca .
+039.25A: karawakaH brUte -- kiM tattvam jAnAsi . damanakaH brUte -- kim atra aviditam asti . uktaM ca .
+039.25P: tattvaM paramArTaM yATAtmyam .
+
+039.26F: udIrito'rTaH paSunApi gfhyate hayASca nAgASca vahanti coditAH .
+; udIrita = said
+; nAga = elephant (Kale)
+; udita = ordered (Kale)
+039.26A: udIritaH arTaH paSunA api gfhyate hayAH ca nAgAH ca vahanti ca uditAH .
+039.26P: udIrita iti udIritaH vAcA vyaktIkftaH .
+039.26P+: gfhyate jYAyate . deSitAH AjYaptAH .
+
+039.27F: anuktamapyUhati paRqito janaH pareNgitajYAnaPalA hi budDayaH .. 49..
+039.27A: anuktam api Uhati paRqitaH janaH pareNgitajYAnaPalAH hi budDayaH .. 49..
+039.27P: Uhati tarkayati anumimIte .
+039.27P+: pareNgita -- parezAM iNgitasya jYAnaM evaM PalaM yAsAm . 
+039.27P++: iNgitaM -- hfdgataH BAvaH . ' iNgitaM hfdgato BAvo bahirAkAra AkftiH ' . iti sajjanaH .
+
+039.28F: AkArEriNgitErgatyA cezwayA BAzaRena ca .
+039.28A: AkArEH iNgitEH gatyA cezwayA BAzaRena ca .
+039.28P: AkArEH <ab n="ityAdi">i</ab> -- BrukuwImuKarAgAdiH AkAraH .
+039.28P+: iNgitaM -- aBiprAyAnurUpA cezwA . ma. smf. a. 8 Slo. 26 .
+
+039.29F: netravaktravikAreRa lakzyate'ntargataM manaH .. 50..
+039.29A: netravaktravikAreRa lakzyate antargatam manas .. 50..
+
+

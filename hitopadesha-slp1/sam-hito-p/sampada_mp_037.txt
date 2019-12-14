@@ -1,0 +1,136 @@
+037.01F: .. kaTA 2 ..
+037.01A: .. kaTA 2 ..
+
+037.02F: asti vArARasyAM karpUrapawako nAma rajakaH . 
+037.02A: asti vArARasyAm karpUrapawakaH nAma rajakaH . 
+037.02P: rajakaH -- nirRejakaH .
+
+037.03F: sa cEkadABinavavayaskayA vaDvA saha ciraM keliM kftvA nirBaramAliNgya prasuptaH .
+037.03A: saH ca ekadA aBinavavayaskayA vaDvA saha ciram kelim kftvA nirBaram AliNgya prasuptaH .
+037.03P: prasuptaH -- gAQanidrAM gataH .
+
+037.04F: tadanantaraM tadgfhadravyARi hartuM cOraH pravizwaH . tasya
+037.04A: tadanantaram tad gfhadravyARi hartum cOraH pravizwaH . tasya
+
+037.05F: prANgaRe gardaBo badDastizWati . kukkuraScopavizwo'sti .
+037.05A: prANgaRe gardaBaH badDaH tizWati kukkuraH ca upavizwaH asti .
+
+037.06F: aTa gardaBaH SvAnamAha -- saKe . BavatastAvadayaM vyApAraH .
+037.06A: aTa gardaBaH SvAnam Aha -- saKe . BavataH tAvat ayam vyApAraH .
+
+037.07F: tatkimiti tvamuccEH SabdaM kftvA svAminaM na jAgarayasi .
+037.07A: tat kim iti tvam uccEH Sabdam kftvA svAminam na jAgarayasi .
+
+037.08F: kukkuro brUte --
+037.08A: kukkuraH brUte -- 
+
+037.09F: Badra mama niyogasya carcA tvayA na kartavyA . tvameva kiM na
+037.09A: Badra mama niyogasya carcA tvayA na kartavyA . tvam eva kim na
+037.09P: niyogasya -- aDikArasya .
+037.09P+: carcA -- vicAraRA .
+
+037.10F: jAnAsi yaTA tasyAharniSaM gfharakzAM karomi . yato'yaM cirAn
+037.10A: jAnAsi yaTA tasya aharniSam gfharakzAm karomi . yataH ayam cirAt
+037.10P: aharniSam -- ahani ca niSAyAM ca aharniSaM sadEva .
+
+037.11F: nirvfto mamopayogaM na jAnAti . tenADunApi mamAhAradAne mandAdaraH .
+037.11A: nirvftaH mama upayogam na jAnAti . tena aDunA api mama AhAradAne mandAdaraH .
+
+037.12F: yato vinA viDuradarSanaM svAmina upajIvizu mandAdarA Bavanti .
+037.12A: yataH vinA viDuradarSanam svAminaH upajIvizu mandAdarAH Bavanti .
+037.12P: viDuradarSanaM -- Apad -- saMkawa -- darSanam .
+
+037.13F: gardaBo brUte -- SfRu re barbara .
+037.13A: gardaBaH brUte -- SfRu re barbara .
+037.13P: barbara -- nIca , dasyo .
+
+037.14F: yAcate kAryakAle yaH sa kiMBftyaH sa kiMsuhft .
+037.14A: yAcate kAryakAle yaH saH kim BftyaH saH kim suhft .
+037.14P: kAryakAle -- upasTite kArye . 
+037.14P+: sa kiM BftyaH iti vA padacCedaH . sa nEva Bftya ityarTaH . 
+037.14P+: evaM sa kiM suhfd sa kiM praBurityatra yojyam .
+
+037.15F: kukkuro brUte -- SfRu tAvat .
+037.15A: kukkuraH brUte -- SfRu tAvat .
+
+037.16F: BftyAn samBAzayedyastu kAryakAle sa kiMpraBuH .. 32..
+037.16A: BftyAn samBAzayet yaH tu kAryakAle saH kim praBuH .. 32..
+
+037.17F: yataH . ASritAnAM BftO svAmisevAyAM Darmasevane .
+037.17A: yataH . ASritAnAm BftO svAmisevAyAm Darmasevane .
+037.17P: BftO pozaRe .
+037.17P+: Darmasevane -- DarmAcaraRe .
+
+037.18F: putrasyotpAdane cEva na santi pratihastakAH .. 33..
+037.18A: putrasya utpAdane ca eva na santi pratihastakAH .. 33..
+037.18P: pratihastakaH -- pratiniDiH , pratipuruzaH . ekasya sTAne anyaH puruzaH .
+
+037.19F: tato gardaBaH sakopamAha -- are duzwamate 
+037.19A: tataH gardaBaH sakopam Aha -- are duzwamate 
+
+037.20F: pApIyAMstvaM yadvipattO svAmikAryopekzAM karozi . Bavatu
+; pApIyAn : m1s pApIyas = villain
+; svAmikAryopekzAm = svAmi + kArya + upekzA
+037.20A: pApIyAn tvam yad vipattO svAmikAryopekzAm karozi . Bavatu
+
+037.21F: tAvat . yaTA svAmI jAgarizyati tanmayA kartavyam . yataH .
+037.21A: tAvat . yaTA svAmI jAgarizyati tad mayA kartavyam . yataH .
+
+037.22F: pfzWataH sevayedarkaM jaWareRa hutASanam .
+; arka = sun
+037.22A: pfzWataH sevayet arkam jaWareRa hutASanam .
+037.22P: pfzWataH <ab n="ityAdi">i</ab> -- sUryAtapaM pfzWe gfhRIyAt .
+
+037.23F: svAminaM sarvaBAvena paralokamamAyayA .. 34..
+037.23A: svAminam sarvaBAvena paralokam amAyayA .. 34..
+037.23P: amAyayA -- akapawAcaraRena vedavihitamArgAnusAreRa . yadvA mamatvaSUnyatvena , Ehikavastuzu AsaktiM vihAyetyarTaH .
+
+; kftavAn = nom. sing. of kftavat = past participle active of 'kf'
+037.24F: ityuktvAtIvoccEScItkAraSabdaM kftavAn . tataH sa
+037.24A: iti uktvA atIva uccEH cItkAraSabdam kftavAn . tataH saH
+037.24P: cItkAraH -- Arawanam . KaranAdaH .
+
+037.25F: rajakastena cItkAreRa prabudDo nidrABaNgakopAdutTAya
+037.25A: rajakaH tena cItkAreRa prabudDaH nidrABaNgakopAt utTAya
+
+037.26F: gardaBaM laguqena tAqayAmAsa . 
+037.26A: gardaBam laguqena tAqayAm Asa . 
+
+037.27F: ato'haM bravImi -- parADikAracarcAmityAdi . paSya .
+037.27A: ataH aham bravImi -- parADikAracarcAm ityAdi . paSya .
+
+037.28F: paSUnAmanvezaRamevAsmanniyogaH . svaniyogacarcA kriyatAm .
+037.28A: paSUnAm anvezaRam eva asmatniyogaH . svaniyogacarcA kriyatAm .
+
+; Kale parenthetical: (vimfSya)
+037.29F: kiMtvadya tayA carcayA
+037.29A: kim tu adya tayA carcayA
+
+037.30F: na prayojanam . yata AvayorBakzitaSezAhAraH pracuro'sti .
+037.30A: na prayojanam . yatas AvayoH BakzitaSezAhAraH pracuraH asti .
+
+037.31F: damanakaH sarozamAha -- kaTamAhArArTI
+037.31A: damanakaH sarozam Aha -- kaTam AhArArTI
+
+037.32F: BavAnkevalaM rAjAnaM sevate . etadayuktaM tava . yataH .
+037.32A: BavAn kevalam rAjAnam sevate . etad ayuktam tava . yataH .
+
+037.33F: suhfdAmupakArakAraRAd dvizatAmapyapakArakAraRAt .
+037.33A: suhfdAm upakArakAraRAt dvizatAm api apakArakAraRAt .
+037.33P: upakArakAraRAt -- suhfdAmupari upakArakaraRasAmarTyaM BavatIti hetoH .
+
+037.34F: nfpasaMSraya izyate buDErjaWaraM ko na biBarti kevalam .. 35..
+037.34A: nfpasaMSrayaH izyate buDEH jaWaram kaH na biBarti kevalam .. 35..
+
+037.35F: jIvite yasya jIvanti viprA mitrARi bAnDavAH .
+037.35A: jIvite yasya jIvanti viprAH mitrARi bAnDavAH .
+
+037.36F: saPalaM jIvitaM tasya AtmArTe ko na jIvati .. 36..
+037.36A: saPalam jIvitam tasya AtmArTe kaH na jIvati .. 36..
+
+037.37F: api ca . yasmin jIvati jIvanti bahavaH sa tu jIvatu .
+037.37A: api ca . yasmin jIvati jIvanti bahavaH saH tu jIvatu .
+
+037.38F: kAko'pi kiM na kurute caYcvA svodarapUraRam .. 37..
+037.38A: kAkaH api kim na kurute caYcvA svodarapUraRam .. 37..
+

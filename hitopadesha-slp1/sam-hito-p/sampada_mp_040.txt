@@ -1,0 +1,101 @@
+040.01F: tadatra BayaprastAve
+040.01A: tad atra BayaprastAve
+040.01P: BayaprastAve -- prastAvaH avasaraH prasaNgaH . ' prastAvaH syAdavasaraH ' ityamaraH .
+
+040.02F: prajYAbalenAhamenaM svAminamAtmIyaM karizyAmi . yataH .
+040.02A: prajYAbalena aham enam svAminam AtmIyam karizyAmi . yataH .
+
+040.03F: prastAvasadfSaM vAkyaM sadBAvasadfSaM priyam .
+040.03A: prastAvasadfSam vAkyam sadBAvasadfSam priyam .
+040.03P: prastAvasadfSam -- avasarocitaM , prastutavizayAnurUpam .
+040.03P+: sadBAvasadfSam -- san SoBanaH BAvaH aBiprAyaH tasya anurUpam . BAvaH svaBAvaH aBiprAyo vA . 'BAvaH sattAsvaBAvABiprAyacezwAtmajanmasu' . ityamaramedinyO .
+
+040.04F: AtmaSaktisamaM kopaM yo jAnAti sa paRqitaH .. 51..
+040.04A: AtmaSaktisamam kopam yaH jAnAti saH paRqitaH .. 51..
+
+040.05F: karawako brUte -- saKe tvaM sevAnaBijYaH . paSya .
+040.05A: karawakaH brUte -- saKe tvam sevAnaBijYaH . paSya .
+
+040.06F: anAhUto viSedyastu apfzwo bahu BAzate .
+040.06A: anAhUtaH viSet yaH tu apfzwaH bahu BAzate .
+
+040.07F: AtmAnaM manyate prItaM BUpAlasya sa durmatiH .. 52..
+040.07A: AtmAnam manyate prItam BUpAlasya saH durmatiH .. 52..
+
+040.08F: damanako brUte -- Badra kaTamahaM sevAnaBijYaH . paSya .
+040.08A: damanakaH brUte -- Badra kaTam aham sevAnaBijYaH . paSya .
+
+040.09F: kimapyasti svaBAvena sundaraM vApyasundaram .
+040.09A: kim api asti svaBAvena sundaram vA api asundaram .
+
+040.10F: yadeva rocate yasmE Bavettattasya sundaram .. 53..
+040.10A: yad eva rocate yasmE Bavet tad tasya sundaram .. 53..
+
+040.11F: yataH . yasya yasya hi yo BAvastena tena hi taM naram .
+040.11A: yataH . yasya yasya hi yaH BAvaH tena tena hi tad naram .
+
+040.12F: anupraviSya meDAvI kzipramAtmavaSaM nayet .. 54..
+040.12A: anupraviSya meDAvI kzipram AtmavaSam nayet .. 54..
+
+040.13F: anyacca . ko'tretyahamiti brUyAt samyag AdeSayeti ca .
+040.13A: anyat ca . kaH atra iti aham iti brUyAt samyak AdeSaya iti ca .
+
+040.14F: AjYAmavitaTAM kuryAdyaTASakti mahIpateH .. 55..
+040.14A: AjYAm avitaTAm kuryAt yaTASakti mahIpateH .. 55..
+040.14P: avitaTAm -- saPalAM kuryAt pAlayet .
+
+040.15F: aparaM ca . alpecCurDftimAn prAjYaSCAyevAnugataH sadA .
+040.15A: aparam ca . alpecCuH DftimAn prAjYaH CAyA iva anugataH sadA .
+
+040.16F: Adizwo na vikalpeta sa rAjavasatO vaset .. 56..
+040.16A: AdizwaH na vikalpetaH saH rAjavasatO vaset .. 56..
+040.16P: vikalpeta -- saMSayya na kartavyAkartavyaM vicArayet .
+040.16P+: rAjavasatO nfpaprasAde .
+
+040.17F: karawako brUte -- kadAcittvAmanavasarapraveSAdavagamyate svAmI .
+040.17A: karawakaH brUte -- kadA cid tvAm anavasarapraveSAt avagamyate svAmI .
+
+040.18F: sobravIt -- astvevam .
+040.18A: saH abravIt -- astu evam .
+
+040.19F: taTApyanujIvinA svAmisAMniDyamavaSyaM karaRIyam . yataH .
+040.19A: taTA api anujIvinA svAmisAMniDyam avaSyam karaRIyam . yataH .
+
+040.20F: dozaBIteranAramBastatkApuruzalakzaRam .
+040.20A: dozaBIteH anAramBaH tad kApuruzalakzaRam .
+040.20P: dozaBIteH -- dozaH anizwapariRAmaH vEguRyaM vA .
+
+040.21F: kErajIrRaBayAdBrAtarBojanaM parihIyate .. 57..
+040.21A: kEH ajIrRaBayAt BrAtar Bojanam parihIyate .. 57..
+
+040.22F: paSya . Asannameva nfpatirBajate manuzyaM
+040.22A: paSya . Asannam eva nfpatiH Bajate manuzyam
+040.22P: Bajate tasminsnihyati , tamanugfhRAti .
+
+040.23F: vidyAvihInamakulInamasaMstutaM vA .
+040.23A: vidyAvihInam akulInam asaMstutam vA .
+040.23P: tamakulInaM -- kule jAtaH kulasyApatyaM vA kulInaH na kulInaH akulInaH duzkulotpannaH .
+040.23P+: asaNgatam -- na praSastaM saNgataM sadgatiryasya so'saNgataH taM ayogyasamAgamam . atra navo'prASastyamarTaH . taduktaM tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA . aprASastyaM viroDaSca navarDAH zaw prakIrtitAH . iti . yadvA nAsti samyag gatamasya asAvasaNgataH durAcAraH tam .
+
+040.24F: prAyeRa BUmipatayaH pramadA latASca
+040.24A: prAyeRa BUmipatayaH pramadAH latAH ca
+040.24P: pramadAH prakfzwaH madaH yAsAM tAH taruRyaH .
+040.24P+: dUrAt sevake dUrasTepi .
+
+040.25F: yaH pArSvato vasati taM parivezwayanti .. 58..
+040.25A: yaH pArSvataH vasati tam parivezwayanti .. 58..
+
+040.26F: karawako brUte -- aTa tatra gatvA kiM vakzyati BavAn .
+040.26A: karawakaH brUte -- aTa tatra gatvA kim vakzyati BavAn .
+
+040.27F: sa Aha -- SfRu . kimanurakto virakto vA mayi svAmIti jYAsyAmi tAvat .
+040.27A: sa Aha -- SfRu . kim anuraktaH viraktaH vA mayi svAmI iti jYAsyAmi tAvat .
+039.27P: anuraktaH sAnurAgaH snigDo vA .
+039.27P+: viraktaH -- niranurAgo asaMtuzwaH .
+
+040.28F: karawako brUte -- kiM tajjYAnalakzaRam .
+040.28A: karawakaH brUte -- kim tad jYAnalakzaRam .
+
+040.29F: damanako brUte -- SfRu .
+040.29A: damanakaH brUte -- SfRu .
+

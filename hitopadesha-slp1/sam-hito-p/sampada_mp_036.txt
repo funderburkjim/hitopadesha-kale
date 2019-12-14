@@ -1,0 +1,133 @@
+036.01F: DfzwaH pArSve vasati niyataM dUrataScApragalBaH
+036.01A: DfzwaH pArSve vasati niyatam dUratas ca apragalBaH
+036.01P: apragalBaH -- BIruH .
+
+036.02F: sevADarmaH paramagahano yoginAmapyagamyaH .. 26..
+036.02A: sevADarmaH paramagahanaH yoginAm api agamyaH .. 26..
+
+036.03F: viSezataSca . praRamatyunnatihetorjIvitahetorvimuYcati prARAn .
+036.03A: viSezataH ca . praRamati unnatihetoH jIvitahetoH vimuYcati prARAn .
+036.03P: praRamati <ab n="ityAdi">i</ab> -- unnatiM uccEH padamicCantaH praRamanti sA praRatireva uccatvaviGAtinI .
+
+036.04F: duHKIyati suKahetoH ko mUQaH sevakAdanyaH .. 27..
+036.04A: duHKIyati suKahetoH kaH mUQaH sevakAt anyaH .. 27..
+036.04P: jIvikArTe kadAcitprARErapi viyujyante . suKaM lipsantaH kleSaBAjo BavantItyaho mOQyaM sevAvfttInAmiti nizkarzaH .
+
+036.05F: damanako brUte -- mitra sarvaTA manasApi nEtatkartavyam . yataH .
+036.05A: damanakaH brUte -- mitra sarvaTA manasA api na etat kartavyam . yataH .
+
+036.06F: kaTaM nAma na sevyante yatnataH parameSvarAH .
+036.06A: kaTam nAma na sevyante yatnatas parameSvarAH .
+036.06P: parameSvarAH -- nfpAlAH .
+
+036.07F: acireREva ye tuzwAH pUrayanti manoraTAn .. 28..
+036.07A: acireRa eva ye tuzwAH pUrayanti manoraTAn .. 28..
+
+036.08F: anyacca paSya . kutaH sevAvihInAnAM cAmarodDUtasaMpadaH .
+; cAmarodDUtasaMpadaH = cAmara + udDUta + saMpadaH
+036.08A: anyat ca paSya . kutaH sevAvihInAnAm cAmarodDUtasaMpadaH .
+036.08P: cAmarodBUtasampadaH cAmarARi udBUtAni yAsu tAdfSaH sampadaH .
+
+036.09F: uddaRqaDavalacCatraM vAjivAraRavAhinI .. 29..
+; cCatra  : why the extra 'c'?  MW spells with two t's: Cattra
+036.09A: uddaRqaDavalacCatram vAjivAraRavAhinI .. 29..
+036.09P: udrato daRqo yasya tAdfSaM DavalaM CatraM .
+036.09P+: vAjinaSca vAraRASca yasyAM tAdfSI vAhinI camUH . sevakasamudAyo vA .
+
+036.10F: karawako brUte -- taTApi kimanenAsmAkaM vyApAreRa .
+036.10A: karawakaH brUte -- taTA api kim anena asmAkam vyApAreRa .
+
+036.11F: yato'vyApArezu vyApAraH sarvaTA pariharaRIyaH . paSya .
+036.11A: yataH avyApArezu vyApAraH sarvaTA pariharaRIyaH . paSya .
+
+036.12F: avyApArezu vyApAraM yo naraH kartumicCati .
+036.12A: avyApArezu vyApAram yaH naraH kartum icCati .
+
+036.13F: sa BUmO nihataH Sete kIlotpAwIva vAnaraH .. 30 ..
+036.13A: saH BUmO nihataH Sete kIlotpAwI iva vAnaraH .. 30..
+036.13P: kIlotpAwI -- kilaM utpAwayatIti .
+
+036.14F: damanakaH pfcCati -- kaTametat .
+036.14A: damanakaH pfcCati -- kaTam etat .
+
+036.15F: karakawaH kaTayati .
+036.15A: karakawaH kaTayati .
+
+036.16F: .. kaTA 1 ..
+036.16A: .. kaTA 1 ..
+
+036.17F: asti magaDadeSe DarmAraRyasaMnihitavasuDAyAM
+036.17A: asti magaDadeSe DarmAraRyasaMnihitavasuDAyAm
+
+036.18F: SuBadattanAmnA kAyasTena vihAraH kartumArabDaH . tatra
+036.18A: SuBadattanAmnA kAyasTena vihAraH kartum ArabDaH . tatra
+036.18P: vihAraH maWaH devatAyatanaM vA .
+
+036.19F: karapatradAryamAREkastamBasya kiyaddUrasPAwitasya
+; dAryamAREka =? dAryamARa+eka  , 
+; dAryamARa = middle active participle of causal of dF? = spltting
+; kara + patra (pattra MW) + dAryamARa + eka + stamBa =
+;  (saw) + being split + one + post
+036.19A: karapatradAryamAREkastamBasya kiyat dUrasPAwitasya
+036.19P: karapatra -- karapatreRa krakacena dAryamAnaScAsO ekastamBaSca tasya .
+036.19P+: sPAwitasya -- pAwitasya kfttasya .
+
+036.20F: kAzWaKaRqadvayamaDye kIlakaM niDAya sUtraDAreRa Dftam . tatra
+; kAzWa + KaRqa + dvaya + maDye = wood broken(piece) two middle
+; sUtraDAra = carpenter
+; kIlaka = wedge
+036.20A: kAzWaKaRqadvayamaDye kIlakam niDAya sUtraDAreRa Dftam . tatra
+036.20P: sUtraDAreRa -- sTapitinA tvazwrA .
+
+036.21F: balavAnvAnarayUTaH krIqannAgataH . eko vAnaraH kAlaprerita
+; kAlaprerita = kAla + prerita = death sent
+036.21A: balavAn vAnarayUTaH krIqan AgataH . ekaH vAnaraH kAlapreritaH
+
+036.22F: iva taM kIlakaM hastAByAM DftvopavizwaH . 
+036.22A: iva tam kIlakam hastAByAm DftvA upavizwaH . 
+
+036.23F: tatra tasya muzkadvayaM lambamAnaM kAzWaKaRqadvayAByantare pravizwam .
+036.23A: tatra tasya muzkadvayam lambamAnam kAzWaKaRqadvayAByantare pravizwam .
+
+036.24F: anantaraM sa ca sahajacapalatayA mahatA prayatnena
+; jacapalatA = ja + capalatA = born fickleness
+036.24A: anantaram sa ca saha jacapalatayA mahatA prayatnena
+
+036.25F: taM kIlakamAkfzwavAn . Akfzwe ca kIlake cUrRitARqadvayaH
+; AkfzwavAn = ? perfect active participle: Akfzwavat.
+; cUrRitARqadvayaH = ? cUrRita + aRqa + dvaya = smashed + (two eggs = testicles)
+036.25A: tam kIlakam AkfzwavAn . Akfzwe ca kIlake cUrRitARqadvayaH
+
+036.26F: paYcatvaM gataH . ato'haM bravImi -- avyApArezu vyApAramityAdi .
+036.26A: paYcatvam gataH . ataH aham bravImi -- avyApArezu vyApAram ityAdi .
+036.26P: paYcatvaM gataH mftaH .
+
+036.27F: damanako brUte -- 
+036.27A: damanakaH brUte -- 
+
+036.28F: taTApi svAmicezwAnirUpaRaM sevakenAvaSyaM karaRIyam .
+036.28A: taTA api svAmicezwAni rUpaRam sevakena avaSyam karaRIyam .
+
+036.29F: karawako brUte -- 
+036.29A: karawakaH brUte -- 
+
+036.30F: sarvasminnaDikAre ya eva niyuktaH praDAnamantrI sa karotu .
+036.30A: sarvasmin aDikAre yaH eva niyuktaH praDAnamantrI saH karotu .
+
+036.31F: yato'nujIvinA parADikAracarcA sarvaTA na kartavyA . paSya .
+036.31A: yataH anujIvinA parADikAracarcA sarvaTA na kartavyA . paSya .
+036.31P: parADikAracarcA anyADikAranirUpaRam . ayaM SabdaH 'avyApArezu vyApAraH' ityanena samAnArTaH .
+
+036.32F: parADikAracarcA yaH kuryAt svAmihitecCayA .
+036.32A: parADikAracarcA yaH kuryAt svAmihitecCayA .
+
+036.33F: sa vizIdati cItkArAdgardaBastAqito yaTA .. 31..
+036.33A: saH vizIdati cItkArAt gardaBaH tAqitaH yaTA .. 31..
+036.33P: vizIdati vizAdaM KedaM prApnoti .
+
+036.34F: damanakaH pfcCati -- kaTametat .
+036.34A: damanakaH pfcCati -- kaTam etat .
+
+036.35F: karawako brUte --
+036.35A: karawakaH brUte --
+

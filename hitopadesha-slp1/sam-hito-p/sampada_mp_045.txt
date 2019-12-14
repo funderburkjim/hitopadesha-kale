@@ -1,0 +1,124 @@
+045.01F: saMjIvako brUte -- tadaBayavAcaM me yacCa . gacCAmi . tadA svakIyadakziRabAhuM dadAtuM
+; svakIyadakziRabAhum = svakIya + dakziRa + bAhum = one's own right arm
+045.01A: saMjIvakaH brUte -- tad aBayavAcam me yacCa . gacCAmi . tadA svakIyadakziRabAhum dadAtum
+
+045.02F: BavAn . karawako brUte -- SfRu re balIvarda alamanayA SaNkayA . yataH .
+045.02A: BavAn . karawakaH brUte -- SfRu re balIvarda alam anayA SaNkayA . yataH .
+
+045.03F: prativAcamadatta keSavaH SapamAnAya na cediBUBuje .
+; SapamAnAya: m4s of SapamAna, which is  prmp (present middle participle) of Sap:  cursing
+; check sandhi:  adattaH keSavaH -> adatta keSavaH
+045.03A: prativAcam adattaH keSavaH SapamAnAya na cediBUBuje .
+045.03P: SapamAnAya -- kawUktIH prayuYjate .
+045.03P+: cediBUBuje SiSupAlAya .
+
+045.04F: anuhuNkurute GanaDvaniM na hi gomAyurutAni kesarI .. 86..
+045.04A: anuhuNkurute GanaDvanim na hi gomAyurutAni kesarI .. 86..
+045.04P: gomAyurutAni -- SfgAlaravAn .
+
+045.05F: anyacca .
+045.05A: anyat ca .
+
+045.06F: tfRAni nonmUlayati praBaYjano mfdUni nIcEH praRatAni sarvataH .
+045.06A: tfRAni na unmUlayati praBaYjanaH mfdUni nIcEH praRatAni sarvataH .
+
+045.07F: samucCritAneva tarUnprabADate mahAnmahatyeva karoti vikramam .. 87..
+045.07A: samucCritAn eva tarUn prabADate mahAn mahati eva karoti vikramam .. 87..
+
+045.08F: tatastO saMjIvakaM kiyaddUre saMsTApya piNgalakasamIpaM gatO .
+; kiyad+dure : at a little distance
+045.08A: tatas tO saMjIvakam kiyaddUre saMsTApya piNgalakasamIpam gatO .
+
+045.09F: tato rAjYA sAdaramavalokitO praRamyopavizwO .
+045.09A: tataH rAjYA sAdaram avalokitO praRamya upavizwO .
+
+045.10F: rAjAha -- tvayA sa dfzwaH .
+045.10A: rAjA Aha -- tvayA saH dfzwaH .
+
+045.11F: damanako brUte -- deva .
+045.11A: damanakaH brUte -- deva .
+
+045.12F: dfzwaH . kiMtu yaddevena jYAtaM tattaTA . mahAnevAsO devaM
+045.12A: dfzwaH . kim tu yad devena jYAtam tat taTA . mahAn eva asO devam
+
+045.13F: drazwumicCati . kiMtu mahAbalo'sO . tataH sajjIBUyopaviSya
+045.13A: drazwum icCati . kim tu mahAbalaH asO . tataH sajjIBUya upaviSya
+045.13P: sajjIBUya -- kramaM badDvA . tadAkramaRe svasaMrakzaRArTamiti sUcyorTaH .
+
+045.14F: dfSyatAm . SabdamAtrAd eva na Betavyam . taTA coktam --
+045.14A: dfSyatAm . SabdamAtrAt eva na Betavyam . taTA ca uktam --
+
+045.15F: SabdamAtrAn na BetavyamajYAtvA SabdakAraRam .
+045.15A: SabdamAtrAt na Betavyam ajYAtvA SabdakAraRam .
+
+045.16F: SabdahetuM parijYAya kuwwanI gOravaM gatA .. 88..
+045.16A: Sabdahetum parijYAya kuwwanI gOravam gatA .. 88..
+
+045.17F: rAjAha -- kaTametat .
+045.17A: rAjA Aha -- kaTam etat .
+
+045.18F: damanakaH kaTayati --
+045.18A: damanakaH kaTayati --
+
+045.19F: .. kaTA 4 ..
+045.19A: .. kaTA 4 ..
+
+045.20F: asti SrIparvatamaDye brahmapurAKyaM nagaram .
+045.20A: asti SrIparvatamaDye brahmapurAKyam nagaram .
+
+045.21F: tacCiKarapradeSe GaRwAkarRo nAma rAkzasaH prativasatIti
+; tacCiKarapradeSe = tad + SiKara + pradeSe
+045.21A: tacCiKarapradeSe GaRwAkarRaH nAma rAkzasaH prativasati iti
+
+045.22F: janapravAdaH SrUyate . ekadA GaRwAmAdAya palAyamAnaH kaSciccOro
+045.22A: janapravAdaH SrUyate . ekadA GaRwAm AdAya palAyamAnaH kaH cid cOraH
+
+045.23F: vyAGreRa vyApAditaH KAditaSca . tatpARipatitA GaRwA vAnarEH prAptA .
+045.23A: vyAGreRa vyApAditaH KAditaH ca . tad pARipatitA GaRwA vAnarEH prAptA .
+
+045.24F: te ca vAnarAstAM GaRwAmanukzaRaM vAdayanti . tato nagarajanEH sa manuzyaH
+045.24A: te ca vAnarAH tAm GaRwAm anukzaRam vAdayanti . tataH nagarajanEH saH manuzyaH
+
+045.25F: KAdito dfzwaH . pratikzaRaM GaRwAravaSca
+045.25A: KAditaH dfzwaH . pratikzaRam GaRwAravaH ca
+
+045.26F: SrUyate . anantaraM GaRwAkarRaH kupito manuzyAnKAdati GaRwAM
+045.26A: SrUyate . anantaram GaRwAkarRaH kupitaH manuzyAn KAdati GaRwAm
+
+045.27F: ca vAdayatItyuktvA sarve janA nagarAtpalAyitAH . tataH karAlayA nAma
+045.27A: ca vAdayati iti uktvA sarve janAH nagarAt palAyitAH . tataH karAlayA nAma
+
+045.28F: kuwwanyA vimfSyAnavasaro'yaM GaRwAvAdaH . tatkiM markawA
+045.28A: kuwwanyA vimfSya anavasaraH ayam GaRwAvAdaH . tat kim markawAH
+045.28P: vimfSyeti -- ayaM GaRwAvAdaH anavasaraH na tu niyatavelABavaH . tasmAtkiM markawA GaRwAyA vAdakAH syuriti vicArya tatsvayaM ca parijYAya ityarTaH .
+
+045.29F: GaRwAM vAdayantIti svayaM vijYAya rAjA vijYApitaH -- deva
+045.29A: GaRwAm vAdayanti iti svayam vijYAya rAjA vijYApitaH -- deva
+
+045.30F: yadi kiyadDanopakzayaH kriyate tadAhamenaM GaRwAkarRaM sADayAmi .
+045.30A: yadi kiyad DanopakzayaH kriyate tadA aham enam GaRwAkarRam sADayAmi .
+045.30P: sADayAmi svavaSaM nezyAmi hanizyAmi vA .
+
+045.31F: tato rAjA tasyE DanaM dattam .
+045.31A: tataH rAjA tasyE Danam dattam .
+
+045.32F: kuwwanyA ca maRqalaM kftvA tatra gaReSAdipUjAgOravaM darSayitvA
+045.32A: kuwwanyA ca maRqalam kftvA tatra gaReSAdipUjAgOravam darSayitvA
+045.32P: maRqalam -- aBicArasADakaM cakraM mAntrikaprasidDam .
+045.32P+: gomAyurutAni -- gaRapatiSAkinIqAkinIkzetrapAlapraBftipUjAqambaram . 
+
+045.33F: svayaM vAnarapriyaPalAnyAdAya vanaM praviSya PalAnyAkIrRAni .
+045.33A: svayam vAnarapriyaPalAni AdAya vanam praviSya PalAni AkIrRAni .
+
+045.34F: tato GaRwAM parityajya vAnarAH PalAsaktA baBUvuH . kuwwanI ca
+045.34A: tataH GaRwAm parityajya vAnarAH PalAsaktA baBUvuH . kuwwanI ca
+
+045.35F: GaRwAM gfhItvA nagaramAgatA sarvajanapUjyABavat . ato'haM
+045.35A: GaRwAm gfhItvA nagaram AgatA sarvajanapUjyA aBavat . ataH aham
+
+045.36F: bravImi -- SabdamAtrAnna BetavyamityAdi .. tataH saMjIvaka AnIya
+045.36A: bravImi -- SabdamAtrAt na Betavyam ityAdi .. tataH saMjIvakaH AnIya
+
+045.37F: darSanaM kAritH . paScAttatrEva paramaprItyA nivasati .
+045.37A: darSanam kAritaH . paScAt tatra eva paramaprItyA nivasati .
+

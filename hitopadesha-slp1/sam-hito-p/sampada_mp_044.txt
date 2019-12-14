@@ -1,0 +1,135 @@
+044.01F: damanako vihasyAha -- mitra 
+044.01A: damanakaH vihasya Aha -- mitra 
+
+044.02F: tUzRImAsyatAm . jYAtaM mayA BayakAraRam . balIvardanarditaM
+; balIvarda (not in MW) bull + nardita (bellow)
+; mw balivarda = bull
+044.02A: tUzRIm AsyatAm . jYAtam mayA BayakAraRam . balIvardanarditam
+
+044.03F: tat . vfzaBAScAsmAkamapi BakzyAH . kiM punaH siMhasya .
+044.03A: tat . vfzaBAH ca asmAkam api BakzyAH . kim punaH siMhasya .
+
+044.04F: karawako brUte --
+044.04A: karawakaH brUte --
+
+044.05F: yadyevaM tadA svAmitrAsastatrEva kiM nApanItaH .
+044.05A: yadi evam tadA svAmitrAsaH tatra eva kim na apanItaH .
+
+044.06F: damanako brUte -- yadi svAmitrAsastatrEva
+044.06A: damanakaH brUte -- yadi svAmitrAsaH tatra eva
+
+044.07F: mucyate tadA kaTamayaM mahAprasAdalABaH syAt . aparaM ca .
+044.07A: mucyate tadA kaTam ayam mahAprasAdalABaH syAt . aparam ca .
+
+044.08F: nirapekzo na kartavyo BftyEH svAmI kadAcana .
+044.08A: nirapekzaH na kartavyaH BftyEH svAmI kadAcana .
+044.08P: nirapekzaH svasevAnirapekzaH .
+
+044.09F: nirapekzaM praBuM kftvA BftyaH syAddaDikarRavat .. 83..
+044.09A: nirapekzam praBum kftvA BftyaH syAt daDikarRavat .. 83..
+
+044.10F: karawakaH pfcCati -- kaTametat .
+044.10A: karawakaH pfcCati -- kaTam etat .
+
+044.11F: damanakaH kaTayati --
+044.11A: damanakaH kaTayati --
+
+044.12F: .. kaTA 3 ..
+044.12A: .. kaTA 3 ..
+
+044.13F: astyuttarapaTe'rbudaSiKaranAmni parvate 
+044.13A: asti uttarapaTe arbudaSiKaranAmni parvate 
+
+044.14F: mahAvikramo nAma siMhaH . asya parvatakandaramaDiSayAnasya
+044.14A: mahAvikramaH nAma siMhaH . asya parvatakandaram aDiSayAnasya
+044.14P: parvatakandaramaDiSayAnasya -- 'aDiSINsyAsAM karma' iti dvitIyA .
+
+044.15F: kesarAgraM kaScinmUzikaH pratyahaM Cinatti . tataH kesarAgraM
+044.15A: kesarAgram kaH cid mUzikaH pratyaham Cinatti . tataH kesarAgram
+044.15P: kesarAgraM CawAgram .
+
+044.16F: lUnaM dfzwvA kupito vivarAntargataM mUzikamalaBamAno'cintayat --
+044.16A: lUnam dfzwvA kupitaH vivarAntargatam mUzikam alaBamAnaH acintayat --
+
+044.17F: kzudraSatrurBavedyastu vikramAnnEva laByate .
+044.17A: kzudraSatruH Bavet yaH tu vikramAt na eva laByate .
+
+044.18F: tamAhantuM puraskAryaH sadfSastasya sEnikaH .. 84..
+044.18A: tam Ahantum puraskAryaH sadfSaH tasya sEnikaH .. 84..
+
+044.19F: ityAlocya tena grAmaM gatvA viSvAsaM kftvA
+044.19A: iti Alocya tena grAmam gatvA viSvAsam kftvA
+
+044.20F: daDikarRanAmA biqAlo yatnenAnIya mAMsAhAraM dattvA svakandare
+044.20A: daDikarRanAmA biqAlaH yatnena AnIya mAMsAhAram dattvA svakandare
+
+044.21F: sTApitaH . anantaraM tadBayAnmUziko'pi bilAnna niHsarati .
+044.21A: sTApitaH . anantaram tad BayAt mUzikaH api bilAt na niHsarati .
+
+044.22F: tenAsO siMho'kzatakesaraH suKaM svapiti . mUzikaSabdaM yadA yadA SfRoti 
+044.22A: tena asO siMhaH akzatakesaraH suKam svapiti . mUzikaSabdam yadA yadA SfRoti 
+044.22P: akzatakesaraH akzataH alUnaH kesaro yasya .
+
+044.23F: tadA tadA saviSezaM mAMsAhAradAnena taM biqAlaM saMvarDayati . aTEkadA sa mUzikaH
+044.23A: tadA tadA saviSezam mAMsAhAradAnena tam biqAlam saMvarDayati . aTa ekadA saH mUzikaH
+044.23P: saviSezam -- samaDikam .
+
+044.24F: kzuDApIqito bahiH saMcaranbiqAlena prApto vyApAditaSca . anantaraM sa siMho yadA
+044.24A: kzuDA pIqitaH bahiH saMcaran biqAlena prAptaH vyApAditaH ca . anantaram sa siMhaH yadA
+
+044.25F: kadAcidapi tasya mUzikasya SabdaM vivarAnna SuSrAva tadopayogABAvAdbiqAlasya 
+; upayogABAvAt = upayoga + aBAvAt:  from absence of use
+044.25A: kadA cid api tasya mUzikasya Sabdam vivarAt na SuSrAva tadA upayogABAvAt biqAlasya 
+
+044.26F: apyAhAradAne mandAdaro baBUva . tato'sAvAhAravirahAddurbalo daDikarno'vasano
+044.26A: api AhAradAne mandAdaraH baBUva . tataH asO AhAravirahAt durbalaH daDikarnaH avasannaH
+044.26P: avasanno baBUva BUtaH .
+
+044.27F: baBUva . ato'haM bravImi -- nirapekzo na kartavyaH ityAdi .
+044.27A: baBUva . atas ahaM bravImi -- nirapekzaH na kartavyaH ityAdi .
+
+044.28F: tato damanakakarawakO saMjIvakasamIpaM gatO . tatra karawakastarutale sAwopamupavizwaH .
+044.28A: tataH damanakakarawakO saMjIvakasamIpam gatO . tatra karawakaH tarutale sAwopam upavizwaH .
+
+044.29F: damanakaH saMjIvakasamIpaM gatvA'bravIt -- are vfzaBa eza rAjyA piNgalakenAraRyarakzArTaM
+044.29A: damanakaH saMjIvakasamIpam gatvA abravIt -- are vfzaBa ezaH rAjyA piNgalakena araRyarakzArTam 
+
+044.30F: niyuktaH senApatiH karawakaH samAjYApayati -- satvaramAgacCa . no cedasmAd
+044.30A: niyuktaH senApatiH karawakaH samAjYApayati -- satvaram AgacCa . no ced asmAt
+
+044.31F: araRyAddUramapasara . anyaTA te virudDaM PalaM Bavizyati . na jAne krudDaH svAmI kiM
+044.31A: araRyAt dUram apasara . anyaTA te virudDam Palam Bavizyati . na jAne krudDaH svAmI kim
+044.31P: virudDamanizwam .
+
+044.32F: viDAsyati .
+044.32A: viDAsyati .
+
+044.33F: tato deSavyavahArAnaBijYaH saMjIvakaH saBayamupasftya
+044.33A: tataH deSavyavahArAn aBijYaH saMjIvakaH saBayam upasftya
+
+044.34F: sAzwANgapAtaM karawakaM praRatavAn . taTA coktam  --
+044.34A: sAzwANgapAtam karawakam praRatavAn . taTA ca uktam --
+
+044.35F: matireva balAd garIyasI yadaBAve kariRAmiyaM daSA .
+044.35A: matiH eva balAd garIyasI yad aBAve kariRAm iyam daSA .
+044.35P: kariRAmiyaM daSA -- dfSyamAnA daSA . satyAmapi SaktO manuzyADInatA ityarTaH .
+
+044.36F: iti GozayatIva qiRqimaH kariRo hastipakAhataH kvaRan .. 85..
+044.36A: iti Gozayati iva qiRqimaH kariRaH hastipakAhataH kvaRan .. 85..
+044.36P: qiRqimo vAdyaBedaH .
+044.36P+: hastipaka - hastyArohaH .
+044.36P++: kariRaH karipfzwasTaH iti yAvat .
+
+044.37F: aTa saMjIvakaH
+044.37A: aTa saMjIvakaH
+
+044.38F: sASaNkamAha -- senApate kiM mayA kartavyam tadaBiDIyatAm .
+044.38A: sASaNkam Aha -- senApate kim mayA kartavyam tad aBiDIyatAm .
+
+044.39F: karawako brUte -- yadyatra kAnane sTityASAsti tarhi
+044.39A: karawakaH brUte -- yadi atra kAnane sTityA ASAsti tarhi
+
+044.40F: gatvA'smaddevapAdAravindaM praRama .
+; pAdAravinda 'foot-lotus' (pAda + aravinda)
+044.40A: gatvA asmaddevapAdAravindam praRama .
+

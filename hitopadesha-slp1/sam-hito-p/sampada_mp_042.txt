@@ -1,0 +1,115 @@
+042.01F: dantasya nirGarzaRakena rAjankarRasya kaRqUyanakena vApi .
+042.01A: dantasya nirGarzaRakena rAjan karRasya kaRqUyanakena vA api .
+042.01P: dantasya dantAnAm . jAtO ekacavanam .
+042.01P+: nirGarzaRakena -- mArjanaviDAyakena .
+
+042.02F: tfRena kAryaM BavatISvarARAM kimaNgavAkpARimatA nareRa .. 66..
+042.02A: tfRena kAryam Bavati ISvarARAm kim aNgavAkpARimatA nareRa .. 66..
+042.02P: ISvarARAM praBURAM kAryaM prayojanaM Bavati .
+042.02P+: kimaNga kimu vaktavyaM vAkpARimatA nareRa tadBavediti . aNgavAkpARimatetyekaM vA padam .
+
+042.03F: yadyapi cireRAvaDIritasya dEvapAdErme
+042.03A: yadi api cireRa avaDIritasya dEvapAdEH me
+
+; MW doesn't have SaNkanIya, but ap90 has SaMkanIya.
+042.04F: budDinASaH SaNkyate tad api na SaNkanIyam . yataH .
+042.04A: budDinASaH SaNkyate tad api na SaNkanIyam . yataH .
+
+042.05F: maRirluWati pAdezu kAcaH Sirasi DAryate .
+042.05A: maRiH luWati pAdezu kAcaH Sirasi DAryate .
+
+042.06F: yaTEvAste taTEvAstAM kAcaH kAcO maRirmaRiH .. 67..
+; astAm = ipv of As (let it 'sit' or continue)
+; kAcO = 2d of kAca   :  why dual? (glass)
+042.06A: yaTA eva aste taTA eva AstAm kAcaH kAcO maRiH maRiH .. 67..
+
+042.07F: anyacca . kadarTitasyApi ca DEryavftterbudDervinASo na hi SaNkanIyaH .
+; kadarTita  : what purpose (useless)
+042.07A: anyat ca . kadarTitasya api ca DEryavftteH budDeH vinASaH na hi SaNkanIyaH .
+042.07P: kadarTitasya -- avamAnitasya aniduHKitasya vA .
+042.07P+: DErya -- DEryeRa DErye vA vfttirasya .
+
+042.08F: aDaHkftasyApi tanUnapAto nADaH SiKA yAti kadAcideva .. 68..
+; SiKA = flame
+042.08A: aDaHkftasya api tanUnapAtaH na aDaH SiKA yAti kadA cid eva .. 68..
+042.08P: tanUnapAtaH agneH .
+042.08P+: tanuM svaSarIraM na pAtayani tanUnapaM GftAdi attIti vA tanUnapAt .
+
+042.09F: deva tatsarvaTA viSezajYena svAminA Bavitavyam . yataH .
+042.09A: deva tad sarvaTA viSezajYena svAminA Bavitavyam . yataH .
+042.09P: viSezajYena -- viSezaM jAnAtIti tena tAratamyatA .
+
+042.10F: nirviSezo yadA rAjA samaM sarvezu vartate .
+042.10A: nirviSezaH yadA rAjA samam sarvezu vartate .
+042.10P: sarvezu kAryakzemezu kAryAkzamezu ca ityarTaH .
+042.10P+: vartate vyavaharati .
+
+042.11F: tadodyamasam
+arTAnAmutsAhaH parihIyate .. 69..
+042.11A: tadA udyamasamarTAnAm utsAhaH parihIyate .. 69..
+042.11P: samaM -- tulyam .
+
+042.12F: kiM ca . triviDAH puruzA rAjannuttamADamamaDyamAH .
+042.12A: kim ca . triviDAH puruzAH rAjan uttamADamamaDyamAH .
+
+042.13F: niyojayettaTEvEtAMstriviDezveva karmasu .. 70..
+; niyuj = appoint
+042.13A: niyojayet taTA eva etAn triviDezu eva karmasu .. 70..
+
+042.14F: yataH . sTAna eva niyojyante BftyAScABaraRAni ca .
+042.14A: yataH . sTAne eva niyojyante BftyAH ca ABaraRAni ca .
+
+042.15F: na hi cUqAmaRiH pAde nUpuraM mUrDni DAryate .. 71..
+; nUpura: ornament for feet
+042.15A: na hi cUqAmaRiH pAde nUpuram  mUrDni DAryate .. 71..
+042.15P: nUpuraM -- maYjIraH caraRABaraRaviSezaH .
+
+042.16F: api ca . kanakaBUzaRasaMgrahaRocito yadi maRistrapuRi praRiDIyate .
+042.16A: api ca . kanakaBUzaRasaMgrahaRocitaH yadi maRiH trapuRi praRiDIyate .
+042.16P: kanakaBUzaRasaMgrahaRocitaH -- suvarRAlaMkArayoga . yogyaH . 
+042.16P+: trapuRi sIsake , raNge vA . 'raNgasIsakayostrapuH' iti rudraH .
+042.16P++: praRiDIyate -- yojyate .
+
+042.17F: na sa virOti na cApi na SoBate Bavati yojayiturvacanIyatA .. 72..
+042.17A: na saH virOti na ca api na SoBate Bavati yojayituH vacanIyatA .. 72..
+042.17P: virOti -- SabdaM kurute sADikzepaM krandati vA .
+042.17P+: vacanIyatA -- nindA .
+
+042.18F: anyacca . mukuwe ropitaH kAcaScaraRABaraRe maRiH .
+042.18A: anyat ca . mukuwe ropitaH kAcaH caraRABaraRe maRiH .
+
+042.19F: na hi dozo maRerasti kiM tu sADoravijYatA .. 73..
+; sADu = jeweller 
+042.19A: na hi dozaH maReH asti kim tu sADoH avijYatA .. 73..
+042.19P: sADoH -- alaMkAraDAriRaH .
+042.19P+: avijYatA -- aviSezajYatA avicakzaRatA . mUrKatA iti yAvat .
+
+042.20F: paSya . budDimAnanurakto'yamayaM SUra ito Bayam .
+042.20A: paSya . budDimAn anuraktaH ayam ayam SUraH itaH Bayam .
+
+042.21F: iti BftyavicArajYo BftyErApUryate nfpaH .. 74..
+042.21A: iti BftyavicArajYaH BftyEH ApUryate nfpaH .. 74..
+
+042.22F: taTA hi . aSvaH SastraM SAstraM vIRA vARI naraSca nArI ca .
+042.22A: taTA hi . aSvaH Sastram SAstram vIRA vARI naraH ca nArI ca .
+
+042.23F: puruzaviSezaM prApya hi Bavanti yogyA ayogyASca .. 75..
+042.23A: puruzaviSezam prApya hi Bavanti yogyAH ayogyAH ca .. 75..
+042.23P: puruzaviSezam -- guRagrAhiRamaguRagrAhiRaM vA ityarTaH .
+
+042.24F: anyacca . kiM BaktenAsamarTena kiM SaktenApakAriRA .
+042.24A: anyat ca . kim Baktena asamarTena kim Saktena apakAriRA .
+
+042.25F: BaktaM SaktaM ca mAM rAjan nAvajYAtuM tvamarhasi .. 76..
+042.25A: Baktam Saktam ca mAm rAjan na avajYAtum tvam arhasi .. 76..
+
+042.26F: yataH . avajYAnAdrAjYo Bavati matihInaH parijanaH
+042.26A: yataH . avajYAnAt rAjYaH Bavati matihInaH parijanaH
+042.26P: avajYAnAt anAdarAt avamAnAt .
+042.26P+: parijanaH matihInaH mUQaDIH Bavati . cittasya paryAkulatvAditi BAvaH . yadvA matihInaH parijanaH rAjYaH Bavati . mandaDiyaH eva rAjasevakA Bavanti .
+
+042.27F: tatastatprADARyAdBavati na samIpe buDajanaH .
+042.27A: tatas tad prADAnyAt Bavati na samIpe buDajanaH .
+042.27P: tatprADAnyAt tezAM mUrKARAM prADAnyAt prAbalyAt .
+042.27P+: samIpe na Bavati avamAnaSaNkayeti BAvaH .
+

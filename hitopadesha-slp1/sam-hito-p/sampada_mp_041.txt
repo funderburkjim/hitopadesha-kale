@@ -1,0 +1,106 @@
+041.01F: dUrAd avekzaRaM hAsaH saMpraSnezvAdaro BfSam .
+041.01A: dUrAt avekzaRam hAsaH saMpraSnezu AdaraH BfSam .
+041.01P: saMpraSnezu -- kuSalapraSnezu .
+
+041.02F: parokze'pi guRaSlAGA smaraRaM priyavastuzu .. 59..
+041.02A: parokze api guRaSlAGAH smaraRam priyavastuzu .. 59..
+041.02P: priyavastuzu izwapadArTezu .
+
+041.03F: asevake cAnuraktirdAnaM sapriyaBAzaRam .
+041.03A: asevake ca anuraktiH dAnam sapriyaBAzaRam .
+041.03P: asevake -- sevAmanukurvARe .
+
+041.04F: surakteSvaracihnAni doze'pi guRasaMgrahaH .. 60..
+041.04A: surakteSvaracihnAni doze api guRasaMgrahaH .. 60..
+041.04P: surakteSvara -- suraktasya prakfzwAnurAgavataH ISvarasya nfpasya cinhAni liNgAni .
+041.04 P+: guRasaMgrahaH -- guRAvekzaRaM -- grahaRaM vA . 
+
+041.05F: anyacca . kAlayApanamASAnAM varDanaM PalaKaRqanam .
+041.05A: anyat ca . kAlayApanam ASAnAm varDanam PalaKaRqanam .
+041.05P: kAlayApanam -- aBimatamanoraTapUraRe kAlakzepaH .
+041.05P+: PalaKaRqanam -- Pale visaMvAdaH ASAPalavinASo vA .
+
+041.06F: virakteSvaracihnAni jAnIyAn matimAn naraH .. 61..
+041.06A: virakteSvaracihnAni jAnIyAt matimAn naraH .. 61..
+
+041.07F: etajjYAtvA yaTAyaM mamAyatto Bavizyati taTA vakzyAmi . yataH .
+041.07A: etad jYAtvA yaTA ayam mama AyattaH Bavizyati taTA vakzyAmi . yataH .
+
+041.08F: apAyasaM darSanajAM vipattimupAyasaMdarSanajAM ca sidDim .
+041.08A: apAyasaMdarSanajAm vipattim upAyasaMdarSanajAm ca sidDim 
+041.08P: apAyeti -- meDAvino nItiviDiprayuktAmityatra anIti nIti iti padacCedaH .
+
+041.09F: meDAvino nItiviDiprayuktAM puraH sPurantImiva darSayanti .. 62..
+; sPurantIm:   f1s of prap of 'sPur':  
+041.09A: meDAvinaH nItiviDiprayuktAm puraH sPurantIm iva darSayanti .. 62..
+041.09P: meDAvinaH nItiSAstranipuRAH anItiviDIprayuktAM nItiSAstrAnanuzWAnajanitAM apAyasaMdarSanajAM apAyAnAM anizWAnAM saMdarSanAt AvirBAvAt utpannAM ca vipattiM kAryanASaM nItiviDiprayuktAM nayaviDAnena janitAM upAyasamyakparyAlocanotTAM ca sidDiM aBimatasaPalatAM prasPurantIM agre prAdurBavantImiva darSayanti . yATAtaTyavarRanenetyarTaH .
+
+041.10F: karawako brUte -- taTApyaprApte prastAve na vaktumarhasi . yataH .
+041.10A: karawakaH brUte -- taTA api aprApte prastAve na vaktum arhasi . yataH .
+
+041.11F: aprAptakAlavacanaM bfhaspatirapi bruvan .
+041.11A: aprAptakAlavacanam bfhaspatiH api bruvan .
+
+041.12F: prApnuyAd budDyavajYAnamapamAnaM ca SASvatam .. 63..
+041.12A: prApnuyAt budDyavajYAnam apamAnam ca SASvatam .. 63..
+041.12P: budDyavajYAnaM -- budDeravamAnanAm .
+
+041.13F: damanako brUte -- mitra 
+041.13A: damanakaH brUte -- mitra 
+
+041.14F: mA BEzIH . nAhamaprAptAvasaraM vacanaM vadizyAmi . yataH .
+; BEzIH  Aorist? Huet {inj. [4] ac. sg. 2} BI   Confer MW 'BI'
+; mA BEzIH  Kale translation: be not afraid
+041.14A: mA BEzIH . na aham aprAptAvasaram vacanam vadizyAmi . yataH .
+
+041.15F: ApadyunmArgagamane kAryakAlAtyayezu ca .
+041.15A: Apadi unmArgagamane kAryakAlAtyayezu ca .
+041.15P: Apadi -- ApatkAle upasTite .
+041.15P+: unmArgagamane -- asatpaTAnusaraRe . praBoriti SezaH .
+041.15P++: kAryakAlAtyayezu kAryasya kAlAstezAM atyayezu atikramaRezu . ucitakAle praBuH kAryaM na kuryAccedityarTaH .
+
+041.16F: apfzwenApi vaktavyaM Bftyena hitamicCatA .. 64 ..
+041.16A: apfzwena api vaktavyam Bftyena hitam icCatA .. 64 ..
+041.16P: apfzwenApi -- ityatra 'apfzwopi hitAnvezI kuryAtkalyARaBAzitam'. iti kAmandakoktaH pAWaH .
+
+041.17F: yadi ca prAptAvasaropi mantro mayA
+041.17A: yadi ca prAptAvasaraH api mantraH mayA
+
+041.18F: na vaktavyastadA mantritvameva mamAnupapannam . yataH .
+041.18A: na vaktavyaH tadA mantritvam eva mama anupapannam . yataH .
+
+041.19F: kalpayati yena vfttiM yena ca loke praSasyate sadBiH .
+; praSasyate : passive of pra-SaMs (is praised)
+; vfttim kxp (causal): to live on (MW)
+041.19A: kalpayati yena vfttim yena ca loke praSasyate sadBiH .
+
+041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
+041.20A: saH guRaH tena guRinA rakzyaH saMvarDanIyaH ca .. 65..
+
+041.21F: tad Badra anujAnIhi mAm . gacCAmi .
+041.21A: tad Badra anujAnIhi mAm . gacCAmi .
+
+041.22F: karawako brUte --
+041.22A: karawakaH brUte --
+
+041.23F: SuBamastu . SivAste panTAnaH . yaTABilazitamanuzWIyatAm iti .
+041.23A: SuBam astu . SivAH te panTAnaH . yaTA aBilazitam anuzWIyatAm iti .
+
+041.24F: tato damanako vismita iva piNgalakasamIpaM gataH . aTa dUrAdeva
+041.24A: tataH damanakaH vismitaH iva piNgalakasamIpam gataH . aTa dUrAt eva
+
+041.25F: sAdaraM rAjYA praveSitaH sAzwANgapAtaM praRipAtaM praRipatyopavizwaH .
+041.25A: sAdaram rAjYA praveSitaH sAzwANgapAtam praRipAtam praRipatya upavizwaH .
+
+041.26F: rAjAha -- cirAddfzwo'si .
+041.26A: rAjA Aha -- cirAt dfzwaH asi .
+
+041.27F: damanako brUte -- yadyapi mayA sevakena SrImaddevapAdAnAM na kiMcit
+041.27A: damanakaH brUte -- yadi api mayA sevakena SrImaddevapAdAnAm na kim cid
+
+041.28F: prayojanamasti taTApi prAptakAlamanujIvinA sAMniDyamavaSyaM
+041.28A: prayojanam asti taTA api prAptakAlam anujIvinA sAMniDyam avaSyam
+
+041.29F: kartavyamityAgato'smi . kiM ca .
+041.29A: kartavyam iti AgataH asmi . kim ca .
+

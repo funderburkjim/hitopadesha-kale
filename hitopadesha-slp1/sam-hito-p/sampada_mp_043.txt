@@ -1,0 +1,143 @@
+043.01F: buDEstyakte rAjye na hi Bavati nItirguRavatI
+043.01A: buDEH tyakte rAjye na hi Bavati nItiH guRavatI
+043.01P: guRavatI PaladAyinI . saMDino vigraho yAnamAsanaM dvEDamASrayaH . ete zaRnItiguRAH . IdfgguRavatI nItiH na Palati .
+
+043.02F: vipannAyAM nItO sakalamavaSaM sIdati jagat .. 77..
+043.02A: vipannAyAm nItO sakalam avaSam sIdati jagat .. 77..
+043.02P: avaSaM - aSaraRaM niravalambam .
+043.02P+: sIdati DvastaM vipadgrastaM vA Bavati .
+
+043.03F: aparaM ca . janaM janapadA nityamarcayanti nfpArcitam .
+043.03A: aparam ca . janam janapadAH nityam arcayanti nfpArcitam .
+043.03P: nfpArcitam -- rAjYA dAnamAnAdinA pUjitam .
+
+043.04F: nfpeRAvamato yastu sa sarvEravamanyate .. 78..
+043.04A: nfpeRa avamataH yaH tu saH sarvEH avamanyate .. 78..
+
+043.05F: kiM ca . bAlAdapi gfhItavyaM yuktamuktaM manIziBiH .
+043.05A: kim ca . bAlAt api gfhItavyam yuktam uktam manIziBiH .
+
+043.06F: raveravizaye kiM na pradIpasya prakASanam .. 79..
+043.06A: raveH avizaye kim na pradIpasya prakASanam .. 79..
+
+043.07F: piNgalako'vadat -- Badra damanaka kimetat .
+043.07A: piNgalakaH avadat -- Badra damanaka kim etat .
+
+043.08F: asmadIyapraDAnAmAtyaputrastvamiyat kAlaM yAvat kuto'pi
+; asmadIya + (praDAna + amAtya) + putraH
+043.08A: asmadIyapraDAnAmAtyaputraH tvam iyat kAlam yAvat kutaH api
+
+043.09F: KalavacanAnnAgato'si . idAnIM yaTABimataM brUhi .
+; Kala: MW=mischievous man; Kale=rogug
+043.09A: KalavacanAt na AgataH asi . idAnIm yaTA aBimatam brUhi .
+043.09P: KalavacanAt tadvacaHpratyayAdityarTaH .
+
+043.10F: damanako brUte -- deva pfcCAmi kiMcit .
+043.10A: damanakaH brUte -- deva pfcCAmi kim cid .
+
+043.11F: ucyatAm .
+043.11A: ucyatAm .
+
+043.12F: udakArTI svAmI pAnIyamapItvA kimiti vismita iva tizWati .
+043.12A: udakArTI svAmI pAnIyam apItvA kim iti vismitaH iva tizWati .
+
+043.13F: piNgalako'vadat -- BadramuktaM tvayA . kiMtvetad rahasyaM vaktuM
+043.13A: piNgalakaH avadat -- Badram uktam tvayA . kim tu etad rahasyam vaktum
+
+043.14F: kaScidviSvAsaBUmirnAsti . tvaM tu tadviDa iti kaTayAmi .
+043.14A: kaH cid viSvAsaBUmiH na asti . tvam tu tadviDa iti kaTayAmi .
+043.14P: viSvAsaBUmiH viSvAsaBAjanam . yaH rahasyaM rakzediti SezaH .
+
+043.15F: SfRu . samprati vanamidamapUrvasattvADizWitamato'smAkaM
+; sattva: beast (Kale)
+043.15A: SfRu . samprati vanam idam apUrvasattvADizWitam ataH asmAkam
+043.15P: apUrvasattvADizWitam -- apUrveRa adfzwapUrveRa prARinASritam .
+
+; Sruto mayApi -> SrutastvayApi
+043.16F: tyAjyam . anena hetunA vismito'smi . taTA ca SrutastvayApi 
+043.16A: tyAjyam . anena hetunA vismitaH asmi . taTA ca SrutaH tvayA api 
+043.16P: vismitaH sacakitaH BayAkula iti yAvat .
+
+043.17F: apUrvaH Sabdo mahAn . SabdAnurUpeRAsya prARino mahatA balena Bavitavyam .
+043.17A: apUrvaH SabdaH mahAn . SabdAnurUpeRa asya prARinaH mahatA balena Bavitavyam .
+
+043.18F: damanako brUte -- deva asti tAvadayaM
+043.18A: damanakaH brUte -- deva asti tAvat ayam
+
+; Sabdo'syABir -> Sabdo'smABir
+043.19F: mahAnBayahetuH . sa Sabdo'smABirapyAkarRitaH . kiM tu sa kiM
+; AkarRitaH. Not in MW. Related to AkarRin (hearing). 'heard' (Kale)
+; MW kim-mantrin = bad minister.
+043.19A: mahAn BayahetuH . saH SabdaH asmABiH api AkarRitaH . kim tu saH kim
+
+043.20F: mantrI yaH praTamaM BUmityAgaM paScAdyudDaM copadiSati .
+043.20A: mantrI yaH praTamam BUmityAgam paScAt yudDam ca upadiSati .
+
+043.21F: asmin kAryasaMdehe BftyAnAmupayoga eva jYAtavyaH . yataH .
+043.21A: asmin kAryasaMdehe BftyAnAm upayogaH eva jYAtavyaH . yataH .
+043.21P: kAryasaMdehe kartavyaniScaye .
+
+043.22F: banDustrIBftyavargasya budDeH sattvasya cAtmanaH .
+043.22A: banDustrIBftyavargasya budDeH sattvasya ca AtmanaH .
+043.22P: banDustrIBftyavargasya AtmanaSca budDeH sattvasya balasya ca sAratAm .
+
+043.23F: ApannikazapAzARe naro jAnAti sAratAm .. 80..
+043.23A: ApannikazapAzARe naraH jAnAti sAratAm .. 80..
+
+043.24F: siMho brUte -- Badra mahatI SaNkA mAM bADate .
+043.24A: siMhaH brUte -- Badra mahatI SaNkA mAm bADate .
+
+043.25F: damanakaH punarAha . (svagatam --) anyaTA rAjyasuKaM parityajya
+043.25A: damanakaH punar Aha . (svagatam --) anyaTA rAjyasuKam parityajya
+
+043.26F: sTAnAntaraM gantuM kaTaM mAM samBAzase . prakASaM brUte --
+043.26A: sTAnAntaram gantum kaTam mAm samBAzase . prakASam brUte --
+043.26P: sTAnAntaraM gantum -- asmABiretadvanaM tyaktvAnyatra gantavyamiti .
+
+043.27F: deva yAvadahaM jIvAmi tAvadBayaM na kartavyam . kiM tu
+043.27A: deva yAvad aham jIvAmi tAvad Bayam na kartavyam . kiM tu
+
+043.28F: karawakAdayo'pyASvAsyantAM yasmAdApatpratIkArakAle durlaBaH
+; ASvAsyantAm ipv-cp 3p ASvas: cause to take breath; encourage
+043.28A: karawakAdayaH api ASvAsyantAm yasmAt ApatpratIkArakAle durlaBaH
+043.28P: ASvAsyantAm -- ASApradAnena tezAM protsAhanaM kriyatAmityarTaH .
+
+043.29F: puruzasamavAyaH .
+043.29A: puruzasamavAyaH .
+043.29P: puruzasamavAyaH -- puruzasamUhaH .
+
+043.30F: tatastO damanakakarawakO rAjYA sarvasvenApi pUjitO BayapratIkAraM
+043.30A: tataH tO damanakakarawakO rAjYA sarvasvena api pUjitO BayapratIkAram
+
+043.31F: pratijYAya calitO . karawako gacCandamanakamAha -- saKe kiM
+043.31A: pratijYAya calitO . karawakaH gacCan damanakam Aha -- saKe kim
+
+043.32F: SakyapratIkAro BayaheturaSakyapratIkAro veti na jYAtvA
+043.32A: SakyapratIkAraH BayahetuH aSakyapratIkAraH vA iti na jYAtvA
+043.32P: SakyapratIkAraH -- SakyaH sADyaH pratIkAraH prativiDAnaM nirAkaraRaM .
+
+043.33F: BayopaSamaM
+043.33A: BayopaSamam
+043.33P: BayopaSamaM -- BItiSAntim .
+
+043.34F: pratijYAya kaTamayaM mahAprasAdo gfhItaH . yato'nupakurvARo
+043.34A: pratijYAya kaTam ayam mahAprasAdaH gfhItaH . yataH anupakurvARaH
+043.34P: anupakurvARaH -- upakAramakurvan . upakArakaraRAtprAgiti yAvat .
+
+043.35F: na kasyApyupAyanaM gfhRIyAdviSezato rAjYaH . paSya .
+043.35A: na kasya api upAyanam gfhRIyAt viSezataH rAjYaH . paSya .
+
+043.36F: yasya prasAde padmAste vijayaSca parAkrame .
+; padmAste = ? padmA Aste : padmA sits  (padmA = SrI = Wealth). 
+043.36A: yasya prasAde padmAste vijayaH ca parAkrame .
+
+043.37F: mftyuSca vasati kroDe sarvatejomayo hi saH .. 81..
+043.37A: mftyuH ca vasati kroDe sarvatejomayaH hi saH .. 81..
+043.37P: sarvatejomaya -- sarvatejaHsamazwiGawita ityarTaH .
+
+043.38F: taTA hi . bAlo'pi nAvamantavyo manuzya iti BUmipaH .
+043.38A: taTA hi . bAlaH api nAvamantavyaH manuzyaH iti BUmipaH .
+
+043.39F: mahatI devatA hyezA nararUpeRa tizWati .. 82..
+043.39A: mahatI devatA hi ezA nararUpeRa tizWati .. 82..
+
