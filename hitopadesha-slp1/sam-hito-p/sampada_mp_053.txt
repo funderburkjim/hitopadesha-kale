@@ -1,0 +1,89 @@
+053.01F: gacCa . SivAste santu panTAnaH . tato
+053.01A: gacCa . SivAH te santu panTAnaH . tataH
+
+053.02F: damanakaH piNgalakasamIpaM gatvA praRamyovAca -- deva AtyayikaM
+053.02A: damanakaH piNgalakasamIpam gatvA praRamya uvAca -- deva Atyayikam
+053.02P: Atyayikam -- atyayaH nASaH prayojanamasya vinASakAri anizwam . 'atyayo'tikrame daRqe venASe dozakfcCrayoH' iti medinI .
+
+053.03F: kimapi mahABayakAri manyamAna Agato'smi . yataH .
+053.03A: kim api mahABayakAri manyamAnaH AgataH asmi . yataH .
+
+053.04F: ApadyunmArgagamane kAryakAlAtyayezu ca . 
+053.04A: ApadyunmArgagamane kAryakAlAtyayezu ca . 
+
+053.05F: kalyARavacanaM brUyAdapfzwo'pi hito naraH .. 122..
+053.05A: kalyARavacanam brUyAt apfzwaH api hitaH naraH .. 122..
+
+053.06F: anyacca . Bogasya BAjanaM rAjA mantrI kAryasya BAjanam .
+053.06A: anyat ca . Bogasya BAjanam rAjA mantrI kAryasya BAjanam .
+
+053.07F: rAjakAryapariDvaMsI mantrI dozeRa lipyate .. 123..
+053.07A: rAjakAryapariDvaMsI mantrI dozeRa lipyate .. 123..
+
+053.08F: amAtyAnAmeza kramaH --
+053.08A: amAtyAnAm ezaH kramaH --
+
+053.09F: varaM prARaparityAgaH Siraso vApi kartanam .
+053.09A: varam prARaparityAgaH SirasaH vA api kartanam .
+
+053.10F: na tu svAmipadAvAptipAtakecCorupekzaRam .. 124..
+053.10A: na tu svAmipadO AptipAtakecCoH upekzaRam .. 124..
+053.10P: svAmipadAvAptipAtakecCoH -- svAminaH rAjYaH padasya avAptistadeva pAtakaM avAptirUpaM pAtakaM vA tasyecCoH aBilAzukasya .
+
+053.11F: piNgalakaH sAdaram Aha -- aTa BavAnkiM vaktumicCati .
+053.11A: piNgalakaH sAdaram Aha -- aTa BavAn kim vaktum icCati .
+
+053.12F: damanako brUte -- deva saMjIvakastavopayasadfSavyavahArIva
+053.12A: damanakaH brUte -- deva saMjIvakaH tO upayasadfSavyavahArI iva
+
+053.13F: lakzyate . taTA cAsmat saMniDAne SrImaddevapAdAnAM
+053.13A: lakzyate . taTA ca asmat saMniDAne SrImat devapAdAnAm
+
+053.14F: SaktitrayanindAM kftvA rAjyamevABilazati .
+053.14A: SaktitrayanindAm kftvA rAjyam eva aBilazati .
+053.14P: SaktitrayanindA -- praBuSaktiH utsAhaSaktiH mantraSaktiSceti SaktitrayaM tasya nindA . 'SaktayastisraH praBAvotsAhamantrajAH' . ityamaraH . tatra koSadaRqajaM tejaH praBuSaktiH . vikramabalamutsAhaSaktiH . saMDyAdInAM sAmAdInAM ca yaTAvatsTApanaM mantraSaktiH .
+
+053.15F: etacCrutvA piNgalakaH saBayaM sAScaryaM tUzRIM sTitaH .
+053.15A: etat SrutvA piNgalakaH saBayam sAScaryam tUzRIm sTitaH .
+
+053.16F: damanakaH punarAha -- deva sarvAmAtyaparityAgaM kftvEka
+053.16A: damanakaH punaH Aha -- deva sarvAmAtyaparityAgam kftvA ekaH
+
+053.17F: evAyaM yattvayA sarvADikArI kftaH sa eva dozaH . yataH .
+053.17A: eva ayam yat tvayA sarvADikArI kftaH saH eva dozaH . yataH .
+
+053.18F: atyucCrite mantriRi pArTive ca vizwaBya pAdAvupatizWate SrIH .
+053.18A: ati ucCrite mantriRi pArTive ca vizwaBya pAdO upatizWate SrIH .
+053.18P: atyucCrite mahAbalatayA atyantonnate .
+053.18P+: pAdO mantraSaktipraBuSaktirUpO vizwaBya samavasTApya .
+053.18P++: upatizWate . susTirA satI tayoH saMgatA Bavati ityarTaH . upaddevapUjAsaMgatikaraRamitrakaraRapaTizviti taN .
+
+053.19F: sA strIsvaBAvAdasahA Barasya tayordvayorekataraM jahAti .. 125..
+053.19A: sA strIsvaBAvAt asahA Barasya tayoH dvayoH ekataram jahAti .. 125..
+053.19P: asahA Barasya tAddfSAvasTAnaBarAsahizRuH . dvayoH vEmatyena nyUnADikaBAvamupetya dvEDIBAvena sTitayoH ityarTaH . ayaM Sloko mudrArAkzasAccaturTANkAduDftaH .
+
+053.20F: aparam ca . ekaM BUmipatiH karoti sacivaM rAjye pramARaM yadA
+053.20A: aparam ca . ekam BUmipatiH karoti sacivam rAjye pramARam yadA
+053.20P: ekamiti -- mohAt Atmano vAstavapadAjYAnAt .
+
+053.21F: taM mohAcCrayate madaH sa ca madAlasyena nirBidyate .
+053.21A: tam mohAt Srayate madaH saH ca mat Alasyena nirBidyate .
+053.21P: madaH garvaH . 
+053.21P+: madAlasyena -- madaSca AlasyaM kAryavimuKatA ca madAlasyaM (sa.dvaM.) madajanitaM AlasyaM iti vA tena nirBidyate AkraMtaH Bavati .
+
+053.22F: nirBinnasya padaM karoti hfdaye tasya svatantraspfhA
+053.22A: nirBinnasya padam karoti hfdaye tasya svatantraspfhA
+053.22P: svatantraspfhA svAtantryecCA .
+
+053.23F: svAtantryaspfhayA tataH sa nfpateH prARAntikaM druhyati .. 126..
+053.23A: svAtantryaspfhayA tataH saH nfpateH prARAn antikam druhyati .. 126..
+053.23P: prARAntikaM druhyati -- prARavinASaM yAvadanizwAcaraRaM karoti .
+
+053.24F: anyacca . vizadigDasya Baktasya dantasya calitasya ca .
+053.24A: anyat ca . vizadigDasya Baktasya dantasya calitasya ca .
+053.24P: vizadigDasya -- vizamiSritasyannasya .
+
+053.25F: amAtyasya ca duzwasya mUlAdudDaraRaM suKam .. 127..
+053.25A: amAtyasya ca duzwasya mUlAt udDaraRam suKam .. 127..
+053.25P: duzwasya -- kaluzitamanasaH durASayasya .
+053.25P+: suKaM -- suKakaram .

@@ -1,0 +1,134 @@
+065.01F: ato'haM parvataSiKaramAruhya yUTanATaM saMvAdayAmi .
+065.01A: ataH aham parvataSiKaram Aruhya yUTanATam saMvAdayAmi .
+
+065.02F: taTAnuzWite yUTanATa uvAca -- kastvam . kutaH samAyAtaH .
+065.02A: taTA anuzWite yUTanATaH uvAca -- kaH tvam . kutaH samAyAtaH .
+
+065.03F: sa brUte -- 
+065.03A: sa brUte --
+
+065.04F: SaSako'ham . BagavatA candreRa BavadantikaM prezitaH .
+065.04A: SaSakaH aham . BagavatA candreRa Bavadantikam prezitaH .
+
+065.05F: yUTapatirAha -- kAryamucyatAm .
+065.05A: yUTapatiH Aha -- kAryam ucyatAm .
+
+065.06F: vijayo brUte --
+065.06A: vijayaH brUte --
+
+065.07F: udyatezvapi Sastrezu dUto vadati nAnyaTA .
+065.07A: udyatezu api Sastrezu dUtaH vadati na anyaTA .
+
+065.08F: sadEvAvaDyaBAvena yaTArTasya hi vAcakaH .. 15..
+065.08A: sadA eva avaDyaBAvena yaTArTasya hi vAcakaH .. 15..
+065.08P: avaDyaBAvena vaDAnarhatvAt . 
+
+065.09F: tad ahaM tadAjYayA bravImi -- SfRu . yadete candrasarorakzakAH
+065.09A: tat aham tadAjYayA bravImi -- SfRu . yat ete candrasarorakzakAH
+
+065.10F: SaSakAstvayA niHsAritAstanna yuktaM kftam . yataste
+065.10A: SaSakAH tvayA niHsAritAH tat na yuktam kftam . yataH te
+
+065.11F: SaSakASciramasmAkaM rakzitAH . ata eva me SaSANkaH iti prasidDiH .
+065.11A: SaSakAH ciram asmAkam rakzitAH . ataH eva me SaSANkaH iti prasidDiH .
+
+065.12F: evamuktavati dUte yUTapatirBayAdidamAha --  idamajYAnataH
+065.12A: evam uktavati dUte yUTapatiH BayAt idam Aha --  idam ajYAnataH
+
+065.13F: kftam . punarna gamizyAmi . dUta uvAca yadyevaM tad
+065.13A: kftam . punaH na gamizyAmi . dUtaH uvAca yadi evam tat
+
+065.14F: atra sarasi kopAt kampamAnaM BagavantaM SaSANkaM praRamya
+065.14A: atra sarasi kopAt kampamAnam Bagavantam SaSANkam praRamya
+
+065.15F: prasAdya gacCa . tato rAtrO yUTapatiM nItvA jale
+065.15A: prasAdya gacCa . tataH rAtrO yUTapatim nItvA jale
+
+065.16F: caYcalaM candrabimbaM darSayitvA sa yUTapatiH praRAmaM kAritaH .
+065.16A: caYcalam candrabimbam darSayitvA saH yUTapatiH praRAmam kAritaH .
+; Sampada: Typo 'yUTaptiH' it should be 'yUTapatiH' i think.  [Jim: agree]
+
+065.17F: uktaM ca tena -- deva ajYAnAdanenAparADaH kftaH . tataH
+065.17A: uktam ca tena -- deva ajYAnAt anena aparADaH kftaH . tataH
+
+065.18F: kzamyatAm . nEvaM vArAntaraM viDAsyate . ityuktvA prasTApitaH .
+065.18A: kzamyatAm . na evam vArAntaram viDAsyate . iti uktvA prasTApitaH .
+
+065.19F: atohaM bravImi -- vyapadeSe'pi sidDiH syAt iti . tato
+065.19A: ataH aham bravImi -- vyapadeSe api sidDiH syAt iti . tataH
+
+065.20F: mayoktam -- sa evAsmatpraBU rAjahaMso mahApratApo'tisamarTaH .
+065.20A: mayA uktam -- saH eva asmatpraBU rAjahaMsaH mahApratApaH atisamarTaH .
+
+065.21F: trElokyasyApi praButvaM tatra yujyate kiM punA rAjyam iti . tadAhaM
+065.21A: trElokyasya api praButvam tatra yujyate kim punA rAjyam iti . tadA aham
+; Sampada: 'punA' seems wrong.  
+; Jim: probably ok, a sandhi of 'punar rAjyam'
+
+065.22F: tEH pakziBiH duzwa kaTamasmadBUmO carasi ityaBiDAya
+065.22A: tEH pakziBiH duzwa kaTam asmat BUmO carasi iti aBiDAya
+
+065.23F: rAjYaScitravarRasya samIpaM nItaH . tato
+065.23A: rAjYaH citravarRasya samIpam nItaH . tataH
+
+065.24F: rAjYaH puro mAM pradarSya tEH praRamyoktam -- deva avaDIyatAm .
+065.24A: rAjYaH puraH mAm pradarSya tEH praRamya uktam -- deva avaDIyatAm .
+065.24P: avaDIyatAm -- sAvaDAnaM SrUyatAm .
+
+065.25F: eza duzwo yadasmaddeSe carannapi devapAdAn aDikzipati .
+065.25A: ezaH duzwaH yat asmat deSe caran api devapAdAn aDikzipati .
+
+065.26F: rAjAha -- ko'yam . kutaH samAyAtaH .
+065.26A: rAjA Aha -- kaH ayam . kutaH samAyAtaH .
+
+065.27F: te UcuH --
+065.27A: te UcuH --
+
+065.28F: hiraRyagarBanAmno rAjahaMsasyAnucaraH karpUradvIpAd AgataH .
+065.28A: hiraRyagarBanAmnaH rAjahaMsasya anucaraH karpUradvIpAt AgataH .
+
+065.29F: aTAhaM gfDreRa mantriRA pfzwaH -- kastatra muKyo mantrI iti .
+065.29A: aTa aham gfDreRa mantriRA pfzwaH -- kaH tatra muKyaH mantrI iti .
+
+065.30F: mayoktam -- sarvaSAstrArTapAragaH sarvajYo nAma cakravAkaH .
+065.30A: mayA uktam -- sarvaSAstrArTapAragaH sarvajYaH nAma cakravAkaH .
+065.30P: sarvaSAstrArTapAragaH sarvezAM SAstrARAM arTasya vizayasya pAragaH pAradfSvA niKilAgamajYAnasaMpanna ityarTaH .
+
+065.31F: gfDro brUte -- yujyate . svadeSajo'sO . yataH .
+065.31A: gfDraH brUte -- yujyate . svadeSajaH asO . yataH .
+
+065.32F: svadeSajaM kulAcAraM viSudDamupaDASucim .
+065.32A: svadeSajam kulAcAram viSudDam upaDASucim .
+065.32P: kulAcAram -- kulaM ca AcAraSca asyAstIti taM kulInaM sADvAcaraRaM ca . 'DarmopaDABirviprAMSca sarvABiH sacivAnpunaH [SoDayet]' iti kAlikApurARam .
+
+065.32P+: upaDASucim -- upaDayA parIkzayA SuciM sidDaguRam , upaDA rAjYA DarmArTakAmaBayEH amAtyAdeH parIkzaRam . 'upaDA DarmAdyEryatparIkzaRam' ityamaraH .
+
+065.33F: mantrajYamavyasaninaM vyaBicAravivarjitam .. 16..
+065.33A: mantrajYam avyasaninam vyaBicAravivarjitam .. 16..
+065.33P: vyaBicAravivarjitam -- vyaBicAraH sanmArgAd BraMSanaM tadrahitaM sanmArgasTitam .
+
+065.34F: aDItavyavahArANgaM mOlaM KyAtaM vipaScitam .
+065.34A: aDItavyavahArANgam mOlam KyAtam vipaScitam .
+065.34P: aDItavyavahArANgaM vivAdanirRayaSAstrajYam .
+065.34P+: mOlam -- mUlAdAgatam .
+065.34P++: vipaScitam -- dozajYam .
+
+065.35F: arTasyotpAdakaM samyagvidaDyAnmantriRaM nfpaH .. 17..
+065.35A: arTasya utpAdakam samyak vidaDyAn mantriRam nfpaH .. 17..
+
+065.36F: atrAntare Sukenoktam -- deva 
+065.36A: atra antare Sukena uktam -- deva 
+
+065.37F: karpUradvIpAdayo laGudvIpA jambudvIpAntargatA eva . tatrApi
+065.37A: karpUradvIpAdayaH laGudvIpAH jambudvIpAntargatAH eva . tatra api
+
+065.38F: devapAdAnAmevADipatyam . tato rAjYApyuktam -- evameva . yataH .
+065.38A: devapAdAnAm eva ADipatyam . tataH rAjYA api uktam -- evam eva . yataH .
+
+065.39F: rAjA mattaH SiSuScEva pramadA DanagarvitaH .
+065.39A: rAjA mattaH SiSuH ca eva pramadAH DanagarvitaH .
+
+065.40F: aprApyamapi vAYCanti kiM punarlaByameva yat .. 18..
+065.40A: aprApyamapi vAYCanti kim punarlaByam eva yat .. 18..
+065.40P: aprApyamapi vAYCanti yatpunaH laByaM labDuM SakyaM tadvAYCatIti kiM vaktavyaM tasya kA kaTetyarTaH . 'laByatepi yat iti pAWe yat laByate tad vAcCanti iti pUrvadyojanIyam .
+

@@ -1,0 +1,117 @@
+066.01F: tato mayoktam -- yadi vacanammAtreREvADipatyaM sidDyati .
+066.01A: tataH mayA uktam -- yadi vacanammAtreRa eva ADipatyam sidDyati .
+
+066.02F: tadA jambudvIpe'pyasmatpraBorhiraRyagarBasya svAmyamasti .
+066.02A: tadA jambudvIpe api asmatpraBoH hiraRyagarBasya svAmyam asti .
+
+066.03F: Suka uvAca -- kaTamatra nirRayaH .
+066.03A: SukaH uvAca -- kaTam atra nirRayaH .
+
+066.04F: mayoktaM -- saMgrAma eva .
+066.04A: mayA uktam -- saMgrAma eva .
+
+066.05F: rAjYA vihasyoktam -- svasvAminaM gatvA sajjIkuru .
+066.05A: rAjYA vihasya uktam -- svasvAminam gatvA sajjIkuru .
+
+066.06F: tadA mayoktam -- svadUto'pi prasTApyatAm .
+066.06A: tadA mayA uktam -- svadUtaH api prasTApyatAm .
+
+066.07F: rAjovAca -- kaH prayAtu dOtyena . yata evamBUto dUtaH kAryaH .
+066.07A: rAjA uvAca -- kaH prayAtu dOtyena . yataH evam BUtaH dUtaH kAryaH .
+
+066.08F: Bakto guRI SucirdakzaH pragalBo'vyasanI .
+066.08A: BaktaH guRI SuciH dakzaH pragalBaH avyasanI .
+066.08P: guRI -- nItiSAstrAktaguRasampannaH .
+066.08P+: pragalBaH -- ucitavadane kzamaH .
+
+066.09F: brAhmaRaH paramarmajYo dUtaH syAtpratiBAnavAn .. 19..
+066.09A: brAhmaRaH paramarmajYaH dUtaH syAt pratiBAnavAn .. 19..
+066.09P: paramarmajYaH -- parezAM SatrURAM marma hfdgataBAvaM jAnAtIti taTA .
+066.09P+: pratiBAnavAn -- pratyutpannamatiH . 'prajYA navanavonmezaSAlinI pratiBA matA' ityuktaprajYAvAn .
+
+066.10F: gfDro vadati -- santyeva dUtA bahavaH . kiMtu brAhmaRa eva kartavyaH .
+066.10A: gfDraH vadati -- santi eva dUtA bahavaH . kiMtu brAhmaRa eva kartavyaH .
+
+066.11F: yataH .
+066.11A: yataH .
+
+066.12F: prasAdaM kurute patyuH sampattiM nABivAYCati .
+066.12A: prasAdam kurute patyuH sampattim na aBivAYCati .
+
+066.13F: kAlimA kAlakUwasya nApEtISvarasaNgamAt .. 20..
+066.13A: kAlimA kAlakUwasya na apEti ISvarasaNgamAt .. 20..
+066.13P: kAlimeti -- yaTA kAlakUwasya kAlimA ISvarasaNgamAdapi na naSyati taTA SatrunfpatisaNgamAdapi brAhmaRasya DanAdAvanaBilAzo nApayati . 
+
+066.14F: rAjAha -- tataH Suka eva vrajatu .
+066.14A: rAjA Aha -- tataH Suka eva vrajatu .
+
+066.15F: Suka tvamevAnena saha gatvAsmadaBilazitaM brUhi .
+066.15A: Suka tvam eva anena saha gatvA asmat aBilazitam brUhi .
+
+066.16F: Suko brUte -- yaTAjYApayati devaH . kiMtvayaM
+066.16A: SukaH brUte -- yaTAjYApayati devaH . kiMtu ayam
+
+066.17F: durjano bakaH . tadanena saha na gacCAmi . taTA coktam --
+066.17A: durjanaH bakaH . tat anena saha na gacCAmi . taTA ca uktam --
+
+066.18F: KalaH karoti durvfttaM nUnaM Palati sADuzu .
+066.18A: KalaH karoti durvfttam nUnam Palati sADuzu .
+066.18P: Palati -- tasya duzpariRAmaH sADUnBADate ityarTaH .
+
+066.19F: daSAnano haretsItAM banDanaM syAn mahodaDeH .. 21..
+066.19A: daSAnanaH haretsItAm banDanam syAt mahodaDeH .. 21..
+
+066.20F: aparaM ca . na sTAtavyaM na gantavyaM durjanena samaM kvacit .
+066.20A: aparam ca . na sTAtavyam na gantavyam durjanena samam kvacit .
+
+066.21F: kAkasaNgAdDato haMsastizWangaCaMSca vartakaH .. 22..
+066.21A: kAkasaNgAt hataH haMsaH tizWan gacCan ca vartakaH .. 22..
+066.21P: kAkasaNgAt -- tena saha tizWat haMsaH hataH gacCan vartakaH hataH iti yojanA .
+066.21P+: vartaka -- pakziviSezaH .
+
+066.22F: rAjovAca -- kaTametat .
+066.22A: rAjA uvAca -- kaTam etat .
+
+066.23F: SukaH kaTayati --
+066.23A: SukaH kaTayati --
+
+066.24F: .. kaTA 4 ..
+066.24A: .. kaTA 4 ..
+
+066.25F: astyujjayinIvartmani prAntare mahAn pippalIvfkzaH . tatra haMsakAkO
+066.25A: asti ujjayinIvartmani prAntare mahAn pippalIvfkzaH . tatra haMsakAkO
+066.25P: prAntare -- 'prAntaraM dUraSUnyo'DvA' ityamaraH .
+
+066.26F: nivasataH . kadAcid grIzmasamaye pariSrAntaH kaScitpaTikastatra
+066.26A: nivasataH . kadAcit grIzmasamaye pariSrAntaH kaH cit paTikaH tatra
+
+066.27F: tarutale DanuHkARqaM sanniDAya suptaH . kzaRAntare
+066.27A: tarutale DanuHkARqam sanniDAya suptaH . kzaRAntare
+
+066.28F: tanmuKAdvfkzacCAyApagatA . tataH sUryatejasA tanmuKaM
+066.28A: tat muKAt vfkzacCAyApagatA . tataH sUryatejasA tat muKam
+
+066.29F: vyAptamavalokya tadvfkzasTitena haMsena pakzO prasArya 
+066.29A: vyAptam avalokya tadvfkzasTitena 
+
+066.30F: punastanmuKe CAyA kftA . tato nirBaranidrASuKinA
+066.30A: punaH tat muKe CAyA kftA . tataH nirBaranidrASuKinA
+
+066.31F: tenADvanyena muKavyAdAnaM kftam .
+066.31A: tena aDvanyena muKavyAdAnam kftam .
+066.31P: aDvanyena -- aDvAnaM gacCatIti aDvanyaH pAnTaH tena .
+066.31P+: muKavyAdAnam -- vadanavistAraH .
+
+066.32F: aTa parasuKamasahizRuH svaBAvadOrjanyena sa kAkastasya muKe
+066.32A: aTa parasuKam asahizRuH svaBAvadOrjanyena saH kAkaH tasya muKe
+
+066.33F: purIzotsargaM kftvA palAyitaH . tato yAvad asO pAnTa utTAyorDvaM
+066.33A: purIzotsargam kftvA palAyitaH . tataH yAvat asO pAnTaH utTAya UrDvam
+
+066.34F: nirIkzate tAvattenAvalokito haMsaH kARqena hatvA vyApAditaH . ato'haM
+066.34A: nirIkzate tAvat tena avalokitaH haMsaH kARqena hatvA vyApAditaH . ataH aham
+066.34P: kARqena -- bARena .
+
+066.35F: bravImi -- durjanena sama na sTAtavyamiti . vartakakaTAmapi kaTayAmi --
+066.35A: bravImi -- durjanena sama na sTAtavyam iti . vartakakaTAm api kaTayAmi -- 
+

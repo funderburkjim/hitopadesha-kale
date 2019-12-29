@@ -1,0 +1,135 @@
+067.01F: vartakakaTAm api kaTayAmi --
+067.01A: vartakakaTAm api kaTayAmi --
+
+067.02F: .. kaTA 5 ..
+067.02A: .. kaTA 5 ..
+
+067.03F: ekadA sarve pakziRaH Bagavato
+067.03A: ekadA sarve pakziRaH BagavataH
+
+067.04F: garuqasya yAtrAprasaNgena samudratIraM pracalitAH .
+067.04A: garuqasya yAtrAprasaNgena samudratIram pracalitAH .
+
+067.05F: tatra kAkena saha vartakaScalitaH . aTa gacCato gopAlasya
+067.05A: tatra kAkena saha vartakaH calitaH . aTa gacCataH gopAlasya
+
+067.06F: mastakasTitaBARqAddaDi vAraMvAraM tena kAkena KAdyate .
+067.06A: mastakasTitaBARqAt daDi vAram vAram tena kAkena KAdyate .
+
+067.07F: tato yAvadasO daDiBARqaM BUmO niDAyorDvamavalokate tAvat
+067.07A: tataH yAvat asO daDiBARqam BUmO niDAyorDvam  avalokate tAvat
+
+067.08F: tena kAkavartakO dfzwO . tatastena KeditaH kAkaH palAyitaH .
+067.08A: tena kAkavartakO dfzwO . tataH tena KeditaH kAkaH palAyitaH .
+067.08P: KeditaH -- tarjitaH .
+
+067.09F: vartakaH mandagatistena prApto vyApAditaH .
+067.09A: vartakaH mandagatiH tena prAptaH vyApAditaH .
+
+067.10F: ato'haM bravImi -- na sTAtavyaM na gantavyam ityAdi .. tato mayoktam -- BrAtaH Suka 
+067.10A: ataH aham bravImi -- na sTAtavyam na gantavyam ityAdi .. tataH mayA uktam -- BrAtaH Suka 
+; Sampada: 'ityAdi' left as is.
+
+067.11F: kimevaM bravIzi . mAM prati yaTA SrImaddevapAdAstaTA BavAn
+067.11A: kim evam bravIzi . mAm prati yaTA SrImat devapAdAH taTA BavAn
+
+067.12F: api . Sukenoktam -- astvevam . kiMtu . 
+067.12A: api . Sukena uktam -- astu evam . kim tu . 
+
+067.13F: durjanErucyamAnAni sasmitAni priyARyapi .
+067.13A: durjanEH ucyamAnAni sasmitAni priyARi api .
+067.13P: priyARi SrutisuKAni .
+
+067.14F: akAlakusumAnIva BayaM saMjanayanti hi .. 23..
+067.14A: akAlakusumAni iva Bayam saMjanayanti hi .. 23..
+067.14P: akAlakusumAni -- kAlotpannAni kusu .
+067.14P+: SaNkA Bayam . 'SaNkA BayavitarkayoH' iti yAdavaH .
+
+067.15F: durjanatvaM ca Bavato vAkyAdeva jYAtam .
+067.15A: durjanatvam ca BavataH vAkyAt eva jYAtam .
+
+067.16F: yadanayorBUpAlayorvigrahe Bavadvacanameva nidAnam . paSya .
+067.16A: yat anayoH BUpAlayoH vigrahe Bavadvacanam eva nidAnam . paSya .
+
+067.17F: pratyakze'pi kfte doze mUrKaH sAntvena tuzyati .
+067.17A: pratyakze api kfte doze mUrKaH sAntvena tuzyati .
+067.17P: sAntvena maDuraBAzaRena . 'atyarTaM maDuraM sAntvam' ityamaraH . 
+
+067.18F: raTakAro nijAM BAryAM sajArAM SirasAkarot .. 24..
+067.18A: raTakAraH nijAm BAryAm sajArAm SirasA akarot .. 24..
+
+067.19F: rAjYoktam -- kaTametat .
+067.19A: rAjYA uktam -- kaTam etat .
+
+067.20F: SukaH kaTayati --
+067.20A: SukaH kaTayati -
+
+067.21F: .. kaTA 6 ..
+067.21A: .. kaTA 6 ..
+
+067.22F: asti yOvanaSrInagare
+067.22A: asti yOvanaSrInagare
+
+067.23F: mandamatirnAma raTakAraH . sa ca svaBAryAM banDakIM jAnAti .
+067.23A: mandamatiH nAma raTakAraH . saH ca svaBAryAm banDakIm jAnAti .
+067.23P: banDakIM kulawAm .
+
+067.24F: kiMtu jAreRa samaM svacakzuzA nEkasTAne paSyati . tato'sO
+067.24A: kim tu jAreRa samam svacakzuzA na ekasTAne paSyati . tataH asO
+
+067.25F: raTakAraH ahamanyaM grAmaM gacCAmi ityuktvA calitaH . kiyad
+067.25A: raTakAraH aham anyam grAmam gacCAmi ityuktvA calitaH . kiyad
+
+067.26F: dUraM gatvA niBftaM punarAgatya svagfhe svadvAtale
+067.26A: dUram gatvA niBftam punaH Agatya svagfhe KawvAtale
+
+067.27F: sTitaH . aTa raTakAro grAmAntaraM gata ityupajAtaviSvAsayA tadvaDvA
+067.27A: sTitaH . aTa raTakAraH grAmAntaram gata iti upajAtaviSvAsayA tat vaDvA
+
+067.28F: jAraH saMDyAkAla evAhUtaH . paScAttena samaM tasyAM KawvAyAM
+067.28A: jAraH saMDyAkAlaH eva AhUtaH . paScAt tena samam tasyAm svadvAyAm
+
+067.29F: nirBaraM krIqantI KawvAtalasTitena sahAnuBUtakiMcid
+067.29A: nirBaram krIqantI KawvAtalasTitena saha anuBUtakiMcit
+
+067.30F: aNgasaMsparSAtsvAminaM vijYAya sA vizaRRABavat .
+067.30A: aNgasaMsparSAt svAminam vijYAya sA vizaRRABavat .
+067.30P: vizaRRA KinnA .
+
+067.31F: tato jAreRoktam -- kimiti tvamadya
+067.31A: tataH jAreRa uktam -- kim iti tvam adya
+
+067.32F: mayA saha nirBaraM na ramase . vismiteva pratiBAsi . 
+067.32A: mayA saha nirBaram na ramase . vismitA iva pratiBAsi . 
+067.32P: vismitA paryAkulA .
+
+067.33F: aTa tayoktam --
+067.33A: aTa tayA uktam --
+
+067.34F: anaBijYo'si . yo'sO mama prAReSvaro yena mamAkOmAraM
+067.34A: anaBijYaH asi . yaH asO mama prAReSvaraH yena mamAkOmAram
+
+067.35F: saKyaM saH adya grAmAntaraM gataH . tena vinA sakalajanapUrRo'pyayaM
+067.35A: saKyam saH adya grAmAntaram gataH . tena vinA sakalajanapUrRaH api ayam
+
+067.36F: grAmo mAM pratyaraRyavatpratiBAti . kiM BAvi tatra parasTAne
+067.36A: grAmaH mAm pratyaraRyavat pratiBAti . kim BAvi tatra parasTAne
+
+067.37F: kiM KAditavAnkaTaM vA prasupta ityasmadDfdayaM vidIryate .
+067.37A: kim KAditavAn kaTam vA prasuptaH iti asmat hfdayam vidIryate .
+
+067.38F: jAro brUte -- tava kimevaMviDA snehaBUmiH sa te raTakAraH .
+067.38A: jAraH brUte -- tava kim evaMviDA snehaBUmiH saH te raTakAraH .
+
+067.39F: banDakyavadat -- re barbara kiM bravIzi . SfRu .
+067.39A: banDakI avadat -- re barbara kim bravIzi . SfRu .
+
+067.40F: paruzARyapi coktA yA dfzwA yA kruDacakzuzA .
+067.40A: paruzARi api ca uktA yA dfzwA yA kruDacakzuzA .
+067.40P: paruzARi rUkzavacanAni .
+067.40P+: BartrA paruzARyuktA api krudDacakzuzA dfzwApi yA BartuH suprasannaM premRA praPullaM na tu kopAtkaluzaM vadanaM yasyAH tAdfzI Bavati sA .
+
+067.41F: suprasannamuKI BartuH sA nArI DarmaBAjanam .. 25..
+067.41A: suprasannamuKI BartuH sA nArI DarmaBAjanam .. 
+25..
+067.41P: DarmaBAjanaM puRyapAtram . sA uttamAM gatiM laBate iti BAvaH .

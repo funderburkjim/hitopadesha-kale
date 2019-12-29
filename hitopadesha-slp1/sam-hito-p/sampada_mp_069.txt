@@ -1,0 +1,105 @@
+069.01F: rAjA mantrI ca tatra sTitO . anye'nyatra 
+069.01A: rAjA mantrI ca tatra sTitO . anye anyatra
+
+069.02F: gatAH . cakravAko brUte -- deva ahamevaM jAnAmi .
+069.02A: gatAH . cakravAkaH brUte -- deva aham evam jAnAmi .
+
+069.03F: kasyApyasmanniyoginaH preraRayA bakenedamanuzWitam . yataH .
+069.03A: kasya api asmat niyoginaH preraRayA bakena idam anuzWitam . yataH .
+
+069.04F: vedyAnAmAturaH SreyAnvyasanI yo niyoginAm .
+069.04A: vedyAnAm AturaH SreyAn vyasanI yaH niyoginAm .
+069.04P: AturaH SreyAn vEdyA arTalABAdAturaM bahu manyante iti BAvaH .
+069.04P+: AturaH rugRaH . 
+
+069.05F: viduzAM jIvanaM mUrKaH sadvarRo jIvanaM satAm .. 33..
+069.05A: viduzAm jIvanam mUrKaH sadvarRaH jIvanam satAm .. 33..
+
+069.06F: rAjAbravIt -- Bavatu kAraRamatra
+069.06A: rAjA abravIt -- Bavatu kAraRam atra
+
+069.07F: paScAnnirUpaRIyam . samprati yatkartavyaM tan nirUpyatAm .
+069.07A: paScAt nirUpaRIyam . samprati yat kartavyam tat nirUpyatAm .
+
+069.08F: cakravAko brUte -- deva praRiDistAvattatra
+069.08A: cakravAkaH brUte -- deva praRiDiH tAvat tatra
+069.08P: praRiDiH cAraH . 'praRiDiH prArTane care' ityamaraH .
+
+069.09F: yAtu . tatastadanuzWAnaM balAbalaM ca jAnImaH . taTA hi .
+069.09A: yAtu . tataH tat anuzWAnam balAbalam ca jAnImaH . taTA hi .
+069.09P: anuzWAnaM vyavasAyam .
+
+069.10F: BavetsvapararAzwrARAM kAryAkAryAvalokane .
+069.10A: Bavet svapararAzwrARAm kAryAkAryAvalokane .
+
+069.11F: cAraScakzurmahIBarturyasya nAstyanDa eva saH .. 34..
+069.11A: cAraH cakzuH mahIBartuH yasya na asti anDaH eva saH .. 34..
+069.11P: cAraH cakzuH -- atra kAmandakaH 'gAvaH paSyanti ganDena vedEH paSyanti ca dvijAH . cArEH paSyanti rAjAnaScakzuzurByAmitare janAH .' iti . rAmAyaRepi 'yasmatpaSyanti dUrasTAH sarvAnarTAnnarADipAH . cAreRa tasmAducyate rAjAnaScAracakzuzaH .' iti .
+
+069.12F: sa ca dvitIyaM viSvAsapAtraM gfhItvA yAtu .
+069.12A: sa ca dvitIyam viSvAsapAtram gfhItvA yAtu .
+
+069.13F: tenAsO svayaM tatrAvasTAya dvitIyaM tatratyamantrakAryaM
+069.13A: tena asO svayam tatra avasTAya dvitIyam tatratyamantrakAryam
+069.13P: tatratyamantrakAryam -- pararAzwrIyamantraRAvyApAram .
+
+069.14F: suniBftaM niScitya nigadya prasTApayati . taTA coktaM --
+069.14A: suniBftam niScitya nigadya prasTApayati . taTA ca uktam --
+069.14P: suniBftaM -- suguptam .
+069.14P+: niScitya -- avaDarya .
+
+069.15F: tIrTASramasurasTAne SAstaravijYAnahetunA .
+069.15A: tIrTASramasurasTAne SAstaravijYAnahetunA .
+
+069.16F: tapasvivyaYjanopetEH svacarEH saha saMvaset .. 5..
+069.16A: tapasvivyaYjanopetEH svacarEH saha saMvaset .. 35..
+069.16P: tapasvi -- tapasvinAM vyaYjanaM lakzaRaM veza iti yAvat tena upetEH . varRiliNgigaBiH ityarTaM . 'sa varRiliNgI viditaH samayAyO' iti kirAtArjunIye .
+069.16P+: saMvadet mantrayet . atra kAmandakaH -- 'cArAnvicArayettIrTe AtmanaSca parasya ca . pAzaRqAdInavijYAtAnanyonyamitarErapi' iti .
+
+069.17F: gUQacAraSca yo jale sTale
+069.17A: gUQacAraH ca yaH jale sTale
+069.17P: gUQAcAraH gUQaH cAraH yasya saH guptacaraH .
+
+069.18F: carati . tato'sAveva bako niyujyatAm . etAdfSa eva kaScid
+069.18A: carati . tataH asO eva bakaH niyujyatAm . etAdfSa eva kaH cid
+
+069.19F: bako dvitIyatvena prayAtu . tadgfhalokASca rAjadvAre
+069.19A: bakaH dvitIyatvena prayAtu . tadgfhalokAH ca rAjadvAre
+069.19P: tadgfhalokaH -- tayoH bakayoH parivAraH .
+
+069.20F: tizWatu . kiMtu deva etadapi suguptamanuzWAtavyam . yataH .
+069.20A: tizWatu . kim tu deva etat api suguptam anuzWAtavyam . yataH .
+069.20P: tizWatu pratiBUtvena vartatAm .
+
+069.21F: zawkarRo Bidyate mantrastaTA prAptaSca vArtayA .
+069.21A: zawkarRaH Bidyate mantraH taTA prAptaH ca vArtayA .
+069.21P: zawkarRaH zawkarRA yasya tftIyapuruzagAmItyarTaH .
+069.21P+: vArtayA prAptaH -- bahujanaSrutivizayIBUtaH .
+
+069.22F: ityAtmanA dvitIyena mantraH kAryo mahIBftA .. 36..
+069.22A: iti AtmanA dvitIyena mantraH kAryaH mahIBftA .. 36..
+
+069.23F: paSya . mantraBede'pi ye dozA Bavanti pfTivIpateH .
+069.23A: paSya . mantraBede api ye dozAH Bavanti pfTivIpateH .
+069.23P: dozAH anarTAH anizwAni .
+
+069.24F: na SakyAste samADAtumiti nItividAM matam .. 37..
+069.24A: na SakyAH te samADAtum iti nItividAm matam .. 37..
+069.24P: samADAtum pratikartum .
+
+069.25F: rAjA vimfSyovAca -- prAptastAvanmayottamaH praRiDiH .
+069.25A: rAjA vimfSya uvAca -- prAptaH tAvat mayA uttamaH praRiDiH .
+
+069.26F: mantrI brUte -- tadA saNgrAmavijayo'pi prAptaH .
+069.26A: mantrI brUte -- tadA saNgrAmavijayaH api prAptaH .
+
+069.27F: atrAntare pratIhAraH praviSya
+069.27A: atra antare pratIhAraH praviSya
+
+069.28F: praRamyovAca deva -- jambudvIpAdAgato dvAri SukastizWati .
+069.28A: praRamya uvAca deva -- jambudvIpAt AgataH dvAri SukaH tizWati .
+
+069.29F: rAjA cakravAkamAlokate . cakravAkenoktam -- kftAvAse tAvadgatvA 
+069.29A: rAjA cakravAkamAlokate . cakravAkena uktam -- kftAvAse tAvat gatvA 
+069.29P: cakravAkamAlokate -- kartavyanirdeSApekzayA tanmuKaM paSyatItyarTaH .
+069.29P+: kftAvAse -- praRiDyarTaM nirmite gfhe .

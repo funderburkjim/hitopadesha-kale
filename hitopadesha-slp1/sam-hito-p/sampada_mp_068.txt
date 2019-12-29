@@ -1,0 +1,111 @@
+068.01F: aparaM ca . nagarasTo vanasTo vA pApo vA yadi vA SuciH .
+068.01A: aparam ca . nagarasTaH vanasTaH vA pApaH vA yadi vA SuciH .
+
+068.02F: yAsAM strIRAM priyo BartA tAsAM lokA mahodayAH .. 26..
+068.02A: yAsAm strIRAm priyaH BartA tAsAm lokAH mahodayAH .. 26..
+068.02P: mahodayAH mahAn udayaH suKasaMat yezy te svargAdayaH .
+
+068.03F: anyacca . BartA hi paramaM nAryA BUzaRaM BUzaRErvinA .
+068.03A: anyat ca . BartA hi paramam nAryAH BUzaRam BUzaREH vinA .
+
+068.04F: ezA virahitA tena SoBanApi na SoBanA .. 27..
+068.04A: ezA virahitA tena SoBanA api na SoBanA .. 27..
+
+068.05F: tvaM jAro 
+068.05A: tvam jAraH 
+
+068.06F: manolOlyAtpuzpatAmbUlasadfSaH kadAcitsevyase . 
+068.06A: manolOlyAt puzpatAmbUlasadfSaH kadAcit sevyase . 
+068.06P: manolOlyAt -- manasaH cAYcalyAt .
+068.06P: puzpatAmbUlasadfSaH -- puzpamAlAtAmbUlAdIni anAvaSyakAni tucCAni ca vilAsavastUnIva .
+
+068.07F: sa ca svAmI mAM vikretuM deveByo
+068.07A: saH ca svAmI mAm vikretum deveByaH
+
+068.08F: brAhmaReByo'pi vA dAtumISvaraH . kiM bahunA . tasmijjIvati jIvAmi .
+068.08A: brAhmaReByaH api vA dAtumISvaraH . kim bahunA . tasmin jIvati jIvAmi .
+
+068.09F: tanmaraRe cAnumaraRaM karizyAmItyeza me niScayaH . yataH .
+068.09A: tat maraRe ca anumaraRam karizyAmi iti ezaH me niScayaH . yataH .
+
+068.10F: tisraH kowyo'rDakowI ca yAni lomAni mAnave .
+068.10A: tisraH kowyaH arDakowI ca yAni lomAni mAnave .
+
+068.11F: tAvatkAlaM vasetsvarge BartAraM yAnugacCati .. 28..
+068.11A: tAvat kAlam vaset svarge BartAram yA anugacCati .. 28..
+068.11P: anugacCati -- BartfmaraRe anusriyate .
+
+068.12F: anyacca . vyAlagrAhI yaTA vyAlaM balAdudDarate bilAt .
+068.12A: anyat ca . vyAlagrAhI yaTA vyAlam balAt udDarate bilAt .
+068.12P: vyAlagrAhI -- vyAlaM sarpaM gfhRAtIti vyAlagrAhI AhituRqikaH .
+
+068.13F: tadvadBartAramAdAya svargaloke mahIyate .. 29..
+068.13A: tat vat BartAram AdAya svargaloke mahIyate .. 29..
+068.13P: AdAya gfhItvA . sargaM nItveti yAvat .
+068.13P+: mahIyate -- pUjyate .
+
+068.14F: aparaM ca . citO parizvajya vicetanaM patiM
+068.14A: aparam ca . citO parizvajya vicetanam patim
+068.14P: citO citAyAm .
+
+068.15F: priyA hi yA muYcati dehamAtmanaH .
+068.15A: priyA hi yA muYcati deham AtmanaH .
+
+068.16F: kftvApi pApaM SatasaMKyamapyasO
+068.16A: kftvA api pApam SatasaMKyam api asO
+
+068.17F: patiM gfhItvA suralokamApnuyAt .. 30..
+068.17A: patim gfhItvA suralokam ApnuyAt .. 30..
+
+068.18F: etatsarvaM SrutvA sa raTakAro'vadat -- Danyo'haM
+068.18A: etat sarvam SrutvA saH raTakAraH avadat -- DanyaH aham
+
+068.19F: yasyedfSI priyavAdinI svAmivatsalA BAryA iti manasi
+068.19A: yasya IdfSI priyavAdinI svAmivatsalA BAryA iti manasi
+
+068.20F: niDAya tAM KawvAM strIpuruzasahitAM mUrDni kftvA sAnandaM
+068.20A: niDAya tAm KawvAm strIpuruzasahitAm mUrDni kftvA sAnandam
+
+068.21F: nanarta . ato'haM bravImi -- prayakze'pi kfte doze ityAdi ..
+068.21A: nanarta . ataH aham bravImi -- prayakze api kfte doze ityAdi ..
+; Sampada: 'ityAdi' left as is.
+
+068.22F: tato'haM tena rAjYA yaTAvyavahAraM saMpUjya prasTApitaH .
+068.22A: tataH aham tena rAjYA yaTA avyavahAram saMpUjya prasTApitaH .
+068.22P: yaTAvyavahAram -- ucitAcArAnuroDena .
+
+068.23F: Suko'pi mama paScAdAgacCan Aste . etatsarvaM parijYAya
+068.23A: SukaH api mama paScAt AgacCan Aste . etat sarvam parijYAya
+
+068.24F: yaTAkartavyamanusaMDIyatAm . cakravAko
+068.24A: yaTAkartavyam anusaMDIyatAm . cakravAkaH
+
+068.25F: vihasyAha -- deva bakena tAvaddeSAntaramapi gatvA yaTASakti
+068.25A: vihasya Aha -- deva bakena tAvat deSAntaram api gatvA yaTASaktiH
+
+068.26F: rAjakAryamanuzWitam . kiMtu deva svaBAva eza mUrKAnAm . yataH .
+068.26A: rAjakAryam anuzWitam . kim tu deva svaBAvaH ezaH mUrKAnAm . yataH .
+
+068.27F: SataM dadyAn na vivadediti vijYasya saMmatam .
+068.27A: Satam dadyAn na vivadet iti vijYasya saMmatam .
+068.27P: na vivadet -- kalahaM na kuryAt .
+068.27P+: vijYasya prAjYasya , paRqitasya .
+068.28F: vinA hetumapi dvandvametanmUrKasya lakzaRam .. 31..
+068.28A: vinA hetum api dvandvam etat mUrKasya lakzaRam .. 31..
+
+068.29F: rAjAha -- kimatItopAlamBanena . prastutamanusaMDIyatAm .
+068.29A: rAjA Aha -- kim atItopAlamBanena . prastutam anusaMDIyatAm .
+
+068.30F: cakravAko brUte -- deva vijane bravImi . yataH .
+068.30A: cakravAkaH brUte -- deva vijane bravImi . yataH .
+
+; vaktra -> vakra ?
+068.31F: varRAkArapratiDvAnErnetravaktravikArataH .
+068.31A: varRAkArapratiDvAnEH netravaktravikArataH .
+068.31P: varRAkAra -- varRaH muKarAgaH .
+068.31P+: AkAraH -- iNgitam . 'AkArastviNga iNgitam' ityamaraH .
+
+068.32F: apyUhanti mano DIrAstasmAdrahasi mantrayet .. 32..
+068.32A: apyUhanti manaH DIrAH tasmAt rahasi mantrayet .. 32..
+068.32P: Uhanti tarkeRa jAnanti .
+068.32P+: vijane -- rahasi

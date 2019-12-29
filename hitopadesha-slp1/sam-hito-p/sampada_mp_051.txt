@@ -1,0 +1,130 @@
+051.01F: nAgnistfpyati kAzWAnAM nApagAnAM mahodaDiH .
+051.01A: na agniH tfpyati kAzWAnAm na apagAnAm mahodaDiH .
+051.01P: tfpyati kAzWAnAm . tftIyArTe zazWI . ma.BA.u.pa. 40,7; a.pa.38.25. 
+
+051.02F: nAntakaH sarvaBUtAnAM na puMsAM vAmalocanA .. 113..
+051.02A: na antakaH sarvaBUtAnAm na puMsAm vAmalocanA .. 113..
+
+051.03F: anyacca . na dAnena na mAnena nArjavena na sevayA .
+051.03A: anyat ca . na dAnena na mAnena na Arjavena na sevayA .
+051.03P: mAnena mAnadAnena .
+051.03P+: Arjavena fjorBAvaH ArjvaM tena saralatAprakASanena .
+
+051.04F: na SastreRa na SAstreRa sarvaTA vizamAH striyaH .. 114..
+051.04A: na SastreRa na SAstreRa sarvaTA vizamAH striyaH .. 114..
+051.04P: SastreRa -- SastraprahAraBayenetyarTaH .
+051.04P+: SAstreRa -- SAstravAkyopadeSena .
+051.04P++: striyaH vaSIkriyante iti . ata eva tAH sarvaTA sarvaprakAreRa vizamAH durArADyAH .
+
+051.05F: yataH . guRASrayaM kIrtiyutaM ca kAntaM patiM ratijYaM saDanaM yuvAnam .
+051.05A: yataH . guRASrayam kIrtiyutam ca kAntam patim ratijYam saDanam yuvAnam .
+051.05P: guRASrayam praSaMsanIyaguRAnAmADAram .
+051.05P+: kAntaM kamanIyam .
+
+051.06F: vihAya SIGraM vanitA vrajanti naraM paraM SIlaguRAdihInam .. 115..
+051.06A: vihAya SIGram vanitA vrajanti naram param  SIlaguRAdihInam .. 115..
+051.06P: paraM naraM jAram .
+
+051.07F: aparaM ca . na tAdfSIM prItimupEti nArI vicitraSayyAM SayitApi kAmam .
+051.07A: aparam ca . na tAdfSIm prItim upEti nArI vicitraSayyAm SayitA api kAmam .
+051.07P: prItiM -- pramodam .
+051.07P+: vicitraSayyAM -- ramaRIyaSayyAm . 
+
+051.08F: yaTA hi dUrvAdivikIrRaBUmO prayAti sOKyaM parakAntisaNgAt .. 118..
+051.08A: yaTA hi dUrvAdivikIrRaBUmO prayAti sOKyam parakAntisaNgAt .. 118..
+051.08P: dUrvAdi -- dUrvApraBftyAvftasTAne .
+
+051.09F: aTa kadAcitsA daRqanAyakaputreRa saha ramamARA tizWati . aTa
+051.09A: aTa kadA cit sA daRqanAyakaputreRa saha ramamARA tizWati . aTa
+
+051.10F: daRqanAyako'pi gantuM tatrAgataH . tamAyAntaM dfzwvA tatputraM
+051.10A: daRqanAyakaH api gantum tatra AgataH . tam AyAntam dfzwvA tatputram
+
+051.11F: kusUle nikzipya daRqanAyakena samaM taTEva krIqati . anantaraM tasyA
+051.11A: kusUle nikzipya daRqanAyakena samam taTA eva krIqati . anantaram tasyA
+051.11P: kusUle DAnyasTApanapAtraviSeze .
+
+051.12F: BartA gopo gozWAtsamAgataH . tamAlokya gopyoktam -- daRqanAyaka 
+051.12A: BartA gopaH gozWAt samAgataH . tam Alokya gopyA uktam -- daRqanAyaka 
+
+051.13F: tvaM laguqaM gfhItvA kopaM darSayansatvaraM gacCa . taTA
+051.13A: tvam laguqam gfhItvA kopam darSayan satvaram gacCa . taTA
+
+051.14F: tenAnuzWite gopena gfhamAgatya BAryA pfzWA -- kena kAryeRa daRqanAyakaH
+051.14A: tena anuzWite gopena gfham Agatya BAryA pfzWA -- kena kAryeRa daRqanAyakaH
+
+051.15F: samAgatotra .
+051.15A: samAgatotra .
+
+051.16F: sA brUte -- ayaM
+051.16A: sA brUte -- ayam
+
+051.17F: kenApi kAraRena putrasyopari krudDaH . sa ca mArgamARo'pyatrAgatya
+051.17A: kena api kAraRena putrasya upari krudDaH . saH ca mArgamARaH api atra Agatya
+
+051.18F: pravizwo mayA kusUle nikzipya rakzitaH . tatpitrA cAnvizyatA gfhe 
+051.18A: pravizwaH mayA kusUle nikzipya rakzitaH . tat pitrA ca anvizya atra gfhe
+
+051.19F: na dfzwaH . atoyaM daRqanAyakaH kupita eva gacCati .
+051.19A: na dfzwaH . ataH ayam daRqanAyakaH kupitaH eva gacCati .
+
+051.20F: tataH sA
+051.20A: tataH sA
+
+051.21F: tatputraM kuzulAdavatArya darSitavatI . taTA coktam --
+051.21A: tat putram kuzulAt avatArya darSitavatI . taTA ca uktam -- 
+
+051.22F: AhAro dviguRaH strIRAM budDistAsAM caturguRAH .
+051.22A: AhAraH dviguRaH strIRAm budDiH tAsAm caturguRAH .
+051.22P: dviguRaH puruzApekzayA iti SezaH .
+051.22P+: budDiH cAturyam .
+
+051.23F: zaqguRo vyavasAyaSca kAmAScAzwaguRaH smftaH .. 117..
+051.23A: zaqguRaH vyavasAyaH ca kAmAH ca azwaguRaH smftaH .. 117..
+051.23P: vyavasAyaH -- kArye pravfttiH .
+051.23P+: kAmAH -- saMBogecCA .
+
+051.24F: ato'haM bravImi -- utapannezvapi kAryezu ityAdi ..
+051.24A: ataH aham bravImi -- utapannezu api kAryezu ityAdi ..
+; Sampada: 'ityAdi' left as is.
+
+051.25F: karawako brUte -- astvevam . kiMtvanayormahAnanyonyanisargopajAtasnehaH
+051.25A: karawakaH brUte --astu evam . kim tu anayoH mahAn anyonyanisargopajAtasnehaH
+051.25P: anyonya -- anyonyasmin nisargAtsvaBAvAdupajAtaH snehaH mEtrI .
+
+051.26F: kaTaM BedayituM SakyaH .
+051.26A: kaTam Bedayitum SakyaH .
+
+051.27F: damanako brUte -- upAyaH kriyatAm . taTA coktam --
+051.27A: damanakaH brUte -- upAyaH kriyatAm . taTA ca uktam -- 
+
+051.28F: upAyena hi yacCakyaM na tacCakyaM parAkramEH .
+051.28A: upAyena hi yat SakyaM na tat SakyaM parAkramEH .
+
+051.29F: kAkaH kanakasUtreRa kfzRsarpamaGAtayat .. 118 ..
+051.29A: kAkaH kanakasUtreRa kfzRsarpam aGAtayat .. 118 ..
+
+051.30F: karawakaH pfcCati -- kaTametat .
+051.30A: karawakaH pfcCati -- kaTam etat .
+
+051.31F: damanakaH kaTayati --
+051.31A: damanakaH kaTayati --
+
+051.32F: .. kaTA 7 ..
+051.32A: .. kaTA 7 ..
+
+051.33F: kasmiMScit tarO vAyasadampatI nivasataH . tayoScApatyAni
+051.33A: kasmin cit tarO vAyasadampatI nivasataH . tayoH ca patyAni
+
+051.34F: tatkowarAvasTitena kfzRasarpeRa KAditAni . tataH
+051.34A: tat kowarAvasTitena kfzRasarpeRa KAditAni . tataH
+
+051.35F: punargarBavatI vAyasI vAyasamAha -- nATa tyajyatAmayaM taruH .
+051.35A: punaH garBavatI vAyasI vAyasam Aha -- nATa tyajyatAm ayam taruH .
+
+051.36F: atra yAvatkfzRasarpastAvadAvayoH saMtatIH kadAcidapi na Bavizyati . 
+051.36A: atra yAvat kfzRasarpaH tAvat AvayoH saMtatIH kadA cit api na Bavizyati . 
+
+051.37F: yataH .
+051.37A: yataH .
+

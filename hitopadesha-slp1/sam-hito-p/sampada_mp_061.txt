@@ -1,0 +1,107 @@
+061.01F: kiM ca . kzamA SatrO ca mitre ca yatInAmeva BUzaRam .
+061.01A: kim ca . kzamA SatrO ca mitre ca yatInAm eva BUzaRam .
+
+061.02F: aparADizu sattvezu nfpARAM sEva dUzaRam .. 178..
+061.02A: aparADizu sattvezu nfpARAm sA eva dUzaRam .. 178..
+
+061.03F: aparaM ca . rAjyaloBAdahaMkArAdicCataH svAminaH padam .
+061.03A: aparam ca . rAjyaloBAt ahaMkArAt icCataH svAminaH padam .
+
+061.04F: prAyaScittaM tu tasyEkaM jIvotsargo na cAparam .. 179..
+061.04A: prAyaH cittam tu tasya ekam jIvotsargaH na cAparam .. 179..
+
+061.05F: anyacca . rAjA GfRI brAhmaRaH sarvaBakzaH
+061.05A: anyat ca . rAjA GfRI brAhmaRaH sarvaBakzaH
+
+061.06F: strI cAvajYA duzprakftiH sahAyaH .
+061.06A: strI ca avajYA duzprakftiH sahAyaH .
+061.06P: duzprakftiH duzwasvaBAvaH .
+061.06P+: sahAyaH sahacaraH .
+
+061.07F: prezyaH pratIpo'DikftaH pramAdI
+061.07A: prezyaH pratIpaH aDikftaH pramAdI
+061.07P: prezyaH BftyaH .
+061.07P+: pratIpaH -- svAminideSalaNGI pratikUlAcaraRaH .
+061.07P++: aDikftaH kAryADikArI .
+
+061.08F: tyAjyA ime yaSca kftaM na vetti .. 180..
+061.08A: tyAjyA ime yaH ca kftam na vetti .. 180..
+
+061.09F: viSezataSca . satyA'nftA ca paruzA priyavAdinI ca
+061.09A: viSezataH ca . satyAH anftAH ca paruzAH priyavAdinI ca
+061.09P: satyAnftA -- satyaM anftaM ca yasyAm .
+061.09P+: paruzA vizayaviSeze kaWinA .
+
+061.10F: hiMsrA dayAlurapi 
+cArTaparA vadAnyA .
+061.10A: hiMsrA dayAluH api ca arTaparAH vadAnyA .
+061.10P: arTaparA svArTasADanatatparA , dravyArjanatatparA vA .
+061.10P+: vadAnyA -- kadAcit dAnaSIlA . 
+
+061.11F: nityavyayA pracuraratnaDanAgamA ca
+061.11A: nityavyayA pracuraratnaDanAgamA ca
+061.11P: pracura -- pracurARAM ratnAnAM ca AgamaH yatra .
+
+061.12F: vArANganeva nfpanItiranekarUpA .. 181..
+061.12A: vArANganA iva nfpanItiH anekarUpA .. 181..
+061.12P: vArANganA -- veSyA .
+
+061.13F: iti damanakena saMtozitaH piNgalakaH svAM prakftimApannaH
+061.13A: iti damanakena saMtozitaH piNgalakaH svAm prakftim ApannaH
+
+061.14F: siMhAsane upavizwaH . damanakaH prahfzwamanAH vijayatAM
+061.14A: siMhAsane upavizwaH . damanakaH prahfzwamanAH vijayatAm
+
+061.15F: mahArAjaH SuBamastu sarvajagatAm ityuktvA yaTAsuKamavasTitaH .
+061.15A: mahArAjaH SuBam astu sarvajagatAm iti uktvA yaTAsuKam avasTitaH .
+
+061.16F: vizRuSarmovAca -- suhfdBedaH SrutastAvadBavadBiH .
+061.16A: vizRuSarmA uvAca -- suhfdBedaH SrutaH tAvat BavadBiH .
+
+061.17F: rAjaputrA UcuH -- BavatprasAdAcCrutaH . suKino BUtA vayam .
+061.17A: rAjaputrAH UcuH -- BavatprasAdAt SrutaH . suKinaH BUtAH vayam .
+
+061.18F: vizRuSarmAbravIt -- aparamapIdamastu --
+061.18A: vizRuSarmA abravIt -- aparam api idam astu --
+
+061.19F: suhfdBedastAvad Bavatu BavatAM Satrunilaye
+061.19A: suhfdBedaH tAvat Bavatu BavatAm Satrunilaye
+061.19P: Satrunilaye -- vErigfhe .
+
+061.20F: KalaH kAlAkfzwaH pralayamupasarpatvaharahaH .
+061.20A: KalaH kAlAkfzwaH pralayam upasarpatu ahaH ahaH .
+061.20P: kAlAkfzwaH -- kAlena AkfzwaH tadvaSagaH .
+061.20P+: pralayamupasarpatu -- vinASaM yAtu .
+061.20P++: aharahaH -- pratyaham .
+
+061.21F: jano nityaM BUyAtsakalasuKasampattivasatiH
+061.21A: janaH nityam BUyAt sakalasuKasampattivasatiH
+
+061.22F: kaTArAme ramye satatamiha bAlo'pi ramatAm .. 182..
+061.22A: kaTArAme ramye satatam iha bAlaH api ramatAm .. 182..
+061.22P: kaTArAme -- kaTodyAne . kaTAramBe iti pAWe kaTAprabanDa ityarTaH .
+
+061.23F: .. vigrahaH ..
+061.23A: .. vigrahaH ..
+
+061.24F: punaH kaTAramBakAle rAjaputrEruktam . Arya 
+061.24A: aTa punaH kaTAramBakAle rAjaputrEH uktam . Arya 
+061.24P: rAjaputrA vayam -- anena tezAM kiyAnapi manaHpraboDo vyajyate .
+
+061.25F: rAjaputrA vayam . tad vigrahaM SrotuM naH kutUhalamasti .
+061.25A: rAjaputrAH vayam . tat vigraham Srotum naH kutUhalam asti .
+
+061.26F: vizRuSarmaRoktam -- yadeva BavadByo rocate
+061.26A: vizRuSarmaRA uktam -- yat eva BavadByaH rocate
+
+061.27F: tatkaTayAmi . vigrahaH SrUyatAM yasyAyamAdyaH SlokaH --
+061.27A: tat kaTayAmi . vigrahaH SrUyatAm yasya ayam AdyaH SlokaH --
+
+061.28F: haMsEH saha mayUrARAM vigrahe tulyavikrame .
+061.28A: haMsEH saha mayUrARAm vigrahe tulyavikrame .
+061.28P: tulyavikrame -- tulyaH vikramaH yasmin .
+061.28P+: vigrahe yudDe .
+
+061.29F: viSvAsya vaYcitA haMsAH kAkEH sTitvArimandire .. 1..
+061.29A: viSvAsya vaYcitAH haMsAH kAkEH sTitvA arimandire .. 1..
+

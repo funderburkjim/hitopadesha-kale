@@ -1,0 +1,122 @@
+057.01F: samudreRAhaM svagfhAvasTito vinAparADanenEva nigfhItaH iti .
+057.01A: samudreRa aham svagfhAvasTitaH vinAparADanena eva nigfhItaH iti .
+
+057.02F: tatastadvacanamAkarRya garutmatA praBurBagavAn
+057.02A: tataH tat vacanam AkarRya garutmatA praBuH BagavAn
+
+057.03F: nArAyaRaH sfzwisTitipralayaheturvijYaptaH . sa
+057.03A: nArAyaRaH sfzwisTitipralayahetuH vijYaptaH . sa
+057.03P: sfzwisTitipralayahetuH jagataH sfzwiH utpattiSca sTitiH pAlanaM ca pralayaH saMhAraSca tezAM hetuH kAraRam .
+
+057.04F: samudramaRqadAnAyAdideSa . tato
+057.04A: samudram aRqadAnAya AdideSa . tataH
+
+057.05F: BagavadAjYAM mOlO niDAya samudreRa tAnyaRqAni wiwwiBAya
+057.05A: BagavadAjYAm mOlO niDAya samudreRa tAni aRqAni wiwwiBAya
+; Sampada: 'wiwwiBAya' typo?
+057.05P: mOlO niDAya mastake kftvA , SirasA'Byarcya . ativinayena BagavadAjYAM pAlayitvetyarTaH .
+
+057.06F: samarpitAni . ato'haM bravImi aNgANgiBAvamajYAtvA ityAdi .
+057.06A: samarpitAni . ataH aham bravImi aNgANgiBAvam ajYAtvA ityAdi .
+; Sampada: 'ityAdi' left as is.
+
+057.07F: rAjAha -- kaTamasO jYAtavyo drohabudDiriti .
+057.07A: rAjA Aha -- kaTam asO jYAtavyaH drohabudDiH iti .
+057.07P: drohabudDiH pApamatiH . apAyacintanaparaH ityarTaH .
+
+057.08F: damanako brUte -- yadAsO sadarpaH
+057.08A: damanakaH brUte -- yadA asO sadarpaH
+
+057.09F: SfNgAgrapraharaRABimuKaScakita ivAgacCati tadA jYAsyati
+057.09A: SfNgAgrapraharaRABimuKaH cakita iva AgacCati tadA jYAsyati
+057.09P: SfNgAgra -- SfNgayoragre tAByAM praharaRaM tatra aBimuKaH .
+057.09P+: cakita iva -- saMrabDacitta iva saMBrAnta iva .
+
+057.10F: svAmI . evamuktvA saMjIvakasamIpaM gataH . tatra gataSca mandaM
+057.10A: svAmI . evam uktvA saMjIvakasamIpam gataH . tatra gataH ca mandam
+
+057.11F: mandamupasarpanvismitamivAtmAnamadarSayat . saMjIvakena sAdaramuktam --
+057.11A: mandam upasarpan vismitam iva AtmAnam adarSayat . saMjIvakena sAdaramuktam --
+
+057.12F: Badra kuSalaM te .
+057.12A: Badra kuSalam te .
+
+057.13F: damanako brUte -- anujIvinAM kutaH kuSalam . yataH .
+057.13A: damanakaH brUte -- anujIvinAm kutaH kuSalam . yataH .
+
+057.14F: sampattayaH parADInAH sadA cittamanirvfttam .
+057.14A: sampattayaH parADInAH sadA cittamanirvfttam .
+057.14P: parADInAH nfpecCAyattA ityarTaH .
+057.14P+: anirvfttam -- Akulam .
+
+057.15F: svajIivite'pyaviSvAsastezAM ye rAjasaMSreyAH .. 150..
+057.15A: svajIivite api aviSvAsaH tezAm ye rAjasaMSreyAH .. 150..
+057.15P: rAjasaMSreyAH BUpAlAvalambinaH , rAjasevakAH .
+
+057.16F: anyacca . ko'rTAn prApya na garvito vizayiRaH kasyApado'staM gatAH
+057.16A: anyat ca . kaH arTAn prApya na garvitaH vizayiRaH kasya ApadaH astam gatAH
+057.16P: vizayiRaH -- BogAsaktasya , sizayasuKatarasya .
+057.16P+: astam gatAH -- antaM yAtAH . na kasyApi ityarTaH .
+
+057.17F: strIBiH kasya na KaRqitaM Buvi manaH ko vAsti rAjYAM priyaH .
+057.17A: strIBiH kasya na KaRqitam Buvi manaH kaH vA asti rAjYAm priyaH .
+057.17P: KaRqitam -- vikalIkftaM , pratipremABAvAdvyAhatam .
+
+057.18F: kaH kAlasya BujAntaraM na ca gataH ko'rTI gato gOravaM
+057.18A: kaH kAlasya BujAntaram na ca gataH kaH arTI gataH gOravam
+057.18P: kAlasya <ab n="ityAdi">i</ab> -- yamasya vaSatAM gataH kAlena na kavalitaH .
+
+057.19F: ko vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
+057.19A: kaH vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
+057.19P: durjanavAgurAsu durjanAnAM KalAnAM vAgurAsu kapawajAlezu .
+
+057.20F: saMjIvakenoktam -- saKe brUhi kimetat .
+057.20A: saMjIvakena uktam -- saKe brUhi kim etat .
+
+057.21F: damanaka Aha -- kiM bravImi mandaBAgyaH . paSya .
+057.21A: damanakaH Aha -- kim bravImi mandaBAgyaH . paSya .
+
+057.22F: yaTA samudre nirmagno labDvA sarpAvalambanam .
+057.22A: yaTA samudre nirmagno labDvA sarpO avalambanam .
+
+057.23F: na muYcati na cAdatte taTA mugDo'smi saMprati .. 152..
+057.23A: na muYcati na ca Adatte taTA mugDaH asmi saMprati .. 152..
+057.23P: mugDaH -- kiMkartavyatAmUQaH . itikartavyatASUnyaH ityarTaH .
+
+057.24F: yataH . ekatra rAjaviSvAso naSyatyanyatra bAnDavaH .
+057.24A: yataH . ekatra rAjaviSvAsaH naSyati anyatra bAnDavaH .
+
+057.25F: kiM karomi kva gacCAmi patito duHKasAgare .. 153..
+057.25A: kim karomi kva gacCAmi patitaH duHKasAgare .. 153..
+
+057.26F: ityuktvA dIrGaM niHSvasyopavizwaH .
+057.26A: iti uktvA dIrGam niHSvasya upavizwaH .
+
+057.27F: saMjIvako brUte -- taTApi mitra savistaraM manogatamucyatAm .
+057.27A: saMjIvakaH brUte -- taTA api mitra savistaram manogatam ucyatAm .
+057.27P: manogataM yad hfdayasTitaM tat .
+
+057.28F: damanakaH suniBftamAha -- yadyapi rAjaviSvAso na kaTanIyastaTApi
+057.28A: damanakaH suniBftam Aha -- yadi api rAjaviSvAsaH na kaTanIyaH taTA api
+057.28P: rAjaviSvAsaH rAjYA viSvasya kaTitam .
+
+057.29F: BavAn asmadIyapratyayAdAgataH . mayA paralokArTinAvaSyaM tava
+057.29A: BavAn asmadIyapratyayAt AgataH . mayA paralokArTinAvaSyam tava
+
+057.30F: hitamAKyeyam . SfRu . ayaM svAmI tavopari vikftabudDI
+057.30A: hitam AKyeyam . SfRu . ayam svAmI tava upari vikftabudDI
+057.30P: vikftabudDiH vikftA viparItaBAvamApannA budDiH yasya .
+
+057.31F: rahasyuktavAn  -- saMjIvakameva hatvA svaparivAraM tarpayAmi .
+057.31A: rahasyuktavAn  -- saMjIvakam eva hatvA svaparivAram tarpayAmi .
+
+057.32F: etacCrutvA saMjIvakaH paraM vizAdamagamat . damanakaH punarAha .
+057.32A: etat SrutvA saMjIvakaH param vizAdam agamat . damanakaH punaH Aha .
+
+057.33F: alaM vizAdena . prAptakAlakAryamanuzWIyatAm . saMjIvakaH
+057.33A: alam vizAdena . prAptakAlakAryam anuzWIyatAm . saMjIvakaH
+057.33P: prAptaH kAlo yasya tatprAptakAlaM kAlocitam .
+
+057.34F: kzaRaM vimfSyAha .. suzWu Kalvidamucyate . 
+057.34A: kzaRam vimfSya Aha .. suzWu Kalu idam ucyate . 
+

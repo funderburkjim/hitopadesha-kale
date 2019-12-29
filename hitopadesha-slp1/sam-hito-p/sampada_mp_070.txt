@@ -1,0 +1,86 @@
+070.01F: Bavatu . paScAdAnIya drazwavyaH .
+070.01A: Bavatu . paScAt AnIya drazwavyaH .
+
+070.02F: pratIhArastamAvAsasTAnaM nItvA gataH . 
+070.02A: pratIhAraH tam AvAsasTAnam nItvA gataH . 
+
+070.03F: rAjAha -- vigrahastAvadupasTitaH .
+070.03A: rAjA Aha -- vigrahaH tAvat upasTitaH .
+
+070.04F: cakravAko brUte -- deva taTApi sahasA vigraho na viDiH . yataH .
+070.04A: cakravAkaH brUte -- deva taTA api sahasA vigrahaH na viDiH . yataH .
+
+070.05F: sacivaH kiM sa mantrI vA ya AdAveva BUpatim .
+070.05A: sacivaH kim saH mantrI vA yaH AdO eva BUpatim .
+
+070.06F: yudDodyogaM svaBUtyAgaM nirdiSatyavicAritam .. 38..
+070.06A: yudDodyogam svaBUtyAgam nirdiSati avicAritam .. 38..
+070.06P: nirdiSati -- upadiSati .
+070.06P+: avicAritam -- avicArya . Slo. 39-40. manu.a.sapta.Slo. 198-99 drazwavyO . 
+
+070.07F: aparaM ca . vijetuM prayatetArInna yudDena kadAcana .
+070.07A: aparam ca . vijetum prayateta arIn na yudDena kadAcana .
+
+070.08F: anityo vijayo yasmAd dfSyate yuDyamAnayoH .. 39.
+070.08A: anityaH vijayaH yasmAt dfSyate yuDyamAnayoH .. 39.
+
+070.09F: anyacca . sAmnA dAnena Bedena samastEraTavA pfTak .
+070.09A: anyat ca . sAmnA dAnena Bedena samastEH aTavA pfTak .
+070.09P: sAmnA -- priyavacanAdinA kroDopaSamanaM sAma . tacca paYcaviDam . taduktam -- 'parasparopakArARAM darSanaM guRakIrtanam .saMbanDasya samAKyAnamAyatyAH saMprakASanam . vAcA peSalayA sADu tavAhamiti cArpaRam . iti sAmaviDAnajYEH sAma paYcaviDaM smftam .' 
+070.09P+: dAnamapi paYcaviDam . taduktam -- 'pratidAnaM taTA tasya gfhItasyAnumocanam . dravyAdAnamapUrvaM ca svayaM grAhapravartanam . deyasya pratimokzaSca dAnaM paYcaviDaM smftam .'
+070.09P++: BedaH -- SatroramAtyAdInAmupAyena parato viSlizyAtmasAtkaraRaM BedaH . sa triviDaH 'sneharAgApanayanaM saMharzotpAdanaM taTA . saMtarjanaM ca BedajYErBedastu triviDaH smftaH .'
+
+070.10F: sADituM prayatetArIn na yudDena kadAcana .. 40..
+070.10A: sADitum prayatetArIn na yudDena kadAcana .. 40..
+070.10P: sADitum -- vaSIkartum .
+
+070.11F: yataH . sarva eva janaH SUro hyanAsAditavigrahaH .
+070.11A: yataH . sarvaH eva janaH SUraH hi anAsAditavigrahaH .
+070.11P: sarva eva -- apravftte samare sarva eva AtmanaH sOryaM prastOtIti BAvaH .
+
+070.12F: adfzwaparasAmarTyaH sadarpaH ko Bavenna hi .. 41..
+070.12A: adfzwaparasAmarTyaH sadarpaH kaH Bavet na hi .. 41..
+
+070.13F: kiM ca . na taTotTApyate grAvA prARiBirdAruRA yaTA .
+070.13A: kim ca . na taTotTApyate grAvA prARiBiH dAruRA yaTA .
+070.13P: dAruRA yaTA -- yaTA grAvA uttolanadaRqena sahAyena suKenEva utTApyate taTA prARiBiH kevalayA SaktyA na utTApyate ityarTaH .
+
+070.14F: alpopAyAnmahAsidDiretanmantraPalaM mahat .. 42..
+070.14A: alpopAyAn mahAsidDiH etat mantraPalam mahat .. 42..
+
+070.15F: kiMtu vigrahamupasTitaM vilokya vyavahriyatAm . yataH .
+070.15A: kim tu vigraham upasTitam vilokya vyavahriyatAm . yataH .
+
+070.16F: yaTA kAlakftodyogAt kfziH PalavatI Bavet .
+070.16A: yaTA kAlakftodyogAt kfziH PalavatI Bavet .
+
+070.17F: tadvannItiriyaM deva cirAt Palati na kzaRAt .. 43..
+070.17A: tat vat nItiH iyam deva cirAt Palati na kzaRAt .. 43..
+
+070.18F: aparaM ca . mahato dUraBIrutvamAsanne SUratA guRaH .
+070.18A: aparam ca . mahataH dUraBIrutvam Asanne SUratA guRaH .
+070.18P: dUraBIrutvam -- mahAn yAvadBayamanAgataM tAvadbiBetIti BAvaH .
+070.18P+: Asanne BayopasTitO . mitralABe 57 Slo. drazwavyaH .
+
+070.19F: vipattO hi mahAMlloke DIratAmaDigacCati .. 44..
+070.19A: vipattO hi mahAn loke DIratAm aDigacCati .. 44..
+
+070.20F: anyacca . pratyUhaH sarvasidDInAmuttApaH praTamaH kila .
+070.20A: anyat ca . pratyUhaH sarvasidDInAm uttApaH praTamaH kila .
+070.20P: uttApaH -- cittasaMkzoBajanitA nEsargikaDEryacyutirityarTaH .
+
+070.21F: atiSItalamapyamBaH kiM Binatti na BUBftaH .. 45..
+070.21A: atiSItalam api amBaH kim Binatti na BUBftaH .. 45..
+070.21P: BUBftaH -- parvatAn .
+070.21P+: atiSItalami -- SAntacittatayA vyavaharatA vijayaH suKaM laByate iti BAvaH .
+
+070.22F: viSezataSca deva mahAbalo'sO citravarRo rAjA . yataH .
+070.22A: viSezataH ca deva mahAbalaH asO citravarRaH rAjA . yataH .
+
+070.23F: balinA saha yodDavyamiti nAsti nidarSanam .
+070.23A: balinA saha yodDavyam iti na asti nidarSanam .
+070.23P: nidarSanam -- nItiSAstrAjYA .
+
+070.24F: tadyudDaM hastinA sArDaM narARAM mftyumAvahet .. 46..
+070.24A: tat yudDam hastinA sArDam narARAm mftyum Avahet .. 46..
+070.24P: taditi -- yannarARAM ... tat .

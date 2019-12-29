@@ -1,0 +1,139 @@
+064.01F: aTEkadA kenApi sasyarakzakeRa DUsarakambalakftatanutrARena
+064.01A: aTa ekadA kena api sasyarakzakeRa DUsarakambalakftatanutrARena
+064.01P:  DUsarakambala -- DUsaraH IzatpARquH pAMSuvarRo vA . 'IzatpARqustuDUsaraH' ityamaraH . kambalaH tena kftaM tanutrARaM SarIrAvaguRWanaM yena .
+
+; EkAnte or EkrAnte ? print unclear
+064.02F: DanuHkARqaM sajjIkftyAnatakAyenEkAnte sTitam . taM ca dUrAd
+064.02A: DanuHkARqam sajjIkftyAnatakAyena ekAnte sTitam . tam ca dUrAt
+064.02P: DanuHkARqaM -- DanurbARam .
+064.02P+: AnatakAyena -- AnataH kAyaH yasya tena .
+
+064.03F: dfzwvA gardaBaH puzwANgo yeTezwasasyaBakzaRajAtabalo
+064.03A: dfzwvA gardaBaH puzwANgaH yeTezwasasyaBakzaRajAtabalaH
+
+; Kale print error? garDaBIyamiti
+064.04F: gardaBoyamiti matvoccEH SabdaM kurvARastadaBimuKaM DAvitaH .
+064.04A: gardaBaH ayam iti matvA uccEH Sabdam kurvARastadaBimuKam DAvitaH .
+
+064.05F: tatastena sasyarakzakeRa cItkAraSabdAnniScitya gardaBo'yamiti
+064.05A: tataH tena sasyarakzakeRa cItkAraSabdAn niScitya gardaBaH ayam iti
+
+064.06F: lIlayEva vyApAditaH . ato'haM bravImi -- suciraM hi
+064.06A: lIlayA eva vyApAditaH . ataH aham bravImi -- suciram hi
+
+064.07F: carannityam ityAdi .. tatastataH .
+064.07A: caran nityam ityAdi .. tataH tataH .
+; Sampada: 'ityAdi' left as is.
+
+064.08F: dIrGamuKo brUte -- tatastEH pakziBiruktam -- are pApA
+064.08A: dIrGamuKaH brUte -- tataH tEH pakziBiH uktam -- are pApA
+
+064.09F: duzwa baka asmAkaM BUmO carannasmAkaM svAminamaDikzipasi . tan
+064.09A: duzwaH bakaH asmAkam BUmO caran asmAkam svAminam aDikzipasi . tan
+
+064.10F: na kzantavyamidAnIm . ityuktvA sarve mAM caYcuBirhatvA sakopA UcuH --
+064.10A: na kzantavyam idAnIm . iti uktvA sarve mAm caYcuBiH hatvA sakopAH UcuH --
+
+064.11F: paSya re mUrKa sa haMsastava rAjA sarvaTA mfduH . tasya
+064.11A: paSya re mUrKa saH haMsaH tava rAjA sarvaTA mfduH . tasya
+
+064.12F: rAjye'DikAro eva nAsti . yata ekAntato mfduH karatalagatamapyarTaM
+064.12A: rAjye aDikAraH eva na asti . yataH ekAntataH mfduH karatalagatam api arTam
+064.12P: mfduH -- komalANgaH , alpasAraSca .
+064.12P+: rAjye'DikAraH -- rAjye rAjYaH karma rAjyaM tasmin prajApAlanAdikarmaRi aDikAraH yogyatA .
+064.12P++: karatalagataM -- hastatalasTaM , sarvaTA svAyattam .
+
+064.13F: rakzitumakzamaH . kaTaM sa pfTivIM SAsti rAjyaM vA tasya kim .
+064.13A: rakzitum akzamaH . kaTam saH pfTivIm SAsti rAjyam vA tasya kim .
+
+064.14F: tvaM kUpamaRqUkastena tadASrayamupadiSasi . SfRu .
+064.14A: tvam kUpamaRqUkaH tena tat ASrayam upadiSasi . SfRu .
+
+064.15F: sevitavyo mahAvfkzaH PalacCAyAsamanvitaH .
+064.15A: sevitavyaH mahAvfkzaH PalacCAyAsamanvitaH .
+
+064.16F: yadi dEvAtPalaM nAsti cCAyA kena nivAryate .. 10..
+064.16A: yadi dEvAt Palam nAsti CAyA kena nivAryate .. 10..
+
+064.17F: anyacca . hInasevA na kartavyA kartavyo mahadASrayaH .
+064.17A: anyat ca . hInasevA na kartavyA kartavyaH mahat ASrayaH .
+
+064.18F: payo'pi SORqikIhaste vAruRItyaBiDIyate .. 11..
+064.18A: payaH api SORqikIhaste vAruRI iti aBiDIyate .. 11..
+064.18P: SORqikI -- SuRqA surA paRyamasyAH surAvikrayakartrI .
+064.18P+: vAruRI surA . 
+
+064.19F: anyacca . mahAnapyalpatAM yAti nirguRe guRavistaraH .
+064.19A: anyat ca . mahAn api alpatAm yAti nirguRe guRavistaraH .
+
+064.20F: ADArADeyaBAvena gajendra iva darpaRe .. 12..
+064.20A: ADArADeyaBAvena gajendraH iva darpaRe .. 12..
+064.20P: ADArADeyaBAvena -- biMbakabiMbitasaMbanDena .
+
+064.21F: viSezataSca . vyapadeSe'pi sidDiH syAdatiSakte narADipe .
+064.21A: viSezataH ca . vyapadeSe api sidDiH syAt atiSakte narADipe .
+064.21P: vyapadeSe -- kUwaprayoge , kapawopAye .
+064.21P+: atiSakte -- niratiSayaparAkramaSAlini .
+
+064.22F: SaSino vyapadeSena SaSakAH suKamAsate .. 13..
+064.22A: SaSinaH vyapadeSena SaSakAH suKam Asate .. 13..
+
+064.23F: mayoktam -- kaTametat .
+064.23A: mayA uktam -- kaTam etat .
+
+064.24F: pakziRaH kaTayanti --
+064.24A: pakziRaH kaTayanti --
+
+064.25F: .. kaTA 3 ..
+064.25A: .. kaTA 3 ..
+
+064.26F: kadAcidvarzAsvapi vfzweraBAvAt
+064.26A: kadAcit varzAsu api vfzweH aBAvAt
+
+064.27F: tfzArto gajayUTo yUTapatimAha -- nATa koByupAyo'smAkaM
+064.27A: tfzArtaH gajayUTaH yUTapatim Aha -- nATa kaH aByupAyaH asmAkam
+064.27P: gajayUTaH -- rAjAnAM kulam . 'sajAtOyEH kulaM yUTaM tiraScAM punnapuMsakam' ityamaraH .
+
+064.28F: jIvanAya . astyatra kzudrajantUnAM api nimajjanasTAnam . vayaM tu
+064.28A: jIvanAya . asti atra kzudrajantUnAm api nimajjanasTAnam . vayam tu
+
+064.29F: nimajjanABAvAdanDA iva . kva yAmaH kiM kurmaH .
+064.29A: nimajjanABAvAdanDAH iva . kva yAmaH kim kurmaH .
+
+064.30F: tato hastirAjo
+064.30A: tataH hastirAjaH
+
+064.31F: nAtidUraM gatvA nirmalaM hradaM darSitavAn . tato dinezu gacCatsu
+064.31A: na atidUram gatvA nirmalam hradam darSitavAn . tataH dinezu gacCatsu
+
+064.32F: tattIrAvasTitAH gajapAdAhatiBiScUrRitAH kzudraSaSakAH .
+064.32A: tattIrAvasTitAH gajapAdAhatiBiH cUrRitAH kzudraSaSakAH .
+064.32P: AhatiBiH -- tAqanEH .
+
+064.33F: anantaraM SilImuKo nAma SaSakaScintayAmAsa -- anena gajayUTena
+064.33A: anantaram SilImuKaH nAma SaSakaH cintayAmAsa -- anena gajayUTena
+
+064.34F: pipAsAkulitena pratyahamatrAgantavyam . ato vinaSyatyasmatkulam .
+064.34A: pipAsAkulitena pratyaham atra Agantavyam . ataH vinaSyati asmat kulam .
+
+064.35F: tato vijayo nAma vfdDaSaSako'vadat . mA vizIdata .
+064.35A: tataH vijayaH nAma vfdDaSaSakaH avadat . mA vizIdata .
+
+064.36F: mayAtra pratIkAraH kartavyaH .
+064.36A: mayA atra pratIkAraH kartavyaH .
+
+064.37F: tato'sO pratijYAya calitaH . gacCatA ca tenAlocitam --
+064.37A: tataH asO pratijYAya calitaH . gacCatA ca tena Alocitam --
+
+064.38F: kaTaM
+064.38A: kaTam
+
+064.39F: mayA gajayUTasamIpe sTitvA vaktavyam . 
+064.39A: mayA gajayUTasamIpe sTitvA vaktavyam . 
+
+064.40F: spfSann api gajo hanti jiGrann api BujaNgamaH .
+064.40A: spfSan api gajaH hanti jiGran api BujaNgamaH .
+
+064.41F: hasannapi nfpo hanti mAnayann api durjanaH .. 14..
+064.41A: hasan api nfpaH hanti mAnayan api durjanaH .. 14..
+

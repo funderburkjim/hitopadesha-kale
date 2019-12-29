@@ -1,0 +1,97 @@
+055.01F: taTA coktam --
+055.01A: taTA ca uktam --
+
+055.02F: sa snigDo'kuSalAnnivArayati yastatkarma yannirmalaM
+055.02A: saH snigDaH akuSalAt nivArayati yaH tat karma yat nirmalam
+
+055.03F: sA strI yAtuviDAyinI sa matimAnyaH sadBiraByarcyate .
+055.03A: sA strI yAtu viDAyinI saH matimAn yaH sadBiH aByarcyate .
+055.03P: anuviDAyinI -- AjYAkAriRI , BartuScittAnusAriRI vA .
+
+055.04F: sA SrIryA na madaM karoti sa suKI yastfzRayA mucyate
+055.04A: sA SrIH yA na madam karoti saH suKI yaH tfzRayA mucyate
+055.04P: karoti janayati .
+
+055.05F: tanmitraM yadakftrimaM sa puruzo yaH Kidyate nendriyEH .. 139..
+055.05A: tat mitram yat akftrimam saH puruzaH yaH Kidyate na indriyEH .. 139..
+055.05P: akftrimaM nizkapawaM , SudDamati .
+055.05P+: indriyEH na Kidyate -- tezAM vaSago BUtvA nAyAsyate .
+
+; Kale scan here has gaps.  
+055.06F: yadi saMjIvakavyasanArdito vijYApito'pi
+055.06A: yadi saMjIvakavyasanArditaH avijYApitaH api
+055.06P: saYjIvakavyasanArditaH saYjIvakAt yad vyasanaM apAyaH tena arditaH pIqitaH .
+
+055.07F: svAmI na nivartate tadIdfSe Bftye na dozaH . taTA ca .
+055.07A: svAmI na nivartate tat IdfSe Bftye na dozaH . taTA ca .
+055.07P: nivartate -- AgAmivyasanAditi SezaH . 
+055.07P+: IdfSaH mAdfSaH . BAvyApatpiSunasya ityarTaH .
+
+055.08F: nfpaH kAmAsakto gaRayati na kArye na ca hitaM
+055.08A: nfpaH kAmAsaktaH gaRayati na kArye na ca hitam
+055.08P: kAryaM kartavyam .
+
+055.09F: yaTezwaM svacCandaH pravicarati matto gaja iva .
+055.09A: yaTA izwam svacCandaH pravicarati mattaH gajaH iva .
+055.09P: izwamanatikyamya yaTezwam .
+055.09P+: svacCandaH AtmecCanuvartI .
+055.09P++: mattaH -- nfpaH gajaSca .
+055.09P+++: pravicarati -- praBrazwaH vicarati .
+
+055.10F: tato mAnaDmAtaH sa patati yadA Sokagahane
+055.10A: tataH mAnADmAtaH saH patati yadA Sokagahane
+055.10P: mAnADmAtaH -- madodDataH .
+055.10P+: Sokagahane -- SokAraRye .
+
+055.11F: tadA Bftye dozAnkzipati na nijaM vettyavinayam .. 140..
+055.11A: tadA Bftye dozAn kzipati na nijam vetti avinayam .. 140..
+055.11P: avinayam -- anucitAcaraRam . 
+
+055.12F: piNgalakaH svagatam .
+055.12A: piNgalakaH svagatam .
+
+055.13F: na parasyApavAdena parezAM daRqamAcaret .
+055.13A: na parasya apavAdena parezAm daRqam Acaret .
+055.13P: parasya parakftena . kartari zazWI .
+055.13P+: apavAdaH nindA AkzepaH . anyakftaM dozapradarSanamiti yAvat . 
+
+055.14F: AtmanAvagataM kftvA baDnIyAtpUjayeta vA .. 141..
+055.14A: AtmanA avagatam kftvA baDnIyAt pUjayeta vA .. 141..
+055.14P: AtmanAvagamaM kftvA -- svayaM yATArTyaM jYAtvA . viDirgrahanigrahe grahanigrahO na kartavyO ityarTaH .kftO cet svanASAya <ab n="ityAdi">i</ab> .
+055.14P+: grahaH niroDaH nirbanDaH . 'grahonugrahanirbanDagrahaRezu raRodyame . sUryAdO pUtanAdO ca sEMhikeyoparAgayoH' . iti viSvaH .
+
+055.15F: taTA coktam --
+055.15A: taTA ca uktam --
+
+055.16F: guRadozAvaniScitya viDirna grahanigrahe .
+055.16A: guRadozAvaniScitya viDiH na grahanigrahe .
+055.16P: nigrahaH daRqaH .
+
+055.17F: svanASAya yaTA nyasto darpAtsarpamuKe karaH .. 142..
+055.17A: svanASAya yaTA nyastaH darpAt sarpamuKe karaH .. 142..
+
+055.18F: prakASaM brUte -- tadA saMjIvakaH kiM pratyAdiSyatAm .
+055.18A: prakASam brUte -- tadA saMjIvakaH kim pratyAdiSyatAm .
+055.18P: pratyAdiSyatAm -- svapadacyutaH kriyatAm .
+
+055.19F: damanakaH sasamBramamAha --
+055.19A: damanakaH sasamBramam Aha -- 
+
+055.20F: deva mA mEvam . etAvatA mantraBedo jAyate . taTA coktam  --
+055.20A: deva mA mA evam . etAvatA mantraBedaH jAyate . taTA ca uktam --
+
+055.21F: mantrabIjamidaM guptaM rakzaRIyaM taTA yaTA .
+055.21A: mantrabIjam idam guptam rakzaRIyam taTA yaTA .
+
+055.22F: manAgapi na Bidyeta tadBinnaM na prarohati .. 143..
+055.22A: manAk api na Bidyeta tat Binnam na prarohati .. 143..
+055.22P: Bidyeta -- prakASaM gacCet .
+055.22P+: na prarohati aNkuraM na prasUte . vistAraM prApya na Palati ityarTaH .
+
+055.23F: kiM ca . Adeyasya pradeyasya kartavyasya ca karmaRaH .
+055.23A: kim ca . Adeyasya pradeyasya kartavyasya ca karmaRaH .
+055.23P: Adeyasyeti -- Adeyasya karmaRaH kzipraM akriyamARasya sataH tadrasaM tasya sAraBUtaM Palamiti yAvat kAlaH pibati grasate .
+
+055.24F: kzipramakriyamARasya kAlaH pibati tadrasam .. 144..
+055.24A: kzipram akriyamARasya kAlaH pibati tat rasam .. 144..
+

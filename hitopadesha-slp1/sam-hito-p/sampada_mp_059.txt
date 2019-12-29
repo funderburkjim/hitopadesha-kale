@@ -1,0 +1,104 @@
+059.01F: anyacca . mUlaM BujaNgEH kusumAni BfNgEH SAKAH plavaNgEH SiKarARi BallEH .
+059.01A: anyat ca. mUlam BujaNgEH kusumAni BfNgEH SAKAH plavaNgEH SiKarARi BallEH .
+059.01P: BallEH fkzE .
+
+059.02F: nAstyeva taccandanapAdapasya yannASritaM duzwatarESca hiMsrEH .. 161..
+059.02A: nAsti eva tat candanapAdapasya yat na ASritam duzwatarEH ca hiMsrEH .. 161..
+059.02P: duzwatarEH atiduzwEH .
+
+059.03F: ayaM tAvatsvAmI vANmaDuro vizahfdayo mayA jYAtaH . yataH .
+059.03A: ayam tAvatsvAmI vANmaDuraH vizahfdayaH mayA jYAtaH . yataH .
+
+059.04F: dUrAd ucCritapARirArdranayanaH protsAritArDAsano
+059.04A: dUrAt ucCritapARiH ArdranayanaH protsAritArDAsanaH
+059.04P: ucCritapARiH unnamitahastaH .
+059.04P+: protsArita -- protsAritaM utsfzwaM arDAsanaM yena .
+
+059.05F: gAQAliNganatatparaH priyakaTApraSnezu dattAdaraH .
+059.05A: gAQAliNganatatparaH priyakaTApraSnezu dattAdaraH .
+
+059.06F: antarBUtavizo bahirmaDumayaScAtIva mAyApawuH
+059.06A: antarBUtavizaH bahiH maDumayaH ca atIva mAyApawuH
+059.06P: antarBUtavizaH -- antarBUtaM vizaM yasya .
+059.06P+: maDumayaH maDupracuraH .
+059.06P++: bahiH ramaRIyaM vyavaharah ityarTaH .
+059.06P+++: mAyApawuH kapawajAlavistaraRe kuSalaH .
+
+059.07F: ko nAmAyamapUrvanAwakaviDiryaH Sikzito durjanEH .. 162..
+059.07A: kaH nAma ayam apUrvanAwakaviDiH yaH SikzitaH durjanEH .. 162..
+
+059.08F: taTA hi . poto dustaravArirASitaraRe dIpo'nDakArAgame
+059.08A: taTA hi . potaH dustaravArirASitaraRe dIpaH anDakArAgame
+059.08P: potaH -- nOkA .
+
+059.09F: nirvAte vyajanaM madAnDakariRAM darpopaSAntyE sfRiH .
+059.09A: nirvAte vyajanam madAnDakariRAm darpopaSAntyE sfRiH .
+059.09P: SriRiH -- aNkuSaH .
+
+059.10F: itTaM tadBuvi nAsti yasya viDinA nopAyacintA kftA 
+059.10A: itTam tat Buvi na asti yasya viDinA na upAyacintA kftA manye
+
+059.11F: manye durjanacittavfttiharaRe DAtApi BagnodyamaH .. 163..
+059.11A: manye durjanacittavfttiharaRe DAtApi BagnodyamaH .. 163..
+059.11P: BagnodyamaH -- viPalaprayatnaH .
+
+059.12F: saMjIvakaH punarniHSvasya -- kazwaM BoH .
+059.12A: saMjIvakaH punaH niHSvasya -- kazwam BoH .
+
+059.13F: kaTamahaM sasyaBakzakaH siMhena nipAtayitavyaH . yataH .
+059.13A: kaTam aham sasyaBakzakaH siMhena nipAtayitavyaH . yataH .
+
+059.14F: yayoreva samaM vittaM yayoreva samaM balam .
+059.14A: yayoH eva samam vittam yayoH eva samam balam .
+
+059.15F: tayorvivAdo mantavyo nottamADamayoH kvacit .. 164..
+059.15A: tayoH vivAdaH mantavyaH na uttamADamayoH kvacit .. 164..
+059.15P: uttamADamayoH utkfzwanikfzwayoH , hInADikabalayoH .
+
+059.16F: punarvicintya . kenAyaM rAjA mamopari vikAntito na jAne . BedamupagatAdrAjYaH
+059.16A: punaH vicintya . kena ayam rAjA mama upari vikAntitaH na jAne . Bedam upagatAt rAjYaH
+059.16P: BedamupagatAt -- vikftAt vidvezaBAvaM gatAt . 
+
+059.17F: sadA Betavyam . yataH .
+059.17A: sadA Betavyam . yataH .
+
+059.18F: mantriRA pfTivIpAlacittaM viGawitaM kvacit .
+059.18A: mantriRA pfTivIpAlacittaM viGawitam kvacit .
+059.18P: viGawitaM -- viSlezitam .
+
+059.19F: valayaM sPawikasyeva ko hi saMDAtumISvaraH .. 165 ..
+059.19A: valayam sPawikasya eva kaH hi saMDAtum ISvaraH .. 165 ..
+059.19P: ISvaraH -- samarTaH .
+
+059.20F: anyacca . vajraM ca rAjatejaSca dvayamevAtiBIzaRam .
+059.20A: anyat ca . vajram ca rAjatejaH ca dvayam eva atiBIzaRam .
+059.20P: vajraM kuliSam . vidyutpAt iti yAvat .
+
+059.21F: ekamekatra patati patatyanyatsamantataH .. 166 ..
+059.21A: ekam ekatra patati patati anyat samantataH .. 166 ..
+059.21P: samantataH sarvavyApIti tato viSizyata ityarTaH .
+
+059.22F: tatsaMgrAme mftyurevASrIyatAm . idAnIM tadAjYAnuvartanamayuktam . yataH .
+059.22A: tat saMgrAme mftyuH eva ASrIyatAm . idAnIm tadA AjYAnuvartanam ayuktam . yataH .
+
+059.23F: mftaH prApnoti vA svargaM SatruM hatvA suKAni vA .
+059.23A: mftaH prApnoti vA svargam Satrum hatvA suKAni vA .
+
+059.24F: uBAvapi hi SarARAM guRAvetO sudurlaBO .. 167 ..
+059.24A: uBO api hi SarARAm guRO etO sudurlaBO .. 167 ..
+
+059.25F: yudDakAlaScAyam .
+059.25A: yudDakAlaH ca ayam .
+
+059.26F: yatrAyudDe DruvaM mftyuryudDe jIvitasaMSayaH .
+059.26A: yatra AyudDe Druvam mftyuH yudDe jIvitasaMSayaH .
+
+059.27F: tameva kAlaM yudDasya pravadanti manIziRaH .. 168 ..
+059.27A: tam eva kAlam yudDasya pravadanti manIziRaH .. 168 ..
+
+059.28F: yataH . ayudDe hi yadA paSyenna kiYcid hitamAtmanaH .
+059.28A: yataH . ayudDe hi yadA paSyet na kim cit hitam AtmanaH .
+
+059.29F: yuDyamAnastadA prAjYo mriyate ripuRA saha .. 169..
+059.29A: yuDyamAnaH tadA prAjYaH mriyate ripuRA saha .. 169..
+

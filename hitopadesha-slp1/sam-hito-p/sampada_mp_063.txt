@@ -1,0 +1,109 @@
+063.01F: jalaDarapawalErAvfte naBastale DArAsArErmahatI vfzwirbaBUva .
+063.01A: jalaDarapawalEH Avfte naBastale DArAsArEH mahatI vfzwiH baBUva .
+063.01P: DArAsArEH -- avirataDArAsaMpAtEH .
+
+063.02F: tato vAnarAMstarutale'vasTitAYSItArtAnkampamAnAn
+063.02A: tataH vAnarAn tarutale avasTitAn SItArtAn kampamAnAn
+063.02P: SItArtAn -- SItena pIqitAn .
+
+063.03F: avalokya kfpayA pakziBiruktam -- Bo Bo vAnarAH SfRuta .
+063.03A: avalokya kfpayA pakziBiH uktam -- Bo Bo vAnarAH SfRuta .
+
+063.04F: asmABirnirmitA nIqAScaYcumAtrAhftEstfREH .
+063.04A: asmABiH nirmitAH nIqAH caYcumAtrAhftEH tfREH .
+063.04P: caYcumAtrAhftEH -- caYcureva caYcumAtraM tEH AhftEH .
+
+063.05F: hastapAdAdisaMyuktA yUyaM kimiti sIdaTa .. 6..
+063.05A: hastapAdAdisaMyuktA yUyam kim iti sIdaTa .. 6..
+063.05P: sIdaTa -- duHKaM anuBavaTa .
+
+063.06F: tacCrutvA
+063.06A: tat SrutvA
+
+063.07F: vAnarErjAtAmarzErAlocitam -- aho nirvAtanIqagarBAvasTitAH
+063.07A: vAnarEH jAtAmarzEH Alocitam -- aho nirvAtanIqagarBAvasTitAH
+063.07P: jAtAmarzEH -- jAtaH utpannaH amarzaH kroDaH yezAM tEH .
+063.07P+: Alocitam -- cintitam .
+
+063.08F: suKinaH pakziRo'smAnnindanti . tad Bavatu tAvadvfzwerupaSamaH .
+063.08A: suKinaH pakziRaH asmAn nindanti . tat Bavatu tAvat vfzweH upaSamaH .
+063.08P: tadBavatu <ab n="ityAdi">i</ab> -- tAvad avaDO . 'yAvattAvacca sAkalye'vaDO' ityamaraH .
+063.08P+: upaSamaH -- SAntiH nivfttiH .
+
+063.09F: anantaraM SAnte pAnIyavarze
+063.09A: anantaram SAnte pAnIyavarze
+
+063.10F: tErvAnarErvfkzamAruhya . sarve nIqA BagnAstezAmaRqAni
+063.10A: tEH vAnarEH vfkzam Aruhya . sarve nIqAH BagnAH tezAm aRqAni
+
+063.11F: cADaH pAtitAni . ato'haM bravImi -- vidvAnevopadezwavyaH ityAdi .
+063.11A: cADaH pAtitAni . ataH aham bravImi -- vidvAn eva upadezwavyaH ityAdi .
+; Sampada: 'ityAdi' left as is.
+
+063.12F: rAjovAca -- tatastEH kiM kftam .
+063.12A: rAjA uvAca -- tataH tEH kim kftam .
+
+063.13F: bakaH kaTayati -- tatastEH pakziBiH kopAd uktam --
+063.13A: bakaH kaTayati -- tataH tEH pakziBiH kopAt uktam --
+
+063.14F: kenAsO rAjahaMso kfto rAjA . tato mayApi jAtakopenoktam --
+063.14A: kena asO rAjahaMsaH kftaH rAjA . tataH mayA api jAtakopena uktam --
+
+063.15F: yuzmadIyamayUraH kena rAjA kftaH . etacCrutvA
+063.15A: yuzmadIyamayUraH kena rAjA kftaH . etat SrutvA
+
+063.16F: te sarve mAM hantumudyatAH . tato mayApi svavikramo darSitaH .
+063.16A: te sarve mAm hantum udyatAH . tataH mayA api svavikramaH darSitaH .
+
+063.17F: yataH .
+063.17A: yataH .
+
+063.18F: anyadA BUzaRaM puMsaH kzamA lajjeva yozitaH .
+063.18A: anyadA BUzaRam puMsaH kzamA lajjeva yozitaH .
+063.18P: anyadeti -- anyadA suratavyatirikte kAle yozito lajjeva puMso'nyadA apariBave kzamA Samo BUzaRam . pariBave tu yozitaH suratezu vEyAtyaM DArzwyamiva . 'Dfzwe DfzRurviyAtaSca' ityamaraH . parAkramaH pOruzaM BUzyate'neneti BUzaRamABaraRam . iti SiSupAlavaDe mallinATaH . yaH AtmanaH parezAM SatrURAM ca balAbalaM sAmarTyAsAmarTyaM samIkzya samyak paryAlocya antaraM na jAnAti AtmanaH balaM kiyat SatrURAM balaM kiyad iti na vicArayati sa SatruBiH pariBUyate .
+
+063.19F: parAkramaH pariBave vEyAtyaM suratezviva .. 7..
+063.19A: parAkramaH pariBave vEyAtyam suratezu iva .. 7..
+
+063.20F: rAjA vihasyAha --
+063.20A: rAjA vihasya Aha --
+
+063.21F: AtmanaSca parezAM ca yaH samIkzya balAbalam .
+063.21A: AtmanaH ca parezAm ca yaH samIkzya balAbalam .
+
+063.22F: antaraM nEva jAnAti sa tiraskriyate'riBiH .. 8..
+063.22A: antaram na eva jAnAti saH tiraskriyate ariBiH .. 8..
+
+063.23F: anyacca . suciraM hi carannityaM kzetre sasyam abudDimAn .
+063.23A: anyat ca . suciram hi caran nityam kzetre sasyam abudDimAn .
+063.23P: sasyam -- kzetragataM DAnyam . taduktam 'sasyaM kzetragataM proktuM satuzaM DAnyamucyate . nistuzastaRqulaH proktaH svinnamannamudAhftam .' iti .
+
+063.24F: dvIpicarmaparicCanno vAgdozAdgardaBo hataH .. 9..
+063.24A: dvIpicarmaparicCannaH vAk dozAt gardaBaH hataH .. 9..
+063.24P: dvIpicarmaparicCannaH -- vyAGracarmaRAcCAditaH . 'SArdUladvIpinO vyAGre' ityamaraH .
+063.24P+: vAgdozAt vAcaH dozAdrawanAparADAt .
+
+063.25F: bakaH pfcCati -- kaTametat .
+063.25A: bakaH pfcCati -- kaTam etat .
+
+063.26F: rAjA kaTayati --
+063.26A: rAjA kaTayati --
+
+063.27F: .. kaTA 2 ..
+063.27A: .. kaTA 2 ..
+
+063.28F: asti hastinApure vilAso nAma rajakaH . tasya gardaBo'tivAhanAd
+063.28A: asti hastinApure vilAsaH nAma rajakaH . tasya gardaBaH ativAhanAt
+063.28P: ativAhanAt -- guruBAravahanaSramAt .
+
+063.29F: durbalo mumUrzurivABavat . tatastena rajakenAsO vyAGracarmaRA
+063.29A: durbalaH mumUrzuH iva aBavat . tataH tena rajakena asO vyAGracarmaRA
+063.29P: mumUrzuH AsannamftyuH .
+
+063.30F: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH . tato dUrAt
+063.30A: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH . tataH dUrAt
+
+063.31F: tamavalokya vyAGrabudDyA kzetrapatayaH satvaraM palAyante .
+063.31A: tam avalokya vyAGrabudDyA kzetrapatayaH satvaram palAyante .
+063.31P: vyAGrabudDyA -- vyAGroyamiti matvA .
+

@@ -1,0 +1,112 @@
+056.01F: tadavaSyaM samArabDaM mahatA prayatnena sampAdanIyam . kiM ca .
+056.01A: tat avaSyam samArabDam mahatA prayatnena sampAdanIyam . kim ca .
+056.01P: sampAdanIyam -- nirvartanIyaM , samAptiM netavyam .
+
+056.02F: mantro yoDa ivADIraH sarvANgEH saMvftErapi .
+056.02A: mantraH yoDaH iva aDIraH sarvANgEH saMvftEH api .
+056.02P: saMvftEH suguptEH kavacAcCAditESca .
+
+056.03F: ciraM na sahate sTAtuM pareByo BedaSaNkayA .. 145..
+056.03A: ciram na sahate sTAtum pareByaH BedaSaNkayA .. 145..
+056.03P: BedaSaNkayA -- prakASaSaNkayA vidAraRaSaNkayA ca .
+
+056.04F: yadyasO dfzwadozo'pi dozAnnivartya saMDAtavyastad atIvAnucitam .
+056.04A: yadi asO dfzwadozaH api dozAn nivartya saMDAtavyaH tat atIva anucitam .
+
+056.05F: yataH .
+056.05A: yataH .
+
+056.06F: sakfdduzwaM tu yo mitraM punaH saMDAtumicCati .
+056.06A: sakft duzwam tu yaH mitram punaH saMDAtum icCati .
+
+; Kale scan has missing data in this and next 3 lines. 
+056.07F: sa mftyumeva gfhRAti garBamaSvatarI yaTA .. 146..
+056.07A: saH mftyum eva gfhRAti garBam aSvatarI yaTA .. 146..
+056.07P: garBamaSvatarI yaTA -- yaTA aSvatarI gardaBajA aSvA garBaM mftyumeva gfhRAti garBarUpaM mftyumevodare vahati ityarTaH . sA hi garBamocanasamaye udaraBedAnmriyate iti prasidDiH . taTA hi mahABAratam -- 'daRqanopanataM SatrumanugfhRAti yo naraH . sa mftyumupagfhRAti garBamaSvatarI yaTA ' . rAmAyaRaM ca -- 'udarasya samutTAne svagarBoSvatarImiva ' [hanti] <ab n="ityAdi">i</ab> .
+
+; Not sure of word after 'kartum'
+056.08F: siMho brUte -- jYAyatAM tAvatkimasmAkamasO kartuM ?? . damanaka Aha -- deva .
+056.08A: siMhaH brUte -- jYAyatAm tAvat kim asmAkam asO kartum ?? . damanakaH Aha -- deva .
+; Sampada: 'asmakam'?  [Jim: print shows 'asmAkam' - now corrected]
+
+056.09F: aNgANgiBAvamajYAtvA kaTaM sAmarTyanirRayaH .
+056.09A: aNgANgiBAvam ajYAtvA kaTam sAmarTyanirRayaH .
+056.09P: aNgANgiBAvam -- nyUnADikatAM , praDAnApraDAnatAm .
+
+056.10F: paSya wiwwiBamAtreRa samudro vyAkulIkftaH .. 147..
+056.10A: paSya wiwwiBamAtreRa samudraH vyAkulIkftaH .. 147..
+
+056.11F: siMhaH pfcCati -- kaTametat .
+056.11A: siMhaH pfcCati -- kaTam etat .
+
+056.12F: damanakaH kaTayati --
+056.12A: damanakaH kaTayati --
+
+056.13F: .. kaTA 9 ..
+056.13A: .. kaTA 9 ..
+
+056.14F: dakziRasamudratIre wiwwiBadampatI nivasataH .
+056.14A: dakziRasamudratIre wiwwiBadampatI nivasataH .
+
+056.15F: tatra cAsannaprasavA wiwwiBI BartAramAha -- 
+056.15A: tatra ca AsannaprasavAH wiwwiBI BartAram Aha --
+056.15P: AsannaprasavAH -- AsannaH prasavaH prasUtikAlaH yasyAH sA .
+
+056.16F: nATa prasavayogyasTAnaM niBftamanusaMDIyatAm .
+056.16A: nATa prasavayogyasTAnam niBftam anusaMDIyatAm .
+056.16P: niBftaM -- dfzweragocaram .
+056.16P+: anusaMDIyatAM -- nirUpyatAM , anvizyatAm .
+
+056.17F: wiwwiBo'vadat -- BArye nanvidameva sTAnaM prasUtiyogyam .
+056.17A: wiwwiBaH avadat -- BArye nanu idam eva sTAnam prasUtiyogyam .
+
+056.18F: sA brUte -- samudravelayA plAyate sTAnametat .
+056.18A: sA brUte -- samudravelayA plAyate sTAnam etat .
+
+056.19F: wiwwiBo'vadat -- kimahaM nirbalaH tena svagfhAvasTitaH samudreRa nigrahItavyaH .
+056.19A: wiwwiBaH avadat -- kim aham nirbalaH tena svagfhAvasTitaH samudreRa nigrahItavyaH .
+056.19P: nigrahItavyaH -- aRqApahArarUpanigraheRa avajYAtavyaH .
+
+056.20F: wiwwiBI vihasyAha -- svAmin tvayA samudreRa ca mahadantaram . aTavA .
+056.20A: wiwwiBI vihasya Aha -- svAmin tvayA samudreRa ca mahat antaram . aTavA .
+
+056.21F: duHKamAtmA paricCettumevaM yogyo na veti vA .
+056.21A: duHKam AtmA paricCettum evam yogyaH na veti vA .
+056.21P: duHKamiti -- AtmA svayaM yogyaH karmaRi Sakto na veti paricCettuM niScayena jYAtuM duHKaM kazwameva . sahasAtmano yogyAyogyatA na jYAyate ityarTaH . 
+
+056.22F: astIwwagyasya vijYAnaM sa kfcCreRpi na sIdati .. 148..
+056.22A: astIwwagyasya vijYAnam sa kfcCreRa api na sIdati .. 148..
+; Sampada: some typo in this sentence? What is 'astIwwagyasya'?
+056.22P: na sIdati na viDuro Bavati , nASaM nEtIti vA .
+
+056.23F: api ca . anucitakAryAramBaH svajanaviroDo balIyasA sparDA .
+056.23A: api ca . anucitakAryAramBaH svajanaviroDaH balIyasA sparDA .
+
+056.24F: pramadAjanaviSvAso mftyordvArARi catvAri .. 149..
+056.24A: pramadAjanaviSvAsaH mftyoH dvArARi catvAri .. 149..
+
+056.25F: tataH kfcCreRa svAmivacanAttatrEva prasUtA sA . etatsarvaM
+056.25A: tataH kfcCreRa svAmivacanAt tatra eva prasUtA sA . etat sarvam
+
+056.26F: SrutvA samudreRApi tacCaktijYAnArTaM tadaRqAnyapahftAni .
+056.26A: SrutvA samudreRa api tat SaktijYAnArTam tadaRqAnyapahftAni .
+
+056.27F: tata wiwwiBI SokArtA
+056.27A: tataH wiwwiBI SokArtA
+
+056.28F: BartAramAha -- nATa kazwamApatitam . tAnyaRqAni me nazwAni .
+056.28A: BartAram Aha -- nATa kazwam Apatitam . tAni aRqAni me nazwAni .
+
+056.29F: wiwwiBo'vadat -- priye mA BEzIH . ityuktvA pakziRAM melakaM
+056.29A: wiwwiBaH avadat -- priye mA BEzIH . iti uktvA pakziRAm melakam
+056.29P: melakam -- saBAm .
+
+056.30F: kftvA pakzisvAmino garuqasya samIpaM gataH . tatra gatvA
+056.30A: kftvA pakzisvAminaH garuqasya samIpam gataH . tatra gatvA
+
+056.31F: sakalavfttAntaH wiwwiBena Bagavato garuqasya purato niveditaH --
+056.31A: sakalavfttAntaH wiwwiBena BagavataH garuqasya purataH niveditaH --
+
+056.32F: deva
+056.32A: deva
+
