@@ -68,18 +68,18 @@
 ;001.04PA: jAhnavIPenaleKA iva -- jahnoH apatyam strI jAhnavI tasyAH Penasya leKA .
 001.04P: yanmUrDni -- yasya mUrDA yanmUrDA tasmin .
 
-001.03-04E: May success attend the good in their undertakings (in the object they wish to accomplish ) by the favour of that Dhurjati, on whose head there is a digit of the moon looking like a streak of the foam of the Ganges.
+001.03-04E: May success attend the good in their undertakings (in the object they wish to accomplish) by the favour of that Dhurjati, on whose head there is a digit of the moon looking like a streak of the foam of the Ganges.
 
 001.05F: Sruto hitopadeSo'yaM pAwavaM saMskftoktizu .
 001.05A: SrutaH hitopadeSaH ayam pAwavam saMskftoktizu .
 001.05P: SrutaH samyagaDItaH ityarTaH .
-001.05P: SrutaH samyak aDItaH iti arTaH .
-001.05P+: pAwavaM -- pawoH BAvaH .
+;001.05PA: SrutaH samyak aDItaH iti arTaH .
+001.05P: pAwavaM -- pawoH BAvaH .
 
 001.06F: vAcAM sarvatra vEcitryaM nItividyAM dadAti ca .. 2..
 001.06A: vAcAm sarvatra vEcitryam nItividyAm dadAti ca .. 2..
 001.06P: vEcitryam -- vicitrasya BAvaH .
-001.06P+: nItividyAm -- nItiSAstrajYAnam .
+001.06P: nItividyAm -- nItiSAstrajYAnam .
 
 001.05-06E: This Hitopadesa (the work inculcating salutary instruction) when studied (lit., carefully attended to) gives (the student) proficiency in elegant speeches, a variety of expression in every department and a knowledge of the conduct of human affairs.
 
@@ -139,11 +139,12 @@
 001.17F: yannave BAjane lagnaH saMskAro nAnyaTA Bavet .
 001.17A: yad nave BAjane lagnaH saMskAraH na anyaTA Bavet .
 001.17P: yaTA nave BAjane AmaBAjane ityarTaH .
+; pracyAvayitum, pramArzwum ? inf. of what?  causal infinitives of pracyu
 001.17P+: lagnaH saMskAraH anyaTA na Bavet svasTAnAtpracyAvayituM pramArzwuM vA na Sakyate
 
 001.18F: kaTAcCalena bAlAnAM nItistadiha kaTyate .. 8..
 001.18A: kaTAcCalena bAlAnAm nItiH tad iha kaTyate .. 8..
-001.18P: taTA bAlA api nItimaDyApitAScetsA tezAM cetasi dfQaM padaM kuryAditi hetoH sA kaTAmizeRa bAlAnAmiha kaTyate .
+001.18P: taTA bAlA api nItimaDyApitAScetsA tezAM cetasi dfQaM padaM kuryAditi hetoH sA kaTAmizeRa bAlAnAmiha kaTyate  .
 ;001.18PA: taTA bAlAH api nItim aDyApitAH cet sA tezAm cetasi dfQam padam kuryAt iti hetoH sA kaTAmizeRa bAlAnAm iha kaTyate .
 
 001.17-18E: As an impression made upon a raw (earthen or so) pot can undergo no change afterwards -- so (following the same principle) in this work the science of conduct (or policy) is taught to youths under the guise of stories.
@@ -200,7 +201,7 @@
 002.11A: kaH arTaH putreRa jAtena yaH na vidvAn na DArmikaH .
 
 002.12F: kARena cakzuzA kiMvA cakzuHpIqEva kevalam .. 12..
-002.12A: kARena cakzuzA kim vA cakzuH pIqA eva kevalam .. 12..
+002.12A: kARena cakzuzA kim vA cakzuHpIqA eva kevalam .. 12..
 
 002.11-12E: What is the good of (what benefit can accrue from) having a son who is neither learned nor pious (dutiful); (for) what is the use of an eye that is blind? It simply causes occular pain.
 
