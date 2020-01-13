@@ -48,6 +48,7 @@
 ; second line has the verse number at the end (form .. VVV .. ; sometimes the space between
 ; V and ending '..' is missing).
 ; PA :  sandhi analyzed form of marma-prakASikA
+; ° : marker for undisplayed text.
 ; ---------------------------------------------------------------------------
 
 001.01F: .. hitopadeSaH ..
@@ -400,7 +401,7 @@
 
 003.28F: yatne kfte yadi na siDyati ko'tra dozaH .. 31..
 003.28A: yatne kfte yadi na siDyati kaH atra dozaH .. 31..
-003.28P: yatne kfte, i -- yatne kfte api yadi kAryaM na sidDyati tarhi atra asmin vizaye kartuH kaH dozaH na kaScidapi .
+003.28P: yatne kfte, i° -- yatne kfte api yadi kAryaM na sidDyati tarhi atra asmin vizaye kartuH kaH dozaH na kaScidapi .
 003.28P+: yadvA yatne kfte yadi kAryaM na sidDyati tarhi atra ko me dozaH iti kartrA vicAraRA kAryA . kAryasidDeH udyamAyattatvAt kAryavipatteSca dozaM vinA asaMBavAt .
 
 003.27-28E: Dismissing all idea about (lit., killing) fate, put forth manly efforts depending upon your own strength; and if, after an exertion is made, success attend not, where is the blame (i.e., you are not to blame; or, find out where the fault lay)?
@@ -482,8 +483,8 @@
 004.17F: mUrKo'pi SoBate tAvatsaBAyAM vastravezwitaH .
 004.17A: mUrKaH api SoBate tAvat saBAyAm vastravezwitaH .
 
-004.18F: tavacca Sobate mUrKo yAvatkiMcinna BAzate .. 40 ..
-004.18A: tavat ca Sobate mUrKaH yAvat kim cid na BAzate .. 40 ..
+004.18F: tAvacca Sobate mUrKo yAvatkiMcinna BAzate .. 40 ..
+004.18A: tAvat ca Sobate mUrKaH yAvat kim cid na BAzate .. 40 ..
 
 004.17-18E: Even a fool, dressed in fine garments, shines in an assembly; but he shines only so long as he does not open his lips.
 
@@ -558,7 +559,7 @@
 005.04F: aSmApi yAti devatvaM mahadBiH supratizWitaH .. 45..
 005.04A: aSmA api yAti devatvam mahadBiH supratizWitaH .. 45..
 
-005.03-04E: Even an insect ascends the head of the good by being in contact with flowers; a stone also attains divinity when well consecrated by the great. Moreover,
+005.03-04E: Even an insect ascends the head of the good by being in contact with flowers; a stone also attains divinity when well consecrated by the great. 
 
 005.05F: anyacca . yaTodayagirerdravyaM saMnikarzeRa dIpyate .
 005.05A: anyat ca . yaTA udayagireH dravyam saMnikarzeRa dIpyate .
@@ -566,7 +567,7 @@
 005.06F: taTA tatsaMniDAnena hInavarRo'pi dIpyate .. 46..
 005.06A: taTA tatsaMniDAnena hInavarRaH api dIpyate .. 46..
 
-005.05-06E: As objects on the rising mountain appear bright by the near presence of the sun, so a person of humble rank too shines by being in the company of the good.
+005.05-06E: Moreover, As objects on the rising mountain appear bright by the near presence of the sun, so a person of humble rank too shines by being in the company of the good.
 
 005.07F: guRA guRajYezu guRA Bavanti te nirguRaM prApya Bavanti dozAH .
 005.07A: guRAH guRajYezu guRAH Bavanti te nirguRam prApya Bavanti dozAH .
@@ -581,11 +582,12 @@
 005.07-08E: Merits pass as merits with those who know how to appreciate them: coming in contact with one devoid of merits they are turned into faults. Rivers, as they rise, have their water sweet, but on reaching the sea they cease to be drinkable.
 
 005.09F: tadetezAmasmatputrARAM nItiSAstropadeSAya BavantaH pramARam . ityuktvA tasya
+; grammatical form of BavantaH ?
 005.09A: tad etezAm asmatputrARAm nItiSAstropadeSAya BavantaH pramARam . iti uktvA tasya
 
 005.10F: vizRuSarmaRo bahumAnapuraHsaraM putrAnsamarpitavAn .
 005.10A: vizRuSarmaRaH bahumAnapuraHsaram putrAn samarpitavAn .
-005.10P: bahumAnapuraHsaraM -- bahumAnaH puraH saraH yasminkarmaRi tadyaTa taTA . avya .
+005.10P: bahumAnapuraHsaraM -- bahumAnaH puraH saraH yasminkarmaRi tadyaTa taTA . avya° .
 
 005.09-10E: I, therefore, give you Carte blanche as regards giving instruction to my sons in the science of conduct. Having said so the king entrusted his sons to Vishnusharman with great respect.
 
@@ -595,7 +597,7 @@
 005.12F:  .. mitralABaH ..
 005.12A: .. mitralABaH ..
 
-005.11-12E: Thus, the introduction
+005.11-12E: Thus, the introduction. Obtaining Friends.
 
 005.13F: aTa prAsAdapfzWe suKopavizwAnAM rAjaputrARAM purastAt prastAvakrameRa paRqito'bravIt --
 005.13A: aTa prAsAdapfzWe suKopavizwAnAm rAjaputrARAm purastAt prastAvakrameRa paRqitaH abravIt --
@@ -605,7 +607,7 @@
 
 005.14F: kAvyaSAstravinodena kAlo gacCati DImatAm .
 005.14A: kAvyaSAstravinodena kAlaH gacCati DImatAm .
-005.14P: tat -- DImantaH kAvyaSAstradipaWanena AtmAnaM vinodayantaH kAlaM yApayanti . Bavantopi DImanta eva iti hetoH .
+005.14P: tat -- DImantaH kAvyaSAstrAdipaWanena AtmAnaM vinodayantaH kAlaM yApayanti . Bavantopi DImanta eva iti hetoH .
 
 005.15F: vyasanena tu mUrKARAM nidrayA kalahena vA .. 1..
 005.15A: vyasanena tu mUrKARAm nidrayA kalahena vA .. 1..
@@ -635,29 +637,31 @@
 
 005.20-20E: The princes asked "How was this ?" Vishnusharma related --
 
-005.21F: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAdAgatya rAtrO
-005.21A: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAt Agatya rAtrO
-
-005.22F: pakziRo nivasanti . aTa kadAcid avasannAyAM rAtrAvastAcalacUqAvalambini Bagavati
-; line break Baga-vati
-005.22A: pakziRaH nivasanti . aTa kadA cid avasannAyAm rAtrO astAcalacUqAvalambini Bagavati
+005.21F: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAdAgatya rAtrO pakziRo nivasanti . 
+005.21A: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAt Agatya rAtrO pakziRaH nivasanti . 
+005.21-21E: There is, on the bank of the Godavari, a large silk-cotton tree. There, coming from regions in different quarters, birds were wont to roost at night. 
 
 ; Kale typo kamudi -> kumudi
-005.23F: kumudinInAyake caMdramasi laGupatananAmA vAyasaH prabudDaH kftAntamiva
-005.23A: kumudinInAyake caMdramasi laGupatananAmA vAyasaH prabudDaH kftAntam iva
-005.23P: kumudinI -- kumudinyA nAyakaH candraH tasmin .
+; line break Baga-vati
+005.22F: aTa kadAcid avasannAyAM rAtrAvastAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi 
+005.22A: aTa kadA cid avasannAyAm rAtrO astAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi 
+005.22P: kumudinI -- kumudinyA nAyakaH candraH tasmin .
 
 ; KALE dvitIyamAyAntaM  =? dvitIyam AyAntam,  participle AyA   coming
 ; KALE vyADam   =  piercer, hunter
-005.24F: dvitIyamAyAntaM vyADamapaSyat . tamAlokyAcintayat -- adya prAtarevAnizwadarSanaM jAtam . na
+005.23F: laGupatananAmA vAyasaH prabudDaH kftAntamiva dvitIyamAyAntaM vyADamapaSyat . 
+005.23A: laGupatananAmA vAyasaH prabudDaH kftAntam iva  dvitIyam AyAntam vyADam apaSyat . 
+005.22-23E: Once, when the night was almost spent, and the divine Moon, lord of the night-lotus, was pending on the crest of the setting mountain, a crow, Laghupatanaka (Swift-flier) by name, who was awake, saw a fowler advancing like a second god of death.
+
+005.24F: tamAlokyAcintayat -- adya prAtarevAnizwadarSanaM jAtam . na
 ; AyAntam:  prap of A-yA  (m. sing. acc.)   ??
-005.24A: dvitIyam AyAntam vyADam apaSyat . tam Alokya acintayat -- adya prAtar eva anizwadarSanam jAtam . na
+005.24A:tam Alokya acintayat -- adya prAtar eva anizwadarSanam jAtam . na
 
 005.25F: jAne kimanaBimataM darSayizyati . ityuktvA tadanusaraRakrameRa vyAkulaScalati . yataH .
-005.25A: jAne kim anaBimatam darSayizyati . iti uktvA tad anusaraRakrameRa vyAkulaH calati . yataH .
+005.25A: jAne kim anaBimatam darSayizyati . iti uktvA tadanusaraRakrameRa vyAkulaH calati . yataH .
 005.25P: anusaraRakrameRa -- vyADAnusaraRakrameRa .
 
-005.21-25E: There is, on the bank of the Godavari, a large silk-cotton tree. There, coming from regions in different quarters, birds were wont to roost at night. Once, when the night was almost spent, and the divine Moon, lord of the night-lotus, was pending on the crest of the setting mountain, a crow, Laghupatanaka (Swift-flier) by name, who was awake, saw a fowler advancing like a second god of death. Seeing him he reflected "To-day I have had an unwelcome sight in the early morning. I know not what evil it forebodes." Saying so he set out, much disturbed at heart, following up his (the fowler's) course. For,
+005.24-25E: Seeing him he reflected "To-day I have had an unwelcome sight in the early morning. I know not what evil it forebodes." Saying so he set out, much disturbed at heart, following up his (the fowler's) course. For,
 
 005.26F: SokasTAnasahasrARi BayasTAnaSatAni ca .
 005.26A: SokasTAnasahasrARi BayasTAnaSatAni ca .
@@ -673,9 +677,9 @@
 
 006.01-01E: Moreover, worldly people must do this --
 
-006.02F: utTAyotTAya bodDavyaM kimadya sukftaM kftam .
+006.02F: utTAyotTAya bodDavyaM mahadBayamupasTitam .
 ;Sampada, utTAya utTAya...  MW. utTAyotTAya "every time one rises (from one's bed)"
-006.02A: utTAyotTAya bodDavyam  mahadBayam upasTitam.
+006.02A: utTAyotTAya bodDavyam mahadBayam upasTitam .
 006.02P: utTAyotTAyeti -- pratidinaM prabuDya mahadBayaM upasTitaM iti bodDavyaM .
 
 006.03F: maraRavyADiSokAnAM kimadya nipatizyati .. 4..
@@ -687,29 +691,31 @@
 006.04F: aTa tena vyADena
 006.04A: aTa tena vyADena
 
-006.05F: taRqulakaRAnvikIrya jAlaM vistIrRam . sa ca pracCanno
-006.05A: taRqulakaRAn vikIrya jAlam vistIrRam . saH ca  pracCannaH
+006.05F: taRqulakaRAnvikIrya jAlaM vistIrRam . sa ca pracCanno BUtvA sTitaH . 
+006.05A: taRqulakaRAn vikIrya jAlam vistIrRam . saH ca pracCannaH BUtvA sTitaH . 
+006.04-05E: Now the hunter, having scattered the grains of rice, spread out his net, and himself remained concealed. 
 
-; 06-04-2018
-006.06F: BUtvA sTitaH . tasminneva kAle citragrIvanAmA kapotarAjaH
-006.06A: BUtvA sTitaH . tasmin eva kAle citragrIvanAmA kapotarAjaH
+006.06F: tasminneva kAle citragrIvanAmA kapotarAjaH
+006.06A: tasmin eva kAle citragrIvanAmA kapotarAjaH
 006.06P: kapotarAjaH -- kapotAnAM rAjA .
 
-; visarpa... Kale typo?
-006.07F: saparivAro viyati visarpaMstaRqulakaRAnavalokayAmAsa . tataH
-006.07A: saparivAraH viyati visarpan taRqulakaRAn avalokayAmAsa . tataH
+; viyati Gram. ?
+006.07F: saparivAro viyati visarpaMstaRqulakaRAnavalokayAmAsa . 
+006.07A: saparivAraH viyati visarpan taRqulakaRAn avalokayAmAsa . 
+006.06-07E: Just at that time a king of pigeons, Chitragriva (the Speckle-necked) by name, who was sailing in the sky with his retinue, noticed the grains of rice. 
 
-006.08F: kapotarAjastaRqulakaRalubDAnkapotAn pratyAha -- kuto'tra nirjane
-006.08A: kapotarAjaH taRqulakaRalubDAn kapotAn pratyAha -- kutaH atra nirjane
+006.08F: tataH kapotarAjastaRqulakaRalubDAnkapotAn pratyAha -- kuto'tra nirjane
+006.08A: tataH kapotarAjaH taRqulakaRalubDAn kapotAn pratyAha -- kutaH atra nirjane
 006.08P: rAjAhaHsaKiByazwac iti wac pratyayaH .
 
 006.09F: vane taRqulakaRAnAM samBavaH . tan nirUpyatAM tAvat . BadramidaM na
 006.09A: vane taRqulakaRAnAm samBavaH . tad nirUpyatAm tAvat . Badram idam na
 
 006.10F: paSyAmi . prAyeRAnena taRqulakaRaloBenAsmABirapi taTA Bavitavyam .
+; api taTA: Kale has api iTA (probable typo)
 006.10A: paSyAmi . prAyeRa anena taRqulakaRaloBena asmABiH api taTA Bavitavyam .
 
-006.04-10E: Now the hunter, having scattered the grains of rice, spread out his net, and himself remained concealed. Just at that time a king of pigeons, Chitragriva (the Speckle-necked) by name, who was sailing in the sky with his retinue, noticed the grains of rice. Then the pigeon-king said to the pigeons that were attracted by the grains of rice -- Whence can there be the possibility of rice-grains being found in this lonely (tenantless) forest? So let the matter be first carefully examined. I do not see any good will come out of this.
+006.08-10E: Then the pigeon-king said to the pigeons that were attracted by the grains of rice -- Whence can there be the possibility of rice-grains being found in this lonely (tenantless) forest? So let the matter be first carefully examined. I do not see any good will come out of this. Probably by this our desire for the rice-grains, we shall fare similarly (meet with a fate similar) to that of --
 
 006.11F: kaNkaRasya tu loBena magnaH paNke sudustare .
 006.11A: kaNkaRasya tu loBena magnaH paNke sudustare .
@@ -721,6 +727,7 @@
 006.11-12E: The traveller, who through the lust of a bracelet, sank in deep mire and being caught by an old tiger, lost his life.
 
 006.13F: kapotA UcuH -- kaTametat . so'bravIt --
+; saH = citragrIvaH kapotarAjA
 006.13A: kapotAH UcuH -- kaTam etat . saH abravIt --
 
 006.14F: .. kaTA 1 ..
@@ -731,12 +738,13 @@
 006.15F: ahamekadA dakziRAraRye carannapaSyam .
 006.15A: aham ekadA dakziRAraRye caran apaSyam .
 
-006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre
-006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre
+006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre brUte -- 
+006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre brUte 
+001.15-16E:Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) --
 
-006.17F: brUte -- Bo BoH panTAH  idaM suvarRakaNkaRaM gfhyatAm .
+006.17F: Bo BoH panTAH  idaM suvarRakaNkaRaM gfhyatAm .
 ; pAnTAH   (traveler) cf. mw 'paTin'
-006.17A: brUte BoH BoH panTAH idam suvarRakaNkaRam gfhyatAm .
+006.17A: BoH BoH panTAH idam suvarRakaNkaRam gfhyatAm .
 
 006.18F: tato loBAkfzwena kenacit pAnTenAlocitam -- BAgyenEtat samBavati .
 006.18A: tataH loBAkfzwena kena cid pAnTena Alocitam -- BAgyena etat samBavati .
@@ -744,7 +752,7 @@
 006.19F: kiM tvasminnAtmasaMdehe pravfttirna viDeyA . yataH .
 006.19A: kim tu asmin AtmasaMdehe pravfttiH na viDeyA . yataH .
 
-006.15-19E: Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) -- "Ho, ho, travellers, take this gold bracelet." Then a certain traveller, attracted by greed, thought to himself -- This happens by good luck. But I must not proceed in a matter where there is personal risk. For,
+006.15-19E: "Ho, ho, travellers, take this gold bracelet." Then a certain traveller, attracted by greed, thought to himself -- This happens by good luck. But I must not proceed in a matter where there is personal risk. For,
 
 006.20F: anizwAdizwalABe'pi na gatirjAyate SuBA .
 006.20A: anizwAt izwalABe api na gatiH jAyate SuBA .
@@ -780,6 +788,7 @@
 006.27A: darSayati . pAnTaH avadat -- kaTam mArAtmake tvayi viSvAsaH .
 006.27P: mArAtmake -- mArayatIti mAraH tAdfSaH AtmA svaBAvaH yasya . hiMsake ityarTaH .
 006.27P+: AtmA kalevare yAne svaBAve paramAtmani . iti DaraRiH.
+006.25-27E: Let me therefore carefully see it. He said aloud -- "Where is thy bracelet?" The tiger stretched forth bis paw and showed it. The traveller said - How am I to trust thee who art ferocious ?
 
 006.28F: vyAGra uvAca -- SfRu re pAnTa prAg eva
 006.28A: vyAGraH uvAca -- SfRu re pAnTa prAg eva
@@ -789,11 +798,12 @@
 
 006.30F: putrA mftA dArASca . vaMSahInaScAham .
 006.30A: putrAH mftAH dArAH ca . vaMSahInaH ca aham .
-006.30P: DarmikeRa -- DarmaM aDIte caratIti vA DArmikaH .
+006.28-30E: The tiger replied -- Listen, O traveller. Formerly, indeed, in the days of youth, I was extremely wicked. On account of my slaughter of many a cow and man, my sons and wife perished ; and I am without issue.
 
 006.31F: tataH kenacid DArmikeRAhamAdizwaH -- dAnaDarmAdikaM caratu
 ; Adika ? not MW. Presume same sense as 'Adi'
 006.31A: tataH kena cid DArmikeRa aham AdizwaH -- dAnaDarmAdikam caratu
+006.31P: DarmikeRa -- DarmaM aDIte caratIti vA DArmikaH .
 
 006.32F: BavAn . tadupadeSAdidAnImahaM snAnaSIlo dAtA vfdDo
 ; dAtA  ?
@@ -804,7 +814,7 @@
 006.33P: galita -- na KaM asya iti naKaH . nakASca dantASca naKadantaM (sa.dvaM.). galitaM naKadantaM yasya .
 006.33P+: viSvAsa -- vi. pAtram .
 
-006.25-33E: Let me therefore carefully see it. He said aloud -- "Where is thy bracelet?" The tiger stretched forth bis paw and showed it. The traveller said - How am I to trust thee who art ferocious ? The tiger replied -- Listen, O traveller. Formerly, indeed, in the days of youth, I was extremely wicked. On account of my slaughter of many a cow and man, my sons and wife perished ; and I am without issue. I was then advised by a holy man to practice charity and do such other holy deeds. Following his counsel, I am now in the habit of bathing and giving gifts ; I am old and have lost my nails and teeth ; how can I not be an object of confidence then! For,
+006.31-33E: I was then advised by a holy man to practice charity and do such other holy deeds. Following his counsel, I am now in the habit of bathing and giving gifts ; I am old and have lost my nails and teeth ; how can I not be an object of confidence then! For,
 
 007.01F: ijyADyayanadAnAni tapaH satyaM DftiH kzamA .
 007.01A: ijyA aDyayanadAnAni tapaH satyam DftiH kzamA .
@@ -833,7 +843,7 @@
 007.07F: taTApi vyAGro mAnuzaM KAdatIti lokApavAdo durnivAraH . yataH .
 007.07A: taTA api vyAGraH mAnuzam KAdati iti lokApavAdaH durnivAraH . yataH .
 
-007.05-07E: And so great is my freedom from desire, that I wish to give away, to any body whatsoever, the gold bracelet although secure in my hand. Yet the (indescriminate) talk of the people {;hitoeng008.txt} that a tiger eats men is difficult to be avoided (lit., warded off). For,
+007.05-07E: And so great is my freedom from desire, that I wish to give away, to any body whatsoever, the gold bracelet although secure in my hand. Yet the (indiscriminate) talk of the people that a tiger eats men is difficult to be avoided (lit., warded off). For,
 
 007.08F: gatAnugatiko lokaH kuwwanImupadeSinIm .
 007.08A: gatAnugatikaH lokaH kuwwanIm upadeSinIm .
@@ -841,6 +851,8 @@
 007.08P+: kuwwanI -- paranArIM puMsA yojayitrI strI .
 
 007.09F: pramARayati no Darme yaTA goGnamapi dvijam .. 10..
+; man:  (caus. mAnayati) to value highly
+; mA : (caus. mApayati) to measure ... Which is pramArayati ?
 007.09A: pramARayati no Darme yaTA goGnam api dvijam .. 10..
 
 007.08-09E: People, who are the blind followers of one another, regard not a preaching bawd as an authority in religious matters, as they do a Brahmana although (he happens to be) a cow-killer.
@@ -893,9 +905,9 @@
 007.20F: daridrAnBara kOnteya mA prayacCeSvare Danam .
 007.20A: daridrAn Bara kOnteya mA prayacCa ISvare Danam .
 
-; Kale typo? nIrujasya -> nirujasya (of the health)
-007.21F: vyADitasyOzaDaM paTyaM nirujasya kimOzaDEH .. 15..
-007.21A: vyADitasya OzaDam paTyam nirujasya kim OzaDEH .. 15..
+; Kale typo? nIrujasya -> nirujasya (of the health) no. nIruja = free from sickness (MW)
+007.21F: vyADitasyOzaDaM paTyaM nIrujasya kimOzaDEH .. 15..
+007.21A: vyADitasya OzaDam paTyam nIrujasya kim OzaDEH .. 15..
 007.21P: vyADitasya -- vyADiH asya saMjAtaH tasya .
 007.21P+: nirgatA rujA yasyAsO nIrujaH tasyOzaDEH kiM na kimapi prayojanamityarTaH . Slo. 16 -- BagavadgItA a. 17.20 .
 
@@ -912,11 +924,12 @@
 007.24F: tad atra sarasi snAtvA suvarRakaNkaRaM gfhARa .. tato yAvadasO
 007.24A: tad atra sarasi snAtvA suvarRakaNkaRam gfhARa . tataH yAvat asO
 
-007.25F: tadvacaH pratIto loBAtsaraH snAtuM praviSati tAvanmahApaNke
-007.25A: tad vacaH pratItaH loBAt saraH snAtum praviSati tAvat mahApaNke
+007.25F: tadvacaH pratIto loBAtsaraH snAtuM praviSati tAvanmahApaNke nimagnaH palAyitumakzamaH . 
+007.25A: tad vacaH pratItaH loBAt saraH snAtum praviSati tAvat mahApaNke nimagnaH palAyitum akzamaH . 
 
-007.26F: nimagnaH palAyitumakzamaH . paNke patitaM dfzwvA vyAGro'vadat --
-007.26A: nimagnaH palAyitum akzamaH . paNke patitam dfzwvA vyAGraH avadat --
+007.24-25E: Therefore, bathe in this lake and accept this gold bracelet. Thereupon, placing confidence in his words, no sooner did the traveller enter the lake for bathing than he stuck in deep mud and was unable to run away. 
+007.26F: paNke patitaM dfzwvA vyAGro'vadat --
+007.26A: paNke patitam dfzwvA vyAGraH avadat --
 
 007.27F: ahaha mahApaNke patito'si . atastvAmahamutTApayAmi . ityuktvA
 007.27A: ahaha mahApaNke patitaH asi . atas tvAm aham utTApayAmi . iti uktvA
@@ -924,7 +937,7 @@
 007.28F: SanEH SanErupagamya tena vyAGreRa DftaH sa pAnTo'cintayat --
 007.28A: SanEH SanEH upagamya tena vyAGreRa DftaH saH pAnTaH acintayat --
 
-007.24-28E: Therefore, bathe in this lake and accept this gold bracelet. Thereupon, placing confidence in his words, no sooner did the traveller enter the lake for bathing than he stuck in deep mud and was unable to run away. The tiger seeing him plunged into the mire said -- Ha, thou art fallen into deep mud. I will lift thee out of it. Saying so he approached him gently : and the traveller being seized by the tiger reflected --
+007.26-28E: The tiger seeing him plunged into the mire said -- Ha, thou art fallen into deep mud. I will lift thee out of it. Saying so he approached him gently : and the traveller being seized by the tiger reflected --
 
 007.29F: na DarmaSAstraM paWatIti kAraRaM
 007.29A: na DarmaSAstram paWati iti kAraRaM
@@ -939,7 +952,7 @@
 007.32F: yaTA prakftyA maDuraM gavAM payaH .. 17..
 007.32A: yaTA prakftyA maDuram gavAm payaH .. 17..
 
-007.29-32E: That he reads the texts of religious law or studies the Vedas, is no reason why confidence should be reposed in a villain : it is the nature that predominate in such a case : just as by nature the milk of cows is sweet.
+007.29-32E: That he reads the texts of religious law or studies the Vedas, is no reason why confidence should be reposed in a villain : it is the nature that predominates in such a case : just as by nature the milk of cows is sweet.
 
 007.33F: kiM ca
 007.33A: kim ca
@@ -952,7 +965,7 @@
 007.35A: durBagABaraRaprAyaH jYAnam BAraH kriyAm vinA .. 18..
 007.35P: durBagA -- duHSIlApozaRavat. durBagAyAH ABaraRavat iti vA .
 
-007.33-35E: Also, the actions of those, whose senses and mind are not under control, are like the bath of an elephant;* knowledge without action is a burden, like feeding an ill-natured (lit. unlucky) woman or like ornaments on an ugly woman.
+007.33-35E: Also, the actions of those, whose senses and mind are not under control, are like the bath of an elephant [which is useless, as the animal is sure to cover his body the next moment with mud]; knowledge without action is a burden, like feeding an ill-natured (lit. unlucky) woman or like ornaments on an ugly woman.
 
 008.01F: tan mayA BadraM
 008.01A: tad mayA Badram
