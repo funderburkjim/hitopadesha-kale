@@ -971,7 +971,7 @@
 008.01A: tad mayA Badram
 
 008.02F: na kftam yadatra mArAtmake viSvAsaH kftaH . taTA hyuktam --
-008.02A: na kftam yad atra mArAtmake viSvAsaH kftaH . taTA hyuktam --
+008.02A: na kftam yad atra mArAtmake viSvAsaH kftaH . taTA hi uktam --
 
 008.01-02E: I, therefore, did not do well in that I placed confidence in this ferocious beast. For, says the precept --
 
@@ -981,7 +981,7 @@
 008.04F: viSvAso nEva kartavyaH strIzu rAjakulezu ca .. 19..
 008.04A: viSvAsaH na eva kartavyaH strIzu rAjakulezu ca .. 19..
 
-008.03-04E: Trust should never be placed in rivers, in persons having weapons in their hands, in animals armed with claws, and horns, as well as in women and royal families.**
+008.03-04E: Trust should never be placed in rivers, in persons having weapons in their hands, in animals armed with claws, and horns, as well as in women and royal families.[** As far as third favor is concerned.]
 
 008.05F: aparaM ca . sarvasya hi parIkzyante svaBAvA netare guRAH .
 008.05A: aparam ca . sarvasya hi parIkzyante svaBAvAH na itare guRAH .
@@ -990,7 +990,7 @@
 ; atItya = having surpassed
 008.06A: atItya hi guRAn sarvAn svaBAvaH mUrDni vartate .. 20..
 
-008.05-06E: Again. It is the natural disposition of every one that is tested, and not his other qualities; for having surpassed all (other) qualities, disposition stands at the head. And further,
+008.05-06E: Again. It is the natural disposition of every one that is tested, and not his other qualities; for having surpassed all (other) qualities, disposition stands at the head. 
 
 008.07F: anyacca . sa hi gaganavihArI kalmazaDvaMsakArI
 008.07A: anyat ca . saH hi gaganavihArI kalmazaDvaMsakArI
@@ -1001,6 +1001,7 @@
 ; jyotis = 'stars'
 008.08A: daSaSatakaraDArI jyotizAm maDyacArI .
 
+008:07-08E: And further. That well-known sporter in the sky, the destroyer of sin (darkness), possessor of a thousand rays (bands), and marching in the midst of the stars.
 008.09F: viDurapi viDiyogAdgrasyate rAhuRAsO
 ; viDu = 'moon' (lonely)
 008.09A: viDuH api viDiyogAt grasyate rAhuRA asO
@@ -1010,7 +1011,7 @@
 ; projJ = to abandon
 008.10A: liKitam api lalAwe projJitum kaH samarTaH .. 21..
 
-008.07-10E: That well-known sporter in the sky, the destroyer of sin (darkness), possessor of a thousand rays (bands), and marching in the midst of the stars, even he, the Moon, is devoured (eclipsed) by Rahu, by the decree of fate: who is able to efface what is written on the forehead ?
+008.09-10E: Even he, the Moon, is devoured (eclipsed) by Rahu, by the decree of fate: who is able to efface what is written on the forehead ?
 
 008.11F: iti cintayannevAsO vyAGreRa vyApAditaH
 008.11A: iti cintayan eva asO vyAGreRa vyApAditaH
@@ -1022,7 +1023,7 @@
 008.13F: ataH eva sarvaTAvicAritaM karma na kartavyam . yataH .
 008.13A: ataH eva sarvaTA vicAritam karma na kartavyam . yataH .
 
-008.11-13E: While thus musing he was killed by the tiger, and eaten.
+008.11-13E: While thus musing he was killed by the tiger, and eaten. Therefore I say "Through the lust of a bracelet &c." For this reason nothing rash should at all be done. For,
 
 008.14F: sujIrRamannaM suvicakzaRaH sutaH
 008.14A: sujIrRam annam suvicakzaRaH sutaH
@@ -1064,14 +1065,15 @@
 
 008.24F: IrzyI GfRI tvasaMtuzwaH kroDano nityaSaNkitaH .
 008.24A: IrzyI GfRI tu asaMtuzwaH kroDanaH nityaSaNkitaH
-008.24P: irzI -- parotkarzAsahizRuH .
+; kale typo in 8.24P irzyI -> IrzyI
+008.24P: IrzyI -- parotkarzAsahizRuH .
 008.24P+: GfRI -- jugupsanaSIlaH . GfRA tu syAjjugupsAyAM karuRAyAm . iti hEmaH .
-008.24P++: jupsA karuRe GfRe ityamaraH . ma.BA.u.a.33.90.
+008.24P++: jugupsA karuRe GfRe ityamaraH . ma.BA.u.a.33.90.
 
 008.25F: paraBAgyopajIvI ca zaqete duHKaBAginaH .. 25..
 008.25A: paraBAgyopajIvI ca zaq ete duHKaBAginaH .. 25..
 
-008.24-25E: One who is envious, one given to reviling, one (ever) discontented, one who is irascible and one who is always suspicious , one who lives upon another's fortune# -- these six have misery for their lot.
+008.24-25E: One who is envious, one given to reviling, one (ever) discontented, one who is irascible and one who is always suspicious , one who lives upon another's fortune -- these six have misery for their lot.
 
 008.26F: etacCrutvA sarve kapotAstatropavizwAH . yataH .
 008.26A: etad SrutvA sarve kapotAH tatra upavizwAH . yataH .
