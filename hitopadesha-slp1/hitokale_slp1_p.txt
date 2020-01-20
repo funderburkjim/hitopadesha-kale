@@ -559,7 +559,7 @@
 005.04F: aSmApi yAti devatvaM mahadBiH supratizWitaH .. 45..
 005.04A: aSmA api yAti devatvam mahadBiH supratizWitaH .. 45..
 
-005.03-04E: Even an insect ascends the head of the good by being in contact with flowers; a stone also attains divinity when well consecrated by the great. 
+005.03-04E: Even an insect ascends the head of the good by being in contact with flowers; a stone also attains divinity when well consecrated by the great.
 
 005.05F: anyacca . yaTodayagirerdravyaM saMnikarzeRa dIpyate .
 005.05A: anyat ca . yaTA udayagireH dravyam saMnikarzeRa dIpyate .
@@ -637,20 +637,20 @@
 
 005.20-20E: The princes asked "How was this ?" Vishnusharma related --
 
-005.21F: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAdAgatya rAtrO pakziRo nivasanti . 
-005.21A: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAt Agatya rAtrO pakziRaH nivasanti . 
-005.21-21E: There is, on the bank of the Godavari, a large silk-cotton tree. There, coming from regions in different quarters, birds were wont to roost at night. 
+005.21F: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAdAgatya rAtrO pakziRo nivasanti .
+005.21A: asti godAvarItIre viSAlaH SAlmalItaruH . tatra nAnAdigdeSAt Agatya rAtrO pakziRaH nivasanti .
+005.21-21E: There is, on the bank of the Godavari, a large silk-cotton tree. There, coming from regions in different quarters, birds were wont to roost at night.
 
 ; Kale typo kamudi -> kumudi
 ; line break Baga-vati
-005.22F: aTa kadAcid avasannAyAM rAtrAvastAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi 
-005.22A: aTa kadA cid avasannAyAm rAtrO astAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi 
+005.22F: aTa kadAcid avasannAyAM rAtrAvastAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi
+005.22A: aTa kadA cid avasannAyAm rAtrO astAcalacUqAvalambini Bagavati kumudinInAyake caMdramasi
 005.22P: kumudinI -- kumudinyA nAyakaH candraH tasmin .
 
 ; KALE dvitIyamAyAntaM  =? dvitIyam AyAntam,  participle AyA   coming
 ; KALE vyADam   =  piercer, hunter
-005.23F: laGupatananAmA vAyasaH prabudDaH kftAntamiva dvitIyamAyAntaM vyADamapaSyat . 
-005.23A: laGupatananAmA vAyasaH prabudDaH kftAntam iva  dvitIyam AyAntam vyADam apaSyat . 
+005.23F: laGupatananAmA vAyasaH prabudDaH kftAntamiva dvitIyamAyAntaM vyADamapaSyat .
+005.23A: laGupatananAmA vAyasaH prabudDaH kftAntam iva  dvitIyam AyAntam vyADam apaSyat .
 005.22-23E: Once, when the night was almost spent, and the divine Moon, lord of the night-lotus, was pending on the crest of the setting mountain, a crow, Laghupatanaka (Swift-flier) by name, who was awake, saw a fowler advancing like a second god of death.
 
 005.24F: tamAlokyAcintayat -- adya prAtarevAnizwadarSanaM jAtam . na
@@ -691,18 +691,18 @@
 006.04F: aTa tena vyADena
 006.04A: aTa tena vyADena
 
-006.05F: taRqulakaRAnvikIrya jAlaM vistIrRam . sa ca pracCanno BUtvA sTitaH . 
-006.05A: taRqulakaRAn vikIrya jAlam vistIrRam . saH ca pracCannaH BUtvA sTitaH . 
-006.04-05E: Now the hunter, having scattered the grains of rice, spread out his net, and himself remained concealed. 
+006.05F: taRqulakaRAnvikIrya jAlaM vistIrRam . sa ca pracCanno BUtvA sTitaH .
+006.05A: taRqulakaRAn vikIrya jAlam vistIrRam . saH ca pracCannaH BUtvA sTitaH .
+006.04-05E: Now the hunter, having scattered the grains of rice, spread out his net, and himself remained concealed.
 
 006.06F: tasminneva kAle citragrIvanAmA kapotarAjaH
 006.06A: tasmin eva kAle citragrIvanAmA kapotarAjaH
 006.06P: kapotarAjaH -- kapotAnAM rAjA .
 
 ; viyati Gram. ?
-006.07F: saparivAro viyati visarpaMstaRqulakaRAnavalokayAmAsa . 
-006.07A: saparivAraH viyati visarpan taRqulakaRAn avalokayAmAsa . 
-006.06-07E: Just at that time a king of pigeons, Chitragriva (the Speckle-necked) by name, who was sailing in the sky with his retinue, noticed the grains of rice. 
+006.07F: saparivAro viyati visarpaMstaRqulakaRAnavalokayAmAsa .
+006.07A: saparivAraH viyati visarpan taRqulakaRAn avalokayAmAsa .
+006.06-07E: Just at that time a king of pigeons, Chitragriva (the Speckle-necked) by name, who was sailing in the sky with his retinue, noticed the grains of rice.
 
 006.08F: tataH kapotarAjastaRqulakaRalubDAnkapotAn pratyAha -- kuto'tra nirjane
 006.08A: tataH kapotarAjaH taRqulakaRalubDAn kapotAn pratyAha -- kutaH atra nirjane
@@ -738,8 +738,8 @@
 006.15F: ahamekadA dakziRAraRye carannapaSyam .
 006.15A: aham ekadA dakziRAraRye caran apaSyam .
 
-006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre brUte -- 
-006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre brUte 
+006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre brUte --
+006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre brUte
 001.15-16E:Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) --
 
 006.17F: Bo BoH panTAH  idaM suvarRakaNkaRaM gfhyatAm .
@@ -924,10 +924,10 @@
 007.24F: tad atra sarasi snAtvA suvarRakaNkaRaM gfhARa .. tato yAvadasO
 007.24A: tad atra sarasi snAtvA suvarRakaNkaRam gfhARa . tataH yAvat asO
 
-007.25F: tadvacaH pratIto loBAtsaraH snAtuM praviSati tAvanmahApaNke nimagnaH palAyitumakzamaH . 
-007.25A: tad vacaH pratItaH loBAt saraH snAtum praviSati tAvat mahApaNke nimagnaH palAyitum akzamaH . 
+007.25F: tadvacaH pratIto loBAtsaraH snAtuM praviSati tAvanmahApaNke nimagnaH palAyitumakzamaH .
+007.25A: tad vacaH pratItaH loBAt saraH snAtum praviSati tAvat mahApaNke nimagnaH palAyitum akzamaH .
 
-007.24-25E: Therefore, bathe in this lake and accept this gold bracelet. Thereupon, placing confidence in his words, no sooner did the traveller enter the lake for bathing than he stuck in deep mud and was unable to run away. 
+007.24-25E: Therefore, bathe in this lake and accept this gold bracelet. Thereupon, placing confidence in his words, no sooner did the traveller enter the lake for bathing than he stuck in deep mud and was unable to run away.
 007.26F: paNke patitaM dfzwvA vyAGro'vadat --
 007.26A: paNke patitam dfzwvA vyAGraH avadat --
 
@@ -990,7 +990,7 @@
 ; atItya = having surpassed
 008.06A: atItya hi guRAn sarvAn svaBAvaH mUrDni vartate .. 20..
 
-008.05-06E: Again. It is the natural disposition of every one that is tested, and not his other qualities; for having surpassed all (other) qualities, disposition stands at the head. 
+008.05-06E: Again. It is the natural disposition of every one that is tested, and not his other qualities; for having surpassed all (other) qualities, disposition stands at the head.
 
 008.07F: anyacca . sa hi gaganavihArI kalmazaDvaMsakArI
 008.07A: anyat ca . saH hi gaganavihArI kalmazaDvaMsakArI
@@ -1199,6 +1199,7 @@
 009.18-18E: Even now let this be done. Let us all, being of one mind, fly away with the net. For,
 
 009.19F: alpAnAmapi vastUnAM saMhatiH kAryasADikA .
+; kAryasADaka in mw.  f. of sADaka is sADikA.
 009.19A: alpAnAm api vastUnAm saMhatiH kAryasADikA .
 
 009.20F: tfRErguRatvamApannErbaDyante mattadantinaH .. 35..
@@ -6158,9 +6159,12 @@
 
 046.09F: rAjAha -- KAditaM vyayitamavaDIritaM ca . pratyahameza kramaH .
 046.09A: rAjA Aha -- KAditam vyayitam avaDIritam ca . pratyaham ezaH kramaH .
+046.09P: vyayitam -- anyeByo dattam .
+046.09P+: avaDIritam -- anavekzaRena apaDvastam .
 
 046.10F: saMjIvako brUte -- kaTaM SrImaddevapAdAnAM agocareREva kriyate .
 046.10A: saMjIvakaH brUte -- kaTam SrImaddevapAdAnAm agocareRa eva kriyate .
+046.10P: agocareRa -- anivedya . anujYAmalabDvA iti yAvat .
 
 046.11F: rAjAha -- madIyAgocareREva kriyate .
 ; madIyAgocara = madIya+agocara ('not in my cow field' = without my knowledge)
@@ -6175,23 +6179,32 @@
 
 046.14F: kAryamApatpratIkArAdanyatra jagatIpateH .. 89..
 046.14A: kAryam ApatpratIkArAt anyatra jagatIpateH .. 89..
+046.14P: ApatpratIkAraM vipadAM nivAraRaM vihAya anyatra .
 
 046.15F: anyacca . kamaRqalUpamo'mAtyastanutyAgo bahugrahaH .
 ; kamaRqalUpamaH = kamaRqalu + upamaH  (like a gourd).
 046.15A: anyat ca . kamaRqalUpamaH amAtyaH tanutyAgaH bahugrahaH .
+046.15P: kamaRqalUpamaH -- kamaRqaluH upamA yasya . kamaRqaluryaTA bahUdakamantargfhRAti alpaM ca bahiryacCatyetraM kozavyavasTAyAmamAtyaH syAdityarTaH .
 
 046.16F: nfpate kiMkzaRo mUrKo daridraH kiMvarAwakaH .. 90..
 046.16A: nfpate kim kzaRaH mUrKaH daridraH kim varAwakaH .. 90..
+046.16P: kiMkzaRa -- kzaRasya kiM mahattvamiti vadatIti kiMkzaRaH . yaH kzaRasyApi bahumUlyatAM na jAnAti sa vfTAkAlakzepAt ajYa eva tizWati iti BAvaH .
+046.16P+: evaM kiMvarAwakaH . yaH varAwakasyApi bahumUlyatAM na jAnAti sa dravyApavyayAdakiMcanatAmeti .
 
 046.17F: sa hyamAtyaH sadA SreyAnkAkinIM yaH pravarDayet .
 046.17A: saH hi amAtyaH sadA SreyAn kAkinIm yaH pravarDayet .
+046.17P: kAkinI -- varAwakAnAM viMSatiH . varAwakAnAM daSakadvayaM yatsA kAkinI tASca paRaScatasraH . iti lIlAvatI .
 
 046.18F: kozaH kozavataH prARAH prARAH prARA na BUpateH .. 91..
 ; koza == koSa = treasury
 046.18A: kozaH kozavataH prARAH prARAH prARAH na BUpateH .. 91..
+046.18P: kozavataH BUpateH kozaH eva prARAH , prARAH na prARAH .
+046.18P+: 'prARopAnaH samAnaScodAnavyAnO ca vAyavaH '. iti paYca prARAH . ata eva ayaM SabdaH nityaM bahuvacanaH . ezAM sTAnAni -- 'hfdi prARo gude'pAnaH samAno nABisaMsTitaH . udAnaH kaRWadeSasTo vyAnaH sarvaSarIragaH .'
 
 046.19F: kiM cAnyErna kulAcArEH sevyatAmeti pUruzaH .
 046.19A: kim ca anyEH na kulAcArEH sevyatAm eti pUruzaH .
+046.19P: anyEH -- anyEH DanavyatiriktEH .
+046.19P+: kulAcArEH kulaDarmEH puruzaH sevyatAM nEti . naraH DanEreva sevyate ityarTaH .
 
 046.20F: DanahInaH svapatnyApi tyajyate kiM punaH parEH .. 92..
 046.20A: DanahInaH svapatnyA api tyajyate kim punaH parEH .. 92..
@@ -6201,15 +6214,21 @@
 
 046.22F: ativyayo'napekzA ca taTArjanamaDarmataH .
 046.22A: ativyayaH anapekzA ca taTA arjanam aDarmataH .
+046.22P: anapekzA -- rAjakAryARAmanavekzaRam .
 
 046.23F: mozaRaM dUrasaMsTAnaM kozavyasanamucyate .. 93..
 046.23A: mozaRam dUrasaMsTAnam kozavyasanam ucyate .. 93..
+046.23P: mozaRam -- apahAraH .
+046.23P+: dUrasaMsTAnaM -- dUre sTitiH nfpasya svarAjyAdvA SAsanIyasaMsTAnAM vA .
 
 046.24F: yataH . kzipramAyamanAlocya vyayamAnaH svavAYCayA .
 046.24A: yataH . kzipram Ayam anAlocya vyayamAnaH svavAYCayA .
+046.24P: kzipraM vyayamAnaH -- kzipraM SIGraM avicAritaM DanavyayaM kurvan .
 
 046.25F: parikzIyata evAsO DanI vESravaRopamaH .. 94..
 046.25A: parikzIyate eva asO DanI vESravaRopamaH .. 94..
+046.25P: parikzIyate ityatra SramaRAyate iti kvacitpAWaH . SramaRaH BikzukaH tadvadAcarati daridraH Bavati iti tasyArTaH .
+046.25P+: vESravaRopamaH kuberatulyaH .
 
 047.01F: stabDakarRo brUte -- SfRu BrAtaH cirASritAvetO
 ; cirASrita = cira+ASrita (long-time servants)
@@ -6218,6 +6237,7 @@
 047.02F: damanakakarawakO saMDivigrahakAryADikAriRO ca kadAcidarTADikAre na
 ; saMDivigrahakAryADikAriRO = saMDi+vigraha+(kAryADikArin)
 047.02A: damanakakarawakO saMDivigrahakAryADikAriRO ca kadA cid arTADikAre na
+047.02P: arTADikAre kozADyakzatAyAm .
 
 047.03F: niyoktavyO . aparaM ca niyogaprastAveyAtkecinmayA SrutaM tat kaTyate .
 ; niyogaprastAveyAt? niyoga+prastAva +? iyAt   OR  (Since Ave at end of line)
@@ -6228,35 +6248,45 @@
 047.04F: brAhmaRaH kzatriyo banDurnADikAre praSasyate .
 ; praSasyate  pra-SaMs  (passive): proclaim
 047.04A: brAhmaRaH kzatriyaH banDuH na aDikAre praSasyate .
+047.04P: banDuH -- pitfvyaputrAdiH .
 
 047.05F: brAhmaRaH sidDamapyarTaM kfcCreRApi na yacCati .. 95..
 047.05A: brAhmaRaH sidDam api arTam kfcCreRa api na yacCati .. 95..
+047.05P: sidDaM -- nizpannam .
+047.05P+: kfcCreRa -- kazwena .
 
 047.06F: niyuktaH kzatriyo dravye KaqgaM darSayate Druvam .
 047.06A: niyuktaH kzatriyaH dravye Kaqgam darSayate Druvam .
+047.06P: KaqgaM darSayate -- ugratAM pradarSayati . yudDAyApi niScitamatiH sahasA dravyaM na dadAti ityarTaH .
 
 047.07F: sarvasvaM grasate banDurAkramya jYAtiBAvataH .. 96..
 ; jYAtiBAvataH = jYAti+BAvatas  : in consequence of kinship
 ; Akramya : having seized
 047.07A: sarvasvam grasate banDuH Akramya jYAtiBAvataH .. 96..
+047.07P: banDuH jYAtiBAvataH ekakulajatvAdAtmanopi sarvasminsvAmyaM mAnyamAnaH iti BAvaH .
 
 047.08F: aparADe'pi niHSaNko niyogI cirasevakaH .
 047.08A: aparADe api niHSaNkaH niyogI cirasevakaH .
+047.08P: niHSaNkaH -- ciraparicitatvAditi BAvaH .
 
 047.09F: sa svAminamavajYAya carecca niravagrahaH .. 97..
 047.09A: saH svAminam avajYAya caret ca niravagrahaH .. 97..
+047.09P: niravagrahaH -- niraNkuSaH nirargalaH . svacCandAnuvartI iti yAvat .
 
 047.10F: upakartADikArasTaH svAparADaM na manyate .
 047.10A: upakartADikArasTaH svAparADam na manyate .
 
 047.11F: upakAraM DvajIkftya sarvameva vilumpati .. 98..
 047.11A: upakAram DvajIkftya sarvam eva vilumpati .. 98..
+047.11P: DvajIkftya puraskftya .
+047.11P+: vilumpati -- grasate, apaharati .
 
 047.12F: sapAMSukrIqito'mAtyaH svayaM rAjAyate yataH .
 ; rAjAyate : Nom. verb rAjAya : to act like a king
 ; sapAMSukrIqitaH 'play-friend from childhood' (Kale)
 ; pAMSu: sand
 047.12A: sapAMSukrIqitaH amAtyaH svayam rAjAyate yataH .
+047.12P: sapAMSukrIqitaH samAnAyAM pAMSO kftakrIqaH bAlyAdeva paricita ityarTaH . upAMSukrIqitaH iti pAWe rahasi krIqAsahAyaH . vayasyaBAvApanna ityarTaH .
 
 047.13F: avajYA kriyate tena sadA paricayAd Druvam .. 99..
 047.13A: avajYA kriyate tena sadA paricayAt Druvam .. 99..
@@ -6264,38 +6294,58 @@
 047.14F: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
 ; sarvAnarTakaraH = sarva + anarTa+karaH   (doing all worthless )
 047.14A: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
+047.14P: antarduzwaH aByantare pApASayaH durbudDiH .
+047.14P+: kzamAyuktaH -- bahiH kzamASIlaH .
+047.14P++: kila prasidDO . etAdfSaH amAtyaH tyAjyaH iti SezaH .
 
 047.15F: SakuniH SakawAraSca dfzwAntAvatra BUpate .. 100..
 ; dfzwAntAvatra -> dfzwAntO atra
 047.15A: SakuniH SakawAraH ca dfzwAntAvatra BUpate .. 100..
+047.15P: SakuniH -- sObalaH duryoDanasya mAtulaH .
+047.15P+: SakawAraH -- nandarAjasacivaH .
 
 047.16F: sadAyatyAmasADyaH syAtsamfdDaH sarva eva hi .
 ; sadAyatyAmasADyaH = sadA AyatyAm asADyaH
 047.16A: sadAyatyAmasADyaH syAt samfdDaH sarve eva hi .
+047.16P: AyatyAm -- uttarakAle .
+047.16P+: asADyaH anivAryaprasaraH .
 
 047.17F: sidDAnAmayamAdeSaH fdDiScittavikAriRI .. 101..
 047.17A: sidDAnAm ayam AdeSaH fdDiH cittavikAriRI .. 101..
+047.17P: fdDiH -- DanasaMpattiH .
 
 047.18F: prAptArTAgrahaRaM dravyaparIvarto'nuroDanam .
 047.18A: prAptArTAgrahaRam dravyaparIvartaH anuroDanam .
+047.18P: prAptArTAgrahaRam -- prAptasya upasTitasya arTasya rAjadravyasya agrahaRaM anAdAnam . prAptArTagrahaRamitipAWe utkocagrahaRamityarTaH .
+047.18P+: dravyaparIvartaH -- rAjadravyavinimayaH .
+047.18P++: anuroDanam -- svajanAnAmanuvartanaM izwArTasaMpAdanamiti yAvat . rAjacCandAnuvartanaM vA .
 
 047.19F: upekzA budDihInatvaM Bogo'mAtyasya dUzaRam .. 102..
 047.19A: upekzA budDihInatvam BogaH amAtyasya dUzaRam .. 102..
+047.19P: upekzA OdAsyam .
+047.19P+: BogaH -- vizayaBoge aBiniveSaH . nfpadravyasyopaBogo vA .
 
 047.20F: niyogyarTagrahopAyo rAjYAM nityaparIkzaRam .
 047.20A: niyogyarTagrahopAyaH rAjYAm nityaparIkzaRam .
+047.20P: niyogyarTa -- niyoginAM kAryADikftAnAmarTasya anyAyenopArjitadravyasya grahopAyaH grahaRopAyacintanam . taTA ca manuH -- 'ye kAryikeByo'rTameva gfhRIyuH pApacetasaH . tezAM sarvasvamAdAya rAjA kuryAtpravAsanam .' iti .
+047.20P+: nityaparIkzaRam -- niyoginaH apramattAH svaM svaM niyogamanutizWantIti vA neti parIkzaRam .
 
 047.21F: pratipattipradAnaM ca taTA karmaviparyayaH .. 103..
 047.21A: pratipattipradAnam ca taTA karmaviparyayaH .. 103..
+047.21P: pratipattipradAnam -- ye AtmanaH kAryaM sAdu nirvAhayanti teBya unnatapadadAnam .
+047.21P+: karmaviparyayaH -- niyogaparivartanam . rAjYAM ucitaM karma iti SezaH .
 
 048.01F: nApIqitA vamantyuccErantaHsAraM mahIpateH .
 048.01A: na ApIqitAH vamanti uccEH antaHsAram mahIpateH .
+048.01P: mahIpateH niyoginaH apIqitAH akleSitAH santaH uccEH antaHsAraM nigIrRaM mahAntamarTaM na vamanti udguranti .
 
 048.02F: duzwavraRA iva prAyo Bavanti hi niyoginaH .. 104..
 048.02A: duzwavraRAH iva prAyaH Bavanti hi niyoginaH .. 104..
+048.02P: duzwavraRAH tepi apIqitA amarditAH antaHsAraM pUyAdikaM na nizkAmayanti .
 
 048.03F: muhurniyoginaH bADyA vasuDArA mahIpate .
 048.03A: muhur niyoginaH bADyAH vasuDArAH mahIpate .
+048.03P: vasuDArAH -- vasUnAM DArAH santi ezAM CadmApahatamahADanAH niyoginaH mahIpateH bADyA mahIpatinA pIqanIyAH . nigIrRadravyodgiraRArTamiti SezaH . bADyA ityatra roDa iti pAWe niyoginaH roDaH vasunaH dravyasya DArA pravAha iti yojanIyam .
 
 048.04F: sakftkiM pIqitaM snAnavastraM muYcedbahUdakam.. 105..
 048.04A: sakft kim pIqitam snAnavastram muYcet bahu udakam .. 105..
@@ -6317,21 +6367,25 @@
 
 048.10F: viSezaH ko nu rAjYaSca rAjYaScitragatasya ca .. 106..
 048.10A: viSezaH kaH nu rAjYaH ca rAjYaH citragatasya ca .. 106..
+048.10P: citragatasya -- AleKye niveSitasya citrapawe liKitasya .
 
 048.11F: anyacca . stabDasya naSyati yaSo vizamasya mEtrI
 048.11A: anyat ca . stabDasya naSyati yaSaH vizamasya mEtrI
 
 048.12F: nazwendriyasya kulamarTaparasya DarmaH .
 048.12A: nazwendriyasya kulam arTaparasya DarmaH .
+048.12P: arTaparasya -- DanArjanEkarasasya , Danololupasya . sa hi DarmADarmO na gaRayatIti suprasidDam .
 
 048.13F: vidyAPalaM vyasaninaH kfpaRasya sOKyaM
 048.13A: vidyAPalam vyasaninaH kfpaRasya sOKyam
 
 048.14F: rAjyaM pramattasacivasya narADipasya .. 107..
 048.14A: rAjyam pramattasacivasya narADipasya .. 107..
+048.14P: pramattasacivasya -- pramattAH svakartavyasyopekzAkAriRaH sacivAH yasya .
 
 048.15F: viSezataSca . taskareByo niyukteByaH SatruByo nfpavallaBAt .
 048.15A: viSezataH ca . taskareByaH niyukteByaH SatruByaH nfpavallaBAt .
+048.15P: niyukteByaH aDikAriByaH . anyaTA te balavatparasvApaharaRaM kuryuH .
 
 048.16F: nfpatirnijaloBAcca prajA rakzetpiteva hi .. 108..
 048.16A: nfpatiH nijaloBAt ca prajAH rakzet pitA iva hi .. 108..
@@ -6367,6 +6421,7 @@
 048.26F: AditsuSca maRiM sADuH svadozAd duHKitA ime .. 109..
 ; sADu = merchant (Kale)
 048.26A: AditsuH ca maRim sADuH svadozAt duHKitAH ime .. 109..
+048.26P: AditsuH grahItumicCuH .
 
 048.27F: karawako brUte -- kaTametat .
 048.27A: karawakaH brUte -- kaTam etat .
@@ -6379,6 +6434,7 @@
 
 048.30F: asti kAYcanapuranAmni nagare vIravikramo rAjA . tasya DarmADikAriRA
 048.30A: asti kAYcanapuranAmni nagare vIravikramaH rAjA . tasya DarmADikAriRA
+048.30P: DarmADikAriRA -- DarmADikAre niyuktena .
 
 048.31F: kaScinnApito vaDyaBUmiM nIyamAnaH kaMdarpaketunAmnA parivrAjakena
 ; nApita = barber
@@ -6389,6 +6445,7 @@
 
 048.33F: vastrAYcale DftaH . rAjapuruzA UcuH -- kimiti nAyaM vaDyaH .
 048.33A: vastrAYcale DftaH . rAjapuruzAH UcuH -- kim iti na ayam vaDyaH .
+048.33P: vastrAYcale -- vasanaprAnte .
 
 048.34F: sa Aha -- SrUyatAm . svarRareKAmahaM spfzwvA ityAdi paWati .
 048.34A: saH Aha -- SrUyatAm . svarRareKAm aham spfzwvA ityAdi paWati .
@@ -6405,32 +6462,41 @@
 ; AvirBUtakalpatarutale = AvirBUta + kalpataru + tale
 
 049.02A: ekadA kelikAnanAvasTitena mayA potavaRiN suKAcCrutam yad atra samudramaDye caturdaSyAm AvirBUtakalpatarutale
+049.02P: kelikAnanam -- krIqodyAnam .
 
 049.03F: maRikiraRAvalIkarburaparyaNke sTitA sarvAlaMkAraBUzitA
 ; maRikiraRAvalIkarburaparyaNke = maRi + kiraRa + AvalI + karbura + paryaNke
 ; kiraRa = ray, AvalI = Avali = row, karbura = variegated, paryaNka = sofa
 ; BUzita = ppp of BUz (adorned) - not in MW
 049.03A: maRikiraRAvalIkarburaparyaNke sTitA sarvAlaMkAraBUzitA
+049.03P: maRIkiraRa -- maRInAM ratnAnAM kiraRAvalyA mayUKasaMtatyA karburaH vicitravarRaH yaH paryaNkaH maYcaH tasmin .
 
 049.04F: lakzmIriva vIRAM vAdayantI kanyA kAcid dfSyate iti .
 049.04A: lakzmIH iva vIRAm vAdayantI kanyA kA cid dfSyate iti .
 
 049.05F: tato'haM potavaRijamAdAya potamAruhya tatra gataH .
 049.05A: tataH aham potavaRijam AdAya potam Aruhya tatra gataH .
+049.05P: potavaRiNmuKAnOkAdvArA vARijyaM kurvato vaRijaH .
 
 049.06F: anantaraM tatra gatvA paryaNke'rDamagnA taTEva sAvalokitA .
 049.06A: anantaram tatra gatvA paryaNke arDamagnA taTA eva sA avalokitA .
+049.06P: arDamagnA -- arTAt jale .
+049.06P+: taTEva varRitAnurUpEva .
 
 049.07F: tatastallAvaRyaguRAkfzwena mayApi tatpaScAjJampaH dattaH .
 ; tadlAvaRyaguRAkfzwena = tad+lAvaRya+guRa+Akfzwena (by her beauty-qualities drawn)
 ; tadpaScAt = tad+paScAt (after her)
 049.07A: tatas tadlAvaRyaguRAkfzwena mayA api tadpaScAt JampaH dattaH .
+049.07P: tallAvaRya -- tasyA lAvaRyaM sOndaryaM tadeva guRaH rajjuH tena . yadvA lAvaRyasya guRAstEH AkfzwaH tena .
+049.07P+: JampaH plavaH .
+049.07P++: ahamapi sAgara AtmAnamapAtayam .
 
 049.08F: tadanantaraM kanakapattanaM prApya suvarRaprAsAde taTEva paryaNke
 049.08A: tad anantaram kanakapattanam prApya suvarRaprAsAde taTA eva paryaNke
 
 049.09F: sTitA vidyADarIBirupAsyamAnA mayAlokitA . taTApyahaM dUrAdeva
 049.09A: sTitA vidyADarIBiH upAsyamAnA mayA AlokitA . taTA api aham dUrAt eva
+049.09P: upAsyamAnA sevyamAnA .
 
 049.10F: dfzwvA saKIM prasTApya sAdaraM saMBAzitaH . tasaKyA
 ; tasaKyA = ta(d)+saKyA = (by) her friend
@@ -6441,12 +6507,14 @@
 
 049.12F: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
 049.12A: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
+049.12P: vidyADaracakravartinaH vidyADarasArvaBOmasya .
 
 049.13F: yaH kanakapattanaM svacakzuzAgatya paSyati  sa eva
 049.13A: yaH kanakapattanam svacakzuzAgatya paSyati saH eva
 
 049.14F: pituragocare'pi mAM pariRezyatIti .
 049.14A: pituH agocare api mAm pariRezyati iti .
+049.14P: pituragocarepi pituranujYAmantareRApi .
 
 049.15F: ezo'syA manasaH saMkalpaH . tadenAM gAnDarvavivAhena pariRayatu BavAn .
 049.15A: ezaH asyAH manasaH saMkalpaH . tad enAm gAnDarvavivAhena pariRayatu BavAn .
@@ -6471,12 +6539,14 @@
 
 049.22F: aTa duHKito'haM parivrajitaH pfTivIM pariBrAmyannimAM
 049.22A: aTa duHKitaH aham parivrajitaH pfTivIm pariBrAmyan imAm
+049.22P: parivrajitaH -- pravrajyAM gfhItavAn .
 
 049.23F: nagarImanuprAptaH . atra cAtikrAnte divase gopagfhe suptaH
 049.23A: nagarIm anuprAptaH . atra ca atikrAnte divase gopagfhe suptaH
 
 049.24F: sannapaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
 049.24A: san apaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
+049.24P: ApAnakaM surApAnasTAnam .
 
 049.25F: gopaH svavaDUM dUtyA saha kimapi mantrayantImapaSyat . tatas tAM gopIM
 049.25A: gopaH svavaDUm dUtyA saha kim api mantrayantIm apaSyat . tatas tAm gopIM
@@ -6486,12 +6556,16 @@
 
 049.27F: vaDUrdUtI punastAM gopImupetyAvadat -- tava virahAnaladagDo'sO
 049.27A: vaDUH dUtI punaH tAm gopIm upetya avadat -- tava virahAnaladagDaH asO
+049.27P: virahAnaladagDaH viyogAgninA saMtaptaH .
 
 049.28F: smaraSarajarjarito mumUrzuriva vartate mahAnuBAvaH .
 049.28A: smaraSarajarjaritaH mumUrzuH iva vartate mahAnuBAvaH .
+049.28P: smaraSarajarjaritaH smaraH kAmaH tasya SarEH vyAkulitaH .
 
 049.29F: tasya tAdfSImavasTAmavalokya pariklizwamanAstvAmanuvartitumAgatA .
 049.29A: tasya tAdfSIm avasTAm avalokya pariklizwam anAstvAm anuvartitum AgatA .
+049.29P: pariklizwamanAH pariklizwaM vyaTitaM manaH yasyA sA .
+049.29P: anuvartitumAnukUlyamAcaritum .
 
 049.30F: tad ahamatrAtmAnaM badDvA tizWAmi . tvaM tatra gatvA taM
 049.30A: tad aham atra AtmAnam badDvA tizWAmi . tvam tatra gatvA tam
@@ -6504,6 +6578,7 @@
 
 049.33F: jArAntikaM kaTaM na yAsi . tato yadAsO na kiMcidapi brUte tadA
 049.33A: jArAntikam kaTam na yAsi . tataH yadA asO na kim cid api brUte tadA
+049.33P: jArAntikam kaTaM na yAsi -- iti sopAlaMBaM vacaH .
 
 049.34F: darpAnmama vacasi pratyuttaramapi na dadAsi ityuktvA kopena
 049.34A: darpAn mama vacasi pratyuttaram api na dadAsi iti uktvA kopena
@@ -6531,6 +6606,7 @@
 
 050.06F: nApitastaM kzuraM dUrAdeeva gfhe kziptavAn . aTa kftArtanAdeyaM vinAparADena
 050.06A: nApitaH tam kzuram dUrAt eva gfhe kziptavAn . aTa kftArtanAdeyam vinA aparADena
+050.06P: kftArtanAdA kftaH ArtanAdaH karuRasvanaH yayA .
 
 050.07F: me nAsikAnena CinnetyuktvA DarmADikArisamIpamenamAnItavatI .
 050.07A: me nAsikA anena Cinneti uktvA DarmADikAri samIpam enam AnItavatI .
@@ -6543,6 +6619,7 @@
 
 050.10F: mama vyavahAramakalmazamazwO lokapAlA eva jAnanti . yataH .
 050.10A: mama vyavahAram akalmazam azwO lokapAlAH eva jAnanti . yataH .
+050.10P: akalmazam -- nizpApam .
 
 050.11F: AdityacandrAvanilo'nalaSca dyOrBUmirApo hfdayaM yamaSca .
 050.11A: AdityacandrAvanilaH analaH ca dyOH BUmiH ApaH hfdayam yamaH ca .
@@ -6568,6 +6645,7 @@
 
 050.18F: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnamekamutkfzwamAste . tad
 050.18A: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnam ekam utkfzwam Aste . tat
+050.18P: kAzWaGawitavetAlasya dArunirmitavetAlamUrtyAH .
 
 050.19F: dfzwvArTalubDenAnena sADunA rAtrAvutTAya ratnam grahItuM yatnaH kftaH . tadA tena vetAlam
 050.19A: dfzwvArTalubDena anena sADunA rAtrO utTAya ratnam grahItum yatnaH kftaH . tadA tena vetAlam
@@ -6599,15 +6677,21 @@
 
 050.28F: ataTyAnyapi taTyAni darSayanti hi peSalAH .
 050.28A: ataTyAni api taTyAni darSayanti hi peSalAH .
+050.28P: peSalAH -- caturAH .
 
 050.29F: same nimnonnatAnIva citrakarmavido janAH .. 111..
 050.29A: same nimnonnatAni iva citrakarmavidaH janAH .. 111..
+050.29P: nimnonnatAni natonnataBAgAn .
+050.29P+: citrakarmavidaH AleKyakuSalAH .
 
 050.30F: aparaM ca . utpannezvapi kAryezu matiryasya na hIyate .
 050.30A: aparam ca . utpannezu api kAryezu matiH yasya na hIyate .
+050.30P: kAryezu gahanakAryezu ityarTAt .
+050.30P+: hIyate lupyate .
 
 050.31F: sa nistarati durgARi gopI jAradvayaM yaTA .. 112..
 050.31A: saH nistarati durgARi gopI jAradvayam yaTA .. 112..
+050.31P: durgARi saMkawAni .
 
 050.32F: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
 050.32A: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
@@ -6617,6 +6701,8 @@
 
 050.34F: asti dvAravatyAM puryAM kasyacidgopasya vaDUrbanDakI . sA grAmasya daRqanAyakena
 050.34A: asti dvAravatyAm puryAm kasya cit gopasya vaDUH banDakI . sA grAmasya daRqanAyakena
+050.34P: banDakI -- kulawA , puMScalI . 'puMScalyAM syAcca banDakI' iti medinI .
+050.34P+: daRqanAyakaH daRqADikArI nagaraSAntirakzakapraDAnaH .
 
 050.35F:  tatputreRa ca samaM ramate . taTA coktam --
 050.35A:  tatputreRa ca samam ramate . taTA ca uktam --

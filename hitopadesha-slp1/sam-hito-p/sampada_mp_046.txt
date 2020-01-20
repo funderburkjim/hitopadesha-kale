@@ -1,0 +1,98 @@
+046.01F: aTa kadAcit tasya siMhasya BrAtA stabDakarRanAmA siMhaH samAgataH .
+046.01A: aTa kadA cid tasya siMhasya BrAtA stabDakarRanAmA siMhaH samAgataH .
+
+046.02F: tasyAtiTyaM kftvA samupaveSya piNgalakastadAhArAya paSuM
+; veSya is Causal from viS (enter). samupaveSya = ask (cause) to be seated
+046.02A: tasya atiTyam kftvA samupaveSya piNgalakaH tadA AhArAya paSum
+
+046.03F: hantuM calitaH . atrAntare
+046.03A: hantum calitaH . atra antare
+
+046.04F: saMjIvako vadati -- deva adya hatamfgARAM mAMsAni kva .
+046.04A: saMjIvakaH vadati -- deva adya hatamfgARAm mAMsAni kva .
+
+046.05F: rAjAha damanakakarawakO jAnItaH .
+046.05A: rAjA Aha damanakakarawakO jAnItaH .
+
+046.06F: saMjIvako brUte -- jYAyatAM kimasti nAsti vA .
+046.06A: saMjIvakaH brUte -- jYAyatAm kim asti na asti vA .
+
+046.07F: siMho vimfSyAha -- nAstyeva tat .
+046.07A: siMhaH vimfSya Aha -- na asti eva tat .
+
+046.08F: saMjIvako brUte -- kaTametAvan mAMsaM tAByAM KAditam .
+046.08A: saMjIvakaH brUte -- kaTam etAvat mAMsam tAByAm KAditam .
+
+046.09F: rAjAha -- KAditaM vyayitamavaDIritaM ca . pratyahameza kramaH .
+046.09A: rAjA Aha -- KAditam vyayitam avaDIritam ca . pratyaham ezaH kramaH .
+046.09P: vyayitam -- anyeByo dattam .
+046.09P+: avaDIritam -- anavekzaRena apaDvastam .
+
+046.10F: saMjIvako brUte -- kaTaM SrImaddevapAdAnAM agocareREva kriyate .
+046.10A: saMjIvakaH brUte -- kaTam SrImaddevapAdAnAm agocareRa eva kriyate .
+046.10P: agocareRa -- anivedya . anujYAmalabDvA iti yAvat .
+
+046.11F: rAjAha -- madIyAgocareREva kriyate .
+; madIyAgocara = madIya+agocara ('not in my cow field' = without my knowledge)
+046.11A: rAjA Aha -- madIyAgocareRa eva kriyate .
+
+046.12F: aTa saMjIvako brUte -- nEtaducitam . taTA coktam .
+046.12A: aTa saMjIvakaH brUte -- na etad ucitam . taTA ca uktam .
+
+046.13F: nAnivedya prakurvIta BartuH kiMcidapi svayam .
+; prakurvIta = opt 3s of kf
+046.13A: na anivedya prakurvIta BartuH kim cid api svayam .
+
+046.14F: kAryamApatpratIkArAdanyatra jagatIpateH .. 89..
+046.14A: kAryam ApatpratIkArAt anyatra jagatIpateH .. 89..
+046.14P: ApatpratIkAraM vipadAM nivAraRaM vihAya anyatra . 
+
+046.15F: anyacca . kamaRqalUpamo'mAtyastanutyAgo bahugrahaH .
+; kamaRqalUpamaH = kamaRqalu + upamaH  (like a gourd).  
+046.15A: anyat ca . kamaRqalUpamaH amAtyaH tanutyAgaH bahugrahaH .
+046.15P: kamaRqalUpamaH -- kamaRqaluH upamA yasya . kamaRqaluryaTA bahUdakamantargfhRAti alpaM ca bahiryacCatyetraM kozavyavasTAyAmamAtyaH syAdityarTaH .
+
+046.16F: nfpate kiMkzaRo mUrKo daridraH kiMvarAwakaH .. 90..
+046.16A: nfpate kim kzaRaH mUrKaH daridraH kim varAwakaH .. 90..
+046.16P: kiMkzaRa -- kzaRasya kiM mahattvamiti vadatIti kiMkzaRaH . yaH kzaRasyApi bahumUlyatAM na jAnAti sa vfTAkAlakzepAt ajYa eva tizWati iti BAvaH .
+046.16P+: evaM kiMvarAwakaH . yaH varAwakasyApi bahumUlyatAM na jAnAti sa dravyApavyayAdakiMcanatAmeti .
+
+046.17F: sa hyamAtyaH sadA SreyAnkAkinIM yaH pravarDayet .
+046.17A: saH hi amAtyaH sadA SreyAn kAkinIm yaH pravarDayet .
+046.17P: kAkinI -- varAwakAnAM viMSatiH . varAwakAnAM daSakadvayaM yatsA kAkinI tASca paRaScatasraH . iti lIlAvatI .
+
+046.18F: kozaH kozavataH prARAH prARAH prARA na BUpateH .. 91..
+; koza == koSa = treasury
+046.18A: kozaH kozavataH prARAH prARAH prARAH na BUpateH .. 91..
+046.18P: kozavataH BUpateH kozaH eva prARAH , prARAH na prARAH .
+046.18P+: 'prARopAnaH samAnaScodAnavyAnO ca vAyavaH '. iti paYca prARAH . ata eva ayaM SabdaH nityaM bahuvacanaH . ezAM sTAnAni -- 'hfdi prARo gude'pAnaH samAno nABisaMsTitaH . udAnaH kaRWadeSasTo vyAnaH sarvaSarIragaH .' 
+
+046.19F: kiM cAnyErna kulAcArEH sevyatAmeti pUruzaH .
+046.19A: kim ca anyEH na kulAcArEH sevyatAm eti pUruzaH .
+046.19P: anyEH -- anyEH DanavyatiriktEH .
+046.19P+: kulAcArEH kulaDarmEH puruzaH sevyatAM nEti . naraH DanEreva sevyate ityarTaH .
+
+046.20F: DanahInaH svapatnyApi tyajyate kiM punaH parEH .. 92..
+046.20A: DanahInaH svapatnyA api tyajyate kim punaH parEH .. 92..
+
+046.21F: etacca rAjYe praDAnaM dUzaRam .
+046.21A: etad ca rAjYe praDAnam dUzaRam .
+
+046.22F: ativyayo'napekzA ca taTArjanamaDarmataH .
+046.22A: ativyayaH anapekzA ca taTA arjanam aDarmataH .
+046.22P: anapekzA -- rAjakAryARAmanavekzaRam .
+SS: Typo in <s>anapekzA</s> should be <s>anavekzA</s>
+
+046.23F: mozaRaM dUrasaMsTAnaM kozavyasanamucyate .. 93..
+046.23A: mozaRam dUrasaMsTAnam kozavyasanam ucyate .. 93..
+046.23P: mozaRam -- apahAraH .
+046.23P+: dUrasaMsTAnaM -- dUre sTitiH nfpasya svarAjyAdvA SAsanIyasaMsTAnAM vA .
+
+046.24F: yataH . kzipramAyamanAlocya vyayamAnaH svavAYCayA .
+046.24A: yataH . kzipram Ayam anAlocya vyayamAnaH svavAYCayA .
+046.24P: kzipraM vyayamAnaH -- kzipraM SIGraM avicAritaM DanavyayaM kurvan . 
+
+046.25F: parikzIyata evAsO DanI vESravaRopamaH .. 94..
+046.25A: parikzIyate eva asO DanI vESravaRopamaH .. 94..
+046.25P: parikzIyate ityatra SramaRAyate iti kvacitpAWaH . SramaRaH BikzukaH tadvadAcarati daridraH Bavati iti tasyArTaH .
+046.25P+: vESravaRopamaH kuberatulyaH .

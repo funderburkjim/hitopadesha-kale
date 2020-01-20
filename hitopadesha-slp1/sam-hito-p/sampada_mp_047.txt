@@ -1,0 +1,105 @@
+047.01F: stabDakarRo brUte -- SfRu BrAtaH cirASritAvetO
+; cirASrita = cira+ASrita (long-time servants)
+047.01A: stabDakarRaH brUte -- SfRu BrAtaH cirASritO etO
+
+047.02F: damanakakarawakO saMDivigrahakAryADikAriRO ca kadAcidarTADikAre na
+; saMDivigrahakAryADikAriRO = saMDi+vigraha+(kAryADikArin) 
+047.02A: damanakakarawakO saMDivigrahakAryADikAriRO ca kadA cid arTADikAre na
+047.02P: arTADikAre kozADyakzatAyAm .
+
+047.03F: niyoktavyO . aparaM ca niyogaprastAveyAtkecinmayA SrutaM tat kaTyate .
+; niyogaprastAveyAt? niyoga+prastAva +? iyAt   OR  (Since Ave at end of line)
+; niyogaprastAveyAtkecinmayA =? niyogaprastAve yAt ke cid mayA
+;  yAt = inasmuch as.  Why 'ke' = f1d of kim ?
+047.03A: niyoktavyO . aparam ca niyogaprastAveyAt ke cid  mayA Srutam tat kaTyate .
+niyogaprastAve -- aDikArapradAnavizaye .
+
+047.04F: brAhmaRaH kzatriyo banDurnADikAre praSasyate .
+; praSasyate  pra-SaMs  (passive): proclaim
+047.04A: brAhmaRaH kzatriyaH banDuH na aDikAre praSasyate .
+047.04P: banDuH -- pitfvyaputrAdiH .
+
+047.05F: brAhmaRaH sidDamapyarTaM kfcCreRApi na yacCati .. 95..
+047.05A: brAhmaRaH sidDam api arTam kfcCreRa api na yacCati .. 95..
+047.05P: sidDaM -- nizpannam .
+047.05P+: kfcCreRa -- kazwena .
+
+047.06F: niyuktaH kzatriyo dravye KaqgaM darSayate Druvam .
+047.06A: niyuktaH kzatriyaH dravye Kaqgam darSayate Druvam .
+047.06P: KaqgaM darSayate -- ugratAM pradarSayati . yudDAyApi niScitamatiH sahasA dravyaM na dadAti ityarTaH . 
+
+047.07F: sarvasvaM grasate banDurAkramya jYAtiBAvataH .. 96..
+; jYAtiBAvataH = jYAti+BAvatas  : in consequence of kinship
+; Akramya : having seized
+047.07A: sarvasvam grasate banDuH Akramya jYAtiBAvataH .. 96..
+047.07P: banDuH jYAtiBAvataH ekakulajatvAdAtmanopi sarvasminsvAmyaM mAnyamAnaH iti BAvaH .
+
+047.08F: aparADe'pi niHSaNko niyogI cirasevakaH .
+047.08A: aparADe api niHSaNkaH niyogI cirasevakaH .
+047.08P: niHSaNkaH -- ciraparicitatvAditi BAvaH . 
+
+047.09F: sa svAminamavajYAya carecca niravagrahaH .. 97..
+047.09A: saH svAminam avajYAya caret ca niravagrahaH .. 97..
+047.09P: niravagrahaH -- niraNkuSaH nirargalaH . svacCandAnuvartI iti yAvat .
+
+047.10F: upakartADikArasTaH svAparADaM na manyate .
+047.10A: upakartADikArasTaH svAparADam na manyate .
+
+047.11F: upakAraM DvajIkftya sarvameva vilumpati .. 98..
+047.11A: upakAram DvajIkftya sarvam eva vilumpati .. 98..
+047.11P: DvajIkftya puraskftya .
+047.11P+: vilumpati -- grasate, apaharati .
+
+047.12F: sapAMSukrIqito'mAtyaH svayaM rAjAyate yataH .
+; rAjAyate : Nom. verb rAjAya : to act like a king
+; sapAMSukrIqitaH 'play-friend from childhood' (Kale)
+; pAMSu: sand
+047.12A: sapAMSukrIqitaH amAtyaH svayam rAjAyate yataH .
+047.12P: sapAMSukrIqitaH samAnAyAM pAMSO kftakrIqaH bAlyAdeva paricita ityarTaH . upAMSukrIqitaH iti pAWe rahasi krIqAsahAyaH . vayasyaBAvApanna ityarTaH .
+
+047.13F: avajYA kriyate tena sadA paricayAd Druvam .. 99..
+047.13A: avajYA kriyate tena sadA paricayAt Druvam .. 99..
+
+047.14F: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
+; sarvAnarTakaraH = sarva + anarTa+karaH   (doing all worthless )
+047.14A: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
+047.14P: antarduzwaH aByantare pApASayaH durbudDiH .
+047.14P+: kzamAyuktaH -- bahiH kzamASIlaH .
+047.14P++: kila prasidDO . etAdfSaH amAtyaH tyAjyaH iti SezaH .
+
+047.15F: SakuniH SakawAraSca dfzwAntAvatra BUpate .. 100..
+; dfzwAntAvatra -> dfzwAntO atra
+047.15A: SakuniH SakawAraH ca dfzwAntAvatra BUpate .. 100..
+047.15P: SakuniH -- sObalaH duryoDanasya mAtulaH .
+047.15P+: SakawAraH -- nandarAjasacivaH .
+
+047.16F: sadAyatyAmasADyaH syAtsamfdDaH sarva eva hi .
+; sadAyatyAmasADyaH = sadA AyatyAm asADyaH
+047.16A: sadAyatyAmasADyaH syAt samfdDaH sarve eva hi .
+047.16P: AyatyAm -- uttarakAle .
+047.16P+: asADyaH anivAryaprasaraH .
+
+047.17F: sidDAnAmayamAdeSaH fdDiScittavikAriRI .. 101..
+047.17A: sidDAnAm ayam AdeSaH fdDiH cittavikAriRI .. 101..
+047.17P: fdDiH -- DanasaMpattiH .
+
+047.18F: prAptArTAgrahaRaM dravyaparIvarto'nuroDanam .
+047.18A: prAptArTAgrahaRam dravyaparIvartaH anuroDanam .
+047.18P: prAptArTAgrahaRam -- prAptasya upasTitasya arTasya rAjadravyasya agrahaRaM anAdAnam . prAptArTagrahaRamitipAWe utkocagrahaRamityarTaH .
+047.18P+: dravyaparIvartaH -- rAjadravyavinimayaH .
+047.18P++: anuroDanam -- svajanAnAmanuvartanaM izwArTasaMpAdanamiti yAvat . rAjacCandAnuvartanaM vA .
+
+047.19F: upekzA budDihInatvaM Bogo'mAtyasya dUzaRam .. 102..
+047.19A: upekzA budDihInatvam BogaH amAtyasya dUzaRam .. 102..
+047.19P: upekzA OdAsyam .
+047.19P+: BogaH -- vizayaBoge aBiniveSaH . nfpadravyasyopaBogo vA .
+
+047.20F: niyogyarTagrahopAyo rAjYAM nityaparIkzaRam .
+047.20A: niyogyarTagrahopAyaH rAjYAm nityaparIkzaRam .
+047.20P: niyogyarTa -- niyoginAM kAryADikftAnAmarTasya anyAyenopArjitadravyasya grahopAyaH grahaRopAyacintanam . taTA ca manuH -- 'ye kAryikeByo'rTameva gfhRIyuH pApacetasaH . tezAM sarvasvamAdAya rAjA kuryAtpravAsanam .' iti .
+047.20P+: nityaparIkzaRam -- niyoginaH apramattAH svaM svaM niyogamanutizWantIti vA neti parIkzaRam .
+
+047.21F: pratipattipradAnaM ca taTA karmaviparyayaH .. 103..
+047.21A: pratipattipradAnam ca taTA karmaviparyayaH .. 103..
+047.21P: pratipattipradAnam -- ye AtmanaH kAryaM sAdu nirvAhayanti teBya unnatapadadAnam .
+047.21P+: karmaviparyayaH -- niyogaparivartanam . rAjYAM ucitaM karma iti SezaH .

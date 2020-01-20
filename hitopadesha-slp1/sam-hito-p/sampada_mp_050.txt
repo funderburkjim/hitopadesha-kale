@@ -1,0 +1,118 @@
+
+050.01F: muKameva vArtAM kaTayati .
+050.01A: muKam eva vArtAm kaTayati .
+
+050.02F: anantaraM sA gopI taTEvAtmAnaM badDvAvasTitA . iyaM ca
+050.02A: anantaram sA gopI taTA eva AtmAnam badDvA avasTitA . iyam ca
+
+050.03F: dUtI tAM CinnanAsikAM gfhItvA svagfhaM praviSya sTitA .
+050.03A: dUtI tAm CinnanAsikAm gfhItvA svagfham praviSya sTitA .
+
+050.04F: tataH prAtarevAnena nApitena kzuraBARqaM yAcitA satIyaM
+050.04A: tataH prAtaH eva anena nApitena kzuraBARqam yAcitA satI iyam
+
+050.05F: kzuramekaM prAdAt . tato'samagraBARqe prApte samupajAtakopo'yaM
+050.05A: kzuram ekam prAdAt . tataH asamagraBARqe prApte samupajAtakopaH ayam
+
+050.06F: nApitastaM kzuraM dUrAdeeva gfhe kziptavAn . aTa kftArtanAdeyaM vinAparADena
+050.06A: nApitaH tam kzuram dUrAt eva gfhe kziptavAn . aTa kftArtanAdeyam vinA aparADena
+050.06P: kftArtanAdA kftaH ArtanAdaH karuRasvanaH yayA .
+
+050.07F: me nAsikAnena CinnetyuktvA DarmADikArisamIpamenamAnItavatI .
+050.07A: me nAsikA anena Cinneti uktvA DarmADikAri samIpam enam AnItavatI .
+
+050.08F: sA ca gopI tena gopena punaH
+050.08A: sA ca gopI tena gopena punaH
+
+050.09F: pfzwovAca -- are pApa ko mAM mahAsatIM virUpayituM samarTaH .
+050.09A: pfzwA uvAca -- are pApa kaH mAm mahAsatIm virUpayitum samarTaH .
+
+050.10F: mama vyavahAramakalmazamazwO lokapAlA eva jAnanti . yataH .
+050.10A: mama vyavahAram akalmazam azwO lokapAlAH eva jAnanti . yataH .
+050.10P: akalmazam -- nizpApam .
+
+050.11F: AdityacandrAvanilo'nalaSca dyOrBUmirApo hfdayaM yamaSca .
+050.11A: AdityacandrAvanilaH analaH ca dyOH BUmiH ApaH hfdayam yamaH ca .
+
+050.12F: ahaSca rAtriSca uBe ca saMDye DarmaSca jAnAti narasya vfttam .. 110..
+050.12A: ahaH ca rAtriH ca uBe ca saMDye DarmaH ca jAnAti narasya vfttam .. 110..
+
+050.13F: tatohaM yadi paramasatI syAM nijasvAminaM tvAM vihAya nAnyaM manasApi cintayAmi
+050.13A: tataH aham yadi paramasatI syAm nijasvAminam tvAm vihAya na anyam manasA api cintayAmi
+
+050.14F: tadA mama muKamakzataM Bavatu . paSya manmuKam . tato yavadasO gopIM dIpaM prajvAlya
+050.14A: tadA mama muKam akzatam Bavatu . paSya manmuKam . tato yavat asO gopIm dIpam prajvAlya
+
+050.15F: tanmuKamavalokate tAvadunnasaM muKamavalokya taccaraRayoH patitaH -- Danyo'haM yasyedrSI
+050.15A: tat muKam avalokate tAvat unnasam muKam avalokya tat caraRayoH patitaH -- DanyaH aham yasya idrSI
+
+050.16F: BAryA paramasADvI iti . yoyamAste sAduretadvfttAntamapi SfRuta . ayaM svagfhAnnirgato
+050.16A: BAryA paramasADvI iti . yaH ayam Aste sAduH etat vfttAntam api SfRuta . ayam svagfhAt nirgataH
+
+050.17F: dvAdaSavarzamalopakaRWAdimAM nagarImanuprAptaH . atra ca veSyAgfhe suptaH . tasyAH
+; varzamalo  -- print unclear
+050.17A: dvAdaSavarzam alopakaRWAt imAm nagarIm anuprAptaH . atra ca veSyAgfhe suptaH . tasyAH
+
+050.18F: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnamekamutkfzwamAste . tad
+050.18A: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnam ekam utkfzwam Aste . tat
+050.18P: kAzWaGawitavetAlasya dArunirmitavetAlamUrtyAH .
+
+050.19F: dfzwvArTalubDenAnena sADunA rAtrAvutTAya ratnam grahItuM yatnaH kftaH . tadA tena vetAlam
+050.19A: dfzwvArTalubDena anena sADunA rAtrO utTAya ratnam grahItum yatnaH kftaH . tadA tena vetAlam
+
+050.20F: sUtrasaMcAritabAhuByAM pIqitaH sannArtanAdamayaM cakAra . paScAdutTAya kuwwanyoktam --
+050.20A: sUtrasaMcAritabAhuByAm pIqitaH sannArtanAdamayam cakAra . paScAt utTAya kuwwanyA uktam --
+
+050.21F: eva malayopakaRWAdAgato'si . tatsarvaratnAni prayacCAsmE . no cedanena na tyaktavyo'si .
+050.21A: eva malayopakaRWAt AgataH asi . tat sarvaratnAni prayacCa asmE . no cet anena na tyaktavyaH asi .
+
+050.22F: itTamevAyaM cewakaH . tato'nena sarvaratnAni samarpitAni . aDunA 
+050.22A: itTam eva ayam cewakaH . tataH anena sarvaratnAni samarpitAni . aDunA 
+
+050.23F: cAyamapi hftasarvasvo'smAsu militaH . etatsarvaM SrutvA rAjapuruzErnyAye DarmADikArI
+050.23A: ca ayam api hftasarvasvaH asmAsu militaH . etat sarvam SrutvA rAjapuruzEH nyAye DarmADikArI
+
+050.24F: pravartitaH . nApitavaDUrmuRqitA gopI niHsAritA kuwwanI ca daRqitA . sADorDanAni
+050.24A: pravartitaH . nApitavaDUH muRqitA gopI niHsAritA kuwwanI ca daRqitA . sADoH DanAni
+
+050.25F: pradattAni . nApitaSca gfhaM gataH . ato'haM bravImi -- svarRareKAmahaM spfzwvA ityAdi ..
+050.25A: pradattAni . nApitaH ca gfham gataH . ataH aham bravImi -- svarRareKAm aham spfzwvA ityAdi ..
+; 'ityAdi' left as is.
+
+050.26F: aTa svayamkfto'yaM dozaH . atra vilapanaM nocitam . (kzaRaM vimfSya .) mitra sahasEva
+050.26A: aTa svayamkftaH ayam dozaH . atra vilapanam na ucitam . (kzaRam vimfSya .) mitra sahasA eva
+
+050.27F: yaTAnayoH sOhArdaM mayA kAritaM taTA mitraBedo'pi mayA kAryaH . yataH . 
+050.27A: yaTA anayoH sOhArdam mayA kAritam taTA mitraBedaH api mayA kAryaH . yataH . 
+
+050.28F: ataTyAnyapi taTyAni darSayanti hi peSalAH .
+050.28A: ataTyAni api taTyAni darSayanti hi peSalAH .
+050.28P: peSalAH -- caturAH .
+
+050.29F: same nimnonnatAnIva citrakarmavido janAH .. 111..
+050.29A: same nimnonnatAni iva citrakarmavidaH janAH .. 111..
+050.29P: nimnonnatAni natonnataBAgAn .
+050.29P+: citrakarmavidaH AleKyakuSalAH .
+
+050.30F: aparaM ca . utpannezvapi kAryezu matiryasya na hIyate .
+050.30A: aparam ca . utpannezu api kAryezu matiH yasya na hIyate .
+050.30P: kAryezu gahanakAryezu ityarTAt .
+050.30P+: hIyate lupyate .
+
+050.31F: sa nistarati durgARi gopI jAradvayaM yaTA .. 112..
+050.31A: saH nistarati durgARi gopI jAradvayam yaTA .. 112..
+050.31P: durgARi saMkawAni .
+
+050.32F: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
+050.32A: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
+
+050.33F: kaTA 6
+050.33A: kaTA 6
+
+050.34F: asti dvAravatyAM puryAM kasyacidgopasya vaDUrbanDakI . sA grAmasya daRqanAyakena
+050.34A: asti dvAravatyAm puryAm kasya cit gopasya vaDUH banDakI . sA grAmasya daRqanAyakena
+050.34P: banDakI -- kulawA , puMScalI . 'puMScalyAM syAcca banDakI' iti medinI .
+050.34P+: daRqanAyakaH daRqADikArI nagaraSAntirakzakapraDAnaH .
+
+050.35F:  tatputreRa ca samaM ramate . taTA coktam --
+050.35A:  tatputreRa ca samam ramate . taTA ca u

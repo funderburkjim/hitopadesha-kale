@@ -1,0 +1,135 @@
+049.01F: parivrAjakaH kaTayati -- ahaM siMhaladvIpe BUpaterjImUtaketoH putraH kaMdarpaketurnAma . 
+049.01A: parivrAjakaH kaTayati -- aham siMhaladvIpe BUpateH jImUtaketoH putraH kaMdarpaketuH nAma .
+
+049.02F: ekadA kelikAnanAvasTitena mayA potavaRiNsuKAcCrutaM yadatra samudramaDye caturdaSyAmAvirBUtakalpatarutale
+; kelikAnanAvasTitena = kelikAnana + avasTitena 
+; suKAcCrutam = ?  [suKa +? Srutam] = happily heard
+; AvirBUtakalpatarutale = AvirBUta + kalpataru + tale
+049.02A: ekadA kelikAnanAvasTitena mayA potavaRiN suKAcCrutam yad atra samudramaDye caturdaSyAm AvirBUtakalpatarutale
+049.02P: kelikAnanam -- krIqodyAnam .
+
+049.03F: maRikiraRAvalIkarburaparyaNke sTitA sarvAlaMkAraBUzitA
+; maRikiraRAvalIkarburaparyaNke = maRi + kiraRa + AvalI + karbura + paryaNke
+; kiraRa = ray, AvalI = Avali = row, karbura = variegated, paryaNka = sofa
+; BUzita = ppp of BUz (adorned) - not in MW
+049.03A: maRikiraRAvalIkarburaparyaNke sTitA sarvAlaMkAraBUzitA
+049.03P: maRIkiraRa -- maRInAM ratnAnAM kiraRAvalyA mayUKasaMtatyA karburaH vicitravarRaH yaH paryaNkaH maYcaH tasmin .
+
+049.04F: lakzmIriva vIRAM vAdayantI kanyA kAcid dfSyate iti .
+049.04A: lakzmIH iva vIRAm vAdayantI kanyA kA cid dfSyate iti .
+
+049.05F: tato'haM potavaRijamAdAya potamAruhya tatra gataH .
+049.05A: tataH aham potavaRijam AdAya potam Aruhya tatra gataH .
+049.05P: potavaRiNmuKAnOkAdvArA vARijyaM kurvato vaRijaH . 
+
+049.06F: anantaraM tatra gatvA paryaNke'rDamagnA taTEva sAvalokitA .
+049.06A: anantaram tatra gatvA paryaNke arDamagnA taTA eva sA avalokitA .
+049.06P: arDamagnA -- arTAt jale . 
+049.06P+: taTEva varRitAnurUpEva .
+
+049.07F: tatastallAvaRyaguRAkfzwena mayApi tatpaScAjJampaH dattaH .
+; tadlAvaRyaguRAkfzwena = tad+lAvaRya+guRa+Akfzwena (by her beauty-qualities drawn)
+; tadpaScAt = tad+paScAt (after her)
+049.07A: tatas tadlAvaRyaguRAkfzwena mayA api tadpaScAt JampaH dattaH .
+049.07P: tallAvaRya -- tasyA lAvaRyaM sOndaryaM tadeva guRaH rajjuH tena . yadvA lAvaRyasya guRAstEH AkfzwaH tena .
+049.07P+: JampaH plavaH .
+049.07P++: ahamapi sAgara AtmAnamapAtayam .
+
+049.08F: tadanantaraM kanakapattanaM prApya suvarRaprAsAde taTEva paryaNke
+049.08A: tad anantaram kanakapattanam prApya suvarRaprAsAde taTA eva paryaNke
+
+049.09F: sTitA vidyADarIBirupAsyamAnA mayAlokitA . taTApyahaM dUrAdeva
+049.09A: sTitA vidyADarIBiH upAsyamAnA mayA AlokitA . taTA api aham dUrAt eva
+049.09P: upAsyamAnA sevyamAnA .
+
+049.10F: dfzwvA saKIM prasTApya sAdaraM saMBAzitaH . tasaKyA
+; tasaKyA = ta(d)+saKyA = (by) her friend 
+049.10A: dfzwvA saKIm prasTApya sAdaram saMBAzitaH . tasaKyA
+
+049.11F: ca mayA pfzwayA samAKyAtam -- ezA kaMdarpakelinAmno
+049.11A: ca mayA pfzwayA samAKyAtam -- ezA kaMdarpakelinAmnaH
+
+049.12F: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
+049.12A: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
+049.12P: vidyADaracakravartinaH vidyADarasArvaBOmasya .
+
+049.13F: yaH kanakapattanaM svacakzuzAgatya paSyati  sa eva
+049.13A: yaH kanakapattanam svacakzuzAgatya paSyati saH eva
+
+049.14F: pituragocare'pi mAM pariRezyatIti .
+049.14A: pituH agocare api mAm pariRezyati iti .
+049.14P: pituragocarepi pituranujYAmantareRApi .
+
+049.15F: ezo'syA manasaH saMkalpaH . tadenAM gAnDarvavivAhena pariRayatu BavAn .
+049.15A: ezaH asyAH manasaH saMkalpaH . tad enAm gAnDarvavivAhena pariRayatu BavAn .
+
+049.16F: aTa tatra vftte ganDarvavivAhe
+049.16A: aTa tatra vftte ganDarvavivAhe
+
+049.17F: tayA saha ramamARastatrAhaM tizWAmi . tata ekadA rahasi tayoktam --
+049.17A: tayA saha ramamARaH tatra aham tizWAmi . tata ekadA rahasi tayA uktam --
+
+049.18F: svAmin svecCayA sarvamidamupaBoktavyam . ezA citragatA
+049.18A: svAmin svecCayA sarvam idam upaBoktavyam . ezA citragatA
+
+049.19F: svarRareKA nAma vidyADarI na kadAcit sprazwavyA . 
+049.19A: svarRareKA nAma vidyADarI na kadA cid sprazwavyA . 
+
+049.20F: paScAd upajAtakOtukena mayA sA svarRareKA svahastena spfzwA . taTA
+049.20A: paScAt upajAtakOtukena mayA sA svarRareKA svahastena spfzwA . taTA
+
+049.21F: citragatayApyahaM caraRapadmena tAqita Agatya svarAzwre patitaH .
+049.21A: citragatayA api aham caraRapadmena tAqita Agatya svarAzwre patitaH .
+
+049.22F: aTa duHKito'haM parivrajitaH pfTivIM pariBrAmyannimAM
+049.22A: aTa duHKitaH aham parivrajitaH pfTivIm pariBrAmyan imAm
+049.22P: parivrajitaH -- pravrajyAM gfhItavAn .
+
+049.23F: nagarImanuprAptaH . atra cAtikrAnte divase gopagfhe suptaH
+049.23A: nagarIm anuprAptaH . atra ca atikrAnte divase gopagfhe suptaH
+
+049.24F: sannapaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
+049.24A: san apaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
+049.24P: ApAnakaM surApAnasTAnam .
+
+049.25F: gopaH svavaDUM dUtyA saha kimapi mantrayantImapaSyat . tatas tAM gopIM
+049.25A: gopaH svavaDUm dUtyA saha kim api mantrayantIm apaSyat . tatas tAm gopIM
+
+049.26F: tAqayitvA stamBe badDvA suptaH . tato'rDarAtre etasya nApitasya
+049.26A: tAqayitvA stamBe badDvA suptaH . tataH arDarAtre etasya nApitasya
+
+049.27F: vaDUrdUtI punastAM gopImupetyAvadat -- tava virahAnaladagDo'sO
+049.27A: vaDUH dUtI punaH tAm gopIm upetya avadat -- tava virahAnaladagDaH asO
+049.27P: virahAnaladagDaH viyogAgninA saMtaptaH .
+
+049.28F: smaraSarajarjarito mumUrzuriva vartate mahAnuBAvaH .
+049.28A: smaraSarajarjaritaH mumUrzuH iva vartate mahAnuBAvaH .
+049.28P: smaraSarajarjaritaH smaraH kAmaH tasya SarEH vyAkulitaH .
+
+049.29F: tasya tAdfSImavasTAmavalokya pariklizwamanAstvAmanuvartitumAgatA .
+049.29A: tasya tAdfSIm avasTAm avalokya pariklizwam anAstvAm anuvartitum AgatA .
+049.29P: pariklizwamanAH pariklizwaM vyaTitaM manaH yasyA sA .
+049.29P: anuvartitumAnukUlyamAcaritum .
+
+049.30F: tad ahamatrAtmAnaM badDvA tizWAmi . tvaM tatra gatvA taM
+049.30A: tad aham atra AtmAnam badDvA tizWAmi . tvam tatra gatvA tam
+
+049.31F: saMtozya satvaramAgamizyasi .
+049.31A: saMtozya satvaram Agamizyasi .
+
+049.32F: taTAnuzWite sati sa gopaH prabudDo'vadat . idAnIM 
+049.32A: taTAnuzWite sati saH gopaH prabudDaH avadat . idAnIm 
+
+049.33F: jArAntikaM kaTaM na yAsi . tato yadAsO na kiMcidapi brUte tadA 
+049.33A: jArAntikam kaTam na yAsi . tataH yadA asO na kim cid api brUte tadA 
+049.33P: jArAntikam kaTaM na yAsi -- iti sopAlaMBaM vacaH .
+
+049.34F: darpAnmama vacasi pratyuttaramapi na dadAsi ityuktvA kopena
+049.34A: darpAn mama vacasi pratyuttaram api na dadAsi iti uktvA kopena
+
+049.35F: tena kartrikAmAdAyAsyA nAsikA CinnA . taTA kftvA punaH supto gopo
+049.35A: tena kartrikAm AdAyAsyA nAsikA CinnA . taTA kftvA punaH suptaH gopaH
+
+049.36F: nidrAmupagataH . aTAgatA gopI dUtImapfcCat -- kA vArtA . dUtyoktam -- paSya mama . 
+049.36A: nidrAm upagataH . aTa AgatA gopI dUtIm apfcCat -- kA vArtA . dUtyA uktam -- paSya mama .
+
