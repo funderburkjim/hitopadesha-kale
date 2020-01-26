@@ -1,5 +1,5 @@
 12-28-2019  Have merged pages 1-45.
-12-28-2019  Not yet merged pages 46-50  (not available) Go to xxx46
+01-15-2020  Have merged pages 46-50 
 12-28-2019  Merged pages 51-70
 
 $ python mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_003.txt temp_hitokale_slp1_p_002.txt
@@ -77,7 +77,7 @@ python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_044.txt temp_hitok
 python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_045.txt temp_hitokale_slp1_p_044.txt
 
 ; Moved all the temp_hitokale_slp1_p_xxx.txt files into temp_hitokale_slp1_p directory 
-xxx46
+
 
 python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_046.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_045.txt
 python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_047.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_046.txt

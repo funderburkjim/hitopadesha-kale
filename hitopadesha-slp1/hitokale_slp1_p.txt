@@ -994,7 +994,8 @@
 
 008.07F: anyacca . sa hi gaganavihArI kalmazaDvaMsakArI
 008.07A: anyat ca . saH hi gaganavihArI kalmazaDvaMsakArI
-008.07P: gaganavihArI -- gagane vihartuM SIlamasya . evamanyatrApi tacCIlye RiniH .
+; RiniH ?
+008.07P: gaganavihArI -- gagane vihartuM SIlamasya . evamanyatrApi tAcCIlye RiniH .
 
 008.08F: daSaSatakaraDArI jyotizAM maDyacArI .
 ; kara = 'ray of light'
@@ -1162,6 +1163,7 @@
 
 009.11F: tad atra DEryamavalambya pratIkAraScintyatAm . yataH .
 009.11A: tad atra DEryam avalambya pratIkAraH cintyatAm . yataH .
+; pratIkAra = (mw) pratikAra = requital, remedy
 009.11P: pratIkAraH -- upAyacintanena ApadaH nirAkaraRam . upasargasya GaYyamanuzye bahulaM iti dIrGaH . tandrA vigalitagAtratA .
 
 009.10-11E: In the time of adversity, perplexity itself is the sign of a weak-minded man. Therefore, taking courage in this case, think out a remedy. For,
@@ -1226,6 +1228,7 @@
 
 ; Kale Typo (?): harantI -> haranti
 009.25F: saMhatAstu haranti me jAlaM mama vihaNgamAH .
+; why both 'me' and 'mama' ?
 009.25A: saMhatAH tu haranti me jAlam mama vihaNgamAH .
 
 009.26F: yadA tu vivadizyante vaSamezyanti me tadA .. 37..
@@ -1235,7 +1238,7 @@
 009.25-26E: These birds, being combined, are bearing away my net ; but when they will fall down (or, out among themselves), they will fall into my power.
 
 010.01F: tatastezu cakzurvizayaAtikrAntezu pakzizu sa vyADo nivfttaH .
-010.01A: tataH tezu cakzuH vizayAtikrAntezu pakzizu saH vyADaH nivfttaH .
+010.01A: tataH tezu cakzurvizayAtikrAntezu pakzizu saH vyADaH nivfttaH .
 
 010.02F: aTa lubDakaM nivfttaM
 010.02A: aTa lubDakam nivfttam
@@ -1246,7 +1249,7 @@
 010.04F: citragrIva uvAca --
 010.04A: citragrIvaH uvAca --
 
-010.01-04E: Then, when the birds bad passed beyond the range of the eye, the fowler returned. Now the pigeons, seeing that the fowler had turned back, said -- What is proper to be done now? Chitragriva said --
+010.01-04E: Then, when the birds had passed beyond the range of the eye, the fowler returned. Now the pigeons, seeing that the fowler had turned back, said -- What is proper to be done now? Chitragriva said --
 
 ; tritayaM ?  print blurred.
 010.05F: mAtA mitraM pitA ceti svaBAvAt tritayaM hitam .
@@ -1263,31 +1266,34 @@
 
 010.08F: gaRqakItIre citravane nivasati . so'smAkaM pASAMSCetsyati .
 010.08A: gaRqakItIre citravane nivasati . saH asmAkam pASAn Cetsyati.
+010.07-08E:Now our friend, Hiranyaka by name, the king of mice, dwells in Chitravana (a beautiful forest) on the bank of the Gandaki. He will cut off our bonds.
 
 010.09F: ityAlocya sarve hiraRyakavivarasamIpaM gatAH . hiraRyakaSca
 010.09A: iti Alocya sarve hiraRyakavivarasamIpam gatAH . hiraRyakaH ca
 
 010.10F: sarvadApAyaSaNkayA SatadvAraM vivaraM kftvA nivasati .
 010.10A: sarvadA apAyaSaNkayA SatadvAram vivaram kftvA nivasati .
+010.09-10E: Having thus deliberated, they all went to the hole of Hiranyaka. Hiranyaka, on his part, always apprehensive of danger, had made a burrow with a hundred passages and lived in it.
 
 010.11F:  tato hiraRyakaH kapotAvapAtaBayAccakitastUzRIM sTitaH .
 010.11A:  tataH hiraRyakaH kapotAvapAtaBayAt cakitaH tUzRIm sTitaH .
 
 010.12F: citragrIva uvAca -- saKe hiraRyaka kimasmAnna samBAzase .
 010.12A: citragrIvaH uvAca -- saKe hiraRyaka kim asmAn na samBAzase .
+010.11-12E: Then Hiranyaka, startled with fear at the descent of the pigeons, stood silent. Chitragriva said -- Dear Hiranyaka, why don't you talk to us?
 
 010.13F: tato hiraRyakastadvacanaM pratyaBijYAya
 010.13A: tataH hiraRyakaH tad vacanam pratyaBijYAya
 010.13P: pratyaBijYAya -- sa eva mama paricitaH ayaM Sabda iti jYAtvA .
 
 010.14F: sasamBramaM bahirniHsftyAbravIt --
-010.14A: sasamBramam bahiH niHsftya abravIt --
+010.14A: sasamBramam bahis niHsftya abravIt --
 010.14P: sasamBramaM satvaraM sammAnapUrvakaM ca . 'gfhamupagate saMBramaviDiH' iti BartfhariH .
 
 010.15F: AH puRyavAnasmi . priyasuhfnme citragrIvaH samAyAtaH .
 010.15A: AH puRyavAn asmi . priyasuhft me citragrIvaH samAyAtaH .
 
-010.07-15E: Now our friend, Hiranyaka by name, the king of mice, dwells in Chitravana (a beautiful forest) on the bank of the Gandaki. He will cut off our bonds. Having thus deliberated, they all went to the hole of Hiranyaka. Hiranyaka, on his part, always apprehensive of danger, had made a burrow with a hundred passages and lived in it. Then Hiranyaka, startled with fear at the descent of the pigeons, stood silent. Chitragriva said -- Dear Hiranyaka, why don't you talk to us? Then Hiranyaka, having recognised his voice, rushed out in haste and said -- Ah, happy am I! my beloved friend Chitragriva has come.
+010.13-15E:    Then Hiranyaka, having recognised his voice, rushed out in haste and said -- Ah, happy am I! my beloved friend Chitragriva has come.
 
 010.16F: yasya mitreRa samBAzo yasya mitreRa saMsTitiH .
 010.16A: yasya mitreRa samBAzaH yasya mitreRa saMsTitiH .
@@ -1327,10 +1333,11 @@
 010.25F: tAvacca tatra ca viDAtfvaSAdupEti .. 40..
 010.25A: tAvat ca tatra ca viDAtfvaSAt upEti .. 40..
 
-010.22-25E: From whatever cause, by whatever means, in whatever manner, at whatever time, of whatever kind, in whatever proportion and at whatever place, one may do a deed, good or {;hitoeng012.txt} bad, one reaps the fruit of it, in obedience to the will of providence, from that cause, by that means, &c.
+010.22-25E: From whatever cause, by whatever means, in whatever manner, at whatever time, of whatever kind, in whatever proportion and at whatever place, one may do a deed, good or bad, one reaps the fruit of it, in obedience to the will of providence, from that cause, by that means, &c.
 
 010.26F: rogaSokaparItApabanDanavyasanAni ca .
 010.26A: rogaSokaparItApabanDanavyasanAni ca .
+; GaYya ??
 010.26P: parItApaH -- sarvataH saMtApaH pIqA . upasargasya GaYyamanuzye bahulaM iti upasarge akArasya dIrGaH ..
 
 010.27F: AtmAparADavfkzARAM PalAnyetAni dehinAm .. 41..
@@ -1342,7 +1349,8 @@
 010.28A: etad SrutvA hiraRyakaH citragrIvasya banDanam Cettum
 
 010.29F: satvaramupasarpati . citragrIva uvAca -- mitra . mA mEvaM .
-010.29A: satvaram upasarpati . citragrIvaH uvAca -- mitra . mA mA evaM .
+010.29A: satvaram upasarpati . citragrIvaH uvAca -- mitra . mA mA evam .
+010:28-29E: The mouse quickly proceeded to sever the bonds of Chitragriva. Chirtagriva said -- Friend, do not do so.
 
 010.30F: asmadASritAnAmetezAM tAvatpASAMSCinDi tadA mama
 ; 10-6-2018. changed 'CinDi' to 'CindDi' (per MW spelling)
@@ -1351,22 +1359,25 @@
 
 010.31F: pASaM paScAcCetsyasi .
 010.31A: pASam paScAt Cetsyasi .
+010:30-31E: First cut the bonds of these my followers ; and then you will cut mine.
 
 010.32F: hiraRyako'pyAha -- ahamalpaSaktiH . dantASca me komalAH . tad
 010.32A: hiraRyakaH api Aha -- aham alpaSaktiH . dantAH ca me komalAH .
 
-010.33F: tadetezAM pASAMSCettuM kaTaM samarTaH . tadyAvanme dantA
-010.33A: tad etezAm pASAn Cettum kaTam samarTaH . tad yAvat me dantAH
+010.33F: tadetezAM pASAMSCettuM kaTaM samarTaH . 
+010.33A: tad etezAm pASAn Cettum kaTam samarTaH . 
+010.32-33E: Hiranyaka too replied -- I have little strength and my teeth are delicate, how then can I gnaw asunder the snares of these all?
 
-010.34F: na truwyanti tAvattava pASaM Cinadmi . tadanantaramezAmapi
-010.34A: na truwyanti tAvat tava pASam Cinadmi . tad anantaram ezAm api
+010.34F: tadyAvanme dantA na truwyanti tAvattava pASaM Cinadmi . 
+010.34A: tad yAvat me dantAH na truwyanti tAvat tava pASam Cinadmi . 
 010.34P: tAvat -- praTamam . AtmaparityAgena svaprARAn saMSaye nikzipyetyarTaH .
 
-010.35F: banDanaM yAvacCakyaM CetsyAmi . citragrIva uvAca --
-010.35A: banDanam yAvat Sakyam CetsyAmi . citragrIvaH uvAca --
+010.35F: tadanantaramezAmapi banDanaM yAvacCakyaM CetsyAmi . 
+010.35A: tad anantaram ezAm api banDanam yAvat Sakyam CetsyAmi . 
+010.34-35E: So as long as my teeth are not broken, I will cut your bonds and then sever those of the rest too as far as my strength will allow.
 
-010.36F: astvevam . taTApi yaTASaktyezAM banDanaM KaRqaya .
-010.36A: astu evam . taTA api yaTASakti etezAm banDanam KaRqaya .
+010.36F: citragrIva uvAca -- astvevam . taTApi yaTASaktyezAM banDanaM KaRqaya .
+010.36A: citragrIvaH uvAca -- astu evam . taTA api yaTASakti etezAm banDanam KaRqaya .
 
 010.37F: hiraRyakenoktam -- AtmaparityAgena
 010.37A: hiraRyakena uktam - AtmaparityAgena
@@ -1374,7 +1385,7 @@
 010.38F: yadASritAnAM parirakzaRaM tanna nItividAM saMmatam . yataH .
 010.38A: yadA ASritAnAm parirakzaRam tad na nItividAm saMmatam . yataH .
 
-010.28-38E: The mouse quickly proceeded to sever the bonds of Chitragriva. Chirtagriva said -- Friend, do not do so; first cut the bonds of these my followers ; and then you will cut mine. Hiranyaka too replied -- I have little strength and my teeth are delicate, how then can I gnaw asunder the snares of these all? So as long as my teeth are not broken, I will cut your bonds and then sever those of the rest too as far as my strength will allow. Chitragriva said -- Be it so; but cut the bonds of these to the best of your strength. Hiranyaka replied -- The protection of dependents at the cost of one's life is not approved of by those conversant with the science of conduct (or, policy). For,
+010.36-38E:  Chitragriva said -- Be it so; but cut the bonds of these to the best of your strength. Hiranyaka replied -- The protection of dependents at the cost of one's life is not approved of by those conversant with the science of conduct (or, policy). For,
 
 ; DanEH (3p): Unusual syntax. Kale: 'at the expense of wealth'. Similarly 'dArEH'
 010.39F: ApadarTaM DanaM rakzeddArAnrakzedDanErapi .
