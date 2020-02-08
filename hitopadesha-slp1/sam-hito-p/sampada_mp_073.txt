@@ -1,0 +1,130 @@
+073.01F: CidraM marma ca vIryaM ca sarvaM vetti nijo ripuH .
+073.01A: Cidram marma ca vIryam ca sarvam vetti nijaH ripuH .
+073.01P: Cidram -- ranDraM , nyUnatA . CidrasyAvaSyagopane manuH 'nAsya CidraM paro vidyAdvidyACidraM parasya tu . gUhetkUrma ivANgAni rakzedvivarAtmanaH .. iti . AvfRedAtmano ranDraM ranDrezu praharatripUn .
+073.01P+: marma -- rahasyam .
+073.01P++: nijo ripuH -- sajAtIyaH svapakzAntargato va SatruH .
+
+073.02F: dahatyantargataScEva SuzkaM vfkzamivAnalaH .. 59..
+073.02A: dahati antargataH ca eva Suzkam vfkzam iva analaH .. 59..
+
+073.03F: ato'haM bravImi -- AtmapakzaM parityajya ityAdi .
+073.03A: ataH aham bravImi -- Atmapakzam parityajya ityAdi .
+; Sampada: 'ityAdi' left as is.
+
+073.04F: rAjAha -- yadyevaM taTApi
+073.04A: rAjA Aha -- yadi evam taTA api
+
+073.05F: dfSyatAM tAvadayaM dUrAd AgataH . tatsaMgrahe vicAraH kAryaH .
+073.05A: dfSyatAm tAvat ayam dUrAt AgataH . tat saMgrahe vicAraH kAryaH .
+
+073.06F: cakro brUte -- deva praRiDiH 
+073.06A: cakraH brUte -- deva praRiDiH
+
+073.07F: prahito durgSca sajjIkftaH . ataH Suko'pyAlokya prasTApyatAm .
+073.07A: prahitaH durgaH ca sajjIkftaH . ataH SukaH api Alokya prasTApyatAm .
+
+073.08F: nandaM jaGAna cARakyastIkzRadUtaprayogataH .
+073.08A: nandam jaGAna cARakyaH tIkzRadUtaprayogataH .
+073.08P: cARakyaH -- tannAmA brAhmaRaH candraguptasyAmAtyaH .
+073.08P+: tIkzRadUta -- prARaharasya dUtasya prayogataH vizakanyAprayogeRa iti yAvat .
+
+073.09F: tacCUrAntaritaM dUtaM paSyedvIrasamanvitaH .. 60..
+073.09A: tat SUrAntaritam dUtam paSyet vIrasam anvitaH .. 60..
+073.09P: SUrAntaritam . dUtaviSezaRaM kriyAviSezaRaM vedam .
+073.09P+: DIrasamanvitaH -- nItikuSalEH sahetyarTaH .
+
+073.10F: tataH saBAM kftvAhUtaH SukaH kAkaSca . SukaH kiMcidunnataSirA
+073.10A: tataH saBAm kftvA AhUtaH SukaH kAkaH ca . SukaH kim cit unnataSirAH
+
+073.11F: dattAsana upaviSya brUte -- Bo hiraRyagarBa tvAM mahArAjADirAjaH
+073.11A: dattAsane upaviSya brUte -- Bo hiraRyagarBa tvAm mahArAjADirAjaH
+
+073.12F: SrImaccitravarRaH samAjYApayati . yadi jIvitena SriyA vA
+073.12A: SrImat citravarRaH samAjYApayati . yadi jIvitena SriyA vA
+
+073.13F: prayojanamasti tadA satvaramAgatyAsmaccaraRO praRama . no ced
+073.13A: prayojanam asti tadA satvaram Agatya asmat caraRO praRama . naH cet
+
+073.14F: avasTAtuM sTAnAntaraM cintaya .
+073.14A: avasTAtum sTAnAntaram cintaya .
+
+073.15F: rAjA sakopamAha -- AH
+073.15A: rAjA sakopam Aha -- AH
+
+073.16F: saBAyAM ko'pyasmAkaM nAsti ya enaM galahastayati . utTAya
+073.16A: saBAyAm kaH api asmAkam na asti ya enam galahastayati . utTAya
+073.16P: galahastayati -- galahastaM datvA nizkAsayati .
+
+073.17F: meGavarRo brUte -- deva AjYApaya . hanmi duzwaM Sukam .
+073.17A: meGavarRaH brUte -- deva AjYApaya . hanmi duzwam Sukam .
+
+073.18F: sarvajYo rAjAnaM
+073.18A: sarvajYaH rAjAnam
+
+073.19F: kAkaM ca sAntvayanbrUte --  SfRu tAvat .
+073.19A: kAkam ca sAntvayan brUte -- SfRu tAvat .
+
+073.20F: na sA saBA yatra na santi vfdDA vfdDA na te ye na vadanti Darmam .
+073.20A: na sA saBA yatra na santi vfdDA vfdDA na te ye na vadanti Darmam .
+
+073.21F: DarmaH sa no yatra na satyamasti satyaM na tadyacCalamaByupEti .. 61..
+073.21A: DarmaH saH naH yatra na satyamasti satyam na tat yat Calam aByupEti .. 61..
+073.21P: CalamaByupEti -- kapawamASrayate . yatkapawena saMkIryate ityarTaH . Bayamiti pAWe prakASaSaNkAmityarTaH .
+
+073.22F: yato DarmaScEzaH . dUto mlecCo'pyavaDyaH syAdrAjA dUtamuKo yataH .
+073.22A: yataH DarmaH ca ezaH . dUtaH mlecCaH apyavaDyaH syAt rAjA dUtamuKaH yataH .
+
+073.23F: udyatezvapi Sastrezu dUto vadati nAnyaTA .. 62..
+073.23A: udyatezu api Sastrezu dUtaH vadati na anyaTA .. 62..
+
+073.24F: aparaM ca .svApakarzaM parotkarzaM dUtoktErmanyate tu kaH .
+073.24A: aparam ca .svApakarzam parotkarzam dUtoktEH manyate tu kaH .
+
+073.25F: sadEvAvaDyaBAvena dUtaH sarvaM hi jalpati .. 63..
+073.25A: sadA eva avaDyaBAvena dUtaH sarvam hi jalpati .. 63..
+
+073.26F: tato rAjA kAkaSca svAM
+073.26A: tataH rAjA kAkaH ca svAm
+
+073.27F: prakftimApannO . Suko'pyutTAya calitaH . paScAccakravAkeRAnIya
+073.27A: prakftim ApannO . SukaH apyutTAya calitaH . paScAt cakravAkeRa AnIya
+073.27P: prakftim -- svABAvikamanaHsvAsTyam .
+073.27P+: ApannO prAptO .
+
+073.28F: praboDya kanakAlaNkArAdikaM datvA saMprezito yayO .
+073.28A: praboDya kanakAlaNkArAdikam datvA saMprezitaH yayO .
+073.28P: praboDya -- sarvaM vfttAntaM yaTAvadavagamayya , taM sAntvayitvA ityarTaH .
+
+073.29F: Suko'pi vinDyAcalaM gatvA  rAjAnaM praRatavAn .
+073.29A: SukaH api vinDyAcalam gatvA rAjAnam praRatavAn .
+
+073.30F: tamAlokya citravarRo rAjovAca -- Suka kA vArtA . kIdfSo'sO deSaH .
+073.30A: tam Alokya citravarRaH rAjA uvAca -- Suka kA vArtA . kIdfSaH asO deSaH .
+
+073.31F: Suko brUte -- deva saMkzepAdiyaM vArtA . saMprati yudDodyogaH
+073.31A: SukaH brUte -- deva saMkzepAt iyam vArtA . saMprati yudDodyogaH
+
+073.32F: kriyatAm . deSaScAsO karpUradvIpaH svargEkadeSaH
+073.32A: kriyatAm . deSaH ca asO karpUradvIpaH svargEkadeSaH
+
+073.33F: kaTaM varRayituM Sakyate . tataH sarvAn
+073.33A: kaTam varRayitum Sakyate . tataH sarvAn
+
+073.34F: SizwAnAhUya rAjA mantrayitumupavizwaH . Aha ca -- saMprati
+073.34A: SizwAn AhUya rAjA mantrayitum upavizwaH . Aha ca -- saMprati
+
+073.35F: kartavyavigrahe yaTAkartavyamupadeSaM brUta . vigrahaH punaravaSyaM
+073.35A: kartavyavigrahe yaTAkartavyam upadeSam brUta . vigrahaH punaH avaSyam
+
+073.36F: kartavyaH . taTA coktam --
+073.36A: kartavyaH . taTA ca uktam --
+
+073.37F: asaMtuzwA dvijA nazwA saMtuzwASca mahIBujaH .
+073.37A: asaMtuzwAH dvijAH nazwAH saMtuzwAH ca mahIBujaH .
+
+073.38F: salajjA gaRikA nazwA nirlajjASca kulAstriyaH .. 64..
+; Kale typo? sallajjA -> salajjA
+073.38A: salajjAH gaRikAH nazwAH nirlajjAH ca kulAstriyaH .. 64..
+; Sampada: 'kulAstriyaH' is a typo? Should be 'kulastriyaH'.  Jim: Yes; changed.
+073.38P: nazwAH -- nASaM yAnti asuKaBAgino Bavanti ityarTaH .
+

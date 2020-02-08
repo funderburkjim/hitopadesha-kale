@@ -1,0 +1,123 @@
+090.01F: kaTA 6
+090.01A: kaTA 6
+
+090.02F: asti mAlavavizaye padmagarBABiDAnaM
+090.02A: asti mAlavavizaye padmagarBABiDAnam
+090.02P: mAlavavizaye mAlavadeSe .
+
+090.03F: saraH . tatrEko vfdDo bakaH sAmarTyahIna udvignamivAtmAnaM
+090.03A: saraH . tatra ekaH vfdDaH bakaH sAmarTyahInaH udvignam iva AtmAnaM
+
+090.04F: darSayitvA sTitaH . sa ca kenacitkulIraRe dfzwaH 
+090.04A: darSayitvA sTitaH . saH ca kenacit kulIraRe dfzwaH 
+
+090.05F: pfzwaSca -- kimiti BavAnatrAhAratyAgena tizWati .
+090.05A: pfzwaH ca -- kim iti BavAn atra AhAratyAgena tizWati .
+
+090.06F: bakenoktam . Badra SfRu . matsyA mama jIvanahetavaH . te cAvaSyaM kEvartErAgatya
+090.06A: bakena uktam . Badra SfRu . matsyAH mama jIvanahetavaH . te ca avaSyam kEvartEH Agatya
+090.06P: kEvartEH DIvarEH .
+
+090.07F: vyApAdayitavyA iti vArtA nagaropAnte mayA SrutA . ato vartanABAvAd
+090.07A: vyApAdayitavyA iti vArtA nagaropAnte mayA SrutA . ataH vartanABAvAt
+090.07P: vartanABAvAt vartanaM jIvikA tasyABAvAt .
+
+090.08F: evAsmanmaraRamupasTitamiti jYAtvAhAre'pyanAdaraH kftaH . tataH
+090.08A: eva asmat maraRam upasTitam iti jYAtvAhAre api anAdaraH kftaH . tataH
+
+090.09F: sarvErmatsyErAlocitam -- iha samaye tAvadupakAraka evAyaM lakzyate'smAkam .
+090.09A: sarvEH matsyEH Alocitam -- iha samaye tAvat upakArakaH eva ayam lakzyate asmAkam .
+
+090.10F: tadayameva yaTAkartavyaM pfcCyatAm . taTA coktam --
+090.10A: tat ayam eva yaTAkartavyam pfcCyatAm . taTA ca uktam -- 
+
+090.11F: upakartrAriRA saMDirna mitreRApakAriRA .
+090.11A: upakartrAriRA saMDiH na mitreRa apakAriRA .
+
+090.12F: upakArApakArO hi lakzyaM lakzaRametayoH .. 16..
+090.12A: upakArApakArO hi lakzyam lakzaRam etayoH .. 16..
+090.12P: upakArApakArO <ab n="ityAdi">i</ab> -- yataH upakArApakArO izwAnizwO etayoH mitrasya SatroSca lakzaRaM lakzyaM jYAtavyam .
+
+090.13F: matsyA UcuH -- Bo baka ko'tra rakzanopAyaH .
+090.13A: matsyAH UcuH -- Bo baka kaH atra rakzanopAyaH .
+
+090.14F: bako brUte -- asti
+090.14A: bakaH brUte -- asti
+
+090.15F: rakzaRopAyo jalASayAntarASrayaRam . tatrAhamekEkaSo yuzmAnnayAmi .
+090.15A: rakzaRopAyaH jalASayAntarASrayaRam . tatra aham ekEkaSaH yuzmAn nayAmi .
+
+090.16F: matsyA AhuH -- evamastu . tato'sO bakastAnmatsyAnekEkaSo
+090.16A: matsyAH AhuH -- evam astu . tataH asO bakastAn matsyAn ekEkaSaH
+
+090.17F: nItvA KAdati . anantaraM kulIrastamuvAca -- Bo baka mAmapi tatra
+090.17A: nItvA KAdati . anantaram kulIrastam uvAca -- Bo baka mAm api tatra
+
+090.18F: naya . tato bako'pyapUrvakulIramAMsArTI sAdaraM taM nItvA sTale
+090.18A: naya . tataH bakaH api apUrvakulIram AMsArTI sAdaram tam nItvA sTale
+090.18P: apUrvaM -- aBuktapUrvaM .
+
+090.19F: DftavAn . kulIro'pi
+090.19A: DftavAn . kulIraH api
+090.19P: DftavAn -- sTApayAmAsa .
+
+090.20F: mastyakaRwakAkIrRaM tatsTalamAlokyAcintayat . hA hato'smi .
+090.20A: mastyakaRwakAkIrRam tat sTalam Alokya acintayat . hA hataH asmi .
+090.20P: mastyakaRwakAkIrRaM matsyAnAmasTiBirvyAptam .
+
+090.21F: mandaBAgyaH . Bavatu . idAnIM samayocitaM vyavaharAmi . yataH .
+090.21A: mandaBAgyaH . Bavatu . idAnIm samayocitam vyavaharAmi . yataH .
+
+090.22F: tAvadBayAttu BetavyaM yAvadBayamanAgatam .
+090.22A: tAvat BayAt tu Betavyam yAvat Bayam anAgatam .
+
+090.23F: AgataM tu BayaM vIkzya prahartavyamaBItavat .. 17..
+090.23A: Agatam tu Bayam vIkzya prahartavyam aBItavat .. 17..
+090.23P: aBItavat -- SUra iva .
+
+090.24F: aparaM ca . aBiyukto yadA paSyenna kiMcid DitamAtmanaH .
+090.24A: aparam ca . aBiyuktaH yadA paSyet na kim cit Ditam AtmanaH .
+090.24P: aBiyuktaH ityA -- yadA prAjYaH paRqitaH aBiyuktaH SatruRAkrAntaH san <ab n="ityAdi">i</ab> .
+
+090.25F: yuDyamAnastadA prAjYo mriyate ripuRA saha .. 18..
+090.25A: yuDyamAnaH tadA prAjYaH mriyate ripuRA saha .. 18..
+
+090.26F: anyacca . yatrAyudDe Druvo nASo yudDe jIvitasaMSayaH .
+090.26A: anyat ca . yatra AyudDe DruvaH nASaH yudDe jIvitasaMSayaH .
+090.26P: yatrAyudDe <ab n="ityAdi">i</ab> -- gatapUrvoyaM . Slo. su.68 .
+
+090.27F: taM kAlamekaM yudDasya pravadanti manIziRaH .. 19 ..
+090.27A: tam kAlam ekam yudDasya pravadanti manIziRaH .. 19 ..
+
+090.28F: ityAlocya
+090.28A: iti Alocya
+
+090.29F: sa kulIrastasya grIvAM cicCeda . sa bakaH paYcatvaM
+090.29A: saH kulIraH tasya grIvAm cicCeda . saH bakaH paYcatvam
+
+090.30F: gataH . ato'haM bravImi BakzayitvA bahUnmatsyAn ityAdi ..
+090.30A: gataH . ataH aham bravImi BakzayitvA bahUn matsyAn ityAdi ..
+
+090.31F: tataH sa citravarRo rAjA'vadat . SfRu tAvanmantrin mayEtad
+090.31A: tataH saH citravarRaH rAjA avadat . SfRu tAvat mantrin mayA etat
+
+090.32F: Alocitamasti yadatrAvasTitena meGavarRena rAjYA yAvanti
+090.32A: Alocitam asti yat atra avasTitena meGavarRena rAjYA yAvanti
+
+090.33F: vastUni karpUradvIpasyottamAni tAvantyasmAkamupanetavyAni .
+090.33A: vastUni karpUradvIpasya uttamAni tAvanti asmAkam upanetavyAni .
+
+090.34F: tena mahatA vilAsenAsmABirvinDyAcale sTAtavyam . dUradarSI vihasyAha --
+090.34A: tena mahatA vilAsena asmABiH vinDyAcale sTAtavyam . dUradarSI vihasya Aha --
+090.34P: vilAsena -- suKopaBogena .
+
+090.35F: deva 
+090.35A: deva 
+
+090.36F: anAgatavatIM cintAM kftvA yastu prahfzyati .
+090.36A: anAgatavatIm cintAm kftvA yaH tu prahfzyati .
+090.36P: anAgatavatIm cintAm -- anupasTitasya vicAram . yadvA cintA kalpanA .
+
+090.37F: sa tiraskAramApnoti BagnaBARqo dvijo yaTA .. 20..
+090.37A: saH tiraskAram Apnoti BagnaBARqaH dvijaH yaTA .. 20..
+

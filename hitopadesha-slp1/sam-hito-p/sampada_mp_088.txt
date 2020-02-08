@@ -1,0 +1,154 @@
+088.01F: yadaBAvi na tadBAvi BAvi cenna tad anyaTA .
+088.01A: yat aBAvi na tat BAvi BAvi cet na tat anyaTA .
+088.01F: yadaBAvi <ab n="ityAdi">i</ab> -- prastA. SlokaH 29 .
+
+088.02F: iti cintAvizaGno'yamagadaH kiM na pIyate .. 9..
+088.02A: iti cintAvizaGnaH ayam agadaH kim na pIyate .. 9..
+
+088.03F: tataH prAtarjAlena badDaH pratyutpannamatirmftavadAtmAnaM saMdarSya
+088.03A: tataH prAtaH jAlena badDaH pratyutpannamatiH mftavat AtmAnam saMdarSya
+
+088.04F: sTitaH . tato jAlAdapasArito yaTASaktyutplutya gaBIraM nIraM
+088.04A: sTitaH . tataH jAlAt apasAritaH yaTASaktyutplutya gaBIram nIram
+
+088.05F: pravizwaH . yadBavizyaSca DIvarEH prApto vyApAditaH . ato'haM
+088.05A: pravizwaH . yat BavizyaH ca DIvarEH prAptaH vyApAditaH . ataH aham
+
+088.06F: bravImi -- anAgataviDAtA ca ityAdi .. tadyaTAhamanyadhradamadya
+088.06A: bravImi -- anAgataviDAtA ca ityAdi .. tat yaTAham anyat hradam adya
+
+088.07F: prApnomi taTA kriyatAm . haMsAvAhatuH -- jalASayAntare prApte tava
+088.07A: prApnomi taTA kriyatAm . haMsO AhatuH -- jalASayAntare prApte tava
+
+088.08F: kuSalam . sTale gacCataste ko viDiH . kUrma Aha --
+088.08A: kuSalam . sTale gacCataH te kaH viDiH . kUrmaH Aha --
+
+088.09F: yaTAhaM BavadByAM sahAkASavartmanA yAmi sa upAyo viDIyatAm .
+088.09A: yaTA aham BavadByAm sahAkASavartmanA yAmi saH upAyaH viDIyatAm .
+
+088.10F: haMsO brUtaH -- kaTamupAyaH samBavati .
+088.10A: haMsO brUtaH -- kaTam upAyaH samBavati .
+
+088.11F: kacCapo vadati -- yuvAByAM caYcuDftaM kAzWaKaRqamekaM
+088.11A: kacCapaH vadati -- yuvAByAm caYcuDftam kAzWaKaRqam ekam
+
+088.12F: mayA muKenAvalambitavyam . yuvayoH pakzabalena mayApi
+088.12A: mayA muKena avalambitavyam . yuvayoH pakzabalena mayA api
+
+088.13F: suKena gantavyam .
+088.13A: suKena gantavyam .
+
+088.14F: haMsO brUtaH -- samBavatyeza upAyaH . kiMtu 
+088.14A: haMsO brUtaH -- samBavati ezaH upAyaH . kim tu 
+
+088.15F: upAyaM cintayan prAjYo hyapAyamapi cintayet .
+088.15A: upAyam cintayan prAjYaH hyapAyam api cintayet .
+
+088.16F: paSyato bakamUrKasya nakulErBakzitAH prajAH .. 10..
+088.16A: paSyataH bakamUrKasya nakulEH BakzitAH prajAH .. 10..
+
+088.17F: kUrmaH pfcCati -- kaTametat .
+088.17A: kUrmaH pfcCati -- kaTam etat .
+
+088.18F: tO kaTayataH --
+088.18A: tO kaTayataH --
+
+088.19F: .. kaTA 4 ..
+088.19A: .. kaTA 4 ..
+
+088.20F: astyuttarApaTe gfDrakUwo nAma parvataH . tatrerAvatItIre nyagriDapAdape 
+088.20A: asti uttarApaTe gfDrakUwaH nAma parvataH . 
+nyagriDapAdape
+088.20P: nyagroDapAdape -- vawavfkze .
+
+088.21F: bakA nivasanti . tasya vfkzasyADastAdvivare sarpastizWati .
+088.21A: bakAH nivasanti . tasya vfkzasya aDastAt vivare sarpaH tizWati .
+
+088.22F: sa ca tezAM bAlApatyAni KAdati . aTa SokArtAnAM bakAnAM vilApaM SrutvA
+088.22A: saH ca tezAm bAlApatyAni KAdati . aTa SokArtAnAm bakAnAm vilApam SrutvA
+
+088.23F: kenacidbakenABihitaM -- evaM kuruta yUyaM . matsyAnAdAya
+088.23A: kenacit bakena aBihitam -- evam kuruta yUyam . matsyAnAdAya
+
+088.24F: nakulavivarAdAraBya sarpavivaraM yAvatpaNktimeREkEkaSo
+088.24A: nakulavivarAt AraBya sarpavivaram yAvat paNktimeRa ekEkaSaH
+
+088.25F: matsyAn vikIrya Datta . tatastadAhAralubDErnakulErAgatya sarpo
+088.25A: matsyAn vikIrya Datta . tataH tat AhAralubDEH nakulEH Agatya sarpaH
+
+088.26F: drazwavyaH . svaBAvavidvezAdvyApAdayitavyaSca . taTAnuzWite
+088.26A: drazwavyaH . svaBAvavidvezAt vyApAdayitavyaH ca . taTA anuzWite
+
+088.27F: tadvfttam .
+088.27A: tat vfttam .
+
+088.28F: tatastatra vfkze nakulErbakaSAvakAnAM
+088.28A: tataH tatra vfkze nakulEH bakaSAvakAnAM
+
+088.29F: rAvaH SrutaH . paScAttErvfkzamAruhya
+088.29A: rAvaH SrutaH . paScAt tEH vfkzam Aruhya
+
+088.30F: bakaSAvakAH KAditAH . ata AvAM brUvaH -- upAyaM cintayan ityAdi ..
+088.30A: bakaSAvakAH KAditAH . ata AvAm brUvaH -- upAyam cintayan ityAdi ..
+
+088.31F: AvAByAM nIyamAnaM tvAmavalokya lokEH kiMcidvaktavyameva . tadAkarRya yadi
+088.31A: AvAByAm nIyamAnam tvAm avalokya lokEH kiMcit vaktavyam eva . tat AkarRya yadi
+
+088.32F: tvamuttaraM dAsyasi tadA tvanmaraRam . tatsarvaTAtrEva sTIyatAm .
+088.32A: tvam uttaram dAsyasi tadA tvat maraRam . tat sarvaTAtrEva sTIyatAm .
+
+088.33F: kUrmo vadati -- kimahamaajYaH .
+088.33A: kUrmaH vadati -- kim aham ajYaH .
+
+088.34F: na kimapi mayA vaktavyam . tatastaTAnuzWite
+088.34A: na kim api mayA vaktavyam . tataH taTA anuzWite
+
+088.35F: taTAviDaM kUrmamAlokya sarve gorakzakAH paScAdDAvanti
+088.35A: taTAviDam kUrmam Alokya sarve gorakzakAH paScAt DAvanti
+
+088.36F: vadanti ca . 
+088.36A: vadanti ca . 
+
+088.37F: tatra kaScid vadati -- yadyayaM kUrmaH patati tadAtrEva paktvA KAditavyaH .
+088.37A: tatra kaH cit vadati -- yadi ayam kUrmaH patati tadA atra eva paktvA KAditavyaH .
+
+088.38F: kaScid vadati -- atrEva dagDvA KAditavyo'yam .
+088.38A: kaH cit vadati -- atra eva dagDvA KAditavyaH ayam .
+
+088.39F: kaScid brute -- gfhaM nItvA BakzaRIyaH iti .
+088.39A: kaH cit brute -- gfham nItvA BakzaRIyaH iti .
+
+088.40F: tatparuzavacanaM SrutvA sa kUrmaH kopAvizwo vismftapUrvasaMskAraH
+088.40A: taparuzavacanam SrutvA saH kUrmaH kopAvizwaH vismftapUrvasaMskAraH
+088.40P: paruzavacanam -- kawuvacaH , nizWuraBAzitam .
+088.40P+: vismftapUrvasaMskAraH -- nazwakftasamayasmftiH .
+
+088.41F: prAha -- yuzmABirBasma Bakzitavyam . iti vadanneva
+088.41A: prAha -- yuzmABiH Basma Bakzitavyam. iti vadan eva
+
+088.42F: patito gorakzakErvyApAditaSca . ato'haM bravImi suhfdAM
+088.42A: patitaH gorakzakEH vyApAditaH ca . ataH aham bravImi suhfdAm
+
+088.43F: hitakAmAnAm ityAdi ..
+088.43A: hitakAmAnAm ityAdi ..
+
+088.44F: aTa praRiDirbakastatrAgatyovAca -- deva prAgeva mayA nigaditaM
+088.44A: aTa praRiDiH bakaH tatra Agatya uvAca -- deva prAk eva mayA nigaditam
+
+088.45F: durgaSoDanaM hi pratikzaRaM kartavyamiti . tacca yuzmABirna
+088.45A: durgaSoDanam hi pratikzaRam kartavyam iti . tat ca yuzmABiH na
+
+088.46F: kftaM . tatastadanavaDAnasya PalamanuBUtam . durgadAhaScAyaM meGavarRanAmnA
+088.46A: kftam . tataH tat anavaDAnasya Palam anuBUtam . durgadAhaH ca ayam meGavarRanAmnA
+088.46P: tadanavaDAnasya -- madvacanopekzAyAH .
+
+088.47F: vAyasena gfDrapratyuktena kftaH . rAjA niHSvasyAha --
+088.47A: vAyasena gfDrapratyuktena kftaH . rAjA niHSvasya Aha --
+
+088.48F: praRayAdupakArAdvA yo viSvasiti Satruzu .
+088.48A: praRayAt upakArAt vA yaH viSvasiti Satruzu .
+088.48P: praRayAt -- premadarSanAt . yAYcAyAH vA . 'praRayaH prasare premRi yAYcAviSramBayorapi' iti medinI .
+
+088.49F: sa supta iva vfkzAgrAtpatitaH pratibuDyate .. 11..
+088.49A: saH suptaH iva vfkzAgrAt patitaH pratibuDyate .. 11..
+088.49P: patitaH pratibuDyate -- jAtapatanaH cetanAM laBate . pakze vinazwaH yaTAvatpuruzasvarUpaM jAnAti .

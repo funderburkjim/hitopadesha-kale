@@ -1,0 +1,101 @@
+074.01F: dUradarSI nAma gfDro brUte -- 
+074.01A: dUradarSI nAma gfDraH brUte --
+
+074.02F: deva vyasanitayA vigraho na viDiH . yataH .
+074.02A: deva vyasanitayA vigrahaH na viDiH . yataH .
+074.02P: vyasanitayA -- vyasanamasyAstIti vyasanI tasya BAvaH tattA tayA . vyasanABiBUtEH iti yAvat .
+
+074.03F: mitrAmAtyasuhfdvargA yadA syurdfQaBaktayaH .
+074.03A: mitrAmAtyasuhfdvargA yadA syuH dfQaBaktayaH .
+
+074.04F: SatrURAM viparItASca kartavyo vigrahastadA .. 65..
+074.04A: SatrURAm viparItAH ca kartavyaH vigrahaH tadA .. 65..
+074.04P: SatrURAm viparItAH -- tezu adfzQaBaktayaH . araktA vA suKaBedyA ityarTaH .
+
+074.05F: anyacca . BUmirmitraM hiraRyaM ca vigrahasya PalaM trayam .
+074.05A: anyat ca . BUmiH mitram hiraRyam ca vigrahasya Palam trayam .
+074.05P: trayam -- etat trayaM vigrahasya Palam . yadEtanniyataM BAvi tadA vigrahamAcaret iti kAmandakanItisAre dvitIyacaraRasya pAWaH .
+
+074.06F: yadEtanniScitaM BAvi kartavyo vigrahastadA .. 66..
+074.06A: yadA etat niScitam BAvi kartavyaH vigrahaH tadA .. 66..
+
+074.07F: rAjAha --
+074.07A: rAjA Aha --
+
+074.08F: mama balAni tAvadavalokayatu mantrI . tadEtezAmupayogo jYAyatAm .
+074.08A: mama balAni tAvat avalokayatu mantrI . tat etezAm upayogaH jYAyatAm .
+
+074.09F: evamAhUyatAM mOhUrtikaH . nirRIya SuBalagnaM yAtrArTaM dadAtu .
+074.09A: evam AhUyatAm mOhUrtikaH . nirRIya SuBalagnam yAtrArTam dadAtu .
+074.09P: mOhUrtikaH -- muhUrtaM aDikftya kftaM granTaM aDIte iti .
+074.09P+: muhUrtajYaH -- jyOtizikaH .
+074.09P++: SuBalagnaM -- SuBaM SuBaPalapradaM lagnaM rASInAM udayaH .
+074.09P+++: yAtrArTam -- aBiyAnArTam .
+
+074.10F: mantrI brUte --
+074.10A: mantrI brUte --
+
+074.11F: taTApi sahasA yAtrAkaraRamanucitam . yataH .
+074.11A: taTA api sahasA yAtrAkaraRam anucitam . yataH .
+
+074.12F: viSanti sahasA mUQA ye vicArya dvizadbalam .
+074.12A: viSanti sahasA mUQAH ye vicArya dvizadbalam .
+
+074.13F: KaqgaDArAparizvaNgaM laBante te suniScitam .. 67..
+074.13A: KaqgaDArAparizvaNgam laBante te suniScitam .. 67..
+
+074.14F: rAjAha -- mantrin mamotsAhaBaNgaM sarvaTA
+074.14A: rAjA Aha -- mantrin mama utsAhaBaNgam sarvaTA
+
+074.15F: mA kfTAH . vijigIzuryaTA paraBUmimAkramati taTA kaTaya .
+074.15A: mA kfTAH . vijigIzuH yaTA paraBUmim Akramati taTA kaTaya .
+074.15P: vijigIzuH -- vijetumicCuH . 
+
+074.16F: gfDro brUte -- tatkaTayAmi .
+074.16A: gfDraH brUte -- tat kaTayAmi .
+
+074.17F: kiMtu tadanuzWitameva Palapradam . taTA coktam --
+074.17A: kim tu tat anuzWitam eva Palapradam . taTA ca uktam -- 
+
+074.18F: kiM mantreRAnanuzWAne SAstravatpfTivIpateH .
+074.18A: kim mantreRa ananuzWAne SAstravat pfTivIpateH .
+074.18P: ananuzWAne akaraRe sati pfTivIpateH mantreRa kiM korTaH SAstravat . yaTA prayogaM vinA kevalaM SAstrajYAnam akiMcitkaraM taTA kevalamantraRayA rAjYAM kAryaM na siDyatItyarTaH . yadvA SAstravat yaTASAstramuktena mantreRa kiM iti SAstravadananuzWAne kimiti vA yojyam .
+
+; Kale typo: hyozaDa -> hyOzaDa
+074.19F: na hyOzaDaparijYAnAdvyADeH SAntiH kvacid Bavet .. 68..
+074.19A: na hi OzaDaparijYAnAt vyADeH SAntiH kvacit Bavet .. 68..
+
+074.20F: rAjAdeSaScAnatikramaRIya iti yaTASrutaM nivedayAmi . SfRu .
+074.20A: rAjAdeSaH ca anatikramaRIya iti yaTASrutam nivedayAmi . SfRu .
+
+074.21F: nadyadrivanadurgezu yatra yatra BayaM nfpa .
+074.21A: nadyadrivanadurgezu yatra yatra Bayam nfpa .
+
+074.22F: tatra tatra ca senAnIryAyAdvyUhIkftErbalEH .. 69..
+074.22A: tatra tatra ca senAnIryAyAt vyUhIkftEH balEH .. 69..
+074.22P: vyUhIkftErbalEH -- balAni vyUhIkftya ityarTaH .
+074.22P+: vyUhaH -- senAvinyAsaH . vyUhaH syAdbalavinyAse nirmARe vfndatarkayoH . iti medinI . etezAM BUyAMsaH SlokAH kAmandakanItiSAstrAduDftAH . 
+
+074.23F: balADyakzaH puro yAyAtpravIrapuruzAnvitaH .
+074.23A: balADyakzaH puraH yAyAt pravIrapuruzAnvitaH .
+074.23P: balADyakzaH -- tattatsenAviBAgasyADyakzaH .
+
+074.24F: maDye kalatraM svAmI ca koSaH Palgu ca yad balam .. 70..
+074.24A: maDye kalatram svAmI ca koSaH Palgu ca yat balam .. 70..
+074.24P: kalatram -- strIvargaH .
+074.24P+: Palgu -- kzIRasattvaM , nirarTakaH janasamudAyaSca . nAgAnAM ca padAtayaH ityatra cAwavIbalam iti kAmandakoktaH pAWaH .
+
+074.25F: pArSvayoruBayoraSvA aSvAnAM pArSvato raTAH .
+074.25A: pArSvayoH uBayoH aSvAH aSvAnAm pArSvataH raTAH .
+
+074.26F: raTAnAM pArSvayornAgA nAgAnAM ca padAtayaH .. 71..
+074.26A: raTAnAm pArSvayoH nAgAH nAgAnAm ca padAtayaH .. 71..
+
+074.27F: paScAtsenApatiryAyAtKinnAnASvAsayaYCanEH .
+074.27A: paScAt senApatiH yAyAt KinnAn ASvAsayan SanEH .
+074.27P: KinnAn -- SrAntAn sEnikAn .
+074.27P+: ASvAsayan -- protsAhayan .
+
+074.28F: mantriBiH suBawEryuktaH pratigfhya balaM nfpa .. 72..
+074.28A: mantriBiH suBawEH yuktaH pratigfhya balam nfpa .. 72..
+

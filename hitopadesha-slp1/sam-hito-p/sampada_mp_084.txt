@@ -1,0 +1,138 @@
+084.01F: yataH . mahIBujo madAnDasya vizame kAryasAgare . 
+084.01A: yataH . mahIBujaH madAnDasya vizame kAryasAgare . 
+
+084.02F: sKalato hi karAlambaH suhftsacivacezwitam .. 135 ..
+084.02A: sKalataH hi karAlambaH suhfd sacivacezwitam .. 135 ..
+084.02P: suhftsacivacezwitaM -- SoBanaM hfdayaM yezAM te suhfdaH hitabudDayaH ye sacivAH tezAM cazwitaM kriyA . sacivA eva pratIkAraM cintayitvA svAminamApada udDarantIti BAvaH 
+
+084.03F: aTAgatya praRamya meGavarRo brUte -- deva
+084.03A: aTAgatya praRamya meGavarRaH brUte -- deva
+
+084.04F: dfzwiprasAdaM kuru . eza yudDArTo
+084.04A: dfzwiprasAdam kuru . ezaH yudDArTAH
+
+084.05F: vipakzo durgadvAri vartate . tad devapAdAdeSAd bahirniHsftya
+084.05A: vipakzaH durgadvAri vartate . tat devapAdAdeSAt bahiH niHsftya
+
+084.06F: svavikramaM darSayAmi . tena devapAdAnAmAnfRyamupagacCAmi .
+084.06A: svavikramam darSayAmi . tena devapAdAnAm AnfRyam upagacCAmi .
+
+084.07F: cakro brUte -- mEvam . yadi bahirniHsftya
+084.07A: cakraH brUte -- mA evam . yadi bahiH niHsftya
+
+084.08F: yodDavyam tadA durgASrayaRameva nizprayojanam . 
+084.08A: yodDavyam tadA durgASrayaRam eva nizprayojanam . 
+
+084.09F: aparaM ca . vizamo'pi yaTA nakraH salilAn nisfto vaSaH .
+; Kale print error? vizamopi (no avagraha)
+084.09A: aparam ca . vizamaH api yaTA nakraH salilAn nisftaH vaSaH .
+084.09P: vizamaH udDartuM jetuM vA aSakyaH . 
+084.09P+: vaSaH -- anyezAM vaSago Bavati . yadvA avaSa iti padacCedaH . avaSaH vikalaH aSaraRo vA .
+
+084.10F: vanAdvinirgataH SUraH siMho'pi syAcCfgAlavat .. 136..
+; Kale print error? siMho'pi (no avagraha)
+084.10A: vanAt vinirgataH SUraH siMhaH api syAt SfgAlavat .. 136..
+
+; next 3 lines appear AFTER 137
+084.11F: deva svayaM gatvA dfSyatAM yudDam . yataH .
+084.11A: deva svayam gatvA dfSyatAm yudDam . yataH .
+
+084.12F: puraskftya balaM rAjA yoDayedavalokayan .
+084.12A: puraskftya balam rAjA yoDayet avalokayan .
+
+084.13F: svAminADizWitaH SvApi kiM na siMhAyate Druvam .. 137..
+084.13A: svAminADizWitaH SvApi kim na siMhAyate Druvam .. 137..
+
+084.14F: anantaraM te sarve durgadvAraM gatvA mahAhavaM kftavantaH .
+084.14A: anantaram te sarve durgadvAram gatvA mahAhavam kftavantaH .
+
+084.15F: aparedyuScitravarRo rAjA gfDramuvAca -- tAta .
+084.15A: aparedyuH citravarRaH rAjA gfDram uvAca -- tAta .
+
+084.16F: ! svapratijYAtamaDunA nirvAhaya .
+084.16A: ! svapratijYAtam aDunA nirvAhaya .
+
+084.17F: gfDro brUte -- deva SfRu tAvat .
+084.17A: gfDraH brUte -- deva SfRu tAvat .
+
+084.18F: akAlasahamatyalpaM mUrKavyasaninAyakam .
+084.18A: akAlasaham ati alpam mUrKavyasaninAyakam .
+084.18P: akAlasahaM dIrGakAlarakzaRAkzamam .
+
+084.19F: aguptaM BIruyoDaM ca durgavyasanamucyate .. 138..
+084.19A: aguptam BIruyoDam ca durgavyasanam ucyate .. 138..
+
+084.20F: tat tAvad atra nAsti . upajApaScirAroDo'vaskandastIvrapOruzam .
+084.20A: tat tAvat atra na asti . upajApaH cirAroDaH avaskandaH tIvrapOruzam .
+084.20P: upajApaH -- BedaH .
+084.20P+: cirAroDaH . dIrGakAlamavaroDaH .
+
+084.21F: durgasya laNGanopAyAScatvAraH kaTitA ime .. 139..
+084.21A: durgasya laNGanopAyAH catvAraH kaTitAH ime .. 139..
+084.21P: laNGanopAyAH grahaRopAyAH .
+
+084.22F: atra ca yaTASakti kriyate yatnaH . karRe kaTayati evameva .
+084.22A: atra ca yaTASakti kriyate yatnaH . karRe kaTayati evam eva .
+
+084.23F: tato'nudita eva BAskare caturzvapi durgadvArezu pravftte yudDe
+084.23A: tataH anudita eva BAskare caturzu api durgadvArezu pravftte yudDe
+
+084.24F: durgAByantaragfhezvekadA kAkEragnirnikziptaH . tataH gfhItaM
+084.24A: durgAByantaragfhezu ekadA kAkEH agniH nikziptaH . tataH gfhItam
+
+084.25F: gfhItaM durgam iti
+084.25A: gfhItam durgam iti
+
+084.26F: kolAhalaM SrutvAnekagfhezu ca pradIptaM pAvakaM pratyakzeRAvalokya rAjahaMsasya
+084.26A: kolAhalam SrutvA anekagfhezu ca pradIptam pAvakam pratyakzeRa avalokya rAjahaMsasya
+
+084.27F: sEnikAstaTAnye durgavAsinaH satvaraM hradaM pravizwAH . yataH .
+084.27A: sEnikAH taTA anye durgavAsinaH satvaram hradam pravizwAH . yataH .
+
+; There is text preceding 'sumantritaM', but print is not readable.
+084.28F: sumantritaM suvikrAntaM suyudDaM supalAyitam .
+084.28A: sumantritam suvikrAntam suyudDam supalAyitam .
+084.28P: sumantritaM -- SoBanAM mantraRAM kuryAt .
+084.28P+: supalAyitam -- prAptakAle banDanaparihArArTaM palAyanamapi kartavyam .
+
+084.29F: prAptakAle yaTASakti kuryAnna tu vicArayet .. 140..
+084.29A: prAptakAle yaTASakti kuryAt na tu vicArayet .. 140..
+
+; 'rAjA haMsaSca' print unclear
+084.30F: rAjA haMsaSca muKisvaBAvAn mandagatiH . sArasadvitIyaSca citravarRasya
+084.30A: rAjA haMsaH ca muKisvaBAvAn mandagatiH . sArasadvitIyaH ca citravarRasya
+
+084.31F: senApatinA kukkuwenAgatya vezwitaH . hiraRyagarBaH sArasamAha --
+084.31A: senApatinA kukkuwena Agatya vezwitaH . hiraRyagarBaH sArasam Aha --
+
+; 'kaTaM vyApAdayasi' changed but Kale print unclear
+084.32F: sArasa senApate mamAnuroDAdAtmAnaM taTAvAdayizyasi .
+084.32A: sArasa senApate mama anuroDAt AtmAnam taTA vAdayizyasi .
+; Sampada: 'taTAvAdayizyasi' this sanDi doesn't seem correct.
+084.32P: mamAnuroDAt -- madapekzayA .
+
+084.33F: gantuM tvaMaDunApi samarTaH . tadgatvA
+084.33A: gantum tvam aDunA api samarTaH . tat gatvA
+
+; parirakza could be parikza in print, which is unclear
+084.34F: jalaM praviSyAtmAnaM parirakza . asmatputraM cUqAmaRinAmAnaM
+084.34A: jalam praviSya AtmAnam parirakza . asmat putram cUqAmaRinAmAnam
+
+084.35F: sarvajYasaMmatyA rAjAnaM karizyasi .
+084.35A: sarvajYasaMmatyA rAjAnam karizyasi .
+
+084.36F: sAraso brUte -- deva na vaktavyamevaM
+084.36A: sArasaH brUte -- deva na vaktavyamevam
+
+084.37F: duHsahaM vacaH . yAvaccandrArkO divi tizWatastAvadvijayatAM
+084.37A: duHsaham vacaH . yAvat candrArkO divi tizWataH tAvat vijayatAm
+
+084.38F: devaH . ahaM deva durgADikArI manmAMsAsfgviliptena
+; mAMsAsfgviliptena = mad + (mAMsa + asfg) + viliptena'  : my (meat & blood) smeared.     
+;  (acc. to MW, 'asfg' is compound form of 'asjf' (blood)).
+084.38A: devaH . aham deva durgADikArI manmAMsAsfgviliptena
+;Sampada: 'mAMsAsfg' this word seems unclear.
+
+084.39F: dvAravartmanA praviSatu SatruH . aparaM ca deva .
+084.39A: dvAravartmanA praviSatu SatruH . aparam ca deva .
+

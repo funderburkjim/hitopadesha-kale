@@ -1,0 +1,123 @@
+089.01F: praRiDiruvAca -- ito durgadAhaM viDAya yadA gato
+089.01A: praRiDiH uvAca -- itaH durgadAham viDAya yadA gato
+
+089.02F: meGavarRastadA citravarRena prasAditenoktam -- ayaM meGavarRo'tra
+089.02A: meGavarRaH tadA citravarRena prasAditena uktam -- ayam meGavarRaH atra
+089.02P: prasAditena -- prasannena .
+
+089.03F: karpUradvIparAjye'BizicyatAm . taTA coktam --
+089.03A: karpUradvIparAjye aBizicyatAm . taTA ca uktam --
+
+089.04F: kftakftyasya Bftyasya kftaM nEva praRASayet .
+089.04A: kftakftyasya Bftyasya kftam na eva praRASayet .
+089.04P: kftakftyasya -- kftaM kftyaM kartavyaM svAmiviniyogo vA yena .
+
+089.05F: Palena manasA vAcA dfzwyA cEnaM praharzayet .. 12..
+089.05A: Palena manasA vAcA dfzwyA ca enam praharzayet .. 12..
+089.05P: Palena puraskarAdinA .
+
+089.06F: cakravAko brUte -- tatastataH . 
+089.06A: cakravAkaH brUte --  tataH tataH . 
+
+089.07F: praRiDiruvAca -- tataH praDAnamantriRA gfDreRABihitam .
+089.07A: praRiDiH uvAca -- tataH praDAnamantriRA gfDreRa aBihitam .
+
+089.08F: deva nedamucitam . prasAdAntaraM kimapi kriyatAm . yataH .
+089.08A: deva na idam ucitam . prasAdAntaram kim api kriyatAm . yataH .
+
+089.09F: avicArayato yuktikaTanaM tuzaKaRqanam .
+089.09A: avicArayataH yuktikaTanam tuzaKaRqanam .
+089.09P: avicArayataH asamIkzyakAriRaH .
+089.09P+: tuzeti -- nirarTakamiti yAvat .
+
+089.10F: nIcezUpakftaM rAjanbAlukAsviva mUtritam .. 13..
+; Kale may have 'vAlukAsviva'
+089.10A: nIcezu upakftam rAjan bAlukAsu iva mUtritam .. 13..
+089.10P: upakftam -- upakArakaraRam .
+089.10P+: mUtritam -- tadyaTA ciraM na tizWati vyarTaM ca taTA .
+
+089.11F: aparaM ca . mahatAmAspade nIcaH kadApi na kartavyaH . taTA coktam --
+089.11A: aparam ca . mahatAm Aspade nIcaH kadA api na kartavyaH . taTA ca uktam --
+
+089.12F: nIcaH SlAGyapadaM prApya svAminaM hantumicCati .
+089.12A: nIcaH SlAGyapadam prApya svAminam hantum icCati .
+
+089.13F: mUziko vyAGratAM prApya muniM hantuM gato yaTA .. 14..
+089.13A: mUzikaH vyAGratAm prApya munim hantum gataH yaTA .. 14..
+
+089.14F: citravarRaH pfcCati -- kaTametat .
+089.14A: citravarRaH pfcCati -- kaTam etat .
+
+089.15F: mantrI kaTayati --
+089.15A: mantrI kaTayati --
+
+089.16F: .. kaTA 5 ..
+089.16A: .. kaTA 5 ..
+
+089.17F: asti gOtamasya maharzestapovane mahAtapA nAma muniH .
+089.17A: asti gOtamasya maharzeH tapovane mahAtapA nAma muniH .
+
+089.18F: tenASramasanniDAne mUzikaSAvakaH kAkamuKAdBrazwo 
+089.18A: tena ASramasanniDAne mUzikaSAvakaH kAkamuKAt BrazwaH 
+
+089.19F: dfzwaH . tataH svaBAvadayAtmanA tena muninA nIvArakaREH
+089.19A: dfzwaH . tataH svaBAvadayAtmanA tena muninA nIvArakaREH
+089.19P: svaBAvadayAtmanA -- dayAyutaH AtmA dayAtmA svaBAvAt nisargataH dayAtmA yasya tena .
+
+089.20F: saMvarDitaH . tato biqAlastaM mUzikaM KAditumupaDAvati . tamavalokya
+089.20A: saMvarDitaH . tataH biqAlastam mUzikam KAditum upaDAvati . tam avalokya
+
+089.21F: mUzikastasya muneH kroqe praviveSa . tato muninoktam -- mUzika 
+089.21A: mUzikaH tasya muneH kroqe praviveSa . tataH muninA uktam -- mUzika 
+089.21P: kroqe aNke BujAntare vA .
+
+089.22F: tvaM mArjAro Bava . tataH sa biqAlaH kukkuraM dfzwvA palAyate .
+089.22A: tvam mArjAraH Bava . tataH saH biqAlaH kukkuram dfzwvA palAyate .
+
+089.23F: tato muninoktaM -- kukkurAdbiBezi . tvameva kukkuro Bava . sa
+089.23A: tataH muninA uktam -- kukkurAt biBezi . tvam eva kukkuraH Bava . saH
+
+089.24F: kukkuro vyAGrAdbiBeti . tatastena muninA kukkuro vyAGraH kftaH .
+089.24A: kukkuraH vyAGrAt biBeti . tataH tena muninA kukkuraH vyAGraH kftaH .
+
+089.25F: aTa vyAGraapi taM mUzikanirviSezaM paSyati sa muniH . aTa taM muniM dfzwvA vyAGraM
+089.25A: aTa vyAGram api tam mUzikanirviSezaM paSyati sa muniH . aTa tam munim dfzwvA vyAGraM
+089.25P: mUzikanirviSezam -- mUzikABinnatvena .
+
+089.26F: ca sarve vadanti -- anena muninA mUziko vyAGratAM nItaH .
+089.26A: ca sarve vadanti -- anena muninA mUzikaH vyAGratAm nItaH .
+
+089.27F: etacCrutvA sa vyAGraH savyaTo'cintayat -- yAvadanena muninA
+089.27A: etat SrutvA saH vyAGraH savyaTaH acintayat -- yAvat anena muninA
+
+089.28F: jIvitavyaM tAvadidaM me svarUpAKyAnamakIrtikaraM na palAyizyate .
+089.28A: jIvitavyaM tAvad idam me svarUpAKyAnamakIrtikaram na palAyizyate .
+089.28P: svarUpAKyAnam -- yaTAvatsvarUpavarRanam .
+089.28P+: na palAyizyate -- nApayAsyati .
+089.28P++: idaM meGavarRasya karpUradvIparAjye'Bizecanam .
+
+089.29F: ityAlocya muniM hantuM gataH .
+089.29A: iti Alocya munim hantum gataH .
+
+089.30F: tato muninA tajjYAtvA punarmUziko Bava ityuktvA mUzika
+089.30A: tataH muninA tat jYAtvA punaH mUzikaH Bava iti uktvA mUzikaH
+
+089.31F: eva kftaH . ato'haM bravImi -- nIcaH SlAGyapadaM ityAdi ..
+089.31A: eva kftaH . ataH aham bravImi -- nIcaH SlAGyapadam ityAdi ..
+
+089.32F: aparaM ca . sukaramidamiti na mantavyam . SfRu .
+089.32A: aparam ca . sukaram idam iti na mantavyam . SfRu .
+
+089.33F: BakzayitvA bahUnmatsyAnuttamADamamaDyamAn .
+089.33A: BakzayitvA bahUn matsyAn uttamADamamaDyamAn .
+
+089.34F: atiloBAdbakaH paScAnmftaH karkawakagrahAt .. 15..
+089.34A: atiloBAt bakaH paScAt mftaH karkawakagrahAt .. 15..
+089.34P: karkawakagrahAt -- kulIrasya grahAt .
+
+089.35F: citravarRaH pfcCati -- kaTametat .
+089.35A: citravarRaH pfcCati -- kaTam etat .
+
+089.36F: mantrI kaTayati --
+089.36A: mantrI kaTayati --
+

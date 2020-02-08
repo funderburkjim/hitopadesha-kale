@@ -1,0 +1,142 @@
+087.01F: .. kaTA 1 ..
+087.01A: .. kaTA 1 ..
+
+087.02F: asti magaDadeSe PullotpalABiDAnaM saraH . tatra ciraM
+087.02A: asti magaDadeSe PullotpalABiDAnam saraH . tatra ciram
+
+087.03F: saMkawavikawanAmAnO haMsO nivasataH . tayormitraM kambugrIvanAmA
+087.03A: saMkawavikawanAmAnO haMsO nivasataH . tayoH mitram kambugrIvanAmA
+
+087.04F: kUrmaSca prativasati . aTEkadA DIvarErAgatya tatroktaM --
+087.04A: kUrmaH ca prativasati . aTa ekadA DIvarEH Agatya tatra uktam --
+
+087.05F: yadatrAsmABiradyozitvA prAtarmatsyakUrmAdayo vyApAdayitavyAH .
+087.05A: yat atra asmABiH adya uzitvA prAtaH matsyakUrmAdayaH vyApAdayitavyAH .
+087.05P: uzitvA -- vasatiM kftvA .
+
+087.06F: tadAkarRya kUrmo haMsAvAha --
+087.06A: tat AkarRya kUrmaH haMsO Aha --
+
+087.07F: suhfdO . Sruto'yaM DIvarAlApaH aDunA kiM mayA kartavyam .
+087.07A: suhfdO . SrutaH ayam DIvarAlApaH aDunA kim mayA kartavyam .
+
+087.08F: haMsAvAhatuH --
+087.08A: haMsO AhatuH --
+
+087.09F: jYAyatAM punastAvatprAtaryaducitaM tatkartavyam .
+087.09A: jYAyatAm punaH tAvat prAtaryat ucitam tat kartavyam .
+
+087.10F: kUrmo brUte --
+087.10A: kUrmaH brUte --
+
+087.11F: mEvam . yato dfzwavyatikaro'hamatra . taTA coktam --
+087.11A: mA evam . yataH dfzwavyatikaraH aham atra . taTA ca uktam --
+087.11P: dfzwavyatikaraH -- dfzwaH vyatikaraH vyasanaM anyezAmiti yAvat yena .
+
+087.12F: anAgataviDAtA ca pratyutpannamatistaTA .
+087.12A: anAgataviDAtA ca pratyutpannamatiH taTA .
+087.12P: anAgataviDAtA -- anAgataM vidaDAti BAvyApadaH pratIkAraM pUrvameva karotIti anAgataviDAtA .
+087.12P+: pratyutpannamatiH -- pratyutpannA saNkawe JawityutpannA budDiH yasya .
+
+087.13F: dvAvetO suKameDete yadBavizyo vinaSyati .. 5..
+087.13A: dvO etO suKam eDete yat BavizyaH vinaSyati .. 5..
+087.13P: yadBavizyaH -- yadBavizyati tadBavatu iti vadatIti .
+
+087.14F: tAvAhatuH -- kaTametat .
+087.14A: tO AhatuH -- kaTam etat .
+
+087.15F: kUrmaH kaTayati --
+087.15A: kUrmaH kaTayati --
+
+087.16F: .. kaTA 2 ..
+087.16A: .. kaTA 2 ..
+
+087.17F: purAsminneva sarasyevaMviDezu
+; MW evaMviDa (of such a kind)
+087.17A: purA asmin eva sarasI evaMviDezu
+; Sampada: Should we leave 'evaMviDezu' as is? YES; 
+
+087.18F: DIvarezUpasTitezu matsyatrayeRAlocitam . tatrAnAgataviDAtA
+087.18A: DIvarezu upasTitezu matsyatrayeRa Alocitam . tatra anAgataviDAtA
+
+087.19F: nAmEko matsyaH . tenoktaM -- ahaM tAvajjalASayAntaraM gacCAmi .
+087.19A: nAmEkaH matsyaH . tena uktam -- aham tAvat jalASayAntaram gacCAmi .
+
+087.20F: ityuktvA hradAntaraM gataH . apareRa pratyutpannamatinAmnA
+087.20A: iti uktvA hradAntaram gataH . apareRa pratyutpannamatinAmnA
+
+087.21F: mastyenABihitam -- BavizyadarTe pramARABAvAtkutra mayA gantavyam .
+087.21A: mastyena aBihitam -- BavizyadarTe pramARABAvAt kutra mayA gantavyam .
+
+087.22F: tadutpanne yaTAkAryamanuzWeyam . taTA coktam --
+087.22A: tat utpanne yaTAkAryam anuzWeyam . taTA ca uktam --
+
+087.23F: utpannAmApadaM yastu samADatte sa budDimAn .
+087.23A: utpannAm Apadam yaH tu samADatte saH budDimAn .
+
+087.24F: vaRijo BAryayA jAraH pratyakze nihnuto yaTA .. 6..
+087.24A: vaRijaH BAryayA jAraH pratyakze nihnutaH yaTA .. 6..
+
+087.25F: yadBavizyaH pfcCati -- kaTametat .
+087.25A: yat BavizyaH pfcCati -- kaTam etat .
+
+087.26F: pratyutpannamatirAha --
+087.26A: pratyutpannamatiH Aha -- 
+
+087.27F: .. kaTA 3 ..
+087.27A: .. kaTA 3 ..
+
+087.28F: asti vikramapure samudradatto nAma vaRik . tasya
+087.28A: asti vikramapure samudradattaH nAma vaRik . tasya
+
+087.29F: ratnapraBA nAma vaDUH kenApi svasevakena saha sadA ramate . yataH .
+087.29A: ratnapraBA nAma vaDUH kena api svasevakena saha sadA ramate . yataH .
+
+087.30F: na strIRAmapriyaH kaScit priyo vApi na vidyate .
+087.30A: na strIRAm apriyaH kaH cit priyaH vA api na vidyate .
+
+087.31F: gAvastfRamivAraRye prArTayanti navaM navam .. 7..
+087.31A: gAvaH tfRam iva araRye prArTayanti navam navam .. 7..
+
+087.32F: aTEkadA sA
+087.32A: aTa ekadA sA
+
+087.33F: ratnapraBA tasya sevakasya muKe cumbanaM dadatI samudradattenAvalokitA .
+087.33A: ratnapraBA tasya sevakasya muKe cumbanam dadatI samudradattena avalokitA .
+
+087.34F: tataH sA banDakI satvaraM BartuH samIpaM gatvAha -- nATa 
+087.34A: tataH sA banDakI satvaram BartuH samIpam gatvA Aha -- nATa 
+
+087.35F: etasya sevakasya mahatI nirvftiH . yato'yaM cOrikAM kftvA
+087.35A: etasya sevakasya mahatI nirvftiH . yataH ayam cOrikAm kftvA
+087.35P: nirvftiH -- suKaM BogecCA vA .
+
+087.36F: karpUraM KAdatIti mayAsya muKamAGrAya jYAtam . taTA coktam --
+087.36A: karpUram KAdati ti mayA asya muKam AGrAya jYAtam . taTA ca uktam --
+
+087.37F: AhAro dviguRaH strIRAM budDistAsAM caturguRA .
+087.37A: AhAraH dviguRaH strIRAm budDiH tAsAm caturguRA .
+087.37P: AhAra <ab n="ityAdi">i</ab> -- suhf. -- Slo. 117. 
+
+087.38F: zaqguRo vyavasAyaSca kAmAScAzwaguRaH smftaH .. 8..
+087.38A: zaw guRaH vyavasAyaH ca kAmAH ca azwaguRaH smftaH .. 8..
+
+087.39F: tacCrutvA sevakena
+087.39A: tat SrutvA sevakena
+
+087.40F: prakupyoktaM -- yasya svAmino gfha etAdfSI BAryA
+087.40A: prakupya uktam -- yasya svAminaH gfha etAdfSI BAryA
+
+087.41F: tatra sevakena kaTaM sTAtavyam yatra ca pratikzaRaM gfhiRI
+087.41A: tatra sevakena kaTam sTAtavyam yatra ca pratikzaRam gfhiRI
+087.41P: pratikzaRaM -- kzaRe kzaRe .
+
+087.42F: sevakasya muKaM jiGrati . tato'sAvutTAya calitaH . sADunA
+087.42A: sevakasya muKam jiGrati . tataH asO utTAya calitaH . sADunA
+
+087.43F: yatnAtpraboDya DftaH . ato'haM bravImi -- utpannAmApadam ityAdi .
+087.43A: yatnAt praboDya DftaH . ataH aham bravImi -- utpannAm Apadam ityAdi .
+
+087.44F: tato yadBavizyeRoktam --
+087.44A: tataH yat BavizyeRa uktam --
+

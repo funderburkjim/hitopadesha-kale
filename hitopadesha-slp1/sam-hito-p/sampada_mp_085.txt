@@ -1,0 +1,107 @@
+085.01F: kzamI dAtA guRagrAhI svAmI duHKena laByate .
+085.01A: kzamI dAtA guRagrAhI svAmI duHKena laByate .
+085.01A: kzamI -- kzamASIlaH . aparADasaH ityarTaH .
+
+085.02F: rAjAha -- satyamevEtat . kiMtu .
+085.02A: rAjA Aha -- satyam eva etat . kim tu .
+
+085.03F: Sucirdakzo'nuraktaSca jAne Bftyo'pi durlaBaH .. 141..
+085.03A: SucirdakzaH anuraktaH ca jAne BftyaH api durlaBaH .. 141..
+085.03P: SuciH -- SudDAntaHkaraRaH apApabudDiH .
+
+085.04F: sAraso brUte -- anyacca deva SfRu .
+085.04A: sArasaH brUte -- anyat ca deva SfRu .
+
+085.05F: yadi samaramayAsya nAsti mftyor
+085.05A: yadi samaramapAsya na asti mftyoH
+
+085.06F: Bayamiti yuktamito'nyataH prayAtum .
+085.06A: Bayam iti yuktam itaH anyataH prayAtum .
+
+085.07F: aTa maraRamavaSyameva jantoH
+085.07A: aTa maraRam avaSyam eva jantoH
+
+085.08F: kimiti muDA malinaM yaSaH kriyate .. 142..
+085.08A: kim iti muDA malinam yaSaH kriyate .. 142..
+
+085.09F: anyacca . Bave'sminpavanodBrAntavIciviBramaBaNgure .
+085.09A: anyat ca . Bave asmin pavanodBrAntavIciviBramaBaNgure .
+; Sampada: unsure about 'Bave'
+085.09P: pavana -- pavanena vAtyayA udBrAntA ye vIcayastaraNgAstezAM viBramaH BramaRaM tadvadBaMgure kzaRaviDvaMsini .
+
+085.10F: jAyate puRyayogena parArTe jIvitavyayaH .. 143..
+085.10A: jAyate puRyayogena parArTe jIvitavyayaH .. 143..
+; Sampada: seems to be Typo in 'puRayyogena'. It could be 'puRyayogena'  Jim: agree and changed
+
+085.11F: svAmyamAtyaSca rAzwraM ca durgaM koSo balaM suhft .
+085.11A: svAmyamAtyaH ca rAzwram ca durgam koSaH balam suhft .
+
+085.12F: rAjyANgAni prakftayaH pOrARAM SreRayo'pi ca .. 144..
+085.12A: rAjyANgAni prakftayaH pOrARAm SreRayaH api ca .. 144..
+
+085.13F: deva tvaM ca svAmI sarvaTA rakzaRIyaH . yataH .
+085.13A: deva tvam ca svAmI sarvaTA rakzaRIyaH . yataH .
+
+085.14F: prakftiH svAminA tyaktA samfdDApi na jIvati .
+085.14A: prakftiH svAminA tyaktA samfdDA api na jIvati .
+
+085.15F: api DanvantarirvEdyaH kiM karoti gatAyuzi .. 145..
+085.15A: api DanvantariH vEdyaH kim karoti gatAyuzi .. 145..
+
+085.16F: aparaM ca . nareSe jIvaloko'yaM nimIlati nimIlati .
+085.16A: aparam ca . nareSe jIvalokaH ayam nimIlati nimIlati .
+085.16P: nareSe nimIlati nASaM yAti sati .
+085.16P+: nimIlati -- nASameti . atra kAmandakaH -- nareSvare jagatsarvaM nimIlati nimIlati . sUryodaye yaTAmBojaM tatpraboDe prabuDyate .
+
+085.17F: udetyudIyamAne ca ravAviva saroruham .. 146..
+085.17A: udeti udIyamAne ca ravO iva saroruham .. 146..
+
+085.18F: aTa kukkuwenAgatya rAjahaMsasya SarIre KarataranaKAGAtaH kftaH .
+085.18A: aTa kukkuwena Agatya rAjahaMsasya SarIre KarataranaKAGAtaH kftaH .
+
+085.19F: tataH satvaramupasftya sArasena svadehAntarito rAjA . 
+085.19A: tataH satvaram upasftya sArasena svadehAntaritaH rAjA . 
+085.19P: svadehAntaritaH -- svadehasya maDye'vasTApanena vyavahitaH .
+
+085.20F: anantaraM kukkuwena naKasuKaprahArErjarjarIkftena sArasena svANgenAcCAdya prerya rAjA
+085.20A: anantaram kukkuwena naKasuKaprahArEH jarjarIkftena sArasena svANgena AcCAdya prerya rAjA
+
+085.21F: jale kziptaH . kukkuwasenApatiSca caYcuprahAreRa vyApAditaH . paScAtsAraso'pi bahuBiH
+085.21A: jale kziptaH . kukkuwasenApatiH ca caYcuprahAreRa vyApAditaH . paScAt sArasaH api bahuBiH
+
+085.22F: saMBUya vyApAditaH .  . aTa
+085.22A: saMBUya vyApAditaH . aTa
+
+085.23F: citravarRo rAjA durgaM praviSya durgAvasTitaM dravyaM grAhayitvA
+085.23A: citravarRaH rAjA durgam praviSya durgAvasTitam dravyam grAhayitvA
+
+085.24F: bandiBirjayaSabdErAnanditaH svaskanDAvAraM jagAma . aTa
+085.24A: bandiBirjayaSabdEH AnanditaH svaskanDAvAram jagAma . aTa
+085.24P: skanDAvAram -- svasEnyam .
+
+085.25F: rAjaputrEruktaM -- tasminrAjahaMsabale sa puRyavAnsArasa eva
+085.25A: rAjaputrEH uktam -- tasmin rAjahaMsabale saH puRyavAn sArasaH eva
+
+085.26F: yena svadehatyAgena svAmI rakzitaH . uktaM cEtat --
+085.26A: yena svadehatyAgena svAmI rakzitaH . uktam ca etat --
+
+085.27F: janayanti sutAn gAvaH sarvA eva gavAkftIn .
+085.27A: janayanti sutAn gAvaH sarvAH eva gavAkftIn .
+
+085.28F: vizARolliKitaskanDaM kAcideva gavAM patim .. 147..
+085.28A: vizARolliKitaskanDam kA cit eva gavAm patim .. 147..
+085.28P: vizARa -- vizARAByAmulliKitO skanDO yasya .
+
+085.29F: vizRuSarmovAca -- sa tAvadvidyADarIparijanaH
+085.29A: vizRuSarmA uvAca -- saH tAvat vidyADarIparijanaH
+085.29P: vidyADarIparijanaH vidyADarastriyaH parijanaH yasya .
+
+085.30F: svargasuKamanuBavatu mahAsattvaH . taTA coktam --
+085.30A: svargasuKam anuBavatu mahAsattvaH . taTA ca uktam --
+
+085.31F: Ahavezu ca ye SUrAH svAmyarTe tyaktajIvitAH .
+085.31A: Ahavezu ca ye SUrAH svAmyarTe tyaktajIvitAH .
+
+085.32F: BartfBaktAH kftajYASca te narAH svargagAminaH .. 148..
+085.32A: BartfBaktAH kftajYAH ca te narAH svargagAminaH .. 148..
+

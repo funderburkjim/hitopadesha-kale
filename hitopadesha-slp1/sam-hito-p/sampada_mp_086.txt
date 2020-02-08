@@ -1,0 +1,88 @@
+086.01F: yatra yatra hataH SUraH SatruBiH parivezwitaH .
+086.01A: yatra yatra hataH SUraH SatruBiH parivezwitaH .
+086.01P: yatra tatra -- kvApi . puRye apuRye vA deSe .
+
+086.02F: akzayAMllaBate lokAnyadi klEbyaM na gacCati .. 149..
+086.02A: akzayAn laBate lokAn yadi klEbyam na gacCati .. 149..
+086.02P: yadi klEbyaM <ab n="ityAdi">i</ab> -- yadi SOryeRa yudDaM karoti .
+
+086.03F: vigrahaH Sruto BavadBiH rAjaputrEruktam -- SrutvA suKino BUtA vayam .
+086.03A: vigrahaH SrutaH BavadBiH rAjaputrEH uktam -- SrutvA suKinaH BUtAH vayam .
+
+086.04F: vizRuSarmAbravIt -- aparamapyevamastu .
+086.04A: vizRuSarmA abravIt -- aparam api evam astu .
+
+086.05F: vigrahaH karituraNgapattiBirno kadApi BavatAn mahIBujAm .
+; karituraNgapattiBiH   = kari + turaNga + patti  (3p)   : elephant, horse, footsoldier
+086.05A: vigrahaH karituraNgapattiBirno kadA api BavatAn mahIBujAm .
+; Sampada: doubt for 'karituraNgapattiBirno'.
+086.05P: no kadApi -- kadApi mahIBftAM vigrahaH na Bavatu . yadvA BavatAM yuzmAkaM itarezAM mahIBftAM ca vigrahaH no Bavediti SezaH . 
+
+086.06F: nItimantrapavanEH samAhatAH saMSrayantu girigahvaraM dvizaH .. 150..
+086.06A: nItimantrapavanEH samAhatAH saMSrayantu girigahvaram dvizaH .. 150..
+086.06P: kiMtu nItiH nayaH mantrAH mantraRAH te eva pavanAH tEH iti .
+
+086.07F: iti hitopadeSe vigraho nAma tftIyaH kaTAsaMgraha samAptaH .
+086.07A: iti hitopadeSe vigrahaH nAma tftIyaH kaTAsaMgrahaH samAptaH .
+
+086.08F: .. saMDiH ..
+086.08A: .. saMDiH ..
+086.08P: saMDiH -- sAmakaraRam .
+
+086.09F: punaH kaTAramBakAle rAjaputrEruktam -- Arya vigrahaH Sruto'smABiH . saMDiraDunABiDIyatAm .
+086.09A: punaH kaTAramBakAle rAjaputrEH uktam -- Arya vigrahaH SrutaH asmABiH . saMDiH aDunA aBiDIyatAm .
+
+086.10F: vizRuSarmeRoktam -- SrUyatAm . saMDimapi kaTayAmi yasyAyamAdyaH SlokaH --
+086.10A: vizRuSarmeRa uktam -- SrUyatAm . saMDim api kaTayAmi yasya ayam AdyaH SlokaH --
+
+086.11F: vftte mahati saNgrAme rAjYornihatasenayoH .
+086.11A: vftte mahati saNgrAme rAjYoH nihatasenayoH .
+
+086.12F: sTeyAByAM gfDracakrAByAM vAcA saMDiH kftaH kzaRAt .. 1..
+086.12A: sTeyAByAm gfDracakrAByAm vAcA saMDiH kftaH kzaRAt .. 1..
+086.12P: sTeyAByAm -- maDyasTAByAm .
+
+086.13F: rAjaputrA UcuH -- kaTametat . vizRuSarmA kaTayati --
+086.13A: rAjaputrAH UcuH -- kaTam etat . vizRuSarmA kaTayati --
+
+086.14F: tatastena rAjahaMsenoktam -- kenAsmaddurge nikzipto'gniH . kiM pArakyeRa 
+086.14A: tataH tena rAjahaMsena uktam -- kena asmat durge nikziptaH agniH . kim pArakyeRa 
+086.14P: pArakyeRa -- parakIyeRa SatruRA vA .
+
+086.15F: kiMvAsmaddurgavAsinA kenApi vipakzaprayuktena . cakro brUte -- deva . Bavato 
+086.15A: kim vA asmat durgavAsinA kena api vipakzaprayuktena . cakraH brUte -- deva . BavataH 
+
+086.16F: nizkAraRabanDurasO meGavarRaH saparivAro na dfSyate . tanmanye tasyEva vicezwitamidam .
+086.16A: nizkAraRabanDuH asO meGavarRaH saparivAraH na dfSyate . tan manye tasya eva vicezwitam idam .
+086.16P: nizkAraRabanDuH -- sopAlamBaM vaca etad .
+
+086.17F: rAjA kzaRaM vicintyAha -- asti tAvadeva mama durdEvametat . taTA coktam --
+086.17A: rAjA kzaRam vicintya Aha -- asti tAvat eva mama durdEvam etat . taTA ca uktam --
+
+086.18F: aparADaH sa dEvasya na punarmantriRAmayam .
+086.18A: aparADaH saH dEvasya na punaH mantriRAm ayam .
+
+086.19F: kAryaM suGawitaM kvApi dEvayogAdvinaSyati .. 2..
+086.19A: kAryam suGawitam kva api dEvayogAt vinaSyati .. 2..
+; Sampada: Please check word 'sucaritaM' in Sentence F is different in Sentence A 'suGawitam'.  Jim: Kale has suGawitam; 
+086.19P: kvApi -- kadAcidapi .
+
+086.20F: mantrI brUte -- utktamevEtat .
+086.20A: mantrI brUte -- utktam eva etat .
+
+086.21F: vizamAM hi daSAM prApya dEvaM garhayate naraH .
+086.21A: vizamAm hi daSAm prApya dEvam garhayate naraH .
+
+086.22F: AtmanaH karmadozAMstu nEva jAnAtyapaRqitaH .. 3..
+086.22A: AtmanaH karmadozAn tu na eva jAnAti apaRqitaH .. 3..
+086.22P: apaRqitaH naraH vizamAM kazwAM daSAmavasTAM prApya iti yojyam .
+
+086.23F: aparaM ca . suhfdAM hitakAmAnAM yo vAkyaM nABinandati .
+086.23A: aparam ca . suhfdAm hitakAmAnAm yaH vAkyam na aBinandati .
+
+086.24F: sa kUrma iva durbudDiH kAzWAdBrazwo vinaSyati .. 4..
+086.24A: sa kUrmaH iva durbudDiH kAzWAt BrazwaH vinaSyati .. 4..
+
+086.25F: rAjAha -- kaTametat . mantrI kaTayati --
+086.25A: rAjA Aha -- kaTam etat . mantrI kaTayati --
+

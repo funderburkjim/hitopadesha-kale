@@ -1,0 +1,96 @@
+075.01F: sameyAdvizamaM nAgErjalAQyaM samahIDaram .
+075.01A: sameyAdvizamam nAgEH jalAQyam samahIDaram .
+075.01P: vizamaM <ab n="ityAdi">i</ab> -- pradeSaM  iti SezaH .
+
+075.02F: samamaSvErjalaM nOBiH sarvatrEva padAtiBiH .. 73..
+075.02A: samam aSvEH jalam nOBiH sarvatra eva padAtiBiH .. 73..
+
+075.03F: hastinAM gamanaM proktaM praSastaM jaladAgame .
+075.03A: hastinAm gamanam proktam praSastam jaladAgame .
+075.03P: hastinAM -- gajasEnikAnAm .
+
+075.04F: tad anyatra turaNgARAM pattInAM sarvadEva hi .. 74..
+075.04A: tat anyatra turaNgARAm pattInAm sarvadA eva hi .. 74..
+
+075.05F: SElezu durgamArgezu viDeyaM nfparakzaRam .
+075.05A: SElezu durgamArgezu viDeyam nfparakzaRam .
+
+075.06F: suyoDE rakzitasyApi SayanaM yoganidrayA .. 75..
+075.06A: suyoDEH rakzitasya api Sayanam yoganidrayA .. 75..
+075.06P: Sayanam yoganidrayA -- arDapraboDayuktanidrA yoganidrA tayA . nfpaH suptopi sAvaDAnaM varteta iti BAvaH .
+
+075.07F: nASayet karzayecCatrUndurgakaRwakamardanEH .
+075.07A: nASayet karzayet SatrUn durgakaRwakamardanEH .
+075.07P: karzayet -- kleSayet .
+075.07P+: durgakaRwakamardanEH -- durgakaRwakezu saMkawamArgezu mardanEH nASanEH .
+
+075.08F: paradeSapraveSe ca kuryAdAwavikAnpuraH .. 76..
+075.08A: paradeSapraveSe ca kuryAt AwavikAn puraH .. 76..
+
+075.09F: yatra rAjA tatra koSo vinA koSAnna rAjatA .
+075.09A: yatra rAjA tatra koSaH vinA koSAt na rAjatA .
+
+075.10F: svaBftyeByastato dadyAtko hi dAturna yuDyate .. 77..
+075.10A: svaBftyeByaH tataH dadyAt kaH hi dAtuH na yuDyate .. 77..
+075.10P: ko hi dAtuH na yuDyate -- yaH nfpaH dravyadAnena suyoDAn tozayati tadarTaM ko na yuDyate . sarva eva yuDyate iti BAvaH . atra bfhaspatiH -- niyuktaH karmanizpattO vijYaptO ca yadfcCayA . BftyAnDanErmAnayaMstu navopyakzoByatAM vrajet . iti .
+
+075.11F: yataH . na narasya naro dAso dAsastvarTasya BUpate .
+075.11A: yataH . na narasya naraH dAsaH dAsaH tu arTasya BUpate .
+
+075.12F: gOravaM lAGavaM vApi DanADananibanDanam .. 78..
+075.12A: gOravam lAGavam vA api DanADananibanDanam .. 78..
+075.12P: DanADananibanDanam -- DanADananizwam .
+
+075.13F: aBedena ca yuDyeran rakzeyuSca parasparam .
+075.13A: aBedena ca yuDyeran rakzeyuH ca parasparam .
+075.13P: aBedena -- Ekyena , parasparAviyogena .
+
+075.14F: Palgu sEnyaM ca yatkiMcinmaDye vyUhasya kArayet .. 79..
+075.14A: Palgu sEnyam ca yat kim cit maDye vyUhasya kArayet .. 79..
+
+075.15F: padAtIMSca mahIpAlaH puro'nIkasya yojayet .
+075.15A: padAtIn ca mahIpAlaH puraH anIkasya yojayet .
+; Sampada: 'padAtIMSca'?
+075.15P: anIkasya -- sEnyasya . anIkaM tu raRe sEnye iti viSvaH .
+
+075.16F: uparuDyArimAsIta rAzwraM cAsyopapIqayet .. 80..
+075.16A: uparuDyArimAsIta rAzwram ca asya upapIqayet .. 80..
+075.16A: uparuDya -- SatrunagarAvaroDaM kftvA .
+
+075.17F: syandanASvEH same yuDyedanUpe nOdvipEstaTA .
+075.17A: syandanASvEH same yuDyet anUpe nOdvipEH taTA .
+075.17P: anUpe jalaprAyadeSe . anUpo mahize nAmbuprAyadeSe tu vAcyavat . iti medinI .
+
+075.18F: vfkzagulmAvfte cApErasicarmAyuDEH sTale .. 81..
+075.18A: vfkzagulmAvfte cApEH asicarmAyuDEH sTale .. 81..
+
+075.19F: dUzayeccAsya satataM yavasAnnodakenDanam .
+075.19A: dUzayeccAsya satatam yavasAn na udakenDanam .
+075.19P: dUzayet -- nASayet , anupayogi vA kuryAt .
+075.19P+: yavasaH -- GAsaH .
+
+075.20F: BindyAccEva taqAgAni prakArArAn pariKAstaTA .. 82..
+075.20A: BindyAt ca eva taqAgAni prakArArAn pariKAstaTA .. 82..
+
+075.21F: balezu pramuKo hastI na taTAnyo mahIpateH .
+075.21A: balezu pramuKaH hastI na taTA anyaH mahIpateH .
+
+075.22F: nijEravayavEreva mAtaNgo'zwAyuDaH smftaH .. 83..
+075.22A: nijEH avayavEH eva mAtaNgaH azwAyuDaH smftaH .. 83..
+
+075.23F: balamaSvaSca sEnyAnAM prAkAro jaNgamo yataH .
+075.23A: balam aSvaH ca sEnyAnAm prAkAraH jaNgamaH yataH .
+075.23P: balamaSvaSca -- aSvaH sEnyAnAM balaM muKyADAraH yataH jaMgamaH prAkAraH .
+
+075.24F: tasmAdaSvADiko rAjA vijayI sTalavigrahe .. 84..
+075.24A: tasmAt aSvADikaH rAjA vijayI sTalavigrahe .. 84..
+
+075.25F: taTA coktam . yuDyamAnA hayArUQA devAnAmapi durjayAH .
+075.25A: taTA ca uktam . yuDyamAnA hayArUQA devAnAm api durjayAH .
+
+075.26F: api dUrasTitAstezAM vEriRo hastavartinaH .. 85..
+075.26A: api dUrasTitAH tezAm vEriRaH hastavattinaH .. 85..
+
+075.27F: praTamaM yudDakAritvaM samastabalapAlanam .
+075.27A: praTamam yudDakAritvam samastabalapAlanam .
+075.27P: yudDakAritvaM -- yoDakAryam . yudDena SatruniroDa ityarTaH .

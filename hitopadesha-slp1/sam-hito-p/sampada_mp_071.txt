@@ -1,0 +1,96 @@
+071.01F: anyacca . sa mUrKaH kAlamaprApya yo'pakartari vartate .
+071.01A: anyat ca . sa mUrKaH kAlam aprApya yaH apakartari vartate .
+071.01P: apakartari vartate -- apakartari SatrO vizaye vartate aBiyogaM kurute . yudDodyoge pravartate ityarTaH . 
+
+071.02F: kalirbalavatA sArDaM kIwapakzodgamo yaTA .. 47..
+071.02A: kaliH balavatA sArDam kIwapakzodgamaH yaTA .. 47..
+071.02P: kIwasya pipIlikAdeH pakzodgamaH yaTA tannASAya Bavati taTA . pakzodyama iti pAWe sa yaTA akiMcitkarastaTA ityarTaH . 
+
+071.03F: kiM ca . kOrmaM saMkocamAsTAya prahAramapi marzayet .
+071.03A: kim ca . kOrmam saMkocam AsTAya prahAram api marzayet .
+
+071.04F: prAptakAle tu nItijYa uttizWetkrUrasarpavat .. 48..
+071.04A: prAptakAle tu nItijYaH uttizWet krUrasarpavat .. 48..
+
+071.05F: SfRu deva . mahatyalpe'pyupAyajYaH samameva Bavet kzamaH .
+071.05A: SfRu deva . mahati alpe api upAyajYaH samam eva Bavet kzamaH .
+
+071.06F: samunmUlayituM vfkzAMstfRAnIva nadIrayaH .. 49..
+071.06A: samunmUlayitum vfkzAn tfRAni iva nadIrayaH .. 49..
+
+071.07F: attastaddUto'yaM
+071.07A: ataH tat dUtaH ayam
+
+071.08F: Suko'trASvAsya tAvadDriyatAM yAvaddurgaM sajjIkriyate . yataH .
+071.08A: SukaH atra ASvAsya tAvat DriyatAm yAvat durgam sajjIkriyate . yataH .
+
+071.09F: ekaH SataM yoDayati prAkArasTo DanurDaraH .
+071.09A: ekaH Satam yoDayati prAkArasTaH DanurDaraH .
+071.09P: eka iti - manuH 7.74 .
+
+071.10F: SataM SatasahasrARi tasmAd durgaM viDIyate .. 50..
+071.10A: Satam SatasahasrARi tasmAt durgam viDIyate .. 50..
+071.10P: viDIyate -- kartavyatayA upadiSyate . durgaviDAne ca manuH -- 'DanurdurgaM mahIdurgamabdurgaM vArkzameva vA . nfdurgaM giridurgaM vA samASritya vasetpuram .' iti .
+
+071.11F: adurgovizayaH kasya nAreH pariBavAspadam .
+071.11A: adurgaH vizayaH kasya nAreH pariBavAspadam .
+071.11P: kasyAreH -- paMcamarTe zazWI . rAjYo vizayaH adurgaH syAccet kasmAt SatroH tasya parABavaH na syAt . yadvA kasya vizayaH iti yojanA . tadeva spazwayati adurgaH rAjA potacyutamanuzyavad anASrayaH nirAlambaH mriyate ityarTaH .
+
+071.12F: adurgo'nASrayo rAjA potacyutamanuzyavat .. 51..
+071.12A: adurgaH anASrayaH rAjA potacyutam anuzyavat .. 51..
+
+071.13F: durgaM kuryAn mahAKAtamuccaprAkArasaMyutam .
+071.13A: durgam kuryAn mahAKAtam uccaprAkArasaMyutam .
+071.13P: mahAKAtam -- mahat KAtaM pariKA yasya .
+071.13P+: prAkAraH -- prAnto BittiH .
+
+071.14F: sayantraM sajalaM SElasarinmaruvanASrayam .. 52..
+071.14A: sayantram sajalam SElasarit maruvanASrayam .. 52..
+071.14P: sayantram -- SatrupIqanArTamiti BAvaH . 
+
+071.15F: vistIrRatAtivEzamyaM rasaDAnyeDmasaMgrahaH .
+071.15A: vistIrRatA ativEzamyam rasaDAnyeDmasaMgrahaH .
+071.15P: ativEzamyam -- BUmeH natonnatatA .
+071.15P+: rasa -- rasaH jalam . 'raso ganDe rase jale' iti medinI .
+
+071.16F: praveSaScApasAraSca saptEtA durgasampadaH .. 53..
+071.16A: praveSaH ca apasAraH ca saptEtA durgasampadaH .. 53..
+071.16P: praveSa <ab n="ityAdi">i</ab> 
+071.16P+: praveSanirgamamArgAH . 
+
+071.17F: rAjAha -- durgAnusaMDAne ko niyujyatAm .
+071.17A: rAjA Aha -- durgAnusaMDAne kaH niyujyatAm .
+071.17P: durgAnusaMDAne -- sajjIkaraRAvekzaRe .
+
+071.18F: cakro brUte -- 
+071.18A: cakraH brUte -- 
+
+071.19F: yo yatra kuSalaH kArye taM tatra viniyojayet .
+071.19A: yaH yatra kuSalaH kArye tam tatra viniyojayet .
+
+071.20F: karmasvadfzwakarmA yaH SAstrajYo'pi vimuhyati .. 54..
+071.20A: karmasvadfzwakarmA yaH SAstrajYaH api vimuhyati .. 54..
+071.20P: adfzwakarmA -- ajYAtaviDAnaH svayamakftakAryaH .
+071.20P+: vimuhyati -- mohamApadyate . tasya budDistasminkArye samyaN na sPurati .
+
+071.21F: tadAhUyatAM sArasaH . taTAnuzWite satyAgataM sArasamAlokya
+071.21A: tat AhUyatAm sArasaH . taTA anuzWite sati Agatam sArasam Alokya
+
+071.22F: rAjovAca -- BoH sArasa tvaM satvaraM durgamanusaMDehi .
+071.22A: rAjA uvAca -- BoH sArasa tvam satvaram durgam anusaMDehi .
+
+071.23F: sArasaH praRamyovAca -- deva durgaM tAvadidameva cirAt
+071.23A: sArasaH praRamya uvAca -- deva durgam tAvat idam eva cirAt
+
+071.24F: sunirUpitamAste mahatsaraH .
+071.24A: sunirUpitam Aste mahat saraH .
+
+071.25F: kiMtvatra maDyavartidvIpe dravyasaNgrahaH kAryatAm . yataH .
+071.25A: ki tu atra maDyavartidvIpe dravyasaNgrahaH kAryatAm . yataH .
+
+071.26F: DAnyAnAM saMgraho rAjannuttamaH sarvasaMgrahAt .
+071.26A: DAnyAnAm saMgrahaH rAjan uttamaH sarvasaMgrahAt .
+
+071.27F: nikziptaM hi muKe ratnaM na kuryAtprARaDAraRam .. 55..
+071.27A: nikziptam hi muKe ratnam na kuryAt prARaDAraRam .. 55..
+071.27P : nikziptamiti -- ratnaM dravyamityarTaH . kevalaM kozasaMvarDaM na kAryakaramiti BAvaH .

@@ -1,0 +1,104 @@
+081.01F: pramattaM BojanavyagraM vyADidurBikzapIqitam .
+081.01A: pramattam Bojanavyagram vyADidurBikzapIqitam .
+081.01A: pramattam -- anavahitaM kzIbaM vA .
+
+081.02F: asaMsTitamaBUyizWaM vfzwivAtasamAkulam .. 109..
+081.02A: asaMsTitam aBUyizWam vfzwivAtasamAkulam .. 109..
+081.02P: asaMsTitam -- avyavasTitam .
+
+081.03F: paNkapAMSujalAcCannaM suvyastaM dasyuvidrutam .
+081.03A: paNkapAMSujalAcCannam suvyastam dasyuvidrutam .
+081.03P: suvyastam -- itastato'pasftam . triBirviSezakam .
+
+; 'parasEnyaM' missing in print
+081.04F: evamBUtaM mahIpAlaH parasEnyaM viGAtayet .. 110..
+081.04A: evamBUtam mahIpAlaH parasEnyam viGAtayet .. 110..
+081.04P: atra kAmandakaH -- kandarASElagahananimnagAvanasaMkawe . 
+dIrGeDvani pariSrAntaM kzutpipAsAhitaklamam .. 
+vyADidurBikzamakarEH pIqitaM dasyuvidrutam .
+paNkapAMSujalaklinnaM vyastaM puYjIkftaM paTi ..
+prasuptaM BojanavyagramaBUmisTamasaMsTitam .
+cOrAgniBayavitrastaM vfzwivAtasamAhatam ..
+evamAdizu jAtezu vyasanezu samAkulam .
+svasEnyaM sADu rakzeta parasEnyaM ca GAtayet .
+
+081.05F: anyacca . avaskandaBayAdrAjA prajAgarakftaSramam .
+081.05A: anyat ca . avaskandaBayAt rAjA prajAgarakftaSramam .
+081.05P: avaskandaBayAt -- avaskandaH AkramaRaM tadBayAdyaH prajAgarastena kftaH SramaH yasya .
+
+; sadA print unclear
+081.06F: divAsuptaM sadAhanyAnnidrAvyAkulasEnikam .. 111..
+081.06A: divAsuptam sadAhanyAn nidrAvyAkulasEnikam .. 111..
+
+081.07F: atastasya pramAdino balaM gatvA yaTAvakASaM divAniSaM
+081.07A: ataH tasya pramAdinaH balam gatvA yaTAvakASam divAniSaM
+
+081.08F: GnantvasmatsenApatayaH . taTAnuzWite citravarRasya sEnikAH
+081.08A: Gnantu asmat senApatayaH . taTA anuzWite citravarRasya sEnikAH
+
+081.09F: senApatayaSca bahavo nihatAH . tataScitravarRo vizaRRaH
+081.09A: senApatayaH ca bahavaH nihatAH . tataH citravarRaH vizaRRaH
+
+081.10F: svamantriRaM dUradarSinamAha -- tAta kimityasmadupekzA
+081.10A: svamantriRam dUradarSinam Aha -- tAta kim iti asmat upekzA
+
+081.11F: kriyate . kiM kvApyavinayo mamAsti . taTA coktam --
+081.11A: kriyate . kim kvApyavinayaH mama asti . taTA ca uktam --
+
+081.12F: na rAjyaM prAptamityeva vartitavyamasAMpratam .
+081.12A: na rAjyam prAptam iti eva vartitavyamasAMpratam .
+081.12P: asAMpratam -- niyamamujJitvA , avinayena .
+
+081.13F: SriyaM hyavinayo hanti jarA rUpamivottamam .. 112..
+081.13A: Sriyam hi avinayaH hanti jarA rUpam iva uttamam .. 112..
+
+081.14F: anyacca . dakzaH SriyamaDigacCati paTyASI kalyatAM suKamarogI .
+081.14A: anyat ca . dakzaH Sriyam aDigacCati paTyASI kalyatAm suKam arogI .
+081.14P: dakzaH -- svakAryadakzaH .
+081.14P+: kalyatAm -- arogitAm .
+
+; viyAnta or vidyAnta - print unclear
+081.15F: udyukto viyAntaM DarmArTayaSAMsi ca vinItaH .. 113..
+081.15A: udyuktaH viyAntam DarmArTayaSAMsi ca vinItaH .. 113..
+
+081.16F: gfDro'vadat -- deva SfRu .
+081.16A: gfDraH avadat -- deva SfRu .
+
+081.17F: avidvAnapi BUpAlo vidyAvfdDopasevayA .
+081.17A: avidvAn api BUpAlaH vidyAvfdDopasevayA .
+
+081.18F: parAM SriyamavApnoti jalAsannataruryaTA .. 114..
+081.18A: parAm Sriyam avApnoti jalAsannataruH yaTA .. 114..
+
+081.19F: anyacca . pAnaM strI mfgayA dyUtamarTadUzaRameva ca .
+081.19A: anyat ca . pAnam strI mfgayA dyUtam arTadUzaRam eva ca .
+081.19P: arTadUzaRam -- kozasyAnyaTA vyayaH .
+
+081.20F: vAgdaRqayoSca pAruzyaM vyasanAni mahIBujAm .. 115..
+081.20A: vAgdaRqayoH ca pAruzyam vyasanAni mahIBujAm .. 115..
+
+081.21F: kiM ca . na sAhasEkAntarasAnuvartinA
+081.21A: kim ca . na sAhasA ekAntarasAnuvartinA
+081.21P: sAhasEkAnta -- sAhasaM amfSyakAritvaM eva ekAntaH muKyaH rasaH taM anuvartate tena .
+
+081.22F: na cApyupAyopahatAntarAtmanA .
+081.22A: na ca api upAyopahatAntarAtmanA .
+081.22P: upAyo -- upAyezu sADanAnvezaRezu upahataH AtmA budDiryasya .
+
+081.23F: viBUtayaH SakyamavAptumUrjitA
+081.23A: viBUtayaH Sakyam avAptum UrjitA
+081.23P: UrjitAH -- utkfzwAH .
+
+081.24F: naye ca SOrye ca vasanti saMpadaH .. 116..
+081.24A: naye ca SOrye ca vasanti saMpadaH .. 116..
+
+081.25F: tvayA svabalotsAhamavalokya sAhasEkarasinA mayopanTastezvapi
+081.25A: tvayA svabalotsAham avalokya sAhasA ekarasinA mayopanTaH tezu api
+081.25P: upanyastezu -- prastutezu kartavyatayA nirdizwezu .
+
+081.26F: mantrezvanavaDAnaM vAkpAruzyaM ca kftam . ato durnIteH
+081.26A: mantrezu anavaDAnam vAkpAruzyam ca kftam . ataH durnIteH
+
+081.27F: PalamidamanuBUyate . taTA coktam --
+081.27A: Palam idam anuBUyate . taTA ca uktam --
+

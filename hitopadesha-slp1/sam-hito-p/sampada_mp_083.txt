@@ -1,0 +1,106 @@
+083.01F: yaH kAkinImapyapaTaprapannAM samudDarennizkasahasratulyAm .
+083.01A: yaH kAkinIm api apaTaprapannAm samudDaret nizkasahasratulyAm .
+083.01P: apaTaprapannAm -- anyaTAvyayitAM durupayuktAm .
+083.01P+: samudDaret -- apavyayAdrakzet .
+083.01P++: vyayAvasarAnAha -- kratAvityAdinA .
+
+083.02F: kAlezu kowizvapi muktahastastaM rAjasiMhaM na jahAti lakzmIH .. 123..
+083.02A: kAlezu kowizu api muktahastaH tam rAjasiMham na jahAti lakzmIH .. 123..
+
+083.03F: anyacca . kratO vivAhe vyasane ripukzaye yaSaskare karmaRi mitrasaMgrahe .
+083.03A: anyat ca . kratO vivAhe vyasane ripukzaye yaSaskare karmaRi mitrasaMgrahe .
+083.03P: vyasane -- Apadi , tannikaraRe ityAdi .
+
+083.04F: priyAsu nArIzvaDanezu bAnDuzu hyativyayo nAsti narADipAzwasu .. 124..
+083.04A: priyAsu nArIzu aDanezu bAnDuzu hi ativyayaH na asti narADipAzwasu .. 124..
+083.04P: azwasu -- etezu azwasu vizayezu DanavyayovaSyaM karaRIyaH . 
+
+083.05F: yataH . mUrKaH svalpavyayatrAsAtsarvanASaM karoti hi .
+083.05A: yataH . mUrKaH svalpavyayatrAsAt sarvanASam karoti hi .
+
+; Kale print: Sulka -> Sukla ?
+083.06F: kaH suDIstyajate BARqaM SuklasyEvAtisADvasAt .. 125..
+083.06A: kaH suDIH tyajate BARqam Suklasya eva atisADvasAt .. 125..
+083.06P: BARqam -- paRyadravyam .
+083.06P+: Suklasya -- rAjadeyakarasya .
+
+083.07F: rAjAha -- kaTamiha samaye'tivyayo 
+083.07A: rAjA Aha -- kaTam iha samaye ativyayaH 
+
+083.08F: yujyate . uktaM ca -- ApadarTe DanaM rakzet --
+083.08A: yujyate . uktam ca -- ApadarTe Danam rakzet --
+
+083.09F: mantrI brUte -- SrImatAM kaTamApadaH .
+083.09A: mantrI brUte -- SrImatAm kaTam ApadaH .
+
+083.10F: rAjAha -- kadAciccalite lakzmIH 
+083.10A: rAjA Aha - kadAcit calite lakzmIH 
+
+083.11F: mantrI brUte -- saMcitApi vinaSyati .. 126 ..
+083.11A: mantrI brUte -- saMcitA api vinaSyati .. 126 ..
+
+083.12F: taddeva kArpaRyaM vimucya svasuBawA dAnamAnAByAM puraskriyantAm . taTA coktam --
+083.12A: tat deva kArpaRyam vimucya svasuBawA dAnamAnAByAm puraskriyantAm . taTA ca uktam -- 
+
+083.13F: parasparajYAH saMhfzwAstyaktuM prARAnsuniScitAH .
+083.13A: parasparajYAH saMhfzwAH tyaktum prARAn suniScitAH .
+083.13P: parasparajYAH -- jYAtAnyonyasvaBAvAH badDasOhfdA ityarTaH .
+083.13P+: tyaktuM -- jIvitavyayenApi svAminaM sevituM kftaniScayAH .
+
+083.14F: kulInAH pUjitAH samyagvijayante dvizadbalam .. 127..
+083.14A: kulInAH pUjitAH samyak vijayante dvizat balam .. 127..
+
+083.15F: aparaM ca . suBawAH SIlasampannAH saMhatAH kftaniScayAH .
+083.15A: aparam ca . suBawAH SIlasampannAH saMhatAH kftaniScayAH .
+
+; niGnanti -> 'mfdnanti', which looks like print. mfd: to press, squeeze, etc.
+083.16F: api paYcaSataM SUrA mfdnanti ripuvAhinIm .. 128..
+083.16A: api paYcaSatam SUrAH mfdnanti ripuvAhinIm .. 128..
+
+083.17F: kiM ca . SizwErapyaviSezajYa ugraSca kftanASakaH .
+083.17A: kim ca . SizwEH api aviSezajYaH ugraH ca kftanASakaH .
+083.17P: kftanASakaH -- akftajYaH kftaGnaH .
+
+083.18F: tyajyate kiM punarnAnyEryaScApyAtmaMBarirnaraH .. 129..
+083.18A: tyajyate kim punaH na anyEH yaH ca api AtmamBariH naraH .. 129..
+083.18P: AtmaMBariH -- svArTaparaH . 
+
+083.19F: yataH . satyaM SOryaM dayA tyAgo nfpasyEte mahAguRAH .
+083.19A: yataH . satyam SOryam dayA tyAgaH nfpasya ete mahAguRAH .
+
+083.20F: etEstyakto mahIpAlaH prApnoti Kalu vAcyatAm .. 130..
+083.20A: etEH tyaktaH mahIpAlaH prApnoti Kalu vAcyatAm .. 130..
+
+083.21F: IdfSi prastAve'mAtyAstAvadavaSyameva puraskartavyAH . taTA coktam --
+083.21A: IdfSi prastAve amAtyAH tAvat avaSyam eva puraH kartavyAH . taTA ca uktam --
+
+083.22F: yo yena pratibadDaH syAtsaha tenodayI vyayI .
+083.22A: yaH yena pratibadDaH syAt saha tenodayI vyayI .
+083.22P: yo yena pratibadDaH yasya hitAhitaM yannibanDanamasti . karmaRi saMbadDo vA .
+
+083.23F: sa viSvasto niyoktavyaH prARezu ca Danezu ca .. 131..
+083.23A: saH viSvastaH niyoktavyaH prARezu ca Danezu ca .. 131..
+083.23P: prARezu -- prARarakzaRavizaye DanarakzaRavizaye ca .
+
+083.24F: yataH . DUrtaH strI vA SiSuryasya mantriRaH syurmahIpateH .
+083.24A: yataH . DUrtaH strI vA SiSuH yasya mantriRaH syuH mahIpateH .
+
+083.25F: anItipavanakziptaH kAryAbDO sa nimajjati .. 132..
+083.25A: anItipavanakziptaH kAryAbDO saH nimajjati .. 132..
+083.25P: anItipavanakziptaH -- anItiH kunayaH sA eva pavanaH tenAkziptaH udDftaH .
+083.25P+: nimajjati -- kAryavinASena naSyatIti BAvaH .
+
+083.26F: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayastaTA .
+083.26A: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayastaTA .
+
+083.27F: nityaM BftyAnupekzA ca tasya syAdDanadA DarA .. 133..
+083.27A: nityam BftyAnupekzA ca tasya syAt DanadA DarA .. 133..
+083.27P: BftyAnupekzA -- Bftyezu AdaraH .
+
+083.28F: yezAM rAjYA saha syAtAmuccayApacayO Druvam .
+083.28A: yezAm rAjYA saha syAtAm uccayApacayO Druvam .
+083.28P: uccayApacayO -- utkarzApakarzO aByudayADaHpAtO .
+
+083.29F: amAtyA iti tAnrAjA nAvamanyetkadAcana .. 134..
+083.29A: amAtyAH iti tAt rAjA na avamanyet kadAcana .. 134..
+
