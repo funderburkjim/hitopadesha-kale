@@ -1,0 +1,104 @@
+094.01F: BIruryudDaparityAgAtsvayameva praRaSyati .
+094.01A: BIruH yudDaparityAgAt svayam eva praRaSyati .
+
+094.02F: taTEva BIrupuruzaH saNgrAme tErvimucyate .. 43..
+094.02A: taTA eva BIrupuruzaH saNgrAme tEH vimucyate .. 43..
+
+094.03F: lubDasyAsaMviBAgitvAnna yuDyante'nuyAyinaH .
+094.03A: lubDasya asaMviBAgitvAt na yuDyante anuyAyinaH .
+; Sampada: there seems to be a Typo in this word 'asaMviBAgitvAn'.
+; Jim:  no typo. 
+094.03P: asaMviBAgitvAt -- loptraM viBajya itareByo na dadAtIti tasya BAvastasmAt .
+
+094.04F: lubDAnujIvikEreza dAnaBinnErnihanyate .. 44..
+094.04A: lubDAnujIvikEH ezaH dAnaBinnEH nihanyate .. 44..
+
+094.05F: saMtyajyate prakftiBirviraktaprakftiryuDi .
+094.05A: saMtyajyate prakftiBiH viraktaprakftiH yuDi .
+
+094.06F: suKABiyojyo Bavati vizayevatisaktimAn .. 45..
+094.06A: suKABiyojyaH Bavati vizayevatisaktimAn .. 45..
+
+094.07F: anekacittamantrastu dvezyo Bavati mantriRAm .
+094.07A: anekacittamantraH tu dvezyaH Bavati mantriRAm .
+
+094.08F: anavasTitacittatvAtkarye tEH sa upekzyate .. 46..
+094.08A: anavasTitacittatvAt karye tEH saH upekzyate .. 46..
+
+094.09F: sadA DarmabalIyastvAddevabrAhmaRanindakaH .
+094.09A: sadADarmabalIyastvAt devabrAhmaRanindakaH .
+094.09P: DarmabalIyastvAt -- Darmasya balIyastvAt .
+094.09P+: apratihatapraBAvatvAt . yadvA DarmeRa puRyena balIyAMsaH devAH brAhmaRASca tezAM BAvaH tattvAt . DarmapraDAnAnAM devabrAhmaRAnAM nindakaH DarmapraBAvAdeva viSIryate iti BAvaH .
+
+094.10F: viSIryate svayaM hyeza dEvopahatakastaTA .. 47..
+094.10A: viSIryate svayam hi eza dEvopahatakaH taTA .. 47..
+
+094.11F: sampatteSca vipatteSca dEvameva hi kAraRam .
+094.11A: sampatteH ca vipatteH ca dEvam eva hi kAraRam .
+
+094.12F: iti dEvaparo DyAyannAtmAnamapi cezwate .. 48..
+094.12A: iti dEvaparaH DyAyan AtmanAnam api cezwate .. 48..
+
+094.13F: durBikzyavyasanI cEva svayamevAvasIdati .
+094.13A: durBikzyavyasanI ca eva svayam eva avasIdati .
+
+094.14F: balavyasanayuktasya yodDuM Saktirna jAyate .. 49..
+094.14A: balavyasanayuktasya yodDum SaktiH na jAyate .. 49..
+
+094.15F: adeSasTohi ripuRA svalpakenApi hanyate .
+094.15A: adeSasTaH hi ripuRA svalpakena api hanyate .
+
+094.16F: grAho'lpIyAnapi jale gajendramapi karzati .. 50..
+094.16A: grAhaH alpIyAn api jale gajendram api karzati .. 50..
+094.16P: alpIyAn -- atiSayenAlpaH . laGukAyaH hInabalaH vA .
+
+094.17F: bahuSatrustu saMtrastaH SyenamaDye kapotavat .
+094.17A: bahuSatruH tu saMtrastaH SyenamaDye kapotavat .
+
+094.18F: yenEva gacCati paTA tenEvASu vipadyate .. 51..
+094.18A: yena eva gacCati paTA tena eva ASu vipadyate .. 51..
+
+094.19F: akAlasEnyayuktastu hanyate kAlayoDinA .
+094.19A: akAlasEnyayuktaH tu hanyate kAlayoDinA .
+
+094.20F: kOSikena hatajyotirniSITa iva vAyasaH .. 52..
+094.20A: kOSikena hatajyotiH niSITa iva vAyasaH .. 52..
+094.20P: kOSikena -- ulUkena .
+094.20P+: hatajyotiH -- hataM jyotiH dfzwiH yasya .
+094.20P++: niSITe -- arDarAtre .
+
+094.21F: satyaDarmavyapetena na saMdaDyAtkadAcana .
+094.21A: satyaDarmavyapetena na saMdaDyAt kadAcana .
+
+094.22F: sa saMDito'pyasADutvAdacirAdyAti vikriyAm .. 53..
+094.22A: saH saMDitaH api asADutvAt acirAt yAti vikriyAm .. 53..
+
+094.23F: aparamapi kaTayAmi .
+094.23A: aparam api kaTayAmi .
+
+094.24F: saMDivigrahayAnAsanasaMSrayadvEDIBAvAH zAqguRyam .
+094.24A: saMDivigrahayAnAsanasaMSrayadvEDIBAvAH zAqguRyam .
+094.24P: sanDi -- sanDivigrahO vyAKyAtapUrvO .
+094.24P+: yAnaM -- upacitabalasya SatroravaskandanAya yAtrA .
+094.24P++: AsanaM -- kAlAditapratIkzayA vijigIzordurgAdInvarDayataH sTitiH .
+094.24P+++: saMSrayaH -- prabalasyASrayagrahaRam .
+094.24P++++: dvEDIBAvaH -- SAWyam .
+094.24P+++++: zAqguRyam -- zaqguRAH .
+
+094.25F: karmaRAmAramBopAyaH puruzadravyasampat .
+094.25A: karmaRAm AramBopAyaH puruzadravyasampat .
+094.25P: AramBopAyaH -- AramBasya samyaksADanam .
+094.25P+: puruzadravyasampat -- puruzARAM dravyARAM DanaDAnyAdikAnAM ca sampat prAcuryam . 
+
+094.26F: deSakAlaviBAgo vinipAtapratIkAraH kAryasidDiSca
+094.26A: deSakAlaviBAgaH vinipAtapratIkAraH kAryasidDiH ca
+094.26P: deSakAlaviBAgaH -- anukUlasya kAlasya deSasya ca nirRayaH .
+
+094.27F: paYcANgo mantraH . sAmadAnaBedadaRqAScatvAra upAyAH .
+094.27A: paYcANgaH mantraH . sAmadAnaBedadaRqAH catvAraH upAyAH .
+
+094.28F: utsAhaSaktirmantraSaktiH praBuSaktiSceti Saktitrayam .
+094.28A: utsAhaSaktiH mantraSaktiH praBuSaktiH ca iti Saktitrayam .
+
+094.29F: etatsarvamAlocya nityaM vijigIzavo Bavanti mahAntaH . 
+094.29A: etat sarvam Alocya nityam vijigIzavaH Bavanti mahAntaH . 

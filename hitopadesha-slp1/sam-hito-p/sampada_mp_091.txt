@@ -1,0 +1,132 @@
+091.01F: rAjAha -- kaTametat .
+091.01A: rAjA Aha -- kaTam etat .
+
+091.02F: mantrI kaTayati --
+091.02A: mantrI kaTayati --
+
+091.03F: .. kaTA 7 ..
+091.03A: .. kaTA 7 ..
+
+091.04F: asti devIkowanAmni nagare devaSarmA nAma brAhmaRaH . tena
+091.04A: asti devIkowanAmni nagare devaSarmA nAma brAhmaRaH . tena
+
+091.05F: mahAvizuvatsaMkrAntyAM saktupUrRaSarAva ekaH prAptaH .
+091.05A: mahAvizuvatsaMkrAntyAm saktupUrRaSarAva ekaH prAptaH .
+091.05P: vizuvatsaMkrAntiH -- mezasaMkrAntiH .
+091.05P+: saktupUrRaSarAvaH -- saktuBirBarjitayavacUrRena pUrRaH SarAvaH mftpAtram .
+091.05P++: prAptaH -- pratigraheRa labDaH .
+
+091.06F: tatastamAdAyAsO kumBakArasya BARqapUrRamaRqapikEkadeSe
+091.06A: tataH tam AdAya asO kumBakArasya BARqapUrRamaRqapikEkadeSe
+
+091.07F: rOdreRAkulitaH suptaH . tataH sakturakzArTaM haste
+091.07A: rOdreRa AkulitaH suptaH . tataH sakturakzArTam haste
+091.07P: rOdreRa -- tapanAtapena .
+
+091.08F: daRqamekamAdAyAcintayat -- yadyahaM saktuSarAvaM
+091.08A: daRqam ekam AdAya acintayat -- yadi aham saktuSarAvaM
+
+091.09F: vikrIya daSa kapardakAnprApsyAmi tadAtrEva tEH
+091.09A: vikrIya daSa kapardakAn prApsyAmi tat atra eva tEH
+
+091.10F: kapardakErGawaSarAvAdikamupakrIya vikrIyAnekaDA vfdDEstadDanEH
+091.10A: kapardakEH GawaSarO Adikam upakrIya vikrIya anekaDA vfdDEH tat DanEH
+
+; Kale pUgava... should it be puMgava?
+091.11F: punaH punaH pUrgavastrAdimupakrIya vikrIya lakzasaMKyAni
+091.11A: punaH punaH pUrgavastrAdim upakrIya vikrIya lakzasaMKyAni
+; Sampada: 'pUrgavastrAdim' seems to be a typo.
+; Jim: 'pUgavastrAdim' = pUga + vastra + Adim
+091.11P: pUgAH -- kramukAH .
+
+091.12F: DanAni kftvA vivAhacatuzwayaM karizyAmi . anantaraM tAsu
+091.12A: DanAni kftvA vivAhacatuzwayam karizyAmi . anantaram tAsu
+
+091.13F: svapatnIzu rUpayOvanavatI yA tasyAmaDikAnurAgaM karizyAmi  .
+091.13A: svapatnIzu rUpayOvanavatI yA tasyAm aDikAnurAgam karizyAmi  .
+091.13P: svapatnIzu -- samAnaH patiryAsAM tAH sapatnyaH .
+
+091.14F: saMjAterzyAstatsapatnyo yadA dvandvaM karizyanti tadA kopAkulo'haM tA itTaM
+091.14A: saMjAterzyAH tatsapatnyaH yadA dvandvam karizyanti tadA kopAkulaH aham tAH itTaM
+091.14P: saMjAterzyAH -- sapatnIgOravaM dfzwvA saMjAtA utpannA IrzyA dvezaH yAsAm .
+091.14P+: kopAkulaH -- kroDavaSaH .
+
+091.15F: laguqena tAqayizyAmi . ityaBiDAya laguqaH kziptaH . tena
+091.15A: laguqena tAqayizyAmi . iti aBiDAya laguqaH kziptaH . tena
+
+091.16F: saktuSarAvaScUrRito
+091.16A: saktuSarAvaH cUrRito
+
+091.17F: BARqAni ca bahUni BagnAni . tatastena SabdenAgatena kumBakAreRa
+091.17A: BARqAni ca bahUni BagnAni . tataH tena Sabdena Agatena kumBakAreRa
+
+091.18F: taTAviDAni BARqAnyavalokya brAhmaRastiraskfto maRqapikAgarBAd
+091.18A: taTAviDAni BARqAni avalokya brAhmaRaH tiraskftaH maRqapikAgarBAt
+
+091.19F: bahizkftaSca . ato'haM bravImi -- anAgatavatIM cintAm  ityAdi ..
+091.19A: bahizkftaH ca . ataH aham bravImi -- anAgatavatIm cintAm ityAdi ..
+
+091.20F: tato rAjA rahasi gfDramuvAca --tAta yaTAkartavyaM upadiSa .
+091.20A: tataH rAjA rahasi gfDram uvAca --tAta yaTAkartavyam upadiSa .
+
+091.21F: gfDro brUte --
+091.21A: gfDraH brUte --
+
+091.22F: madodDatasya nfpateH saMkIrRasyeva dantinaH .
+091.22A: madodDatasya nfpateH saMkIrRasya iva dantinaH .
+091.22P: madodDatasya -- madaH garvaH . pakze dAnavAri .
+091.22P+: saMkIrRasya -- mattasya ata eva avaSasya .
+
+091.23F: gacCantyunmArgayAtasya netAraH Kalu vAcyatAm .. 21..
+091.23A: gacCanty unmArgayAtasya netAraH Kalu vAcyatAm .. 21..
+091.23P: netAraH -- mantriRaH hastipakASca .
+
+091.24F: SfRu deva kimasmABirbaladarpAddurgaM Bagnam no vA BavataH
+091.24A: SfRu deva kim asmABiH baladarpAt durgam Bagnam na vA BavataH 
+091.24P: no vA -- aTavA .
+
+091.25F: pratApADizWitenopAyena .
+091.25A: pratApADizWitena upAyena .
+091.25P: pratApADizWitena -- pratApena mahimnA aDIzWitena uttamBitena . sUciteneti yAvat . 
+
+091.26F: rAjAha -- BavatAmupAyena .
+091.26A: rAjA Aha -- BavatAm upAyena .
+
+091.27F: gfDro brUte -- yadyasmadvacanaM kriyate tadA
+091.27A: gfDraH brUte -- yadyasmat vacanam kriyate tadA
+
+091.28F: svadeSe gamyatAm . anyaTA varzAkAle prApte tulyabalena saha 
+091.28A: svadeSe gamyatAm . anyaTA varzAkAle prApte tulyabalena saha
+
+091.29F: punarvigrahe satyasmAkaM paraBUmizWAnAM svadeSagamanamapi durlaBaM
+091.29A: punaH vigrahe satyasmAkam paraBUmizWAnAm svadeSagamanam api durlaBaM
+
+091.30F: Bavizyati . suKaSoBArTaM ca saMDAya gamyatAm . durgaM
+091.30A: Bavizyati . suKaSoBA arTam ca saMDAya gamyatAm . durgaM
+091.30P: suKaSoBArTam -- suKaM kalyARaM SoBA gOravaM .
+
+091.31F: BagnaM kIrtiSca labDeva . mama saMmataM tAvad etat . yataH .
+091.31A: BagnaM kIrtiH ca labDA iva . mama saMmatam tAvat etat . yataH .
+
+091.32F: yo hi DarmaM puraskftya hitvA BartuH priyApriye .
+091.32A: yaH hi Darmam puraskftya hitvA BartuH priyApriye .
+091.32P: Darmam -- yaTAkartavyam .
+091.32P+: priyApriye -- priyaM cApriyaM ca . rAjYaH kiM priyaM kiM apriyaM iti vicAraRAyAmanAdaraM kftvA .
+
+091.33F: apriyARyAha taTyAni tena rAjA sahAyavAn .. 22..
+091.33A: apriyARi Aha taTyAni tena rAjA sahAyavAn .. 22..
+
+091.34F: yudDe vinASo Bavati kadAciduBayorapi .
+091.34A: yudDe vinASaH Bavati kadAcit uBayoH api .
+
+091.35F: nahi saMSayitaM kuryAdityuvAca bfhaspatiH .. 23..
+091.35A: nahi saMSayitam kuryAt iti uvAca bfhaspatiH .. 23..
+091.35P: saMSayitam -- saMSayaH , dviDAbudDiH .
+
+091.36F: anyacca . suhfdbalaM taTA rAjyamAtmAnaM kIrtimeva ca .
+091.36A: anyat ca . suhft balam taTA rAjyam AtmAnam kIrtim eva ca .
+
+091.37F: yuDi saMdehadolAsTaM ko hi kuryAdabAliSaH .. 24..
+091.37A: yuDi saMdehadolAsTam kaH hi kuryAt abAliSaH .. 24..
+091.37P: saMdehadolAsTaM -- saMdehaH saMSayaH eva dolA tatrasTaM saMSayadolArUQaM , saMSayagrastam .
+

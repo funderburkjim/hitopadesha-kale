@@ -1,0 +1,138 @@
+096.01F: matirdolAyate satyaM satAmapi KaloktiBiH .
+096.01A: matiH dolAyate satyam satAm api KaloktiBiH .
+
+096.02F: tABirviSvAsitaScAsO mriyate citrakarRavat .. 59..
+096.02A: tABiH viSvAsitaH ca asO mriyate citrakarRavat .. 59..
+
+096.03F: rAjAha -- kaTametat .
+096.03A: rAjA Aha -- kaTam etat .
+
+096.04F: sa kaTayati --
+096.04A: sa kaTayati --
+
+096.05F: .. kaTA 10 ..
+096.05A: .. kaTA 10 ..
+
+096.06F: asti kasmiMScidvanoddeSe
+096.06A: asti kasmin cit vanoddeSe 
+096.06P: vanoddeSe -- vanapradeSe .
+
+096.07F: madotkawo nAma siMhaH . tasya sevakAstrayaH kAko vyAGro
+096.07A: madotkawaH nAma siMhaH . tasya sevakAH trayaH kAkaH vyAGraH
+
+096.08F: jambukaSca . aTa tErBramadBiH sArTAdBrazwaH kaYcid uzwro
+096.08A: jambukaH ca . aTa tEH BramadBiH sArTAdBrazwaH kam cit uzwraH
+; Sampada: 'sArTTBrazwaH' seems like a typo. Jim: Agree. Changed.
+
+096.09F: dfzwaH pfzwaSca kuto BavAnAgataH . 
+096.09A: dfzwaH pfzwaH ca kutaH BavAn AgataH . 
+
+096.10F: sa cAtmavfttAntamakaTayat . tatastErnItvA siMhe'AsO
+096.10A: saH ca AtmavfttAntam akaTayat . tataH tEH nItvA siMhe asO
+
+; Kale typo? datvA
+096.11F: samarpitaH . tenABayavAcaM dattvA citrakarRa iti nAma
+096.11A: samarpitaH . tena aBayavAcaM dattvA citrakarRaH iti nAma
+
+096.12F: kftvA sTApitaH . aTa kadAcitsiMhasya SarIravEkalyAd
+096.12A: kftvA sTApitaH . aTa kadAcit siMhasya SarIravEkalyAt
+096.12P: SarIravEkalyAt -- SarIrasya duHsTityA . SarIrakleSAt .
+
+096.13F: BUrivfzwikAraRAccAhAramalaBamAnAste vyagrA baBUvuH .
+096.13A: BUrivfzwikAraRAccAhAramalaBamAnAste vyagrA baBUvuH .
+096.13P: vyagrAH -- vyAkulAH .
+
+096.14F: tatastErAlocitam . citrakarRameva yaTA svAmI vyApAdayati
+096.14A: tatastEH Alocitam . citrakarRam eva yaTA svAmI vyApAdayati
+
+096.15F: taTAnuzWIyatAm . kimanena kaRwakaBujA . vyAGra uvAca --
+096.15A: taTA anuzWIyatAm . kim anena kaRwakaBujA . vyAGraH uvAca --
+
+096.16F: svAminABayavAcaM dattvAnugfhItastat kaTamevaM
+096.16A: svAminABayavAcam dattvAnugfhItaH tat kaTam evam
+
+096.17F: saMBavati . kAko brUte -- iha samaye parikzIRaH svAmI pApamapi
+096.17A: saMBavati . kAkaH brUte -- iha samaye parikzIRaH svAmI pApamapi
+
+096.18F: karizyati . yataH .
+096.18A: karizyati . yataH .
+
+096.19F: tyajet kzuDArtA mahilA svaputraM KAdet kzuDArtA BujagI svamaRqam .
+096.19A: tyajet kzuDArtA mahilA svaputram KAdet kzuDArtA BujagI svamaRqam .
+
+096.20F: buBukzitaH kiM na karoti pApaM kzIRA narA nizkaruRA Bavanti .. 60..
+096.20A: buBukzitaH kim na karoti pApam kzIRAH narAH nizkaruRAH Bavanti .. 60..
+096.20P: buBukzitaH -- kzuDitaH .
+
+096.21F: anyacca . mattaH pramattaSconmattaH SrAntaH krudDo buBukzitaH .
+096.21A: anyat ca . mattaH pramattaH ca unmattaH SrAntaH krudDaH buBukzitaH .
+096.21P: mattaH -- madyAdinA vikftabudDiH .
+096.21P+: unmattaH -- vAtAdipIqitaH .
+
+096.22F: lubDo BIrustvarAyuktaH kAmukaSca na Darmavit .. 61..
+096.22A: lubDaH BIruH tvarAyuktaH kAmukaH ca na Darmavit .. 61..
+
+096.23F: iti saMcintya
+096.23A: iti saMcintya
+
+096.24F: sarve siMhAntikaM jagmuH . siMhenoktam -- AhArArTaM kiMcit prAptam .
+096.24A: sarve siMhAntikam jagmuH . siMhena uktam -- AhArArTam kim cit prAptam .
+
+096.25F: tEruktam -- yatnAdapi prAptaM kiMcit .
+096.25A: tEH uktam -- yatnAt api prAptam kim cit .
+
+096.26F: siMhenoktaM -- ko'DunA jIvanopAyaH .
+096.26A: siMhena uktam -- kaH aDunA jIvanopAyaH .
+
+096.27F: kAko vadati --
+096.27A: kAkaH vadati --
+
+096.28F: deva svADInAhAraparityAgAtsarvanASo'yamupasTitaH .
+096.28A: deva svADInAhAraparityAgAt sarvanASaH ayamupasTitaH .
+
+096.29F: siMhenoktam atrAhAraH kaH svADInaH .
+096.29A: siMhenoktam atrAhAraH kaH svADInaH .
+
+096.30F: kAkaH karRe kaTayati -- citrakarRaH iti . siMho
+096.30A: kAkaH karRe kaTayati -- citrakarRaH iti . siMhaH
+
+096.31F: BUmiM spfzwvA karRO spfSati . aBayavAcaM
+096.31A: BUmim spfzwvA karRaH spfSati . aBayavAcam
+
+096.32F: dattvA Dfto'yamasmABiH . tatkaTamevaM saMBavati . taTA ca .
+096.32A: dattvA DftaH ayam asmABiH . tat kaTam evam saMBavati . taTA ca .
+
+; Kale typo? BUptadAnaM (the 'p')
+096.33F: na BUtadAnaM na suvarRadAnaM na gopradAnaM na taTAnnadAnam .
+096.33A: na BUtadAnam na suvarRadAnam na gopradAnam na taTA annadAnam .
+
+096.34F: yaTA vadantIha mahApradAnaM sarvezu dAnezvaBayapradAnam .. 62..
+096.34A: yaTA vadanti iha mahApradAnam sarvezu dAnezu aBayapradAnam .. 62..
+
+096.35F: anyacca . sarvakAmasamfdDasya aSvameDasya yatPalam .
+096.35A: anyat ca . sarvakAmasamfdDasya aSvameDasya yat Palam .
+096.35P: sarvakAmasamfdDasya -- sarvEH kAmEH aBIzwEH samfdDasya susampannasya . aKilamanoraTapUrakasya iti yAvat .
+
+096.36F: tatPalaM laByate samyagrakzite SaraRAgate .. 63..
+096.36A: tat Palam laByate samyak rakzite SaraRAgate .. 63..
+
+096.37F: kAko brUte -- nAsO svAminA vyApAdayitavyaH .
+096.37A: kAkaH brUte -- na asO svAminA vyApAdayitavyaH .
+
+096.38F: kiMtvasmABireva taTA kartavyaM yaTAsO svadehadAnamaNgIkaroti .
+096.38A: kim tu asmABiH eva taTA kartavyam yaTA asO svadehadAnam aNgIkaroti .
+
+096.39F: siMhastacCrutvA tUzRIM sTitaH . tato'sO labDAvakASaH kUwaM
+096.39A: siMhaH tat SrutvA tUzRIm sTitaH . tataH asO labDAvakASaH kUwam
+096.39P: labDAvakASaH -- siMhasya tUzRIBAveneti yAvat .
+096.39P+: kUwaM -- kapawam .
+
+096.40F: kftvA sarvAnAdAya siMhAntikaM gataH . aTa kAkenoktaM -- deva
+096.40A: kftvA sarvAn AdAya siMhAntikam gataH . aTa kAkena uktam -- deva
+
+096.41F: yatnAdapyAhAro na prAptaH . anekopavAsaKinnaH svAmI . tad
+096.41A: yatnAt api AhAraH na prAptaH . anekopavAsaKinnaH ca svAmI . tat
+
+096.42F: idAnIM madIyamAMsamupaBujyatAm . yataH .
+096.42A: idAnIm madIyamAMsam upaBujyatAm . yataH .
+

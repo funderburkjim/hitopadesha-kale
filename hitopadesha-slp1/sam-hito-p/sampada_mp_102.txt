@@ -1,0 +1,114 @@
+102.01F: taddeva 
+102.01A: tad deva 
+
+102.02F: yadIdAnImasmadvacanaM kriyate tadA saMDAya gamyatAm . yataH .
+102.02A: yadi idAnIm asmat vacanam kriyate tadA saMDAya gamyatAm . yataH .
+
+102.03F: yadyapyupAyAScatvAro nirdizwAH saDyasADane .
+102.03A: yadi api upAyAH catvAraH nirdizwAH saDyasADane .
+
+102.04F: saNKyAmAtraM PalaM tezAM sidDiH sAmni vyavasTitA .. 104..
+102.04A: saNKyAmAtram Palam tezAm sidDiH sAmni vyavasTitA .. 104..
+102.04P: saNKyAmAtraM -- catvAra iti gaRanAmAtram .
+102.04P+: vyavasTitA -- pratizWitA .
+
+102.05F: rAjAha -- kaTamevaM saMBavati .
+102.05A: rAjA Aha -- kaTam evam saMBavati .
+
+102.06F: mantrI brUte -- deva satvaraM Bavizyati . yataH .
+102.06A: mantrI brUte -- deva satvaram Bavizyati . yataH .
+
+102.07F: ajYaH suKamArADyaH suKataramArADyate viSezajYaH .
+102.07A: ajYaH suKam ArADyaH suKataram ArADyate viSezajYaH .
+102.07P: ArADyaH -- sevyaH . saMtozyaH iti yAvat .
+
+102.08F: jYAnalavadurvidagDaM brahmApi naraM na raYjayati .. 105..
+102.08A: jYAnalavadurvidagDam brahmA api naram na raYjayati .. 105..
+102.08P: jYAnalavadurvidagDaM -- jYAnalavena alpajYAnena durvudagDaM vfTA garvitam .
+
+102.09F: viSezataScAyaM Darmajyo rAjA sarvajYo mantrI ca . jYAtametanmayA pUrvaM
+102.09A: viSezataH ca ayaM DarmajyaH rAjA sarvajYaH mantrI ca . jYAtam etat mayA pUrvaM
+
+102.10F: meGavarRavacanAttatkftakAryasaMdarSanAcca . yataH .
+102.10A: meGavarRavacanAt tat kftakAryasaMdarSanAt ca . yataH .
+
+102.11F: karmAnumeyAH sarvatra parokzaguRavfttayaH .
+102.11A: karmAnumeyAH sarvatra parokzaguRavfttayaH .
+
+102.12F: tasmAtparokzavfttInAM PalEH karmAnuBAvyate .. 106 ..
+102.12A: tasmAtparokzavfttInAM PalEH karmAnuBAvyate .. 106 ..
+
+102.13F: rAjAha -- alamuttarottareRa .
+102.13A: rAjA Aha -- alam uttarottareRa .
+
+102.14F: yaTABipretamanuzWIyatAm . etanmantrayitvA gfDro mahAmantrI
+102.14A: yaTA aBipretam anuzWIyatAm . etat mantrayitvA gfDraH mahAmantrI
+
+102.15F: tatra yaTArhaM kartavyamityuktvA durgAByantaraM calitaH . tataH
+102.15A: tatra yaTA arham kartavyam iti uktvA durgAByantaram calitaH . tataH
+
+102.16F: praRiDibakenAgatya rAjYI hiraRyagarBasya niveditaM -- deva 
+102.16A: praRiDibakena Agatya rAjYI hiraRyagarBasya niveditam -- deva
+
+102.17F: saMDiM mahAmantrI gfDro'smatsamIpamAgacCati .
+102.17A: saMDiM mahAmantrI gfDraH asmat samIpam AgacCati .
+
+102.18F: rAjahaMso brUte -- mantrin punaH saMbanDinA kenacidatrAgantavyam .
+102.18A: rAjahaMsaH brUte -- mantrin punaH saMbanDinA kenacit atra Agantavyam .
+102.18P: saMbanDinA -- sambanDaH uddeSaH asyAstIti . vipakzakAryAnuroDinA .
+
+102.19F: sarvajYo vihasyAha -- deva na SaNktAspadametat . yato'sO mahASayo
+102.19A: sarvajYaH vihasya Aha -- deva na SaNktAspadam etat . yataH asO mahASayaH
+
+102.20F: dUradarSI . aTavA sTitiriyaM mandamatInAM . kadAcicCaNkEva
+102.20A: dUradarSI . aTavA sTitiH iyaM mandamatInAM . kadAcit SaNkA eva
+
+102.21F: na kriyate . kadAcit sarvatra SaNkA . taTA hi .
+102.21A: na kriyate . kadAcit sarvatra SaNkA . taTA hi .
+
+102.22F: sarasi bahuSastArAcCAye kzaRAt parivaYcitaH
+102.22A: sarasi bahuSas tArAcCAye kzaRAt parivaYcitaH
+;Sampada: Unsure how to handle 'bahuSastArAcCAye'  Jim: changed.
+102.22P: tArAcCAyA -- tArARAM nakzatrARAM CAyA pratibimbam . CAyA sUryapriyA kAntiH pratibimbamanAtapaH . ityamaraH . sarasi kumudaviwapAnvezI SvetapadmaSAKAnvezaRaparaH niSAsu avicakzaRaH vivektumakzamaH ata eva bahuSaH tArApratibimbadarSanAt kumudaviwapaBrAntyA parivaYcitaH haMsaH divApi sitotpalaM na daSati iti yojanA .
+
+102.23F: kumudaviwapAnvezI haMso niSAsvavicakzaRaH .
+102.23A: kumudaviwapAnvezI haMsaH niSAsu avicakzaRaH .
+
+102.24F: na daSati punastArASaNkI divApi sitotpalaM
+102.24A: na daSati punaH tArASaNkI divA api sitotpalaM
+
+102.25F: kuhukacakito lokaH satye'pyapAyamapekzate .. 107..
+102.25A: kuhukacakitaH lokaH satye api apAyam apekzate .. 107..
+102.25P: kuhukacakitaH -- vipralamBAkulaH .
+
+102.26F: durjanadUzitamanasaH sujanezvapi nAsti viSvAsaH .
+102.26A: durjanadUzitamanasaH sujanezu api nAsti viSvAsaH .
+
+102.27F: bAlaH pAyasadagDo daDyapi PUtkftya Bakzayati .. 108..
+102.27A: bAlaH pAyasadagDaH daDyapi PUtkftya Bakzayati .. 108..
+102.27P: PUtkftya -- PuMkAraRe SItalaM kftvA ityarTaH .
+
+102.28F: tad deva yaTASakti tatpUjArTaM ratnopahArAdisAmagrI
+102.28A: tat deva yaTASakti tatpUjArTam ratnopahArAdisAmagrI
+
+102.29F: susajjIkriyatAm . taTAnuzWite sati sa gfDro
+102.29A: susajjIkriyatAm . taTAnuzWite sati saH gfDraH
+
+102.30F: mantrI durgadvArAccakravAkeRopagamya satkftyAnIya rAjadarSanaM kArito
+102.30A: mantrI durgadvArAt cakravAkeRa upagamya satkftyAnIya rAjadarSanam kArito
+
+102.31F: dattAsane upavizwaH . cakravAka uvAca -- 
+102.31A: dattAsane upavizwaH . cakravAkaH uvAca -- 
+
+102.32F: yuzmadAyattaM sarvaM . svecCayopaBujyatAmidaM rAjyam .
+102.32A: yuzmat Ayattam sarvam . svecCayopaBujyatAmidam rAjyam .
+
+102.33F: rAjahaMso brUte -- evameva .
+102.33A: rAjahaMsaH brUte -- evam eva .
+
+102.34F: dUradarSI kaTayati -- evamevEtat .
+102.34A: dUradarSI kaTayati -- evameva etat .
+
+102.35F: kintvidAnIM bahuprapaYcavacanaM nizprayojanam . yataH .
+102.35A: kintu idAnIm bahuprapaYcavacanam nizprayojanam . yataH .
+

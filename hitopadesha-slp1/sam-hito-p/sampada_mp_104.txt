@@ -1,0 +1,106 @@
+104.01F: AvayoryoDamuKyEstu madarTaH sADyatAmiti .
+104.01A: AvayoH yoDamuKyEH tu madarTaH sADyatAm iti .
+
+104.02F: yasminpaRastu kriyate sa saMDiH puruzAntaraH .. 123..
+104.02A: yasmin paRaH tu kriyate saH saMDiH puruzAntaraH .. 123..
+104.02P: paRaH -- samayaH .
+
+104.03F: tvayEkena madIyo'rTaH saMprasADyastvasAviti .
+104.03A: tvayEkena madIyaH arTaH saMprasADyastu asO iti .
+
+104.04F: yatra SatruH paRaM kuryAtso'dfzwapuruzaH smftaH .. 124..
+104.04A: yatra SatruH paRam kuryAt saH adfzwapuruzaH smftaH .. 124..
+
+104.05F: yatra BUmyekadeSena paRena ripurUrjitaH .
+104.05A: yatra BUmyekadeSena paRena ripuH UrjitaH .
+104.05P: BUmyekadeSena -- rAjyasyEkaBAgaharaRena .
+
+104.06F: saMDIyate saMDividBiH sa cAdizwa udAhftaH .. 125..
+104.06A: saMDIyate saMDividBiH saH cAdizwaH udAhftaH .. 125..
+
+104.07F: svasEnyena tu saMDAnamAtmAdizwa udAhftaH .
+104.07A: svasEnyena tu saMDAnam AtmAdizwaH udAhftaH .
+
+104.08F: kriyate prARarakzArTaM sarvadAnamupagrahaH .. 126..
+104.08A: kriyate prARarakzArTam sarvadAnamupagrahaH .. 126..
+
+104.09F: kozAMSenArDakozena sarvakozena vA punaH .
+104.09A: kozAMSenArDakozena sarvakozena vA punaH .
+
+104.10F: Sizwasya pratirakzArTaM parikraya udAhftaH .. 127..
+104.10A: Sizwasya pratirakzArTam parikrayaH udAhftaH .. 127..
+104.10P: Sizwasya -- avaSizwasya . sarvanASe samutpanne arDaM tyajati paRqitaH iti nyAyena . yadvA Sizwasya amAtyAdeH .
+
+104.11F: BuvAM sAravatInAM tu dAnAducCanna ucyate .
+104.11A: BuvAm sAravatInAm tu dAnAd ucCinnaH ucyate .
+
+104.12F: BUmyutTaPaladAnena sarveRa paraBUzaRaH .. 128..
+104.12A: BUmyutTaPaladAnena sarveRa paraBUzaRaH .. 128..
+104.12P: BUmyutTaPaladAnena -- BUmyutTaM BUmyA utpannaM PalaM sasyAdikaM tasya dAnena .
+
+104.13F: paricCinnaM PalaM yatra pratiskanDena dIyate .
+104.13A: paricCinnam Palam yatra pratiskanDena dIyate .
+104.13P: paricCinnam -- mitam .
+104.13P+: pratiskanDena -- prativAhakasya skanDena .
+
+104.14F: skanDopaneyaM taM prAhuH saMDiM saMDivicakzaRAH .. 129..
+104.14A: skanDopaneyam tam prAhuH saMDim saMDivicakzaRAH .. 129..
+104.14P: skanDopaneyam -- skanDena upaneyaM vastu yasmin .
+
+104.15F: parasparopakArastu mEtraH saMbanDakastaTA .
+104.15A: parasparopakAraH tu mEtraH saMbanDakastaTA .
+
+104.16F: upahAraSca vijYeyAScatvAraScEva saMDayaH .. 130..
+104.16A: upahAraH ca vijYeyAH catvAraH ca eva saMDayaH .. 130..
+
+104.17F: eka evopahArastu saMDireva mato mama .
+104.17A: eka eva upahAraH tu saMDiH eva mataH mama .
+
+104.18F: upahAraviBedAstu sarve mEtravivarjitAH .. 131..
+104.18A: upahAraviBedAH tu sarve mEtravivarjitAH .. 131..
+
+104.19F: aBiyoktA balIyastvAdalabDvA na nivartate .
+104.19A: aBiyoktA balIyastvAt alabDvA na nivartate .
+
+104.20F: upahArAdfte tasmAtsaMDiranyo na vidyate .. 132..
+104.20A: upahArAt fte tasmAt saMDiranyaH na vidyate .. 132..
+
+104.21F: cakravAko brUte -- SrRu tAvat .
+104.21A: cakravAkaH brUte -- SrRu tAvat .
+
+104.22F: ayaM nijaH paro veti gaRanA laGucetasAm .
+104.22A: ayaM nijaH paraH vA iti gaRanA laGucetasAm .
+
+104.23F: udAracaritAnAM tu vasuDEva kuwumbakam .. 133 ..
+104.23A: udAracaritAnAM tu vasuDEva kuwumbakam .. 133 ..
+
+; 't' in 'mAta' unclear in print
+104.24F: aparaM ca . mAtavatparadArezu paradravyezu lozwavat .
+104.24A: aparam ca . mAtavatparadArezu paradravyezu lozwavat .
+
+104.25F: AtmavatsarvaBUtezu yaH paSyati sa paRqitaH .. 134 ..
+104.25A: AtmavatsarvaBUtezu yaH paSyati sa paRqitaH .. 134 ..
+
+104.26F: rAjAha -- Bavanto
+104.26A: rAjA Aha -- Bavanto
+
+104.27F: mahAntaH paRqitASca . tad atrAsmAkaM yaTAkAryamupadiSyatAm .
+104.27A: mahAntaH paRqitAH ca . tad atra asmAkam yaTAkAryam upadiSyatAm .
+
+104.28F: mantrI brUte -- AH kimevamucyate .
+104.28A: mantrI brUte -- AH kim evam ucyate .
+
+104.29F: ADivyADiparItApAdadya Svo vA vinASine .
+104.29A: ADivyADiparItApAd adya SvaH vA vinASine .
+
+104.30F: ko hi nAma SarIrAya DarmApetaM samAcaret .. 135..
+104.30A: kaH hi nAma SarIrAya DarmApetam samAcaret .. 135..
+104.30P: SarIrAya -- SarIrArTam .
+104.30P+: DarmApetam -- DarmAH petaM yaTA taTA .
+
+104.31F: jalAntaScandracapalaM jIvitaM Kalu dehinAm .
+104.31A: jalAntaH candracapalam jIvitam Kalu dehinAm .
+
+104.32F: taTAviDamiti jYAtvA SaSvatkalyARamAcaret .. 136..
+104.32A: taTAviDam iti jYAtvA SaSvatkalyARam Acaret .. 136..
+

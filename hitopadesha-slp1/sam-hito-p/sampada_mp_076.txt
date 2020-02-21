@@ -1,0 +1,78 @@
+076.01F: diNmArgARAM viSoDitvaM pattikarma pracakzate .. 86..
+076.01A: diNmArgARAm viSoDitvam pattikarma pracakzate .. 86..
+
+076.02F: svaBAvaSUramastrajYamaviraktaM jitaSramam .
+076.02A: svaBAvaSUramastrajYamaviraktam jitaSramam .
+076.02P: aviraktaM -- svasvAmini dfQaBaktimat .
+
+076.03F: prasidDakzatriyaprAyaM balaM SrezWatamaM viduH .. 87..
+076.03A: prasidDakzatriyaprAyam balam SrezWatamam viduH .. 87..
+
+076.04F: yaTA praBukftAnmAnAdyuDyante Buvi mAnavAH .
+076.04A: yaTA praBukftAn mAnAt yuDyante Buvi mAnavAH .
+
+076.05F: na taTA bahuBirdattErdraviRErapi BUpate .. 88..
+076.05A: na taTA bahuBiH dattEH draviREH api BUpate .. 88..
+
+076.06F: varamalpabalaM sAraM na kuryAnmuRqamaRqalIm .
+076.06A: varam alpabalam sAram na kuryAn muRqamaRqalIm .
+076.06P: varamiti -- sAraM SOryaDEryAdiguRavat alpabalaM kzudrasaMKyAkamapi balaM varaM .
+076.06P+: muRqamaRqalI SiraHparamparA kevalaM saMKyApUrakA narA iti yAvat .
+
+076.07F: kuryAdasAraBaNgo hi sAraBaNgamapi sPuwam .. 89..
+076.07A: kuryAt asAraBaNgaH hi sAraBaNgam api sPuwam .. 89..
+076.07P: BaNgaH -- parAjayaH palAyanaM vA .
+076.07P+: sPuwam , spazwaM , asaMSayam .
+076.07P++: hi -- hetO niScaye vA .
+
+076.08F: aprasAdo'naDizWAnaM deyAMSaharaRaM ca yat .
+076.08A: aprasAdaH anaDizWAnam deyAMSaharaRam ca yat .
+076.08P: aprasAdaH -- prasAdakaraRavEmuKyaM , apuraskAradAnamityarTaH .
+076.08P+: anaDizWAnam -- balaviBAgAdInAmaDyakzAdipadAlABaH , aDikArapadAt cyutirvA .
+076.08P++: deyAMSaharaRaM -- deyasya dAnocitasya aMSasya loptrAMSasya haraRaM AdAnamAtmasAtkaraRamityarTaH . 
+
+076.09F: kAlayApo'pratIkArastadvErAgyasya kAraRam .. 90..
+076.09A: kAlayApaH apratIkAraH tat vErAgyasya kAraRam .. 90..
+076.09P: kAlayApaH -- aniyogena vfTA kAlapekzaH .
+076.09P+: apratIkAraH -- kftamAnaBaNgAderaniryAtanaM , apakArASoDanam .
+076.09P++: vErAgyasya -- sEnikAnAmiti SezaH .
+
+076.10F: apIqayanbalaM SatrUYjigIzuraBizeRayet .
+076.10A: apIqayan balam SatrUn jigIzuH aBizeRayet .
+076.10P: apIqayan <ab n="ityAdi">i</ab> AtmanaH sEnyaM dIrGaprayARAdinA apIqayan akleSayan .
+076.10P+: SatrUn aBizeRayet , aBidravet , aBiyAyena pIqayediti yAvat .
+
+076.11F: suKasADyaM dvizAM sEnyaM dIrGayAnapraapIqitam .. 91..
+076.11A: suKasADyam dvizAm sEnyam dIrGayAnaprapIqitam .. 91..
+; Sampada: 'dIrGayAnapraapIqitam' there is a typo.
+076.11P: yataH dIrGayAnaprapIqitaM -- dUrAkramaRaKinnaM balaM SatrURAM suKasADyamanAyAsena jayyam . atiSrameRa kzIRabalasya sEnyasya parABavaH sulaBa iti BAvaH . 
+076.11P+: atra manuH -- 'yadA manyeta BAvena hfzwapuzwabalaM svakam . parasya viparItaM cettadA yAyAdarInprati . yadA ca syAtparikzIRo vAhanena balena ca . tadAsIta prayatnena SanakEH sAntvayannarIn .' iti .
+
+076.12F: dAyAdAd aparo mantro nAsti Bedakaro dvizAm .
+076.12A: dAyAdAt aparaH mantraH na asti BedakaraH dvizAm .
+076.12P: dAyAdAt -- dAyaM pEtfkaDanasya viBAgaM gfhRAtIti dAyAdaH sagotraH .
+076.12P+: Bedakaro mantro nAsti - dAyAda eva SatrugfhavicCede muKyaM sADanamityarTaH . ataH dAyAdottejanaM kAryamityAha -- tasmAditi .
+
+076.13F: tasmAdutTApayed yatnAddAyAdaM tasya vidvizaH .. 92..
+076.13A: tasmAt utTApayet yatnAt dAyAdam tasya vidvizaH .. 92..
+
+076.14F: sanDAya yuvarAjena yadi vA muKyamantriRA .
+076.14A: sanDAya yuvarAjena yadi vA muKyamantriRA .
+076.14P: yuvarAjena arAti -- nfpaputreRa iti yAvat . 
+076.14P+: muKyamantriRA Satroriti SezaH .
+
+; Kale prakopanaM ?
+076.15F: antaH prakopanaM kuryamaBiyoktuH sTirAtmanaH .. 93..
+076.15A: antaH prakopanam kuryam aBiyoktuH sTirAtmanaH .. 93..
+076.15P: antaH prakopanaM -- gfhakaliH .
+076.15P+: aBiyoktuH -- sTirAtmanaH . tftIyArTe zazWI .
+076.15P++: DIracetasA aBiyoktfSatrugfhe antarBedaH prakftivyAkopo vA kAryaH .
+
+076.16F: krUraM mitraM raRe cApi BaNgaM dattvABiGAtayet .
+076.16A: krUram mitram raRe ca api BaNgam dattvA aBiGAtayet .
+076.16P: krUramiti -- api ca raRe krUraM pramATi mitraM Satroriti SezaH BaNgaM dattvA samaraBUmeH palAyanaM kftvABiGAtayet . parABUtA ete iti viSvasya pramAdyantaM taM sarvatovaskadya GAtayedityarTaH .
+
+076.17F: aTavA gograhAkfzwyA tanmuKyASritabanDanAt .. 94..
+076.17A: aTavA gograhAkfzwyA tat muKyASritabanDanAt .. 94..
+076.17P: aTa vA gavAM grahaH gograhastena yA AkfzwistayA . aTavetyanuvartanIyam .
+076.17P+: tasya ye muKyAH praDAnapuruzAH ASritaH sevakASca tezAM banDanAt tadGAtayet . yadermitraM BedAkzamaM tatpakzapAtAcca samaBUmO krUraparAkramaM tajjetuM sarvaTA prayatitavyamiti BAvaH .

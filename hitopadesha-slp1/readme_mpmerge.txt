@@ -138,9 +138,38 @@ python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_090.txt temp_hitok
 
 (let (i i2 file)
  (setq i 76)
- (setq i2 80) ; <<<xxx
+ (setq i2 80) 
  (while (<= i i2)
   (insert (format "python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_%03d.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_%03d.txt\n" i (- i 1)))
   (setq i (1+ i))
  )
 )
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_076.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_075.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_077.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_076.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_078.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_077.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_079.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_078.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_080.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_079.txt
+
+(let (i i2 file)
+ (setq i 91)
+ (setq i2 105) 
+ (while (<= i i2)
+  (insert (format "python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_%03d.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_%03d.txt\n" i (- i 1)))
+  (setq i (1+ i))
+ )
+)
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_091.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_090.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_092.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_091.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_093.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_092.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_094.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_093.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_095.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_094.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_096.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_095.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_097.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_096.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_098.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_097.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_099.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_098.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_100.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_099.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_101.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_100.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_102.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_101.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_103.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_102.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_104.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_103.txt
+python3 mp_merge.py hitokale_slp1_p.txt sam-hito-p/sampada_mp_105.txt temp_hitokale_slp1_p/temp_hitokale_slp1_p_104.txt

@@ -1,0 +1,149 @@
+079.01F: tato vIravareRa svagfhaM
+079.01A: tataH vIravareRa svagfham
+
+079.02F: gatvA nidrARA svavaDUH praboDitA putraSca . tO nidrAM
+079.02A: gatvA nidrARA svavaDUH praboDitA putraH ca . tO nidrAm
+
+079.03F: parityajyotTAyopavizwO . vIravarastatsarvaM lakzmIvacanamuktavAn .
+079.03A: parityajyotTAyopavizwO . vIravarastat sarvam lakzmIvacanam uktavAn .
+
+079.04F: tacCrutvA sAnandaH SaktiDaro brUte -- Danyo'hamevamBUtaH .
+079.04A: tat SrutvA sAnandaH SaktiDaraH brUte -- DanyaH aham evam BUtaH .
+
+079.05F: svAmirAjyarakzArTaM yasyopayogaH . tattAta ko'DunA vilambasya
+079.05A: svAmirAjyarakzArTam yasya upayogaH . tat tAta kaH aDunA vilambasya
+
+079.06F: hetuH . kadApi tavadevaMviDa eva karmaRyetasya dehasya viniyogaH SlAGyaH . yataH .
+079.06A: hetuH . kadA api tavat evaMviDa eva karmaRi etasya dehasya viniyogaH SlAGyaH . yataH .
+
+079.07F: DanAni jIvitaM cEva parArTe prAjYa utsfjet .
+079.07A: DanAni jIvitam ca eva parArTe prAjYaH utsfjet .
+079.07P: DanAni <ab n="ityAdi">i</ab> sannimittaM satkAryAya .
+
+079.08F: sannimittaM varaM tyAgo vinASe niyate sati .. 100..
+079.08A: sannimittam varam tyAgaH vinASe niyate sati .. 100..
+079.08P: tyAgaH -- jIvitasya Danasya ca . gatapUrvoyaM Slo. mi. 22 .
+
+079.09F: SaktiDaramAtovAca -- yadyetanna kartavyaM tatkenAnyena
+079.09A: SaktiDaramAtA uvAca -- yadi etat na kartavyam tat kena anyena
+; Sampada: the sanDi break seems this way: SaktiDaramAta uvAca
+; Jim: SaktiDaramAtA uvAca
+; muKyasya or suKyasya ?
+079.10F: karmaRA muKyasya mahAvartanasya nizkrayo Bavizyati . ityAlocya
+079.10A: karmaRA muKyasya mahAvartanasya nizkrayaH Bavizyati . iti Alocya
+079.10P: nizkrayaH -- nistAraM , AnfRyam .
+
+079.11F: sarve sarvamaNgalAyAH sTAnaM gatAH . tatra sarvamaNgalAM saMpUjya
+079.11A: sarve sarvamaNgalAyAH sTAnam gatAH . tatra sarvamaNgalAm saMpUjya
+
+079.12F: vIravaro brUte -- devi prasIda . vijayatAM vijayatAM SUdrako mahArAjaH .
+079.12A: vIravaraH brUte -- devi prasIda . vijayatAm vijayatAm SUdrakaH mahArAjaH .
+
+079.13F: gfhyatAmayamupahAraH . ityuktvA putrasya SiraScicCeda . tato
+079.13A: gfhyatAm ayam upahAraH . iti uktvA putrasya SiraH cicCeda . tataH
+
+079.14F: vIravaraScintayAmAsa -- gfhItarAjavartanasya tAvannistAraH kftaH .
+079.14A: vIravaraH cintayAmAsa -- gfhItarAjavartanasya tAvat nistAraH kftaH .
+
+079.15F: aDunA nizputrasya me jIvanaM viqambanam . ityAlocyAtmanaH SiraScinnavAn .
+079.15A: aDunA nizputrasya me jIvanam viqambanam . iti AlocyAtmanaH SiraH cinnavAn .
+079.15P: viqambanam -- garhaRamAtram .
+
+079.16F: tataH striyApi svAminaH putrasya ca SokArtayA
+079.16A: tataH striyApi svAminaH putrasya ca SokArtayA
+
+079.17F: tad anuzWitam . etatsarvaM SrutvA dfzwvA ca sa rAjA sAScaryaM cintayAmAsa --
+079.17A: tat anuzWitam . etat sarvam SrutvA dfzwvA ca saH rAjA sAScaryam cintayAmAsa --
+
+079.18F: jIvanti ca mriyante ca madviDAH kzudrajantavaH .
+079.18A: jIvanti ca mriyante ca madviDAH kzudrajantavaH .
+
+079.19F: anena sadfSo loke na BUto na Bavizyati .. 101..
+079.19A: anena sadfSaH loke na BUtaH na Bavizyati .. 101..
+
+079.20F: tadetatparityaktena mama rAjyenApi aprayojanam . tataH
+079.20A: tat etat parityaktena mama rAjyena api kim prayojanam . tataH
+
+079.21F: svaSiraSCettumullAsitaH KaqgaH SUdrakeRApi . aTa BagavatyA
+079.21A: svaSiraH Cettum ullAsitaH KaqgaH SUdrakeRa api . aTa BagavatyA
+079.21P: ullAsitaH -- udDftaH .
+
+079.22F: sarvamaNgalayA pratyakzaBUtayA rAjA haste Dfta uktaSca --
+079.22A: sarvamaNgalayA pratyakzaBUtayA rAjA haste DftaH uktaH ca --
+
+079.23F: putra prasannAsmi te .
+079.23A: putra prasanna asmi te .
+
+079.24F: etAvatA sAhasenAlam . jIvanAnte'pi tava rAjyaBaNgo nAsti .
+079.24A: etAvatA sAhasena alam . jIvanAnte api tava rAjyaBaNgaH na asti .
+
+079.25F: rAjA ca sAzwANgapAtaM praRamyovAca -- devi kiM me rAjyena .
+079.25A: rAjA ca sAzwANgapAtam praRamya uvAca -- devi kim me rAjyena .
+
+079.26F: jIvitena vA kiM prayojanam .
+079.26A: jIvitena vA kim prayojanam .
+
+079.27F: yadyahamanukampanIyastadA mamAyuHSezeRAyaM sadAraputro
+079.27A: yadyahamanukampanIyastadA mama AyuHSezeRAyam sadAraputro
+
+079.28F: vIravaro jIvatu . anyaTAhaM yaTAprAptAM gatiM gacCAmi .
+079.28A: vIravaraH jIvatu . anyaTA aham yaTAprAptAm gatim gacCAmi .
+
+079.29F: BagavatyuvAca -- putra anena te sattvotkarzeRa
+079.29A: BagavatI uvAca -- putra anena te sattvotkarzeRa
+079.29P: sattvotkarzeRa -- manasa udAratayA .
+
+079.30F: BftyavAtsalyena ca sarvaTA saMtuzwAsmi . gacCa vijayI Bava .
+079.30A: BftyavAtsalyena ca sarvaTA saMtuzwAsmi . gacCa vijayI Bava .
+079.30P: BftyavAtsalyena -- Bftyezu vAtsalyaM snehaH tena .
+
+079.31F: ayamapi saparivAro rAjaputro jIvatu . ityuktvA devyadfSyABavat .
+079.31A: ayam api saparivAraH rAjaputraH jIvatu . iti uktvA devI adfSyA aBavat .
+; Sampada: 'devyadfSyABavat' unsure.  Jim: agree
+
+079.32F: tato vIravaraH saputradAraH prAptajIvanaH svagfhaM
+079.32A: tataH vIravaraH saputradAraH prAptajIvanaH svagfham
+
+079.33F: gataH . rAjApi tEralakzitaH satvaraM prAsAdagarBaM gatvA taTEva suptaH .
+079.33A: gataH . rAjA api tEH alakzitaH satvaram prAsAdagarBam gatvA taTA eva suptaH .
+
+079.34F: aTa 
+079.34A: aTa 
+
+079.35F: vIravaro dvArasTaH punarBUpAlena pfzwaH sannuvAca -- deva 
+079.35A: vIravaraH dvArasTaH punaH BUpAlena pfzwaH san uvAca -- deva 
+
+079.36F: sA rudatI mAmavalokyAdfSyABavat . na kApyanyA vArtA vidyate .
+079.36A: sA rudatI strI mAm avalokya AdfSyA aBavat . na kApi anyA vArtA vidyate .
+
+079.37F: tadvacanamAkarRya saMtuzwo rAjA sAScaryaM
+079.37A: tat vacanam AkarRya saMtuzwaH rAjA sAScaryam
+
+079.38F: acintayat -- kaTamayaM SlAGyo mahAsattvaH . yataH .
+079.38A: acintayat -- kaTam ayam SlAGyaH mahAsattvaH .yataH .
+
+079.39F: priyaM brUyAdakfpaRaH SUraH syAdavikatTanaH .
+079.39A: priyam brUyAt akfpaRaH SUraH syAt avikatTanaH .
+079.39P: akfpaRaH -- DanasaMpannaH . priyaM brUyAdanyaTAsya mAhAtmyahAniH syAditi BAvaH .
+079.39P+: avikatTanaH anAtmaSlAGI .
+
+079.40F: dAtA nApAtravarzI ca pragalBaH syAdanizWuraH .. 102..
+079.40A: dAtA na apAtravarzI ca pragalBaH syAt anizWuraH .. 102..
+079.40P: pragalBaH -- SUraH .
+079.40P+: anizWuraH -- sakfpaH .
+
+079.41F: etanmahApuruzalakzaRametasminsarvamasti . 
+079.41A: etat mahApuruzalakzaRam etasmin sarvam asti . 
+
+079.42F: tataH sa rAjA prAtaH SizwasaBAM kftvA 
+079.42A: tataH saH rAjA prAtaH SizwasaBAm kftvA
+
+079.43F: sarvavfttAntaM prastutya prasAdAttasmE karRAwarAjyaM dadO . tat
+079.43A: sarvavfttAntam prastutya prasAdAt tasmE karRAwarAjyam dadO . tat
+
+079.44F: kimAgantuko jAtimAtrAdduzwaH . tatrApyuttamADamamaDyamAH santi .
+079.44A: kim AgantukaH jAtimAtrAt duzwaH . tatra api uttamADamamaDyamAH santi .
+
+079.45F: cakravAko brUte --
+079.45A: cakravAkaH brUte --
+

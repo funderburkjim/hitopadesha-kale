@@ -1,0 +1,62 @@
+077.01F: svarAjyaM vAsayedrAjA paradeSApavAharaRAt .
+077.01A: svarAjyam vAsayet rAjA paradeSApavAharaRAt .
+077.01P: rAjA paradeSApavAhanAt SanoH deSasya apavAhanAttasmAdbandiBAvena prajAH AnIya aTavA dAnamAnAByAM vanadAnena satkAreRa ca AnIya svarAjyaM vAsayet -- svarAjye niveSayet .  
+
+077.02F: aTavA dAnamAnAByAM vAsitaM DanadaM hi tat .. 95..
+077.02A: aTavA dAnamAnAByAm vAsitam Danadam hi tat .. 95..
+077.02P: hi yataH taTA vAsitaM vfdDapradaM rAjyaM DanadaM samfdDikaram .
+
+077.03F: rAjAHa -- AH kiM bahunoditena .
+077.03A: rAjA AHa -- AH kim bahunoditena .
+
+077.04F: AtmodayaH parajyAnirdvayaM nItiritIyatI .
+077.04A: AtmodayaH parajyAnirdvayam nItiH iti iyatI .
+077.04P: Atmodaya iti -- Atmana udayo vfdDiH .
+
+077.05F: tadUrIkftya kftiBirvAcaspatyaM pratIyate .. 96..
+; Kale typo? pratAyate -> pratIyate
+077.05A: tat UrIkftya kftiBiH vAcaspatyam pratIyate .. 96..
+077.05P: pratAyate -- vistIryate . karmaRi law . 'tanoteryaki' ityAtvam . tasmAdAtmodayArTiBiravilambAcCatrucCetavyaH . tatrAntarIyatvAttasyeti BAvaH iti .
+
+077.06F: mantriRA vihasyoktam -- sarvaM satyametat . kiMtu .
+077.06A: mantriRA vihasya uktam -- sarvam satyam etat . kim tu .
+
+077.07F: anyad ucCfNKalaM sattvamanyacCAstraniyantritam .
+077.07A: anyat ucCfNKalam sattvam anyat SAstraniyantritam .
+077.07P: anyaditi -- anyaducCfNKalamanargalaM prasahya . pIqanakzamamiti BAvaH .
+077.07P+: sattvaM balamanyat .
+077.07P++: SAstreRa -- manvAdiSAstreRa niyantritamudAhftaM paravyasanakAle nirmitaM sattvamanyat . utkawAnutkawalakzaRavElakzaRamanyaSabdArTaH .
+077.07P+++: tayoH sApekzatvanirapekzatvAByAM miTo viroDAnnEkaSAstratvaM saMBavatItyarTaH . atra dfzwAntamAha - tejastimirayoH samAnamaDikaraRaM yayostayorBAvaH samAnADikaraRyamekAyaSrayatvaM kutaH . na kutaScit . tayoH sahAvasTAnaviroDAditi BAvaH . tasmAduBayoruditAnuditahomavadBinnavizayatvAditaretaraSAstraviroDo na bADaka iti BAvaH . iti ca SiSupAlavaDawIkAyAM mallinATaH .
+
+077.08F: sAmAnADikaraRyaM hi tejastimirayoH kutaH .. 97..
+077.08A: sAmAnADikaraRyam hi tejastimirayoH kutaH .. 97..
+
+077.09F: tata utTAya rAjA mOhUrtikAveditalagne prasTitaH . aTa
+077.09A: tataH utTAya rAjA mOhUrtikAveditalagne prasTitaH . aTa
+
+077.10F: praRiDiprahitaScaro hiraRyagarBamAgatyovAca -- deva 
+077.10A: praRiDiprahitaH caraH hiraRyagarBam Agatya uvAca -- deva 
+
+077.11F: samAgataprAyo rAjA citravarRaH . saMprati malayaparvatADityakAyAM
+077.11A: samAgataprAyaH rAjA citravarRaH . saMprati malayaparvatADityakAyAm
+
+077.12F: samAvAsitakawako vartate . durgaSoDanaM pratikzaRamanusaMDAtavyam 
+077.12A: samAvAsitakawakaH vartate . durgaSoDanam pratikzaRam anusaMDAtavyam
+077.12P: samAvAsitakawakaH -- niveSitasEnyaH .
+077.12P+: durgaSoDanam -- durganirUpaRam .
+
+077.13F: yato'sO gfDro mahAmantrI . kiM ca kenacitsaha tasya
+077.13A: yataH asO gfDraH mahAmantrI . kim ca kena cit saha tasya
+
+077.14F: viSvAsakaTAprasaNgenEva tadiNgitamavagataM mayA . yadanena
+077.14A: viSvAsakaTAprasaNgena eva tat iNgitam avagatam mayA . yat anena
+
+077.15F: ko'pyasmaddurge prAgeva niyuktaH .
+077.15A: kaH api asmat durge prAk eva niyuktaH .
+
+077.16F: cakro brUte -- deva kAka evAsO saMBavati .
+077.16A: cakraH brUte -- deva kAkaH evAsO saMBavati .
+
+077.17F: rAjAha -- na kadAcid etat . yadyevaM tadA kaTaM 
+077.17A: rAjA Aha -- na kadA cit etat . yadi evam tadA kaTam 
+

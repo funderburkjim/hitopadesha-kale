@@ -1,0 +1,125 @@
+101.01F: na SaranmeGavatkAryaM vfTEva Ganagarjitam .
+101.01A: na SaranmeGavat kAryam vfTA eva Ganagarjitam .
+
+101.02F: parasyArTamanarTaM vA prakASayati no mahAn .. 97..
+101.02A: parasya arTam anarTam vA prakASayati naH mahAn .. 97..
+101.02P: parasya <ab n="ityAdi">i</ab> -- mahAn mahAmatiH paRqita ityarTaH . arTaM anarTaM ca izwAnizwaM parasya na prakASayati . anyasmE na kaTayati . yadvA cikIrzitaM parasya arTaM anarTaM vA na prakASayati . sarvaM suguptaM karotIti BAvaH .
+
+101.03F: aparaM ca . ekadA na vigfhRIyAdbahUnrAjABiGAtinaH .
+101.03A: aparaM ca . ekadA na vigfhRIyAt bahUn rAjABiGAtinaH .
+101.03P: aBiGAtinaH -- aBiyoktFn .
+
+101.04F: sadarpo'pyuragaH kIwErbahuBirnASyate Druvam .. 98..
+101.04A: sadarpaH api uragaH kIwEH bahuBiH nASyate Druvam .. 98..
+
+101.05F: deva kimitu vinA saMDAnaM gamanamasti .
+101.05A: deva kim iti vinA saMDAnaM gamanam asti .
+
+101.06F: yatastadAsmatpaScAtprakopo'nena kartavyaH . aparaM ca .
+101.06A: yataH tadA asmat paScAt prakopaH anena kartavyaH . aparaM ca .
+
+101.07F: yo'rTatattvamavijYAya kroDasyEva vaSaM gataH .
+101.07A: yaH arTatattvam avijYAya kroDasya eva vaSam gataH .
+
+101.08F: sa taTA tapyate mUQo brAhmaRo nakulAdyaTA .. 99..
+101.08A: saH taTA tapyate mUQaH brAhmaRaH nakulAt yaTA .. 99..
+
+101.09F: rAjAha -- kaTametat .
+101.09A: rAjA Aha -- kaTam etat .
+
+101.10F: dUradarSI kaTayati --
+101.10A: dUradarSI kaTayati -- 
+
+101.11F: .. kaTA 12 ..
+101.11A: .. kaTA 12 ..
+
+101.12F: astyujjayinyAM mADavo nAma vipraH . tasya brAhmaRI prasUtA .
+101.12A: asti ujjayinyAm mADavaH nAma vipraH . tasya brAhmaRI prasUtA .
+
+101.13F: sA bAlApatyasya rakzArTaM brAhmaRamavasTApya snAtuM gatA . aTa
+101.13A: sA bAlApatyasya rakzArTaM brAhmaRam avasTApya snAtuM gatA . aTa
+
+101.14F: brAhmaRAya rAjYaH pArvaRaSrAdDaM dAtumAhvAnamAgatam . tacCrutvA
+101.14A: brAhmaRAya rAjYaH pArvaRaSrAdDam dAtum AhvAnam Agatam . tat CrutvA
+101.14P: pArvaRaSrAdDam -- parvaRi kftaM SrAdDam .
+
+101.15F: brAhmaRaH sahajadAridryAdacintayat -- yadi satvaraM na
+101.15A: brAhmaRaH sahajadAridryAt acintayat -- yadi satvaraM na
+
+; Kale typo ? kaSciCrAdDaM  (not kaScicC..)
+101.16F: gacCAmi tatrAnyaH kaScicCrAdDaM grahIzyati . yataH .
+101.16A: gacCAmi tatra anyaH kaH cit SrAdDaM grahIzyati . yataH .
+
+; Kale typo ? AdAnaBya -> AdAnasya
+101.17F: AdAnasya pradAnasya kartavyasya ca karmaRaH .
+101.17A: AdAnasya pradAnasya kartavyasya ca karmaRaH .
+
+101.18F: kzipramakriyamARasya kAlaH pibati tadrasam .. 100..
+101.18A: kzipram akriyamARasya kAlaH pibati tat rasam .. 100..
+
+101.19F: kiMtu bAlAkasyAtra rakzako nAsti . tatkiM karomi . yAtu .
+101.19A: kiM tu bAlAkasya atra rakzakaH na asti . tat kiM karomi . yAtu .
+
+101.20F: cirakAlapAlitamimaM nakulaM putranirviSezaM bAlakarakzArTaM
+101.20A: cirakAlapAlitam imam nakulaM putranirviSezaM bAlakarakzArTam 
+
+101.21F: vyavasTApya gacCAmi . taTA kftvA gataH .
+101.21A: vyavasTApya gacCAmi . taTA kftvA gataH .
+
+101.22F: tatastena nakulena bAlakasamIpamAgacCankfzRasarpo
+101.22A: tataH tena nakulena bAlakasamIpam AgacCan kfzRasarpaH
+
+101.23F: dfzvA vyApAditaH KaRqitaSca .
+101.23A: dfzvA vyApAditaH KaRqitaH ca .
+
+101.24F: tato'sO nakulo brAhmaRamAyAntamavalokya raktaviliptamuKapAdaH
+101.24A: tataH asO nakulaH brAhmaRam AyAntam avalokya raktaviliptamuKapAdaH
+
+101.25F: satvaramupagamya taccaraRayorluloWa . tataH sa viprastaTAviDaM taM
+101.25A: satvaram upagamya tat caraRayoH luloWa . tataH saH vipraH taTAviDaM taM
+
+101.26F: dfzwvA bAlako'nena KAdita ityavaDArya nakulaM vyApAditavAn .
+101.26A: dfzwvA bAlakaH anena KAditaH iti avaDArya nakulaM vyApAditavAn .
+
+101.27F: anantaraM yAvadupasftyApatyaM paSyati brAhmaRastAvadbAlakaH
+101.27A: anantaraM yAvat upasftya apatyaM paSyati brAhmaRaH tAvat bAlakaH
+
+101.28F: susTaH sarpaSca vyApAditastizWati . tatastamupakArakaM
+101.28A: susTaH sarpaH ca vyApAditaH tizWati . tataH tam upakArakaM
+
+101.29F: nakulaM nirIkzya BAvitacetAH sa paraM vizAdamagamat .
+101.29A: nakulaM nirIkzya BAvitacetAH saH paraM vizAdam agamat .
+101.29P: BAvitacetA -- BavArdrahfdayaH .
+
+101.30F: ato'haM bravImi -- yo'rTatattvamavijYAya ityAdi .. 
+101.30A: ataH ahaM bravImi -- yaH arTatattvam avijYAya ityAdi ..  
+
+101.31F: aparaM ca . kAmaH kroDastaTA moho loBo mAno madastaTA .
+101.31A: aparaM ca . kAmaH kroDaH taTA mohaH loBaH mAnaH madaH taTA .
+
+101.32F: zaqvargamutsfjedenamasmiMstyakte suKI naraH .. 101..
+101.32A: zaqvargam utsfjet enam asmin tyakte suKI naraH .. 101..
+
+101.33F: rAjAha -- mantrin eza te niScayaH .
+101.33A: rAjA Aha -- mantrin ezaH te niScayaH .
+
+101.34F: mantrI brUte -- evameva . yataH .
+101.34A: mantrI brUte -- evam eva . yataH .
+
+101.35F: smftiSca paramArTezu vitarko jYAnaniScayaH .
+101.35A: smftiH ca paramArTezu vitarkaH jYAnaniScayaH .
+101.35P: paramArTezu -- gurukAryezu .
+101.35P+: vitarkaH -- Uhanam .
+101.35P++: jYAnaniScayaH -- jYAnena anuzWeyasya samyakparyAlocanena niScayaH paricCedaH . avicAreRa .
+
+101.36F: dfQatA mantraguptiSca mantriRaH paramA guRaH .. 102..
+101.36A: dfQatA mantraguptiH ca mantriRaH paramAH guRaH .. 102..
+
+101.37F: taTA ca . sahasA vidaDIta na kriyAmavivekaH paramApadAM padam .
+101.37A: taTA ca . sahasA vidaDIta na kriyAm avivekaH param ApadAM padam .
+
+101.38F: vfRate hi vimfSyakAriRaM guRalubDAH svayameva saMpadaH .. 103..
+101.38A: vfRate hi vimfSya kAriRaM guRalubDAH svayam eva saMpadaH .. 103..
+101.38P: vfRate aBilazyanti .
+101.38P+: guRalubDAH -- nayaguRalolupAH .
+

@@ -1,0 +1,142 @@
+095.01F: yA hi prARaparityAgamUlyenApi na laByate .
+095.01A: yA hi prARaparityAgamUlyena api na laByate .
+
+095.02F: sA SrIrnItividaM veSma caYcalApi praDAvati .. 54..
+095.02A: sA SrIH nItividam veSma caYcalApi praDAvati .. 54..
+
+095.03F: taTA coktaM --
+095.03A: taTA ca uktam --
+
+095.04F: vittaM yadA yasya samaM viBaktaM gUQaSca cAro niBftaSca mantraH .
+095.04A: vittam yadA yasya samam viBaktam gUQaH ca cAraH niBftaH ca mantraH .
+095.04P: samaM viBaktam -- yaTAyaTaM tulyatayA viniyuktam .
+
+095.05F: na cApriyaM prARizu yo bravIti sa sAgarAntAM pfTivIM praSAsti .. 55..
+095.05A: na ca apriyam prARizu yaH bravIti saH sAgarAntAm pfTivIm praSAsti .. 55..
+
+095.06F: kiMtu deva yadyapi mahAmantriRA gfDreRa
+095.06A: kiMtu deva yadi api mahAmantriRA gfDreRa
+
+095.07F: saMDAnamupanyastaM taTApi tena rAjYA saMprati BUtajayadarpAnna
+095.07A: saMDAnam upanyastam taTA api tena rAjYA saMprati BUtajayadarpAn na
+095.07P: upanyastam -- kartavyatena nirdizwam .
+
+095.08F: mantavyam . tadevaM kriyatAM . siMhaladvIpasya mahAbalo
+095.08A: mantavyam . tat evam kriyatAm . siMhaladvIpasya mahAbalaH
+
+095.09F: nAma sAraso rAjAsmanmitraM jambudvIpe kopaM janayatu . yataH .
+095.09A: nAma sArasaH rAjA asmat mitram jambudvIpe kopam janayatu . yataH .
+095.09P: kopaM -- prakftiSoBam .
+
+095.10F: suguptimADAya susaMhatena balena vIro vicarannarAtim .
+095.10A: suguptim ADAya susaMhatena balena vIraH vicarat narAtim .
+095.10P: suguptim suzWu rakzAm .
+095.10P+: susaMhatena -- susambadDena .
+
+095.11F: saMtApayedyena samaM sutaptastaptena saMDAnamupEti taptaH .. 56..
+095.11A: saMtApayet yena samam sutaptaH taptena saMDAnam upEti taptaH .. 56..
+095.11P: yena -- yena <ab n="ityAdi">i</ab> SatruH samaM AtmatulyaM sutaptaH Bavet .
+
+095.12F: rAjYA evamastu iti nigadya
+095.12A: rAjYA evam astu iti nigadya
+
+; Kale 'datvA' typo?
+095.13F: vicitranAmA bakaH suguptaleKaM dattvA siMhaladvIpaM prasTApitaH .
+095.13A: vicitranAmA bakaH suguptaleKam dattvA siMhaladvIpam prasTApitaH .
+
+095.14F: aTa praRiDirAgatyovAca --
+095.14A: aTa praRiDiH Agatya uvAca --
+
+095.15F: deva SrUyatAM tatratyaH prastAvaH .
+095.15A: deva SrUyatAm tatratyaH prastAvaH .
+
+095.16F: evaM tatra gfDreRoktam -- deva yanmeGavarRastatra ciramuzitaH .
+095.16A: evam tatra gfDreRa uktam -- deva yat meGavarRaH tatra ciramuzitaH .
+
+095.17F: sa vetti kiM saMDeyaguRayukto hiraRyagarBo rAjA na vA iti .
+095.17A: saH vetti kim saMDeyaguRayuktaH hiraRyagarBaH rAjA na vA iti .
+
+095.18F: tato'sO meGavarRaScitravarRena rAjYA samAhUya pfzwaH -- vAyasa 
+095.18A: tataH asO meGavarRaH citravarRena rAjYA samAhUya pfzwaH - vAyasa 
+
+095.19F: kIdfSo'sO hiraRyagarBaH . cakravAko mantrI vA kIdfSaH .
+095.19A: kIdfSaH asO hiraRyagarBaH . cakravAkaH mantrI vA kIdfSaH .
+
+095.20F: vAyasa uvAca -- deva hiraRyagarBo rAjA yuDizWirasamo
+095.20A: vAyasaH uvAca -- deva hiraRyagarBaH rAjA yuDizWirasamaH
+
+095.21F: mahASayaH . cakravAkasamo mantrI na kvApyavalokyate .
+095.21A: mahASayaH . cakravAkasamaH mantrI na kva api avalokyate .
+095.21P: mahASayaH -- mahAn ASayaH manaH yasya . mahAsatvaH .
+
+095.22F: rAjAha -- yadyevaM tadA kaTamasO tvayA vaYcitaH .
+095.22A: rAjA Aha -- yadi evam tadA kaTam asO tvayA vaYcitaH .
+
+095.23F: vihasya meGavarRaH prAha -- deva 
+095.23A: vihasya meGavarRaH prAha -- deva 
+
+095.24F: viSvAsapratipannAnAM vaYcane kA vidagDatA .
+095.24A: viSvAsapratipannAnAm vaYcane kA vidagDatA .
+
+095.25F: aNkamAruhya suptaM hi hatvA kiM nAma pOruzam .. 57..
+095.25A: aNkam Aruhya suptam hi hatvA kim nAma pOruzam .. 57..
+
+095.26F: SfRu deva tena mantriRAhaM praTamadarSane eva jYAtaH .
+095.26A: SfRu deva tena mantriRAham praTamadarSane eva jYAtaH .
+
+095.27F: kiMtu mahASayo'sO rAjA . tena mayA vipralabDaH . taTA coktam --
+095.27A: kim tu mahASayaH asO rAjA . tena mayA vipralabDaH . taTA ca uktam --
+
+095.28F: AtmOpamyena yo vetti durjanaM satyavAdinam .
+095.28A: AtmOpamyena yaH vetti durjanam satyavAdinam .
+
+095.29F: sa taTA vaYcyate DUrtErbrAhmaRASCAgato yaTA .. 58..
+095.29A: saH taTA vaYcyate DUrtEH brAhmaRAH ca AgataH yaTA .. 58..
+
+095.30F: rAjovAca -- kaTametat .
+095.30A: rAjA uvAca -- kaTam etat .
+
+095.31F: meGavarRaH kaTayati --
+095.31A: meGavarRaH kaTayati --
+
+095.32F: .. kaTA 9 ..
+095.32A: .. kaTA 9 ..
+
+095.33F: asti gOtamasyAraRye prastutayajYaH kaScidbrAhmaRaH . sa ca
+095.33A: asti gOtamasya araRye prastutayajYaH kaH cit brAhmaRaH . saH ca
+
+095.34F: yajYArTaM grAmAntarAcCAgamupakrIya skanDe DftvA gacCan
+095.34A: yajYArTam grAmAntarAt CAgam upakrIya skanDe DftvA gacCan
+
+095.35F: DUrtatrayeRAvalokitaH .
+095.35A: DUrtatrayeRa avalokitaH .
+
+095.36F: tataste DUrtAH yadyeza CAgaH kenApyupAyena laByate
+095.36A: tataH te DUrtAH yadi ezaH CAgaH kena api upAyena laByate
+095.36P: CAgaH -- ajaH .
+
+095.37F: tadA matiprakarzo BavatIti samAlocya vfkzatrayatale
+095.37A: tadA matiprakarzaH Bavati iti samAlocya vfkzatrayatale
+095.37P: matiprakarzaH -- mateH kapawabudDeH prakarzaH utkfzwaM utkarzaH pramARaM vA .
+
+095.38F: kroSAntareRa tasya brAhmaRasyAgamanaM pratIkzya paTi sTitAH .
+095.38A: kroSAntareRa tasya brAhmaRasya Agamanam pratIkzya paTi sTitAH .
+
+095.39F: tatrEkena DUrtena gacCansa brAhmaRo'BihitaH -- Bo brAhmaRa 
+095.39A: tatra ekena DUrtena gacCat saH brAhmaRaH aBihitaH -- Bo brAhmaRa 
+
+095.40F: kimiti kukkuraH skanDenohyate .
+095.40A: kim iti kukkuraH skanDena uhyate .
+
+095.41F: vipreRoktaM -- nAyaM SvA kiMtu yajYacCAgaH .
+095.41A: vipreRa uktam -- na ayam Svan kim tu yajYat CAgaH .
+
+095.42F: aTAntarasTitenAnyena DUrtena taTEvoktam . tadAkarRya
+095.42A: aTa antarasTitena anyena DUrtena taTA eva uktam . tat AkarRya
+
+095.43F: brAhmaRaSCAgaM BUmO niDAya muhurnirIkzya punaH skanDe kftvA
+095.43A: brAhmaRaH CAgam BUmO niDAya muhuH nirIkzya punaH skanDe kftvA
+
+095.44F: dolAyamAnamatiScalitaH . yataH .
+095.44A: dolAyamAnamatiH calitaH . yataH .
+095.44P: dolAyamAnamatiH -- saMSayagrastabudDiH .

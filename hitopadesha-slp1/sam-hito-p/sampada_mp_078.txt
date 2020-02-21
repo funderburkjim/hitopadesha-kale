@@ -1,0 +1,163 @@
+078.01F: tena SukasyABiBavAyodyogaH kftaH . aparaM
+078.01A: tena SukasyABiBavAyodyogaH kftaH . aparam
+078.01P: aBiBavAya -- nigrahArTam .
+
+078.02F: ca . Sukasya gamanti tasya vigrahotsAhaH . sa cirAd atrAste .
+078.02A: ca . Sukasya gamanti tasya vigrahotsAhaH . saH cirAt atra Aste .
+
+; print hard to read: gangukaH
+078.03F: mantrI brUte -- taTApyAgantukaH SaNkanIyaH .
+078.03A: mantrI brUte -- taTA api AgantukaH SaNkanIyaH .
+
+078.04F: rAjAha --
+078.04A: rAjA Aha --
+
+078.05F: AgantukA api kadAcidupakArakA dfSyante . SfRu .
+078.05A: AgantukAH api kadAcit upakArakAH dfSyante . SfRu .
+
+078.06F: paro'pi hitavAnbanDurbanDurapyahitaH paraH .
+; print unclear: apyahitaH
+078.06A: paraH api hitavAn banDuH banDuH api ahitaH paraH .
+
+078.07F: ahito dehajo vyADirhitamAraRyamOzaDam .. 98..
+078.07A: ahitaH dehajaH vyADiH hitam AraRyam OzaDam .. 98..
+
+078.08F: aparaM ca . AsIdvIravaro nAma SUdrakasya mahIBftaH .
+078.08A: aparam ca . AsIt vIravaraH nAma SUdrakasya mahIBftaH .
+
+078.09F: sevakaH svalpakAlena sa dadO sutamAtmanaH .. 99..
+078.09A: sevakaH svalpakAlena saH dadO sutam AtmanaH .. 99..
+
+078.10F: cakraH pfcCati -- kaTametat .
+078.10A: cakraH pfcCati-- kaTam etat .
+
+078.11F: rAjA kaTayati --
+078.11A: rAjA kaTayati --
+
+078.12F: .. kaTA 8 ..
+078.12A: .. kaTA 8 ..
+
+; Kale typo? kelinnAmno -> kelinAmno
+078.13F: ahaM purA SUdrakasya rAjYaH krIqAsarasi karpUrakelinAmno
+078.13A: aham purA SUdrakasya rAjYaH krIqAsarasi karpUrakelinAmno
+
+078.14F: rAjahaMsasya putryA karpUramaYjaryA sahAnurAgavAnaBavam . tatra vIravaro nAma
+078.14A: rAjahaMsasya putryA karpUramaYjaryA saha anurAgavAn aBavam . tatra vIravaraH nAma
+
+078.15F: rAjaputraH kutaSciddeSAdAgatya rAjadvAramupagamya pratIhAramuvAca --
+078.15A: rAjaputraH kutaH cit deSAt Agatya rAjadvAram upagamya pratIhAram uvAca --
+
+078.16F: ahaM tAvadvartanArTI rAjaputraH rajadarSanaM kAraya .
+078.16A: aham tAvat vartanArTI rAjaputraH rajadarSanam kAraya .
+
+078.17F: tatastenAsO rAjadarSanaM kArito brUte -- deva 
+078.17A: tataH tena asO rAjadarSanam kAritaH brUte -- deva 
+
+078.18F: yadi mayA sevakena prayojanamasti tadAsmadvartanaM kriyatAm .
+078.18A: yadi mayA sevakena prayojanam asti tadA asmat vartanam kriyatAm .
+078.18P: vartanam -- pf. 14 drazwavyam .
+
+078.19F: SUdraka uvAca -- kiM te vartanam .
+078.19A: SUdrakaH uvAca -- kim te vartanam .
+
+078.20F: vIravaro brUte -- pratyahaM suvarRaSatacatuzwayam  .
+078.20A: vIravaraH brUte -- pratyaham suvarRaSatacatuzwayam  .
+
+078.21F: rAjAha -- kA te sAmagrI .
+078.21A: rAjA Aha -- kA te sAmagrI .
+
+078.22F: vIravaro brUte -- dvO bAhU . tftIyaSca KaqgaH .
+078.22A: vIravaraH brUte -- dvO bAhU . tftIyaH ca KaqgaH .
+
+078.23F: rAjAha -- nEtacCakyam .
+078.23A: rAjA Aha -- na etat Sakyam .
+
+078.24F: tacCrutvA vIravaraH praRamya calitaH . aTa mantriBiruktam --
+078.24A: tat SrutvA vIravaraH praRamya calitaH . aTa mantriBiH uktam --
+
+078.25F: deva dinacatuzwayasya vartanaM dattvA jYAyatAmasya
+078.25A: deva dinacatuzwayasya vartanam dattvA jYAyatAm asya
+
+078.26F: svarUpam . kimupayukto'yametAvadvartanaM gfhRAtyanupayukto veti .
+; Kale print unclear: kimupayukto
+078.26A: svarUpam . kim upayuktaH ayam etAvat vartanam gfhRAti anupayuktaH veti .
+
+078.27F: tato mantrivacanAd AhUya vIravarAya tAmbUlaM dattvA 
+078.27A: tataH mantrivacanAt AhUya vIravarAya tAmbUlam dattvA 
+
+078.28F: suvarRaSatacatuzwayaM dattam . tadviniyogaSca rAjYA suniBftaM nirUpitaH .
+078.28A: suvarRaSatacatuzwayam dattam . tat viniyogaH ca rAjYA suniBftam nirUpitaH .
+078.28P: viniyogaH -- vyayakaraRam .
+
+078.29F: tadarDaM vIravareRa deveByo brAhmaReByaSca dattam . sTitasyArDaM
+078.29A: tat arDam vIravareRa deveByaH brAhmaReByaH ca dattam . sTitasya arDam
+
+078.30F: duHKiteByaH . tadavaSizwaM BojyavyayavilAsavyayena vyayitam . etatsarvaM
+078.30A: duHKiteByaH . tat avaSizwam BojyavyayavilAsavyayena vyayitam . etat sarvam
+
+078.31F: nityakftyaM kftvA rAjadvAramaharniSaM KaqgapARiH sevate .
+078.31A: nityakftyam kftvA rAjadvAram ahaH niSam KaqgapARiH sevate .
+
+078.32F: yadA ca rAjA svayaM samAdiSati tadA svagfhamapi yAti . aTEkadA
+078.32A: yadA ca rAjA svayam samAdiSati tadA svagfham api yAti . aTa ekadA
+
+078.33F: kfzRacaturdaSyAM rAtrO rAjA sakaruRaM krandanaDvaniM
+078.33A: kfzRacaturdaSyAm rAtrO rAjA sakaruRam krandanaDvanim
+
+078.34F: SuSrAva . Sudraka uvAca -- kaH ko'tra dvAri . 
+078.34A: SuSrAva . SudrakaH uvAca -- kaH kaH atra dvAri .
+
+078.35F: tenoktaM -- deva ahaM vIravaraH .
+078.35A: tena uktam -- deva aham vIravaraH .
+
+078.36F: rAjovAca -- krandanAnusaraRaM kriyatAm .
+078.36A: rAjA uvAca -- krandanAnusaraRam kriyatAm .
+078.36P: krandanAnusaraRam -- krandanaSabdAnuroDena gamanam .
+
+078.37F: vIravaraH yaTAjYApayati deva ityuktvA calitaH .
+078.37A: vIravaraH yaTA AjYApayati deva iti uktvA calitaH .
+
+078.38F: rAjYA ca cintitam -- nEtaducitam . ayamekAkI rAjaputro mayA sUcIBedye tamasi
+078.38A: rAjYA ca cintitam -- na etat ucitam . ayam ekAkI rAjaputraH mayA sUcIBedye tamasi
+078.38P: sUcIBedye tamasi gAQAnDakAre .
+
+078.39F: preritaH . tadanu gatvA kimetaditi nirUpayAmi .
+078.39A: preritaH . tadanu gatvA kim etat iti nirUpayAmi .
+
+078.40F: tato rAjApi
+078.40A: tataH rAjA api
+
+078.41F: KaqgamAdAya tadanusaraRakrameRa nagarAdbahirnirjagAma . gatvA ca
+078.41A: Kaqgam AdAya tadanusaraRakrameRa nagarAt bahiH nirjagAma . gatvA ca
+
+078.42F: vIravareRa sA rudatI rupayOvanasaMpannA sarvAlaNkAraBUzitA kAcit
+078.42A: vIravareRa sA rudatI rupayOvanasaMpannA sarvAlaNkAraBUzitA kA cit
+
+078.43F: strI dfzwA pfzwA ca -- kA tvam . kimarTaM rodizIti .
+078.43A: strI dfzwA pfzwA ca -- kA tvam . kim arTam rodizi iti .
+
+078.44F: striyoktam -- ahametasya SUdrakasya rAjYo lakzmIH . cirAdetasya
+078.44A: striyoktam -- aham etasya SUdrakasya rAjYaH lakzmIH . cirAt etasya
+
+078.45F: BujacCAyAyAM mahatA suKena viSrAntA . idAnImanyatra gamizyAmi .
+078.45A: BujacCAyAyAm mahatA suKena viSrAntA . idAnIm anyatra gamizyAmi .
+
+078.46F: vIravaro brUte -- yatrApAyaH saMBavati tatropAyo'pyasti .
+078.46A: vIravaraH brUte -- yatra ApAyaH saMBavati tatra upAyaH api asti .
+
+078.47F: tatkaTaM syAt punarihAvalambanaM BagavatyAH .
+078.47A: tat kaTam syAt punaH iha avalambanam BagavatyAH .
+078.47P: avalambanaM sTitiH avasTAnam .
+
+078.48F: lakzmIruvAca -- yadi tvamAtmanaH putraM SaktiDaraM
+078.48A: lakzmIH uvAca -- yadi tvam AtmanaH putram SaktiDaram
+
+078.49F: dvAtriMSallakzaRopetaM BagavatyAH sarvamaNgalAyA upahArIkarozi
+078.49A: dvAtriMSat lakzaRopetam BagavatyAH sarvamaNgalAyA upahArIkarozi
+078.49P: dvAtriMSallakzaRopetam dve ca triMSacca yadvA dyaDikA triMSadyAni lakzaRAni tEH upetam .
+078.49P+: sarvamaNgalAyAH -- sarveByaH sarvezAM vA maNgalA . sarvARi maNgalAni yasyAH iti vA sarvamaNgalA caRqikA .
+078.49P++: upahArIkarozi -- baliM dadAsi .
+
+078.50F: tadAhaM punaratra suciraM suKaM nivasAmi . ityuktvAdfSyABavat .
+078.50A: tadA aham punaH atra suciram suKam nivasAmi . iti uktvA adfSyA  aBavat .
+

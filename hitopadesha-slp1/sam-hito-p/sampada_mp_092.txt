@@ -1,0 +1,134 @@
+092.01F: aparaM ca . sanDimicCetsamenApi sandigDo vijayo yuDi .
+092.01A: aparam ca . sanDim icCet samena api sandigDaH vijayaH yuDi .
+
+092.02F: rAjovAca -- kaTametat .
+092.02A: rAjA uvAca -- kaTam etat .
+
+092.03F: mantrI kaTayati -- 
+092.03A: mantrI kaTayati --
+
+092.04F: .. kaTA 8 ..
+092.04A: .. kaTA 8 ..
+
+092.05F: purA dEtyO sahodarO sundopasundanAmAnO mahatA kAyakleSena
+092.05A: purA dEtyO sahodarO sundopasundanAmAnO mahatA kAyakleSena
+
+092.06F: trElokyarAjyakAmanayA cirAccandraSeKaramArADitavantO .
+092.06A: trElokyarAjyakAmanayA cirAt candraSeKaram ArADitavantO .
+
+092.07F: tatastayorBagavAnparituzwaH varaM varayatamityuvAca .
+092.07A: tataH tayoH BagavAn parituzwaH varam varayatam iti uvAca .
+
+092.08F: anantaraM tayoH samaDizWitAyA sarasvatyA tAvanyad
+092.08A: anantaram tayoH samaDizWitAyA sarasvatyA tO anyat
+092.08P: sarasvatyA hetunA .
+
+092.09F: vaktukAmAvanyadaBihitavantO . yadyAvayorBavAnparituzwastadA
+092.09A: vaktukAmO anyat aBihitavantO . yadi AvayoH BavAn parituzwaH tadA
+
+092.10F: svapriyAM pArvatIM parameSvaro dadAtu .
+092.10A: svapriyAm pArvatIm parameSvaraH dadAtu .
+
+092.11F: aTa BagavatA krudDena varadAnasyAvaSyakatayA vicAramUQayoH
+092.11A: aTa BagavatA krudDena varadAnasya AvaSyakatayA vicAramUQayoH
+
+092.12F: pArvatI pradattA . tatastasyA rUpalAvaRyalubDAByAM
+092.12A: pArvatI pradattA . tataH tasyA rUpalAvaRyalubDAByAM
+
+092.13F: jagadGAtiByAM manasotsukAByAM pApatimirAByAm mametyanyonyakalahAByAM
+092.13A: jagadGAtiByAm manasotsukAByAm pApatimirAByAm mama iti anyonyakalahAByAm
+092.13P: jagadGAtiByAm -- kftalokakandanAByAM .
+092.13P+: pApatimirAByAm -- pApaM eva timiraM netrarogaH yayoH tAByAm . pApabudDyopahatahitAhitabudDyoH ityarTaH . yadvA pApatimirAByAM pApatimirAvatArAByAmiva sTitAByAm .
+
+092.14F: pramARapuruzaH kaScitpfcCyatAmiti matO
+092.14A: pramARapuruzaH kaH cit pfcCyatAm iti matO
+092.14P: pramARapuruzaH -- maDyasTaH .
+
+092.15F: kftAyAM sa eva BawwArako vfdDadvijarUpaH samAgatya
+092.15A: kftAyAm saH eva BawwArakaH vfdDadvijarUpaH samAgatya
+092.15P: BawwArakaH -- devaH candraSeKaraH .
+
+092.16F: tatropasTitaH . anantaraMAvAByAmiyaM svabalalabDA
+092.16A: tatra upasTitaH . anantaram AvAByAm iyam svabalalabDA
+
+092.17F: kasyeyamAvayorBavati iti brAhmaRamapfcCatAm . brAhmaRo brUte --
+092.17A: kasya iyam AvayoH Bavati iti brAhmaRam apfcCatAm . brAhmaRaH brUte --
+
+092.18F: jYAnaSrezWo dvijaH pUjyaH kzatriyo balavAnapi .
+092.18A: jYAnaSrezWaH dvijaH pUjyaH kzatriyaH balavAn api .
+
+092.19F: DanaDAnyADiko vESyaH SUdrastu dvijasevayA .. 26..
+092.19A: DanaDAnyADikaH vESyaH SUdraH tu dvijasevayA .. 26..
+
+092.20F: tadyuvAM kzatraDarmAnugO . yudDa eva yuvayorniyamaH .
+092.20A: tat yuvAm kzatraDarmAnugO . yudDa eva yuvayoH niyamaH .
+; Sampada: 'yudda' unknown.  Jim:  yudDa
+
+092.21F: ityaBihite sati sADUktamanena iti kftvAnyonyatulyavIryO
+092.21A: iti aBihite sati sADu uktam anena iti kftvA anyonyatulyavIryO
+
+092.22F: samakAlamanyonyaGAtena
+092.22A: samakAlam anyonyaGAtena
+
+092.23F: vinASamupAgatO . ato'haM bravImi -- saMDimicCetsamenApi ityAdi ..
+092.23A: vinASam upAgatO . ataH aham bravImi -- saMDim icCet samena api ityAdi ..
+
+092.24F: rAjAha -- prAg eva kiM noktaM BavadBiH .
+092.24A: rAjA Aha -- prAk eva kim na uktam BavadBiH .
+
+092.25F: mantrI brUte -- madvacanaM kimavasAnaparyantaM SrutaM
+092.25A: mantrI brUte -- madvacanam kim avasAnaparyantam Srutam
+092.25P: avasAnaparyantam -- samAptiM yAvat .
+
+092.26F: BavadBiH . tadApi mama saMmatyA nAyaM vigrahAramBaH . 
+092.26A: BavadBiH . tadA api mama saMmatyA na ayam vigrahAramBaH . 
+
+092.27F: sanDeyaguRayukto'yaM hiraRyagarBo na vigrAhyaH . taTA coktaM --
+092.27A: sanDeyaguRayuktaH ayam hiraRyagarBaH na vigrAhyaH . taTA ca uktam --
+; Sampada: Unsure of 'sanDEyaguRayuktaH'... 
+; Jim:  sanDeyaguRayuktaH
+092.27P: sanDeya -- sanDeyasya saMDAtuM yogyasya ye guRAsteH yuktaH .
+092.27P+: vigrAhyaH -- vigrahituM yogyaH .
+
+; Kale has 'Batf...': typo?
+092.28F: satyArTO DArmiko'nAryo BrAtfsaMGAtavAnbalI .
+092.28A: satyArTO DArmikaH anAryaH BrAtfsaMGAtavAn balI .
+092.28P: satyArTO -- satyaH satyaSIlaH AryaH sajjanaH tO .
+
+092.29F: anekayudDavijayI saMDeyAH sapta kIrtitAH .. 27..
+092.29A: anekayudDavijayI saMDeyAH sapta kIrtitAH .. 27..
+
+092.30F: satyo'nupAlayansatyaM saMDito nEti vikriyAm .
+092.30A: satyaH anupAlayan satyam saMDitaH na iti vikriyAm .
+092.30P: saMDitaH -- sanDiH asya saMjAtaH .
+
+092.31F: prARabADe'pi suvyaktamAryo nAyAtyanAryatAm .. 28..
+092.31A: prARabADe api suvyaktam AryaH na AyAti anAryatAm .. 28..
+
+092.32F: DArmikasyABiyuktasya sarva eva hi yuDyate .
+092.32A: DArmikasya aBiyuktasya sarva eva hi yuDyate .
+092.32P: aBiyuktasya -- SatruRA AkrAntasya sataH .
+
+092.33F: prajAnurAgAdDarmAcca duHKocCedyo hi DArmikaH .. 29..
+092.33A: prajAnurAgAt DarmAt ca duHKocCedyaH hi DArmikaH .. 29..
+
+092.34F: saMDiH kAryo'pyanAryeRa vinASe samupasTite .
+092.34A: saMDiH kAryaH api anAryeRa vinASe samupasTite .
+
+092.35F: vinA tasyASrayeRAryo kuryAnna kAlayApanam .. 30..
+092.35A: vinA tasya ASrayeRa AryaH kuryAt na kAlayApanam .. 30..
+092.35P: kAlayApanam -- kAlAtivAhanam . suKena Ayurna kzapayedityarTaH .
+
+092.36F: saMhatvAdyaTA veRurnibiqEH kaRwakErvftaH .
+092.36A: saMhatvAt yaTA veRuH nibiqEH kaRwakEH vftaH .
+
+092.37F: na Sakyate samucCettuM BrAtfsaNGAtavAMstaTA .. 31..
+092.37A: na Sakyate samucCettum BrAtfsaNGAt avAMstaTA .. 31..
+
+092.38F: balinA saha yodDavyamiti nAsti nidarSanam .
+092.38A: balinA saha yodDavyam iti na asti nidarSanam .
+092.38P: nidarSanam -- nItiSAstrAjYA . anuSAsanam .
+
+092.39F: prativAtaM na hi GanaH kadAcidupasarpati .. 32..
+092.39A: prativAtam na hi GanaH kadAcit upasarpati .. 32..
+

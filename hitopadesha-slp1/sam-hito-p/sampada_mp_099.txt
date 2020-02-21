@@ -1,0 +1,90 @@
+099.01F: ata eva hi necCanti sADavaH satsamAgamam .
+099.01A: ata eva hi na icCanti sADavaH satsamAgamam .
+
+099.02F: yadviyogAsilUnasya manaso nAsti Bezajam .. 83..
+099.02A: yat viyogAsilUnasya manasaH nAsti Bezajam .. 83..
+099.02P: viyogAsilUnasya -- viyago eva asiH Kaqgastena lUnasya vidAritasya .
+
+099.03F: sukftAnyeva karmARi rAjaBiH sagarAdiBiH .
+099.03A: sukftAni eva karmARi rAjaBiH sagarAdiBiH .
+099.03P: sagaraH -- sUryavaMSIyaH kaScinnfpaH .
+
+099.04F: aTa tAnyeva karmARi te cApi pralayaM gatAH .. 84..
+099.04A: aTa tAni eva karmARi te ca api pralayaM gatAH .. 84..
+
+099.05F: saMcintya saMcintya tamugradaRqaM mftyuM manuzyasya vicakzaRasya .
+099.05A: saMcintya saMcintya tam ugradaRqaM mftyuM manuzyasya vicakzaRasya .
+099.05P: ugradaRqam -- ugraH daRqaH yasya .
+099.05P+: vicakzaRasya prakfzwajYAnavatopi manuzyasya prayatnaH .
+
+099.06F: varzAmbusiktA iva carmabanDAH
+099.06A: varzAmbusiktAH iva carmabanDAH
+
+099.07F: yAmeva rAtriM praTamAmupEti garBe nivAsaM naravIra lokaH .
+099.07A: yAm eva rAtriM praTamAm upEti garBe nivAsaM naravIra lokaH .
+
+099.08F: tataH praBftyasKalitaprayARaH sa pratyahaM mftyusamIpameti .. 86..
+099.08A: tataH praBftyasKalitaprayARaH saH pratyahaM mftyusamIpam eti .. 86..
+099.08P: asKalitaprayARaH -- asKalitaM saMtataM prayARaM mftyumArgAkramaRaM yasya .
+
+099.09F: ataH saMsAraM vicArayatAM Soko'yamajYAnasyEva prapaYcaH . paSya .
+099.09A: ataH saMsAraM vicArayatAM SokaH ayam ajYAnasya eva prapaYcaH . paSya .
+
+099.10F: ajYAnaM kAraRaM na syAdviyogo yadi kAraRam .
+099.10A: ajYAnaM kAraRaM na syAt viyogaH yadi kAraRam .
+099.10P: ajYAnamiti -- yadi Sokasya ajYAnaM mohaH kAraRaM na syAt viyoga izwanASa eva kAraRaM syAttarhi dinezu gacCatsu SokaH varDatAM vfdDiM gacCatu . viyogakAlavfdDyA iti yAvat . kiMtu sa taTA na varDate apayAti apakzIyate . tasmAdajYAnameva SokakAraRamiti BAvaH .
+
+099.11F: Soko dinezu gacCatsu varDatAmapayAti kim .. 87..
+099.11A: SokaH dinezu gacCatsu varDatAm apayAti kim .. 87..
+
+099.12F: tadBadrAtmAnamanusaMDehi . SokacarcAM parihara . yataH .
+099.12A: tadBadrAtmAnam anusaMDehi . SokacarcAM parihara . yataH .
+; Sampada: 'tadBadrAtmAnamanusaMDehi' .. 'Badra' missing in the displayed sanDi. I have left 'tadAtmAtmAnam anusaMDehi' as is.  Jim:  corrected
+099.12P: AtmAnamanusaMDehi -- AtmatattvaM vicAraya . 
+
+099.13F: akARqapAtajAtAnAmArdrARAM marmaBedinAm .
+099.13A: akARqapAtajAtAnAm ArdrARAM marmaBedinAm .
+099.13P: akARqapAtajAtAnAm -- akARqe akAle yaH pAtaH . atarkitopasTitiriti yAvat . tena jAtAnAM utpannAnAm .
+099.13P+: ArdrARAm -- pratyagrARAm .
+
+099.14F: gAQaSokaprahArARAmacintEva mahOzaDI .. 88..
+099.14A: gAQaSokaprahArARAm acintA eva mahOzaDI .. 88..
+
+099.15F: tatastadvacanaM
+099.15A: tataH tat vacanaM
+
+099.16F: niSamya prabudDa iva kORqinya utTAyAbravIt - tadalamidAnIM
+099.16A: niSamya prabudDa iva kORqinyaH utTAya abravIt -- tat alam idAnIM
+099.16P: prabudDa iva -- jAtatattvAvaboDa iva .
+
+099.17F: gfhanarakavAsena . vanameva gacCAmi . kapilaH punarAha --
+099.17A: gfhanarakavAsena . vanam eva gacCAmi . kapilaH punaH Aha --
+
+099.18F: vane'pi dozAH praBavanti rAgiRAM
+099.18A: vane api dozAH praBavanti rAgiRAM
+099.18P: rAgiRAm -- vizayopaBogecCA cet ityarTaH .
+
+099.19F: gfhe'pi paYcendriyanigrahatapaH .
+099.19A: gfhe api paYcendriyanigrahaH tapaH .
+
+099.20F: akutsite karmaRi yaH pravartate
+099.20A: akutsite karmaRi yaH pravartate
+099.20P: akutsite sADuBiranindite SlAGye . yaH pravartate tasya nivfttarAgasya iti yojanA .
+
+099.21F: nivfttarAgasya gfhaM tapovanam .. 89..
+099.21A: nivfttarAgasya gfhaM tapovanam .. 89..
+
+099.22F: yataH . duHKito'pi caredDarmaM yatra kutrASrame rataH .
+099.22A: yataH . duHKitaH api caret DarmaM yatra kutrASrame rataH .
+
+099.23F: samaH sarvezu BUtezu na liNgaM DarmakAraRam .. 90..
+099.23A: samaH sarvezu BUtezu na liNgaM DarmakAraRam .. 90..
+099.23P: liNgam -- daRqAdiliNgaDAraRamAtram . ayoaM Sloko manusmfterudDftaH . tatra 'duHKita' ityasya sTAne 'dUzitaH' iti pAWaH . a. 6. Slo. 66. 
+
+; Kale vftyarTaM : typo?
+099.24F: uktaM ca . vfttyarTaM BojanaM yezAM saMtAnArTaM ca mETunam .
+099.24A: uktaM ca . vfttyarTaM BojanaM yezAM saMtAnArTaM ca mETunam .
+
+099.25F: vAksatyavacanArTAya ca durgARyapi taranti te .. 91..
+099.25A: vAksatyavacanArTAya ca durgARi api taranti te .. 91..
+
