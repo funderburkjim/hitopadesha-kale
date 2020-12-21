@@ -2,3 +2,5 @@
 *~
 # temporary files
 temp*
+__pycache__
+*.pyc
