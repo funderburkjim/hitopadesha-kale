@@ -656,7 +656,7 @@
 
 005.24F: tamAlokyAcintayat -- adya prAtarevAnizwadarSanaM jAtam . na
 ; AyAntam:  prap of A-yA  (m. sing. acc.)   ??
-005.24A:tam Alokya acintayat -- adya prAtar eva anizwadarSanam jAtam . na
+005.24A: tam Alokya acintayat -- adya prAtar eva anizwadarSanam jAtam . na
 
 005.25F: jAne kimanaBimataM darSayizyati . ityuktvA tadanusaraRakrameRa vyAkulaScalati . yataH .
 005.25A: jAne kim anaBimatam darSayizyati . iti uktvA tadanusaraRakrameRa vyAkulaH calati . yataH .
@@ -741,7 +741,7 @@
 
 006.16F: eko vfdDavyAGraH snAtaH kuSahastaH sarastIre brUte --
 006.16A: ekaH vfdDaH vyAGraH snAtaH kuSahastaH sarastIre brUte
-001.15-16E:Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) --
+001.15-16E: Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) --
 
 006.17F: Bo BoH panTAH  idaM suvarRakaNkaRaM gfhyatAm .
 ; pAnTAH   (traveler) cf. mw 'paTin'
@@ -1003,7 +1003,7 @@
 ; jyotis = 'stars'
 008.08A: daSaSatakaraDArI jyotizAm maDyacArI .
 
-008:07-08E: And further. That well-known sporter in the sky, the destroyer of sin (darkness), possessor of a thousand rays (bands), and marching in the midst of the stars.
+008.07-08E: And further. That well-known sporter in the sky, the destroyer of sin (darkness), possessor of a thousand rays (bands), and marching in the midst of the stars.
 008.09F: viDurapi viDiyogAdgrasyate rAhuRAsO
 ; viDu = 'moon' (lonely)
 008.09A: viDuH api viDiyogAt grasyate rAhuRA asO
@@ -1267,7 +1267,7 @@
 
 010.08F: gaRqakItIre citravane nivasati . so'smAkaM pASAMSCetsyati .
 010.08A: gaRqakItIre citravane nivasati . saH asmAkam pASAn Cetsyati.
-010.07-08E:Now our friend, Hiranyaka by name, the king of mice, dwells in Chitravana (a beautiful forest) on the bank of the Gandaki. He will cut off our bonds.
+010.07-08E: Now our friend, Hiranyaka by name, the king of mice, dwells in Chitravana (a beautiful forest) on the bank of the Gandaki. He will cut off our bonds.
 
 010.09F: ityAlocya sarve hiraRyakavivarasamIpaM gatAH . hiraRyakaSca
 010.09A: iti Alocya sarve hiraRyakavivarasamIpam gatAH . hiraRyakaH ca
@@ -1351,7 +1351,7 @@
 
 010.29F: satvaramupasarpati . citragrIva uvAca -- mitra . mA mEvaM .
 010.29A: satvaram upasarpati . citragrIvaH uvAca -- mitra . mA mA evam .
-010:28-29E: The mouse quickly proceeded to sever the bonds of Chitragriva. Chitragriva said -- Friend, do not do so.
+010.28-29E: The mouse quickly proceeded to sever the bonds of Chitragriva. Chitragriva said -- Friend, do not do so.
 
 010.30F: asmadASritAnAmetezAM tAvatpASAMSCinDi tadA mama
 ; 10-6-2018. changed 'CinDi' to 'CindDi' (per MW spelling)
@@ -1360,7 +1360,7 @@
 
 010.31F: pASaM paScAcCetsyasi .
 010.31A: pASam paScAt Cetsyasi .
-010:30-31E: First cut the bonds of these my followers ; and then you will cut mine.
+010.30-31E: First cut the bonds of these my followers ; and then you will cut mine.
 
 010.32F: hiraRyako'pyAha -- ahamalpaSaktiH . dantASca me komalAH . tad
 010.32A: hiraRyakaH api Aha -- aham alpaSaktiH . dantAH ca me komalAH .
@@ -1625,7 +1625,7 @@
 
 012.22F: hfzwapuzwANgaH kenacicCfgAlenAvalokitaH .
 012.22A: hfzwapuzwANgaH kena cid SfgAlena avalokitaH .
-012:20-22E: There is, in the country of Magadha, a vast wilderness, called Champakavati. In it there long lived in great friendship a deer and a crow. The deer, plump and sleek in body, was spied by a certain jackal, while roaming at will.
+012.20-22E: There is, in the country of Magadha, a vast wilderness, called Champakavati. In it there long lived in great friendship a deer and a crow. The deer, plump and sleek in body, was spied by a certain jackal, while roaming at will.
 
 012.23F: taM dfzwvA SfgAlo'cintayat -- AH
 012.23A: tam dfzwvA SfgAlaH acintayat -- AH
@@ -1635,14 +1635,14 @@
 
 012.25F: tAvadutpAdayAmi . ityAlocyopasftyAbravIt --
 012.25A: tAvat utpAdayAmi . iti Alocya upasftya abravIt --
-012:23-25E: On seeing him, the jackal said to himself -- Ah, how shall I come by his delicious flesh ! Well, let me first create confidence (in him). Having thus reflected, he went up to him and said --
+012.23-25E: On seeing him, the jackal said to himself -- Ah, how shall I come by his delicious flesh ! Well, let me first create confidence (in him). Having thus reflected, he went up to him and said --
 
 012.26F: mitra kuSalaM te . mfgeRoktam -- kastvam . sa brUte
 012.26A: mitra kuSalam te . mfgeRa uktam -- kaH tvam . saH brUte
 
 012.27F: kzudrabudDinAmA jambuko'ham . atrAraRye banDuhIno mftavannivasAmi .
 012.27A: kzudrabudDinAmA jambukaH aham . atra araRye banDuhInaH mftavat nivasAmi .
-012:26-27E: Friend, is it all well with you? The dear asked -- Who are you? He replied -- I am a jackal, Kshudrabuddhi (Little-wit) by name. I live here, like one dead, having lost all my relatives.
+012.26-27E: Friend, is it all well with you? The dear asked -- Who are you? He replied -- I am a jackal, Kshudrabuddhi (Little-wit) by name. I live here, like one dead, having lost all my relatives.
 
 012.28F: idAnIM tvAM mitramAsAdya punaH
 ; AsAdya ?  Somehow from Asad (sit near, find)
@@ -1651,7 +1651,7 @@
 
 012.29F: sabanDurjIvalokaM pravizwo'smi . aDunA tavAnucareRa mayA sarvaTA Bavitavyam . 
 012.29A: sabanDuH jIvalokam pravizwaH asmi . aDunA tava anucareRa mayA sarvaTA Bavitavyam . 
-012:28-29E: Now that I have found a friend in you and have (thus) a relative, I have once more entered the world of the living. Now I will, in every way, be your attendant.
+012.28-29E: Now that I have found a friend in you and have (thus) a relative, I have once more entered the world of the living. Now I will, in every way, be your attendant.
 
 012.30F: mfgeRoktam -- evamastu . tataH paScAdastaM gate
 012.30A: mfgeRa uktam -- evam astu . tataH paScAt astam gate
@@ -1661,7 +1661,7 @@
 012.31F: savitari Bagavati marIcimAlini tO mfgasya vAsaBUmiM gatO .
 012.31A: savitari Bagavati marIcimAlini tO mfgasya vAsaBUmim gatO .
 012.31P: marIcimAlini -- marIcayaH raSmayaH tezAM mAlA samUhaH sA asyAstIti marIcimAlI sUryaH tasmin .
-012:30-31E: The deer said -- Be it so. Thereafter, when the divine Sun, the wearer of a wreath of rays, had set, the two went to the residence of the deer. 
+012.30-31E: The deer said -- Be it so. Thereafter, when the divine Sun, the wearer of a wreath of rays, had set, the two went to the residence of the deer. 
 
 012.32F: tatra campakavfkzaSAKAyAM subudDinAmA kAko mfgasya
 012.32A: tatra campakavfkzaSAKAyAm subudDinAmA kAkaH mfgasya
@@ -2041,7 +2041,7 @@
 015.08F: kAkenoktam -- evamastu . aTa prAtaH sarve yaTABimatadeSaM gatAH .
 015.08A: kAkena uktam -- evam astu . aTa prAtaH sarve yaTA aBimatadeSam gatAH .
 
-015/08-08E: The crow said -- Be it so. Then in the morning, they all went to places where their will led them.
+015.08-08E: The crow said -- Be it so. Then in the morning, they all went to places where their will led them.
 
 015.09F: ekadA niBftaM SfgAlo brUte -- saKe  asminvanEkadeSe
 015.09A: ekadA niBftam SfgAlaH brUte -- saKe asmin vanEkadeSe
@@ -4333,7 +4333,7 @@
 
 031.03F: na mAtari na dArezu na sodarye na cAtmaje .
 031.03A: na mAtari na dArezu na sodarye na ca Atmaje .
-031.03P:
+031.03P: 
 
 031.04F: viSvAsastAdfSaH puMsAM yAdfNmitre svaBAvaje .. 207..
 031.04A: viSvAsaH tAdfSaH puMsAm yAdfNmitre svaBAvaje .. 207..
@@ -4651,7 +4651,7 @@
 033.14F: labDasyApyarakzitasya niDerapi svayaM vinASaH . api ca .
 033.14A: labDasya api arakzitasya niDeH api svayam vinASaH . api ca .
 
-033.13-14: For, if a man does not desire what he does not possess, he makes no exertion for it and remains inactive and does not get it. What is gained, if not properly taken care of, will waste away of itself, although amounting to a nidhi (a vast treasure). Again, 
+033.13-14E: For, if a man does not desire what he does not possess, he makes no exertion for it and remains inactive and does not get it. What is gained, if not properly taken care of, will waste away of itself, although amounting to a nidhi (a vast treasure). Again, 
 
 033.15F: avarDamAnaScArTaH kAle svalpavyayo'pyaYjanavatkzayameti .
 033.15A: avarDamAnaH ca arTaH kAle svalpavyayaH api aYjanavat kzayam eti .
@@ -9294,7 +9294,7 @@
 
 071.27F: nikziptaM hi muKe ratnaM na kuryAtprARaDAraRam .. 55..
 071.27A: nikziptam hi muKe ratnam na kuryAt prARaDAraRam .. 55..
-071.27P : nikziptamiti -- ratnaM dravyamityarTaH . kevalaM kozasaMvarDaM na kAryakaramiti BAvaH .
+071.27P: nikziptamiti -- ratnaM dravyamityarTaH . kevalaM kozasaMvarDaM na kAryakaramiti BAvaH .
 
 072.01F: kiM ca . KyAtaH sarvarasAnAM hi lavaRo rasa uttamaH .
 072.01A: kim ca . KyAtaH sarvarasAnAm hi lavaRaH rasaH uttamaH .
@@ -11825,7 +11825,7 @@
 093.10F: bAlo vfdDo dIrGarogI taTA jYAtibahizkftaH .
 093.10A: bAlaH vfdDaH dIrGarogI taTA jYAtibahizkftaH .
 093.10P: jYAtibahizkftaH -- jYAtiBiH nirAkftaH .
-; Sampada: 'jYAtibahizkftaH' seems to be a Typo.  Jim: not a typo:
+; Sampada: 'jYAtibahizkftaH' seems to be a Typo.  Jim: not a typo
 ; yAti + bahizkfta = kinsman + put outside   (Kale: 'he who is excommunicated from (or, disowned by) his caste')
 
 093.11F: BIruko BIrukajano lubDo lubDajanastaTA .. 35..
