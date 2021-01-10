@@ -11,7 +11,7 @@ Major contributions by Dr. Sampada Savardekar.
 
 
 ## file synopsis
-
+ 
 1. hitopadesha-slp1 : Sanskrit Text. As written and with sandhi analysis
    * hitokale_slp1_v2.txt is the latest form
    * hitokale_slp1_p.txt  add Kale Sanskrit notes to Sanskrit text.
