@@ -6089,7 +6089,7 @@
 044.07F: mucyate tadA kaTamayaM mahAprasAdalABaH syAt . aparaM ca .
 044.07A: mucyate tadA kaTam ayam mahAprasAdalABaH syAt . aparam ca .
 
-044.01-07E: Damanaka smiled and said -- Friend, rest quiet (easy). I have known the cause of fear. That was the bellowing of a ;{hitoeng051.txt} bull. Bulls form even our food, how much so of the lion then? Karataka observed: If so, why was the fear of the lord not removed just there and then? Damanaka replied -- Had I relieved the king's fear just there, do you think that we could have received this great favour? Also,
+044.01-07E: Damanaka smiled and said -- Friend, rest quiet (easy). I have known the cause of fear. That was the bellowing of a bull. Bulls form even our food, how much so of the lion then? Karataka observed: If so, why was the fear of the lord not removed just there and then? Damanaka replied -- Had I relieved the king's fear just there, do you think that we could have received this great favour? Also,
 
 044.08F: nirapekzo na kartavyo BftyEH svAmI kadAcana .
 044.08A: nirapekzaH na kartavyaH BftyEH svAmI kadAcana .
@@ -6142,6 +6142,8 @@
 044.21F: sTApitaH . anantaraM tadBayAnmUziko'pi bilAnna niHsarati .
 044.21A: sTApitaH . anantaram tad BayAt mUzikaH api bilAt na niHsarati .
 
+044.19-21E: Having thus reflected he went to a village and having brought a cat, named Dadhikarna, with effort, after securing his confidence, placed him in his den, feeding him on flesh. Thereafter the mouse did not come out of his hole through fear of the cat.
+
 044.22F: tenAsO siMho'kzatakesaraH suKaM svapiti . mUzikaSabdaM yadA yadA SfRoti
 044.22A: tena asO siMhaH akzatakesaraH suKam svapiti . mUzikaSabdam yadA yadA SfRoti
 044.22P: akzatakesaraH akzataH alUnaH kesaro yasya .
@@ -6152,6 +6154,8 @@
 
 044.24F: kzuDApIqito bahiH saMcaranbiqAlena prApto vyApAditaSca . anantaraM sa siMho yadA
 044.24A: kzuDA pIqitaH bahiH saMcaran biqAlena prAptaH vyApAditaH ca . anantaram sa siMhaH yadA
+
+044.22-24E: and the lion slept comfortably, his mane not being bitten. Whenever he heard the noise of the mouse he fed the cat with flesh with greater attention. Once the mouse, as he moved out being oppressed with hunger, was caught by the cat and killed.
 
 044.25F: kadAcidapi tasya mUzikasya SabdaM vivarAnna SuSrAva tadopayogABAvAdbiqAlasya
 ; upayogABAvAt = upayoga + aBAvAt:  from absence of use
@@ -6164,7 +6168,7 @@
 044.27F: baBUva . ato'haM bravImi -- nirapekzo na kartavyaH ityAdi .
 044.27A: baBUva . atas ahaM bravImi -- nirapekzaH na kartavyaH ityAdi .
 
-044.19-27E: Having thus reflected he went to a village and having brought a cat, named Dadhikarna, with effort, after securing his confidence, placed him in his den, feeding him on flesh. Thereafter the mouse did not come out of his hole through fear of the cat and the lion slept comfortably, his mane not being bitten. Whenever he heard the noise of the mouse he fed the cat with flesh with greater attention. Once the mouse, as he moved out being oppressed with hunger, was caught by the cat and killed. After that the lion did not hear the sound of the mouse at any time and took little care to feed the cat, as he was no longer useful to him. Then that Dadhikarna, wasting away for want of food, died. Hence my observation –- The master should not be made &c.
+044.25-27E: After that the lion did not hear the sound of the mouse at any time and took little care to feed the cat, as he was no longer useful to him. Then that Dadhikarna, wasting away for want of food, died. Hence my observation –- The master should not be made &c.
 
 044.28F: tato damanakakarawakO saMjIvakasamIpaM gatO . tatra karawakastarutale sAwopamupavizwaH .
 044.28A: tataH damanakakarawakO saMjIvakasamIpam gatO . tatra karawakaH tarutale sAwopam upavizwaH .
@@ -6175,12 +6179,17 @@
 044.30F: niyuktaH senApatiH karawakaH samAjYApayati -- satvaramAgacCa . no cedasmAd
 044.30A: niyuktaH senApatiH karawakaH samAjYApayati -- satvaram AgacCa . no ced asmAt
 
+044.28-30E: Then Damanaka and Karataka went to Samjivaka. Of the two Karataka sat under a tree in a dignified manner. Damanaka went forward to Samjivaka and said -- O bull, this general Karataka here, appointed to keep guard over the forest by king Pingalaka, orders you -- Come here at once;
+
 044.31F: araRyAddUramapasara . anyaTA te virudDaM PalaM Bavizyati . na jAne krudDaH svAmI kiM
+; jAne pre-9m 1s jYA
 044.31A: araRyAt dUram apasara . anyaTA te virudDam Palam Bavizyati . na jAne krudDaH svAmI kim
 044.31P: virudDamanizwam .
 
 044.32F: viDAsyati .
 044.32A: viDAsyati .
+
+044.31-32E:  or, retire to a distance from this wood: else the consequence will be disastrous (adverse) to you. I don't kuow what our royal master, if angry, will do.
 
 044.33F: tato deSavyavahArAnaBijYaH saMjIvakaH saBayamupasftya
 044.33A: tataH deSavyavahArAn aBijYaH saMjIvakaH saBayam upasftya
@@ -6188,7 +6197,7 @@
 044.34F: sAzwANgapAtaM karawakaM praRatavAn . taTA coktam  --
 044.34A: sAzwANgapAtam karawakam praRatavAn . taTA ca uktam --
 
-044.28-34E: Then Damanaka and Karataka went to Samjivaka. Of the two Karataka sat under a tree in a dignified manner. Damanaka went forward to Samjivaka and said -- O bull, this general Karataka here, appointed to keep guard over the forest by king Pingalaka, orders you--Come here at once; or, retire to a distance from this wood: else the consequence will be disastrous (adverse) to you. I don't kuow what our royal master, if angry, will do. Then Samjivaka, ignorant of the ways and manners of the country, advanced with fear and made a profound bow to Karataka. For it is said,
+044.33-34E: Then Samjivaka, ignorant of the ways and manners of the country, advanced with fear and made a profound bow to Karataka. For it is said,
 
 044.35F: matireva balAd garIyasI yadaBAve kariRAmiyaM daSA .
 044.35A: matiH eva balAd garIyasI yad aBAve kariRAm iyam daSA .
@@ -6206,6 +6215,7 @@
 044.37A: aTa saMjIvakaH
 
 044.38F: sASaNkamAha -- senApate kiM mayA kartavyam tadaBiDIyatAm .
+; aBiDIyatAm ipv-p 3s aBI-DI  (to be considered)
 044.38A: sASaNkam Aha -- senApate kim mayA kartavyam tad aBiDIyatAm .
 
 044.39F: karawako brUte -- yadyatra kAnane sTityASAsti tarhi
@@ -6216,12 +6226,17 @@
 044.40A: gatvA asmaddevapAdAravindam praRama .
 
 044.37-40E: Then Samjivaka asked in fear--General, what am I to do? Tell me that. Karataka said if thou at all wishest to live safe in this wood, go and bow to the lotus-like feet of our lord.
-
-045.01F: saMjIvako brUte -- tadaBayavAcaM me yacCa . gacCAmi . tadA svakIyadakziRabAhuM dadAtuM
+; 
+045.01F: saMjIvako brUte -- tadaBayavAcaM me yacCa . gacCAmi . tadA svakIyadakziRabAhuM dadAtu
+;045.01F: saMjIvako brUte -- tadaBayavAcaM me yacCa . gacCAmi . tadA svakIyadakziRabAhuM dadAtuM
 ; svakIyadakziRabAhum = svakIya + dakziRa + bAhum = one's own right arm
-045.01A: saMjIvakaH brUte -- tad aBayavAcam me yacCa . gacCAmi . tadA svakIyadakziRabAhum dadAtum
+; yacCa ipv-1a 2s yam
+; dadAtu ipv-3a 3s dA
+045.01A: saMjIvakaH brUte -- tad aBayavAcam me yacCa . gacCAmi . tadA svakIyadakziRabAhum dadAtu
 
 045.02F: BavAn . karawako brUte -- SfRu re balIvarda alamanayA SaNkayA . yataH .
+; anayA 3s f. pronoun idam
+; balIvarda  mw has 'balivarda' as 'bull'.  Typo here in Hitopadesha?
 045.02A: BavAn . karawakaH brUte -- SfRu re balIvarda alam anayA SaNkayA . yataH .
 
 045.01-02E: Samjivaka replied--Then give me the promise of safety and I will go -- for this purpose let your honour offer me your right hand as a pledge. Karataka replied —- Dismiss this fear, O bull! For,
@@ -6229,12 +6244,14 @@
 045.03F: prativAcamadatta keSavaH SapamAnAya na cediBUBuje .
 ; SapamAnAya: m4s of SapamAna, which is  prmp (present middle participle) of Sap:  cursing
 ; check sandhi:  adattaH keSavaH -> adatta keSavaH
+; cediBUBuje  m4s cediBUBuj
 045.03A: prativAcam adattaH keSavaH SapamAnAya na cediBUBuje .
 045.03P: SapamAnAya -- kawUktIH prayuYjate .
 045.03P+: cediBUBuje SiSupAlAya .
 
 045.04F: anuhuNkurute GanaDvaniM na hi gomAyurutAni kesarI .. 86..
 045.04A: anuhuNkurute GanaDvanim na hi gomAyurutAni kesarI .. 86..
+; kesarin: having a mane (i.e., a lion)
 045.04P: gomAyurutAni -- SfgAlaravAn .
 
 045.03-04E: Kesava returned not a reply to the king of Chedi who was abusing him: the lion roars in response to the thunder of clouds and not to the howlings of jackals.
@@ -6260,6 +6277,8 @@
 045.10F: rAjAha -- tvayA sa dfzwaH .
 045.10A: rAjA Aha -- tvayA saH dfzwaH .
 
+045.08-10E: Now the two, having posted Samjivaka at some distance, repaired into the presence of the lion. Then being received with respectful attention by the king they bowed and sat down. The king asked (Damanaka) -- Did you see the beast ?
+
 045.11F: damanako brUte -- deva .
 045.11A: damanakaH brUte -- deva .
 
@@ -6273,7 +6292,7 @@
 045.14F: dfSyatAm . SabdamAtrAd eva na Betavyam . taTA coktam --
 045.14A: dfSyatAm . SabdamAtrAt eva na Betavyam . taTA ca uktam --
 
-045.08-14E: Now the two, having posted Samjivaka at some distance, repaired into the presence of the lion. Then being received with respectful attention by the king they bowed and sat down. The king asked (Damanaka) -- Did you see the beast ? Damanaka said in reply -- Yes, Your Highness. But what Your Highness conjectured is quite so (correct). He is certainly huge and seeks an interview with Your Highness. But as his strength is great, Your Highness should receive him, after putting yourself in a defensive position. Let not Your Highness be alarmed at the mere sound. For it is said --
+045.11-14E: Damanaka said in reply -- Yes, Your Highness. But what Your Highness conjectured is quite so (correct). He is certainly huge and seeks an interview with Your Highness. But as his strength is great, Your Highness should receive him, after putting yourself in a defensive position. Let not Your Highness be alarmed at the mere sound. For it is said --
 
 045.15F: SabdamAtrAn na BetavyamajYAtvA SabdakAraRam .
 045.15A: SabdamAtrAt na Betavyam ajYAtvA SabdakAraRam .
@@ -6307,24 +6326,35 @@
 045.23F: vyAGreRa vyApAditaH KAditaSca . tatpARipatitA GaRwA vAnarEH prAptA .
 045.23A: vyAGreRa vyApAditaH KAditaH ca . tad pARipatitA GaRwA vAnarEH prAptA .
 
+045.20-23E: There is a city, called Brahmapura, on the mountain Sriparvata. A rumour had got current there that its peak was haunted by a giant, called Ghantakarna. One day, a robber who was running away with a bell, was killed by a tiger and devoured. The bell, fallen from his hands, was picked up by monkeys.
+
 045.24F: te ca vAnarAstAM GaRwAmanukzaRaM vAdayanti . tato nagarajanEH sa manuzyaH
 045.24A: te ca vAnarAH tAm GaRwAm anukzaRam vAdayanti . tataH nagarajanEH saH manuzyaH
 
-045.25F: KAdito dfzwaH . pratikzaRaM GaRwAravaSca
-045.25A: KAditaH dfzwaH . pratikzaRam GaRwAravaH ca
+;045.25F: KAdito dfzwaH . pratikzaRaM GaRwAravaSca
+;045.25A: KAditaH dfzwaH . pratikzaRam GaRwAravaH ca
+045.25F: KAdito dfzwaH . pratikzaRaM GaRwAravaSca SrUyate . 
+045.25A: KAditaH dfzwaH . pratikzaRam GaRwAravaH ca SrUyate . 
 
-045.26F: SrUyate . anantaraM GaRwAkarRaH kupito manuzyAnKAdati GaRwAM
-045.26A: SrUyate . anantaram GaRwAkarRaH kupitaH manuzyAn KAdati GaRwAm
+045.24-25E: Those monkeys used to ring that bell every moment. Now the inhabitants of the city found the man eaten there. And the sound of the bell too was constantly heard.
+
+;045.26F: SrUyate . anantaraM GaRwAkarRaH kupito manuzyAnKAdati GaRwAM
+;045.26A: SrUyate . anantaram GaRwAkarRaH kupitaH manuzyAn KAdati GaRwAm
+045.26F: anantaraM GaRwAkarRaH kupito manuzyAnKAdati GaRwAM
+045.26A: anantaram GaRwAkarRaH kupitaH manuzyAn KAdati GaRwAm
 
 045.27F: ca vAdayatItyuktvA sarve janA nagarAtpalAyitAH . tataH karAlayA nAma
 045.27A: ca vAdayati iti uktvA sarve janAH nagarAt palAyitAH . tataH karAlayA nAma
 
 045.28F: kuwwanyA vimfSyAnavasaro'yaM GaRwAvAdaH . tatkiM markawA
 045.28A: kuwwanyA vimfSya anavasaraH ayam GaRwAvAdaH . tat kim markawAH
+; markawa = vAnara 
 045.28P: vimfSyeti -- ayaM GaRwAvAdaH anavasaraH na tu niyatavelABavaH . tasmAtkiM markawA GaRwAyA vAdakAH syuriti vicArya tatsvayaM ca parijYAya ityarTaH .
 
 045.29F: GaRwAM vAdayantIti svayaM vijYAya rAjA vijYApitaH -- deva
 045.29A: GaRwAm vAdayanti iti svayam vijYAya rAjA vijYApitaH -- deva
+
+046.26-29E: Thereupon, saying that Ghantakarna being angry devours men and rings the bell, all people fled from the city. Then a certain procuress, Karala by name, thinking--'this sound of the bell is out of time ; can it be that the monkeys ring the bell' -- and having ascertained for herself that it was so requested the king
 
 045.30F: yadi kiyadDanopakzayaH kriyate tadAhamenaM GaRwAkarRaM sADayAmi .
 045.30A: yadi kiyad DanopakzayaH kriyate tadA aham enam GaRwAkarRam sADayAmi .
@@ -6332,6 +6362,8 @@
 
 045.31F: tato rAjA tasyE DanaM dattam .
 045.31A: tataH rAjA tasyE Danam dattam .
+
+045.30-31E: 'Sire, if a certain amount of money be spent, I will manage this Ghantakarna.' Then the king gave her wealth.
 
 045.32F: kuwwanyA ca maRqalaM kftvA tatra gaReSAdipUjAgOravaM darSayitvA
 045.32A: kuwwanyA ca maRqalam kftvA tatra gaReSAdipUjAgOravam darSayitvA
@@ -6341,11 +6373,15 @@
 045.33F: svayaM vAnarapriyaPalAnyAdAya vanaM praviSya PalAnyAkIrRAni .
 045.33A: svayam vAnarapriyaPalAni AdAya vanam praviSya PalAni AkIrRAni .
 
+045.32-33E: The procuress drew a magic circle, and after a great display of the worship of Ganesa and others, herself entered the forest taking with her such fruits as the monkeys like and scattered them.
+
 045.34F: tato GaRwAM parityajya vAnarAH PalAsaktA baBUvuH . kuwwanI ca
-045.34A: tataH GaRwAm parityajya vAnarAH PalAsaktA baBUvuH . kuwwanI ca
+045.34A: tataH GaRwAm parityajya vAnarAH PalAsaktAH baBUvuH . kuwwanI ca
 
 045.35F: GaRwAM gfhItvA nagaramAgatA sarvajanapUjyABavat . ato'haM
 045.35A: GaRwAm gfhItvA nagaram AgatA sarvajanapUjyA aBavat . ataH aham
+
+045:34-35E: Thereupon, the monkeys, having left off the bell busied themselves with the fruit. The procuress, too, having taken the bell, returned to the city and became an object of respect to all.
 
 045.36F: bravImi -- SabdamAtrAnna BetavyamityAdi .. tataH saMjIvaka AnIya
 045.36A: bravImi -- SabdamAtrAt na Betavyam ityAdi .. tataH saMjIvakaH AnIya
@@ -6353,8 +6389,8 @@
 045.37F: darSanaM kAritH . paScAttatrEva paramaprItyA nivasati .
 045.37A: darSanam kAritaH . paScAt tatra eva paramaprItyA nivasati .
 
-045.20-37E: There is a city, called Brahmapura, on the mountain Sriparvata. A rumour had got current there that its peak was haunted by a giant, called Ghantakarna. One day, a robber who was running away with a bell, was killed by a tiger and devoured. The bell, fallen from his hands, was picked up by monkeys, who used to ring it every moment. Now the inhabitants of the city found the man eaten there. And the sound of the bell too was constantly heard. Thereupon, saying {;hitoeng053.txt} that Ghantakarna being angry devours men and rings the bell, all people fled from the city. Then a certain procuress, Karala by name, thinking--'this sound of the bell is out of time ; can it be that the monkeys ring the bell' -- and having ascertained for herself that it was so requested the king, saying 'Sire, if a certain amount of money be spent, I will manage this Ghantakarna.' Then the king gave her wealth. The procuress drew a magic circle, and after a great display of the worship of Ganesa and others, herself entered the forest taking with her such fruits as the monkeys like and scattered them. Thereupon, the monkeys, having left off the bell busied themselves with the fruit. The procuress, too, having taken the bell, returned to the city and became an object of respect to all. Therefore I say -- One should not be alarmed at the mere sound &c. Then, Samjivaka was brought and presented (to the lion). Afterwards he lived there in great joy.
-
+045.36-37E: Therefore I say -- One should not be alarmed at the mere sound &c. Then, Samjivaka was brought and presented (to the lion). Afterwards he lived there in great joy.
+; 
 046.01F: aTa kadAcit tasya siMhasya BrAtA stabDakarRanAmA siMhaH samAgataH .
 046.01A: aTa kadA cid tasya siMhasya BrAtA stabDakarRanAmA siMhaH samAgataH .
 
@@ -6368,14 +6404,20 @@
 046.04F: saMjIvako vadati -- deva adya hatamfgARAM mAMsAni kva .
 046.04A: saMjIvakaH vadati -- deva adya hatamfgARAm mAMsAni kva .
 
+046.01-04E: Now, one day, the lion's brother, Stabdhakarna by name, came there (on a visit). Having received him hospitably and asked him to sit down, Pingalaka set out to hunt a beast to feed him with. Just then Samjivaka asked -- My lord, where is the flesh of the deer killed to-day?
+
 046.05F: rAjAha damanakakarawakO jAnItaH .
+; jAnItaH 2d pre-9a of jYA (they two know)
 046.05A: rAjA Aha damanakakarawakO jAnItaH .
 
 046.06F: saMjIvako brUte -- jYAyatAM kimasti nAsti vA .
+; jYAyatAM ipv-p 3s jYA  (let it be known)
 046.06A: saMjIvakaH brUte -- jYAyatAm kim asti na asti vA .
 
 046.07F: siMho vimfSyAha -- nAstyeva tat .
 046.07A: siMhaH vimfSya Aha -- na asti eva tat .
+
+046.05-07E: The king said -- Damanaka and Karataka know that. Sanjivaka said -- Let it be known whether or not there is any left. The lion after reflecting said -- No, there is nothing left.
 
 046.08F: saMjIvako brUte -- kaTametAvan mAMsaM tAByAM KAditam .
 046.08A: saMjIvakaH brUte -- kaTam etAvat mAMsam tAByAm KAditam .
@@ -6384,6 +6426,8 @@
 046.09A: rAjA Aha -- KAditam vyayitam avaDIritam ca . pratyaham ezaH kramaH .
 046.09P: vyayitam -- anyeByo dattam .
 046.09P+: avaDIritam -- anavekzaRena apaDvastam .
+
+046.08-09E: Samjivaka asked -- How could they eat so much flesh? The king replied -- It was eaten, used someway or wasted. This is the daily course.
 
 046.10F: saMjIvako brUte -- kaTaM SrImaddevapAdAnAM agocareREva kriyate .
 046.10A: saMjIvakaH brUte -- kaTam SrImaddevapAdAnAm agocareRa eva kriyate .
@@ -6396,13 +6440,17 @@
 046.12F: aTa saMjIvako brUte -- nEtaducitam . taTA coktam .
 046.12A: aTa saMjIvakaH brUte -- na etad ucitam . taTA ca uktam .
 
+046.11-12E:   Samjivaka observed -- How is this done without the knowledge of Your Highness ? The king replied -- It is done quite without my knowledge. Samjivaka remarked -- This is not proper. For it is said --
+
 046.13F: nAnivedya prakurvIta BartuH kiMcidapi svayam .
-; prakurvIta = opt 3s of kf
+; prakurvIta = opt 3s of pra-kf
 046.13A: na anivedya prakurvIta BartuH kim cid api svayam .
 
 046.14F: kAryamApatpratIkArAdanyatra jagatIpateH .. 89..
 046.14A: kAryam ApatpratIkArAt anyatra jagatIpateH .. 89..
 046.14P: ApatpratIkAraM vipadAM nivAraRaM vihAya anyatra .
+
+046.13-14E: One should not do any business on one's own responsibility without informing the master of it, except it be to ward off a calamity befalling the king.
 
 046.15F: anyacca . kamaRqalUpamo'mAtyastanutyAgo bahugrahaH .
 ; kamaRqalUpamaH = kamaRqalu + upamaH  (like a gourd).
@@ -6414,6 +6462,8 @@
 046.16P: kiMkzaRa -- kzaRasya kiM mahattvamiti vadatIti kiMkzaRaH . yaH kzaRasyApi bahumUlyatAM na jAnAti sa vfTAkAlakzepAt ajYa eva tizWati iti BAvaH .
 046.16P+: evaM kiMvarAwakaH . yaH varAwakasyApi bahumUlyatAM na jAnAti sa dravyApavyayAdakiMcanatAmeti .
 
+046.15-16E: Moreover. A minister is like a gourd that gives out little and takes in much. A man who talks lightly* [* i. e., does not care for them and so wastes them,] of a moment remains a fool, O king, while one who talks lightly of a cowri remains a pauper.
+
 046.17F: sa hyamAtyaH sadA SreyAnkAkinIM yaH pravarDayet .
 046.17A: saH hi amAtyaH sadA SreyAn kAkinIm yaH pravarDayet .
 046.17P: kAkinI -- varAwakAnAM viMSatiH . varAwakAnAM daSakadvayaM yatsA kAkinI tASca paRaScatasraH . iti lIlAvatI .
@@ -6424,6 +6474,8 @@
 046.18P: kozavataH BUpateH kozaH eva prARAH , prARAH na prARAH .
 046.18P+: 'prARopAnaH samAnaScodAnavyAnO ca vAyavaH '. iti paYca prARAH . ata eva ayaM SabdaH nityaM bahuvacanaH . ezAM sTAnAni -- 'hfdi prARo gude'pAnaH samAno nABisaMsTitaH . udAnaH kaRWadeSasTo vyAnaH sarvaSarIragaH .'
 
+046.17-18E: That minister is the best (for a king) who every day adds (at least) a kakini (to the treasury); for the treasury is the (real) life of a king, and not his own life so.
+
 046.19F: kiM cAnyErna kulAcArEH sevyatAmeti pUruzaH .
 046.19A: kim ca anyEH na kulAcArEH sevyatAm eti pUruzaH .
 046.19P: anyEH -- anyEH DanavyatiriktEH .
@@ -6432,17 +6484,24 @@
 046.20F: DanahInaH svapatnyApi tyajyate kiM punaH parEH .. 92..
 046.20A: DanahInaH svapatnyA api tyajyate kim punaH parEH .. 92..
 
+046.19-20E: Again, a man does not attain a position of being served by reason of other family-observances (such as polite conduct &c. other than the possession of wealth); a man without wealth is abandoned even by his wife; how much more then by others ?
+
 046.21F: etacca rAjYe praDAnaM dUzaRam .
 046.21A: etad ca rAjYe praDAnam dUzaRam .
 
+046.21-21E: And this is the cardinal defect in the administration of a state.
+; END HERE 07/09/2021
 046.22F: ativyayo'napekzA ca taTArjanamaDarmataH .
 046.22A: ativyayaH anapekzA ca taTA arjanam aDarmataH .
 046.22P: anapekzA -- rAjakAryARAmanavekzaRam .
 
 046.23F: mozaRaM dUrasaMsTAnaM kozavyasanamucyate .. 93..
 046.23A: mozaRam dUrasaMsTAnam kozavyasanam ucyate .. 93..
+; koza = koSa (in MW). cask, here treasury
 046.23P: mozaRam -- apahAraH .
 046.23P+: dUrasaMsTAnaM -- dUre sTitiH nfpasya svarAjyAdvA SAsanIyasaMsTAnAM vA .
+
+046.22-23E: Over-expenditure, want of supervision, as also raising money by unfair means, plundering and distant situation -- these are the evils of the treasury.
 
 046.24F: yataH . kzipramAyamanAlocya vyayamAnaH svavAYCayA .
 046.24A: yataH . kzipram Ayam anAlocya vyayamAnaH svavAYCayA .
@@ -6452,6 +6511,8 @@
 046.25A: parikzIyate eva asO DanI vESravaRopamaH .. 94..
 046.25P: parikzIyate ityatra SramaRAyate iti kvacitpAWaH . SramaRaH BikzukaH tadvadAcarati daridraH Bavati iti tasyArTaH .
 046.25P+: vESravaRopamaH kuberatulyaH .
+
+046.24-25E: For. A man of wealth, who spends his money at his will recklessly without looking to his income, is reduced to poverty although as rich as Kubera.
 
 047.01F: stabDakarRo brUte -- SfRu BrAtaH cirASritAvetO
 ; cirASrita = cira+ASrita (long-time servants)
@@ -6464,9 +6525,12 @@
 
 047.03F: niyoktavyO . aparaM ca niyogaprastAveyAtkecinmayA SrutaM tat kaTyate .
 ; niyogaprastAveyAt? niyoga+prastAva +? iyAt   OR  (Since Ave at end of line)
-; niyogaprastAveyAtkecinmayA =? niyogaprastAve yAt ke cid mayA
+; niyogaprastAveyAtkecinmayA =? niyogaprastAve yAt ke cid mayA  (
 ;  yAt = inasmuch as.  Why 'ke' = f1d of kim ?
+;   ke also 7s of 'ka' maybe can be 7s m. agreeing with prastAve
 047.03A: niyoktavyO . aparam ca niyogaprastAveyAt ke cid  mayA Srutam tat kaTyate .
+
+047.01-03E: Stabdhakarna observed--Listen, brother. These two, Damanaka and Karataka, your servants of long standing, who are the ministers of war and peace, must not at all be appointed to supervise the treasury. I will also tell you what little I have heard on the subject of making appointments.
 
 047.04F: brAhmaRaH kzatriyo banDurnADikAre praSasyate .
 ; praSasyate  pra-SaMs  (passive): proclaim
@@ -6478,6 +6542,8 @@
 047.05P: sidDaM -- nizpannam .
 047.05P+: kfcCreRa -- kazwena .
 
+047.04-05E: A Brahmana, a Kshatriya and a relative should not preferably be appointed as treasury-officers. A Brahmana does not deliver up even under pressure the money though realized.
+
 047.06F: niyuktaH kzatriyo dravye KaqgaM darSayate Druvam .
 047.06A: niyuktaH kzatriyaH dravye Kaqgam darSayate Druvam .
 047.06P: KaqgaM darSayate -- ugratAM pradarSayati . yudDAyApi niScitamatiH sahasA dravyaM na dadAti ityarTaH .
@@ -6488,6 +6554,8 @@
 047.07A: sarvasvam grasate banDuH Akramya jYAtiBAvataH .. 96..
 047.07P: banDuH jYAtiBAvataH ekakulajatvAdAtmanopi sarvasminsvAmyaM mAnyamAnaH iti BAvaH .
 
+047.06-07E: A Kshatriya having charge of money-matters is sure to show his sword (defy his master); while a relative, on the strength (by virtue) of his kinship, swallows the whole thing, having seized it.
+
 047.08F: aparADe'pi niHSaNko niyogI cirasevakaH .
 047.08A: aparADe api niHSaNkaH niyogI cirasevakaH .
 047.08P: niHSaNkaH -- ciraparicitatvAditi BAvaH .
@@ -6496,6 +6564,8 @@
 047.09A: saH svAminam avajYAya caret ca niravagrahaH .. 97..
 047.09P: niravagrahaH -- niraNkuSaH nirargalaH . svacCandAnuvartI iti yAvat .
 
+047.08-09E: An officer who has been a servant of long standing is fearless even when he has committed a fault; and having despised his master will act freely (lit. without any restraint).
+; END 07/15/2021
 047.10F: upakartADikArasTaH svAparADaM na manyate .
 047.10A: upakartADikArasTaH svAparADam na manyate .
 
@@ -6503,6 +6573,8 @@
 047.11A: upakAram DvajIkftya sarvam eva vilumpati .. 98..
 047.11P: DvajIkftya puraskftya .
 047.11P+: vilumpati -- grasate, apaharati .
+
+047.10-11E: A benefactor (one who has done a service) when appointed to an office is regardless of his own offence and putting forward his obligation will appropriate the whole thing.
 
 047.12F: sapAMSukrIqito'mAtyaH svayaM rAjAyate yataH .
 ; rAjAyate : Nom. verb rAjAya : to act like a king
@@ -6514,6 +6586,8 @@
 047.13F: avajYA kriyate tena sadA paricayAd Druvam .. 99..
 047.13A: avajYA kriyate tena sadA paricayAt Druvam .. 99..
 
+047.12-13E: Since a play-friend from childhood, if appointed a minister, himself acts as a king, he is sure always to despise (his master) on account of his familiarity.
+
 047.14F: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
 ; sarvAnarTakaraH = sarva + anarTa+karaH   (doing all worthless )
 047.14A: antarduzwaH kzamAyuktaH sarvAnarTakaraH kila .
@@ -6523,9 +6597,11 @@
 
 047.15F: SakuniH SakawAraSca dfzwAntAvatra BUpate .. 100..
 ; dfzwAntAvatra -> dfzwAntO atra
-047.15A: SakuniH SakawAraH ca dfzwAntAvatra BUpate .. 100..
+047.15A: SakuniH SakawAraH ca dfzwAntO atra BUpate .. 100..
 047.15P: SakuniH -- sObalaH duryoDanasya mAtulaH .
 047.15P+: SakawAraH -- nandarAjasacivaH .
+
+047.14-15E: He who is perverse in the mind but outwardly forbearing, verily brings on ruin of every kind: Sakuni and Sakatara, O king, will serve as instances of this.
 
 047.16F: sadAyatyAmasADyaH syAtsamfdDaH sarva eva hi .
 ; sadAyatyAmasADyaH = sadA AyatyAm asADyaH
@@ -6536,6 +6612,8 @@
 047.17F: sidDAnAmayamAdeSaH fdDiScittavikAriRI .. 101..
 047.17A: sidDAnAm ayam AdeSaH fdDiH cittavikAriRI .. 101..
 047.17P: fdDiH -- DanasaMpattiH .
+
+047.16-17E: All ministers when grown great are incorrigible in the end. It is a saying of the Siddhas (sages, perfect seers) that abundance perverts the mind.
 
 047.18F: prAptArTAgrahaRaM dravyaparIvarto'nuroDanam .
 047.18A: prAptArTAgrahaRam dravyaparIvartaH anuroDanam .
@@ -6548,6 +6626,8 @@
 047.19P: upekzA OdAsyam .
 047.19P+: BogaH -- vizayaBoge aBiniveSaH . nfpadravyasyopaBogo vA .
 
+047.18-19E: Not accepting the money coming to hand, misappropriation of money, easy compliance, neglect, want of judgment, absence of perception (taking a right view of things), and enjoyment (habit of luxury)--these are the faults in a minister.
+
 047.20F: niyogyarTagrahopAyo rAjYAM nityaparIkzaRam .
 047.20A: niyogyarTagrahopAyaH rAjYAm nityaparIkzaRam .
 047.20P: niyogyarTa -- niyoginAM kAryADikftAnAmarTasya anyAyenopArjitadravyasya grahopAyaH grahaRopAyacintanam . taTA ca manuH -- 'ye kAryikeByo'rTameva gfhRIyuH pApacetasaH . tezAM sarvasvamAdAya rAjA kuryAtpravAsanam .' iti .
@@ -6557,6 +6637,7 @@
 047.21A: pratipattipradAnam ca taTA karmaviparyayaH .. 103..
 047.21P: pratipattipradAnam -- ye AtmanaH kAryaM sAdu nirvAhayanti teBya unnatapadadAnam .
 047.21P+: karmaviparyayaH -- niyogaparivartanam . rAjYAM ucitaM karma iti SezaH .
+047.20-21E: Finding out means to seize the money (illegally) obtained by an officer, daily supervision (over the officers' work), bestowing honours (according to merit) and change of duties, -- this is the duty of kings.
 
 048.01F: nApIqitA vamantyuccErantaHsAraM mahIpateH .
 048.01A: na ApIqitAH vamanti uccEH antaHsAram mahIpateH .
@@ -6564,14 +6645,21 @@
 
 048.02F: duzwavraRA iva prAyo Bavanti hi niyoginaH .. 104..
 048.02A: duzwavraRAH iva prAyaH Bavanti hi niyoginaH .. 104..
+; prAyaH = prAyas (ind.) mostly
 048.02P: duzwavraRAH tepi apIqitA amarditAH antaHsAraM pUyAdikaM na nizkAmayanti .
+
+048.01-02E: Officers, unless hard pressed, will not disgorge the royal money embezzled by them for they are mostly like malignant ulcers (which also do not give out the putrid matter without being pressed).
 
 048.03F: muhurniyoginaH bADyA vasuDArA mahIpate .
 048.03A: muhur niyoginaH bADyAH vasuDArAH mahIpate .
+; muhur = at every moment;  sakft = once only
 048.03P: vasuDArAH -- vasUnAM DArAH santi ezAM CadmApahatamahADanAH niyoginaH mahIpateH bADyA mahIpatinA pIqanIyAH . nigIrRadravyodgiraRArTamiti SezaH . bADyA ityatra roDa iti pAWe niyoginaH roDaH vasunaH dravyasya DArA pravAha iti yojanIyam .
 
 048.04F: sakftkiM pIqitaM snAnavastraM muYcedbahUdakam.. 105..
 048.04A: sakft kim pIqitam snAnavastram muYcet bahu udakam .. 105..
+
+048.03-04E: A king should fine* [* Or, ought to fine officers who have misappropriated sums of money.] repeatedly (corrupt) officers large sums of money: for does the garment used at the time of bathing yield up (give out) much water when wrung out only once?
+; 07/16/2021 END
 
 048.05F: etatsarvaM yaTAvasaraM jYAtvA vyavahartavyam .
 048.05A: etat sarvam yaTA avasaram jYAtvA vyavahartavyam .
@@ -6585,12 +6673,16 @@
 048.08F: stabDakarRo brUte -- etatsarvaTAnucitaM sarvaTA . yataH .
 048.08A: stabDakarRaH brUte -- etat sarvaTA anucitam . yataH .
 
+048.05-08E: One should remember all this and act accordingly, as an emergency may arise. Pingalaka said -- It is just so. But these two never obey my order. Stabdhakarna observed –- This is not at all proper. For,
+
 048.09F: AjYABaNgakarAnrAjA na kzameta sutAnapi .
 048.09A: AjYABaNgakarAn rAjA na kzameta sutAn api .
 
 048.10F: viSezaH ko nu rAjYaSca rAjYaScitragatasya ca .. 106..
 048.10A: viSezaH kaH nu rAjYaH ca rAjYaH citragatasya ca .. 106..
 048.10P: citragatasya -- AleKye niveSitasya citrapawe liKitasya .
+
+048.09-10E: A king should not forgive those who disobey orders, even though they be his sons: for (in that case) what difference can there be between such a king and one drawn in a picture?
 
 048.11F: anyacca . stabDasya naSyati yaSo vizamasya mEtrI
 048.11A: anyat ca . stabDasya naSyati yaSaH vizamasya mEtrI
@@ -6606,12 +6698,16 @@
 048.14A: rAjyam pramattasacivasya narADipasya .. 107..
 048.14P: pramattasacivasya -- pramattAH svakartavyasyopekzAkAriRaH sacivAH yasya .
 
+048.11-14E: Moreover. The fame of one who is inactive comes to an end; so does the friendship of one of unsettled conduct; the family of one who has lost the vigour of his senses; the sense of duty of one intent on acquiring wealth; the fruit of the learning of one who is addicted to vices; the happiness of a miser, and the sovereignty of one whose ministers are careless.
+
 048.15F: viSezataSca . taskareByo niyukteByaH SatruByo nfpavallaBAt .
 048.15A: viSezataH ca . taskareByaH niyukteByaH SatruByaH nfpavallaBAt .
 048.15P: niyukteByaH aDikAriByaH . anyaTA te balavatparasvApaharaRaM kuryuH .
 
 048.16F: nfpatirnijaloBAcca prajA rakzetpiteva hi .. 108..
 048.16A: nfpatiH nijaloBAt ca prajAH rakzet pitA iva hi .. 108..
+
+048.15-16E: More especially. A king should, like a father, protect his subjects from robbers, from his officers, from enemies, from his favourites and from his own avarice.
 
 048.17F: BrAtaH sarvaTAsmadvacanaM kriyatAm . vyavahAro'pyasmABiH
 ; vyavahAra = business
@@ -6620,29 +6716,37 @@
 048.18F: kfta eva . ayaM saMjIvakaH sasyaBakzako'rTADikAre niyujyatAm .
 048.18A: kftaH eva . ayam saMjIvakaH sasyaBakzakaH arTADikAre niyujyatAm .
 
+048.17-18E: Brother, let my advice be always acted upon. I too have transacted business. Let this Samjivaka who eats corn be appointed to superintend the treasury.
+
 048.19F: etadvacanAttaTAnuzWite sati tadAraBya piNgalakasaMjIvakayoH
 048.19A: etadvacanAt taTA anuzWite sati tad AraBya piNgalakasaMjIvakayoH
 
 048.20F: sarvabanDuparityAgena mahatA snehena kAlo'tivartate .
 048.20A: sarvabanDuparityAgena mahatA snehena kAlaH ativartate .
 
+048.19-20E: That being done, from that time onward, Pingalaka and Samjivaka passed their time in great friendship, having left off all other connexions.
+
 048.21F: tato'nujIvinAmapyAhAradAne SETilyadarSanAd
 048.21A: tataH anujIvinAm api AhAradAne SETilyadarSanAt
 
 048.22F: damanakakarawakAvanyonyaM cintayataH . tadAha damanakaH
 048.22A: damanakakarawakO anyonyam cintayataH . tad Aha damanakaH
-; <<
+
 048.23F: karawakam -- mitra kiM kartavyam . Atmakfto'yaM dozaH .
 048.23A: karawakam -- mitra kim kartavyam . AtmakftaH ayam dozaH .
 
 048.24F: svayaM kfte'pi doze paridevanamapyanucitam . taTA coktam --
 048.24A: svayam kfte api doze paridevanam api anucitam . taTA ca uktam --
 
+048.21-24E: .  Then Damanaka and Karataka, finding that there was a relaxation in dealing out food even to the servants, consulted mutually. Then Damanaka said to Karataka-Friend, what is to be done? This is our own fault. And it is not proper to lament over an evil of one's own making. For it is said--
+
 048.25F: svarRareKAmahaM spfzwvA badDvAtmAnaM ca dUtikA .
+; svarRareKA  golden-line  
 048.25A: svarRareKAm aham spfzwvA badDvAtmAnam ca dUtikA .
 
 048.26F: AditsuSca maRiM sADuH svadozAd duHKitA ime .. 109..
-; sADu = merchant (Kale)
+; sADu = merchant (Kale). Like misprint for 'mendicant' see 48.32[or hermit]  
+; ime = idam m1p
 048.26A: AditsuH ca maRim sADuH svadozAt duHKitAH ime .. 109..
 048.26P: AditsuH grahItumicCuH .
 
@@ -6652,15 +6756,20 @@
 048.28F: damanakaH kaTayati .
 048.28A: damanakaH kaTayati .
 
+048.25-28E: I for having touched Svarnarekha, the procuress for having bound herself, the merchant for wishing to steal the gem--all these suffered for their own faults. Karataka asked--How was that? Damanaka went on--
+
 048.29F: .. kaTA 5 ..
+; Our Faults redound on us, (A. N. D. Haksar translation. Penguin )
 048.29A: .. kaTA 5 ..
 
 048.30F: asti kAYcanapuranAmni nagare vIravikramo rAjA . tasya DarmADikAriRA
 048.30A: asti kAYcanapuranAmni nagare vIravikramaH rAjA . tasya DarmADikAriRA
+; kAYcana golden
 048.30P: DarmADikAriRA -- DarmADikAre niyuktena .
 
 048.31F: kaScinnApito vaDyaBUmiM nIyamAnaH kaMdarpaketunAmnA parivrAjakena
 ; nApita = barber
+; kandarpaketu = Kama (== cupid)-ketu. Here proper name.
 048.31A: kaH cid nApitaH vaDyaBUmim nIyamAnaH kaMdarpaketunAmnA parivrAjakena
 
 048.32F: sADudvitIyakena nAyaM hantavya ityuktvA
@@ -6676,14 +6785,17 @@
 048.35F: ta AhuH-- kaTametat .
 048.35A: te AhuH -- kaTam etat .
 
+048.30-35E: In the city of Kanchanapura lived a king named Viravikrama. As his officer of justice was leading a barber to the place of execution, the latter was held by the skirt of his garment by a certain recluse, Kandarpaketu by name, accompanied by another man, Sadhu (a mendicant), with the words "This barber should not be killed." The king's officers asked why he should not be killed. He said, hear--He repeated--I having touched Svarnarekha &c. They asked--How is this?
+; 
 049.01F: parivrAjakaH kaTayati -- ahaM siMhaladvIpe BUpaterjImUtaketoH putraH kaMdarpaketurnAma .
 049.01A: parivrAjakaH kaTayati -- aham siMhaladvIpe BUpateH jImUtaketoH putraH kaMdarpaketuH nAma .
 
+049.01-01E: The recluse told as follows--I am the son of Jimutaketu, king of Ceylon, Kandarpaketu by name.
+
 049.02F: ekadA kelikAnanAvasTitena mayA potavaRiNsuKAcCrutaM yadatra samudramaDye caturdaSyAmAvirBUtakalpatarutale
 ; kelikAnanAvasTitena = kelikAnana + avasTitena
-; suKAcCrutam = ?  [suKa +? Srutam] = happily heard
+; suKAcCrutam = ?  [suKaT +  Srutam] = happily heard
 ; AvirBUtakalpatarutale = AvirBUta + kalpataru + tale
-
 049.02A: ekadA kelikAnanAvasTitena mayA potavaRiN suKAcCrutam yad atra samudramaDye caturdaSyAm AvirBUtakalpatarutale
 049.02P: kelikAnanam -- krIqodyAnam .
 
@@ -6697,6 +6809,8 @@
 049.04F: lakzmIriva vIRAM vAdayantI kanyA kAcid dfSyate iti .
 049.04A: lakzmIH iva vIRAm vAdayantI kanyA kA cid dfSyate iti .
 
+049.02-04E: One day as I sat in the pleasure-garden I heard from a sea-faring merchant, that, on the fourteenth day of the month, there was to be seen on the sea, under a desire-granting tree that appeared then - seated upon a sofa variegated with a ring of the rays of gems and decorated with ornaments of all kinds -- a maiden, like the goddess Lakshmi, playing upon a lyre.
+
 049.05F: tato'haM potavaRijamAdAya potamAruhya tatra gataH .
 049.05A: tataH aham potavaRijam AdAya potam Aruhya tatra gataH .
 049.05P: potavaRiNmuKAnOkAdvArA vARijyaM kurvato vaRijaH .
@@ -6706,6 +6820,8 @@
 049.06P: arDamagnA -- arTAt jale .
 049.06P+: taTEva varRitAnurUpEva .
 
+049.05-06E: Then I, in company with the sea-merchant, got on board his ship, and sailed for the place. On going there I saw, as described, on a sofa, the damsel, half submerged.
+
 049.07F: tatastallAvaRyaguRAkfzwena mayApi tatpaScAjJampaH dattaH .
 ; tadlAvaRyaguRAkfzwena = tad+lAvaRya+guRa+Akfzwena (by her beauty-qualities drawn)
 ; tadpaScAt = tad+paScAt (after her)
@@ -6713,6 +6829,8 @@
 049.07P: tallAvaRya -- tasyA lAvaRyaM sOndaryaM tadeva guRaH rajjuH tena . yadvA lAvaRyasya guRAstEH AkfzwaH tena .
 049.07P+: JampaH plavaH .
 049.07P++: ahamapi sAgara AtmAnamapAtayam .
+
+049.07-07E: Then charmed with her beauty I gave a jump after her.
 
 049.08F: tadanantaraM kanakapattanaM prApya suvarRaprAsAde taTEva paryaNke
 049.08A: tad anantaram kanakapattanam prApya suvarRaprAsAde taTA eva paryaNke
@@ -6725,15 +6843,20 @@
 ; tasaKyA = ta(d)+saKyA = (by) her friend
 049.10A: dfzwvA saKIm prasTApya sAdaram saMBAzitaH . tasaKyA
 
+049.08-10E: After that on reaching a golden city, I saw her seated on a couch, in the same manner, in a gold palace, and attended by Vidyadhara women. She too, having seen me from a distance, sent her friend and (through her) addressed me with respect.
+
 049.11F: ca mayA pfzwayA samAKyAtam -- ezA kaMdarpakelinAmno
 049.11A: ca mayA pfzwayA samAKyAtam -- ezA kaMdarpakelinAmnaH
 
 049.12F: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
 049.12A: vidyADaracakravartinaH putrI ratnamaYjarI nAma . anayA ca pratijYAtam --
+; anayA f3s idam
 049.12P: vidyADaracakravartinaH vidyADarasArvaBOmasya .
 
+049.11-12E: To my inquiry her friend replied -– This is the daughter of Kandarpaketu, the imperial king of the Vidyadharas, Ratnamanjari by name.
+
 049.13F: yaH kanakapattanaM svacakzuzAgatya paSyati  sa eva
-049.13A: yaH kanakapattanam svacakzuzAgatya paSyati saH eva
+049.13A: yaH kanakapattanam svacakzuzA Agatya paSyati saH eva
 
 049.14F: pituragocare'pi mAM pariRezyatIti .
 049.14A: pituH agocare api mAm pariRezyati iti .
@@ -6741,6 +6864,9 @@
 
 049.15F: ezo'syA manasaH saMkalpaH . tadenAM gAnDarvavivAhena pariRayatu BavAn .
 049.15A: ezaH asyAH manasaH saMkalpaH . tad enAm gAnDarvavivAhena pariRayatu BavAn .
+; asyAH f6s idam
+
+049.13-15E: She has taken this vow -- "He who having come to Kanakapattana beholds it with his eyes will be my husband even in the absence of my father". Such is her mind's resolve. Your Honour should, therefore, marry her by the Gandharva form of marriage.
 
 049.16F: aTa tatra vftte ganDarvavivAhe
 049.16A: aTa tatra vftte ganDarvavivAhe
@@ -6754,11 +6880,15 @@
 049.19F: svarRareKA nAma vidyADarI na kadAcit sprazwavyA .
 049.19A: svarRareKA nAma vidyADarI na kadA cid sprazwavyA .
 
+049.16-19E: So the Gandharva marriage being concluded I lived there enjoying the sweets of her company. One day she said to me in private -- Lord, you may enjoy everything here according to your wishes; but you should never touch this Vidyadhara female, Svarnarekha by name, painted here.
+
 049.20F: paScAd upajAtakOtukena mayA sA svarRareKA svahastena spfzwA . taTA
 049.20A: paScAt upajAtakOtukena mayA sA svarRareKA svahastena spfzwA . taTA
 
 049.21F: citragatayApyahaM caraRapadmena tAqita Agatya svarAzwre patitaH .
-049.21A: citragatayA api aham caraRapadmena tAqita Agatya svarAzwre patitaH .
+049.21A: citragatayA api aham caraRapadmena tAqitaH Agatya svarAzwre patitaH .
+
+049.20-21E: Thereafter my curiosity being roused, I touched that Svarnarekha with my hand. Then I was struck by her with her lotus-like foot, though a mere picture, so that I came, and fell in my kingdom.
 
 049.22F: aTa duHKito'haM parivrajitaH pfTivIM pariBrAmyannimAM
 049.22A: aTa duHKitaH aham parivrajitaH pfTivIm pariBrAmyan imAm
@@ -6768,11 +6898,14 @@
 049.23A: nagarIm anuprAptaH . atra ca atikrAnte divase gopagfhe suptaH
 
 049.24F: sannapaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
-049.24A: san apaSyam . pradozasamaye suhfdApAnakAt svagehamAgato
+049.24A: san apaSyam . pradozasamaye suhfdApAnakAt svageham AgataH
 049.24P: ApAnakaM surApAnasTAnam .
 
 049.25F: gopaH svavaDUM dUtyA saha kimapi mantrayantImapaSyat . tatas tAM gopIM
 049.25A: gopaH svavaDUm dUtyA saha kim api mantrayantIm apaSyat . tatas tAm gopIM
+; mantrayantIm ? 'planning something' PWG mantray 'talking'
+
+049.22-25E: Then being smitten with grief I turned out a recluse and in the course of my wandering came to this city. Here, yesterday, while lying down, at the house of a cowherd I saw -- As the cowherd came home in the evening from the liquor-shop kept by his friend, he saw his wife planning something with a procuress.
 
 049.26F: tAqayitvA stamBe badDvA suptaH . tato'rDarAtre etasya nApitasya
 049.26A: tAqayitvA stamBe badDvA suptaH . tataH arDarAtre etasya nApitasya
@@ -6785,8 +6918,10 @@
 049.28A: smaraSarajarjaritaH mumUrzuH iva vartate mahAnuBAvaH .
 049.28P: smaraSarajarjaritaH smaraH kAmaH tasya SarEH vyAkulitaH .
 
+049.26-28E: Then he beat the cowherdess, made her fast to a post and went to bed. Then at midnight the procuress, the wife of this barber, again came to the cowherd's wife and said -- That noble person, burnt by the fire of your separation, and pierced with the shafts of the god of love is about to die for you.
+
 049.29F: tasya tAdfSImavasTAmavalokya pariklizwamanAstvAmanuvartitumAgatA .
-049.29A: tasya tAdfSIm avasTAm avalokya pariklizwam anAstvAm anuvartitum AgatA .
+049.29A: tasya tAdfSIm avasTAm avalokya pariklizwamanAH tvAm anuvartitum AgatA .
 049.29P: pariklizwamanAH pariklizwaM vyaTitaM manaH yasyA sA .
 049.29P: anuvartitumAnukUlyamAcaritum .
 
@@ -6795,6 +6930,8 @@
 
 049.31F: saMtozya satvaramAgamizyasi .
 049.31A: saMtozya satvaram Agamizyasi .
+
+049.29-31E: Pained at heart on finding him in that condition I have come here to persuade you. I will then wait here having tied myself to the post; you should go there and return quickly after having acted to his wishes.
 
 049.32F: taTAnuzWite sati sa gopaH prabudDo'vadat . idAnIM
 049.32A: taTAnuzWite sati saH gopaH prabudDaH avadat . idAnIm
@@ -6807,22 +6944,29 @@
 049.34A: darpAn mama vacasi pratyuttaram api na dadAsi iti uktvA kopena
 
 049.35F: tena kartrikAmAdAyAsyA nAsikA CinnA . taTA kftvA punaH supto gopo
-049.35A: tena kartrikAm AdAyAsyA nAsikA CinnA . taTA kftvA punaH suptaH gopaH
+049.35A: tena kartrikAm AdAya asyAH nAsikA CinnA . taTA kftvA punaH suptaH gopaH
+; kartrika (not found). kartarikA = scissors
 
-049.36F: nidrAmupagataH . aTAgatA gopI dUtImapfcCat -- kA vArtA . dUtyoktam -- paSya mama .
-049.36A: nidrAm upagataH . aTa AgatA gopI dUtIm apfcCat -- kA vArtA . dUtyA uktam -- paSya mama .
+049.36F: nidrAmupagataH . aTAgatA gopI dUtImapfcCat -- kA vArtA . 
+049.36A: nidrAm upagataH . aTa AgatA gopI dUtIm apfcCat -- kA vArtA . 
+;'dUtyA uktam -- paSya mama .' removed from 049.36 and inserted to 050.01
 
-050.01F: muKameva vArtAM kaTayati .
-050.01A: muKam eva vArtAm kaTayati .
+049.32-36E: After that was done the cowkeeper awoke and said to her -- Why dost thou not go to your gallant now? But as she returned no reply, he saying, How is it that you, in your vanity, do not even give me an answer!, seized a pair of scissors in a rage and cut off her nose. This done, the cowherd again lay down and sank into sleep. Now the cowherd's wife, returning, asked the barber's wife what the news was.
+
+050.01F: dUtyoktam -- paSya mama . muKameva vArtAM kaTayati . 
+050.01A: dUtyA uktam -- paSya . mama muKam eva vArtAm kaTayati . 
 
 050.02F: anantaraM sA gopI taTEvAtmAnaM badDvAvasTitA . iyaM ca
-050.02A: anantaram sA gopI taTA eva AtmAnam badDvA avasTitA . iyam ca
+050.02A: anantaram sA gopI taTA eva AtmAnam badDvA avasTitA . 
+; 'iyam ca' moved from 02 to 03
+050.03F: iyam ca dUtI tAM CinnanAsikAM gfhItvA svagfhaM praviSya sTitA .
+050.03A: iyam ca dUtI tAm CinnanAsikAm gfhItvA svagfham praviSya sTitA .
 
-050.03F: dUtI tAM CinnanAsikAM gfhItvA svagfhaM praviSya sTitA .
-050.03A: dUtI tAm CinnanAsikAm gfhItvA svagfham praviSya sTitA .
+050.01-03E: The procuress replied-- Look here, my face will tell you the news. Thereafter the cowherdess tied herself to the post and stood as before. The procuress, too, took up her nose and having gone home lay there.
 
 050.04F: tataH prAtarevAnena nApitena kzuraBARqaM yAcitA satIyaM
 050.04A: tataH prAtaH eva anena nApitena kzuraBARqam yAcitA satI iyam
+; iyam = f1s idam
 
 050.05F: kzuramekaM prAdAt . tato'samagraBARqe prApte samupajAtakopo'yaM
 050.05A: kzuram ekam prAdAt . tataH asamagraBARqe prApte samupajAtakopaH ayam
@@ -6834,6 +6978,8 @@
 050.07F: me nAsikAnena CinnetyuktvA DarmADikArisamIpamenamAnItavatI .
 050.07A: me nAsikA anena Cinneti uktvA DarmADikAri samIpam enam AnItavatI .
 
+050.04-07E:Then in the morning when this barber asked her for the razor-case, she gave him one razor only. Thereupon, this barber, going into a passion as the whole case was not handed over to him threw the razor from some distance into the house. Upon this setting up a cry of pain and saying 'Without any provocation he has cut off my nose' she brought him to the officer of justice.
+
 050.08F: sA ca gopI tena gopena punaH
 050.08A: sA ca gopI tena gopena punaH
 
@@ -6844,46 +6990,63 @@
 050.10A: mama vyavahAram akalmazam azwO lokapAlAH eva jAnanti . yataH .
 050.10P: akalmazam -- nizpApam .
 
-050.11F: AdityacandrAvanilo'nalaSca dyOrBUmirApo hfdayaM yamaSca .
-050.11A: AdityacandrAvanilaH analaH ca dyOH BUmiH ApaH hfdayam yamaH ca .
+050.08-10E: In the meanwhile, the cowherd's wife being again asked by the cowherd exclaimed -- Who, vile wretch, is able to disfigure me who am so very chaste. The eight guardians of the world alone know how free from sin all my actions are. For,
 
+050.11F: AdityacandrAvanilo'nalaSca dyOrBUmirApo hfdayaM yamaSca .
+050.11A: AdityacandrO anilaH analaH ca dyOH BUmiH ApaH hfdayam yamaH ca .
+; 
 050.12F: ahaSca rAtriSca uBe ca saMDye DarmaSca jAnAti narasya vfttam .. 110..
 050.12A: ahaH ca rAtriH ca uBe ca saMDye DarmaH ca jAnAti narasya vfttam .. 110..
+; ahaH = ahar (day)
 
+050.11-12E: The sun and the moon, wind and fire, heaven and earth, water, the heart, Yama, day and night, both the twilights and the deity Dharma-—these know the actions of a man.
+; 07/17/2020 END
 050.13F: tatohaM yadi paramasatI syAM nijasvAminaM tvAM vihAya nAnyaM manasApi cintayAmi
 050.13A: tataH aham yadi paramasatI syAm nijasvAminam tvAm vihAya na anyam manasA api cintayAmi
 
 050.14F: tadA mama muKamakzataM Bavatu . paSya manmuKam . tato yavadasO gopIM dIpaM prajvAlya
 050.14A: tadA mama muKam akzatam Bavatu . paSya manmuKam . tato yavat asO gopIm dIpam prajvAlya
 
-050.15F: tanmuKamavalokate tAvadunnasaM muKamavalokya taccaraRayoH patitaH -- Danyo'haM yasyedrSI
-050.15A: tat muKam avalokate tAvat unnasam muKam avalokya tat caraRayoH patitaH -- DanyaH aham yasya idrSI
+050.15F: tanmuKamavalokate tAvadunnasaM muKamavalokya taccaraRayoH patitaH -- 
+050.15A: tat muKam avalokate tAvat unnasam muKam avalokya tat caraRayoH patitaH -- 
+; "Danyo'haM yasyedrSI" moved from end of 15 to beginning of 16.
 
-050.16F: BAryA paramasADvI iti . yoyamAste sAduretadvfttAntamapi SfRuta . ayaM svagfhAnnirgato
-050.16A: BAryA paramasADvI iti . yaH ayam Aste sAduH etat vfttAntam api SfRuta . ayam svagfhAt nirgataH
+050.13-15E: If then, I am perfectly chaste, and have never even so much as thought of a man other than yourself, let my face be free from its wound. Look at my face. Then as soon as the cow-keeper lighted a lamp, looked at her face and found that it had the nose restored, he fell at her feet saying --
 
-050.17F: dvAdaSavarzamalopakaRWAdimAM nagarImanuprAptaH . atra ca veSyAgfhe suptaH . tasyAH
-; varzamalo  -- print unclear
-050.17A: dvAdaSavarzam alopakaRWAt imAm nagarIm anuprAptaH . atra ca veSyAgfhe suptaH . tasyAH
+050.16F: Danyo'haM yasyedrSI BAryA paramasADvI iti . yoyamAste sADuretadvfttAntamapi SfRuta . ayaM svagfhAnnirgato
+050.16A: DanyaH aham yasya idrSI BAryA paramasADvI iti . yaH ayam Aste sADuH etat vfttAntam api SfRuta . ayam svagfhAt nirgataH
 
-050.18F: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnamekamutkfzwamAste . tad
-050.18A: kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnam ekam utkfzwam Aste . tat
+050.17F: dvAdaSavarzamalayopakaRWAdimAM nagarImanuprAptaH . atra ca veSyAgfhe suptaH . 
+; dvAdaSavarza-malaya-upakaRWAt : after 12 years from Malaya-vicinity
+050.17A: dvAdaSavarzamalayopakaRWAt imAm nagarIm anuprAptaH . atra ca veSyAgfhe suptaH . 
+; move 'tasyAH' from end of 17 to beginning of 18
+
+050.16-17E: Blessed am I whose wife is thus perfectly virtuous. Now attend to the story of the mendicant who is here. He, having left his house, came to this city after twelve years, from the vicinity of mount Malaya. He slept in the house of a courtesan.
+
+050.18F: tasyAH kuwwanyA gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnamekamutkfzwamAste . tad
+050.18A: tasyAH kuwwanyAH gfhadvAri sTApitakAzWaGawitavetAlasya mUrDani ratnam ekam utkfzwam Aste . tat
 050.18P: kAzWaGawitavetAlasya dArunirmitavetAlamUrtyAH .
 
-050.19F: dfzwvArTalubDenAnena sADunA rAtrAvutTAya ratnam grahItuM yatnaH kftaH . tadA tena vetAlam
-050.19A: dfzwvArTalubDena anena sADunA rAtrO utTAya ratnam grahItum yatnaH kftaH . tadA tena vetAlam
+050.19F: dfzwvArTalubDenAnena sADunA rAtrAvutTAya ratnam grahItuM yatnaH kftaH . tadA tena vetAlena
+050.19A: dfzwvA arTalubDena anena sADunA rAtrO utTAya ratnam grahItum yatnaH kftaH . tadA tena vetAlena
 
 050.20F: sUtrasaMcAritabAhuByAM pIqitaH sannArtanAdamayaM cakAra . paScAdutTAya kuwwanyoktam --
 050.20A: sUtrasaMcAritabAhuByAm pIqitaH sannArtanAdamayam cakAra . paScAt utTAya kuwwanyA uktam --
+; sannArta = sat + Arta (sandhi) ?
+
+050.18-20E: At the door of the harlot's house there stood the wooden image of a spirit, on whose head there was a jewel of the best sort. Seeing that, this mendicant, being impelled by avarice, got up in the middle of the night and attempted to take the jewel. Then being pressed by the arms of the spirit which were moved by wires, he uttered a cry of pain. Thereupon the harlot, having got up, said --
 
 050.21F: eva malayopakaRWAdAgato'si . tatsarvaratnAni prayacCAsmE . no cedanena na tyaktavyo'si .
 050.21A: eva malayopakaRWAt AgataH asi . tat sarvaratnAni prayacCa asmE . no cet anena na tyaktavyaH asi .
 
-050.22F: itTamevAyaM cewakaH . tato'nena sarvaratnAni samarpitAni . aDunA
-050.22A: itTam eva ayam cewakaH . tataH anena sarvaratnAni samarpitAni . aDunA
+050.22F: itTamevAyaM cewakaH . tato'nena sarvaratnAni samarpitAni . 
+050.22A: itTam eva ayam cewakaH . tataH anena sarvaratnAni samarpitAni . 
+; aDunA moved from 22 to 23
 
-050.23F: cAyamapi hftasarvasvo'smAsu militaH . etatsarvaM SrutvA rAjapuruzErnyAye DarmADikArI
-050.23A: ca ayam api hftasarvasvaH asmAsu militaH . etat sarvam SrutvA rAjapuruzEH nyAye DarmADikArI
+050.21-22E: Holloa, son, you have come from the neighbourhood of Malaya. Deliver, therefore, all the jewels you have to him, else he will not release you. Such is this wily fellow. Then this merchant gave up all his jewels.
+
+050.23F: aDunA cAyamapi hftasarvasvo'smAsu militaH . etatsarvaM SrutvA rAjapuruzErnyAye DarmADikArI
+050.23A: aDunA ca ayam api hftasarvasvaH asmAsu militaH . etat sarvam SrutvA rAjapuruzEH nyAye DarmADikArI
 
 050.24F: pravartitaH . nApitavaDUrmuRqitA gopI niHsAritA kuwwanI ca daRqitA . sADorDanAni
 050.24A: pravartitaH . nApitavaDUH muRqitA gopI niHsAritA kuwwanI ca daRqitA . sADoH DanAni
@@ -6892,11 +7055,15 @@
 050.25A: pradattAni . nApitaH ca gfham gataH . ataH aham bravImi -- svarRareKAm aham spfzwvA ityAdi ..
 ; 'ityAdi' left as is.
 
+050.23-25E: And now, he too, being robbed of all his wealth, has joined our party. On hearing all this the king's officers got the judge to do justice. The barber's wife was shaved, the cowherdess expelled the city, the harlot fined and the merchant restored to all his wealth. The barber too went home. Therefore I say- I for having touched Svarnarekha &c.
+
 050.26F: aTa svayamkfto'yaM dozaH . atra vilapanaM nocitam . (kzaRaM vimfSya .) mitra sahasEva
 050.26A: aTa svayamkftaH ayam dozaH . atra vilapanam na ucitam . (kzaRam vimfSya .) mitra sahasA eva
 
 050.27F: yaTAnayoH sOhArdaM mayA kAritaM taTA mitraBedo'pi mayA kAryaH . yataH .
 050.27A: yaTA anayoH sOhArdam mayA kAritam taTA mitraBedaH api mayA kAryaH . yataH .
+
+050.26-27E: Now this fault is ours, and lamentation is out of place in this case. Having reflected for a moment -- Friend, just as I brought about the friendship of these too, so should I effect the disunion of the two friends also. For,
 
 050.28F: ataTyAnyapi taTyAni darSayanti hi peSalAH .
 050.28A: ataTyAni api taTyAni darSayanti hi peSalAH .
@@ -6906,6 +7073,8 @@
 050.29A: same nimnonnatAni iva citrakarmavidaH janAH .. 111..
 050.29P: nimnonnatAni natonnataBAgAn .
 050.29P+: citrakarmavidaH AleKyakuSalAH .
+
+050.28-29E: Very clever men represent even untruth as truth (if required), as persons versed in the art of painting represent depressions and prominences on an even surface.
 
 050.30F: aparaM ca . utpannezvapi kAryezu matiryasya na hIyate .
 050.30A: aparam ca . utpannezu api kAryezu matiH yasya na hIyate .
@@ -6919,8 +7088,11 @@
 050.32F: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
 050.32A: karawakaH pfcCati -- kaTam etat . damanakaH kaTayati --
 
+050.30-32E: Moreover, he whose intellect does not fail him even under fresh occurrences, surmounts difficulties just as the cowherd's wife got clear of her two lovers. Karataka asked how it was. Damanaka related.
+
 050.33F: kaTA 6
 050.33A: kaTA 6
+050.33-33E: Fable 6
 
 050.34F: asti dvAravatyAM puryAM kasyacidgopasya vaDUrbanDakI . sA grAmasya daRqanAyakena
 050.34A: asti dvAravatyAm puryAm kasya cit gopasya vaDUH banDakI . sA grAmasya daRqanAyakena
@@ -6930,12 +7102,16 @@
 050.35F:  tatputreRa ca samaM ramate . taTA coktam --
 050.35A:  tatputreRa ca samam ramate . taTA ca uktam --
 
+050.34-35E: The wife of a certain cowherd who lived in Dvaraka was of a bad character. She had an intrigue with the magistrate of the place, as also with his son. For it is said --
+
 051.01F: nAgnistfpyati kAzWAnAM nApagAnAM mahodaDiH .
-051.01A: na agniH tfpyati kAzWAnAm na apagAnAm mahodaDiH .
+051.01A: na agniH tfpyati kAzWAnAm na ApagAnAm mahodaDiH .
 051.01P: tfpyati kAzWAnAm . tftIyArTe zazWI . ma.BA.u.pa. 40,7; a.pa.38.25.
 
 051.02F: nAntakaH sarvaBUtAnAM na puMsAM vAmalocanA .. 113..
 051.02A: na antakaH sarvaBUtAnAm na puMsAm vAmalocanA .. 113..
+
+051.01-02E: Fire is not satisfied with fuel, the ocean with rivers, the god of death with all creatures and a beautiful woman with men.
 
 051.03F: anyacca . na dAnena na mAnena nArjavena na sevayA .
 051.03A: anyat ca . na dAnena na mAnena na Arjavena na sevayA .
@@ -6948,14 +7124,18 @@
 051.04P+: SAstreRa -- SAstravAkyopadeSena .
 051.04P++: striyaH vaSIkriyante iti . ata eva tAH sarvaTA sarvaprakAreRa vizamAH durArADyAH .
 
+051.03-04E: Moreover, Not by gifts, not by honour, not by simplicity, not by attendance, not with a weapon (fear of punishment) and not with scriptural advice, can women be won over: — they are hard to please in every way.
+
 051.05F: yataH . guRASrayaM kIrtiyutaM ca kAntaM patiM ratijYaM saDanaM yuvAnam .
 051.05A: yataH . guRASrayam kIrtiyutam ca kAntam patim ratijYam saDanam yuvAnam .
 051.05P: guRASrayam praSaMsanIyaguRAnAmADAram .
 051.05P+: kAntaM kamanIyam .
 
 051.06F: vihAya SIGraM vanitA vrajanti naraM paraM SIlaguRAdihInam .. 115..
-051.06A: vihAya SIGram vanitA vrajanti naram param  SIlaguRAdihInam .. 115..
+051.06A: vihAya SIGram vanitAH vrajanti naram param SIlaguRAdihInam .. 115..
 051.06P: paraM naraM jAram .
+
+0551.05-06E: For, Having forsaken a husband who is the abode of merits, endowed with fame, amiable, versed in the erotic art, wealthy and youthful, women quickly resort to another man (although) destitute of character, good qualities and the like.
 
 051.07F: aparaM ca . na tAdfSIM prItimupEti nArI vicitraSayyAM SayitApi kAmam .
 051.07A: aparam ca . na tAdfSIm prItim upEti nArI vicitraSayyAm SayitA api kAmam .
@@ -6966,6 +7146,8 @@
 051.08A: yaTA hi dUrvAdivikIrRaBUmO prayAti sOKyam parakAntisaNgAt .. 118..
 051.08P: dUrvAdi -- dUrvApraBftyAvftasTAne .
 
+051.07-08E: Moreover, A woman does not derive that pleasure although lying down on a beautiful bed entirely to her satisfaction as she does in the company of a gallant although lying down on the ground covered over with the Durva grass and other things of that sort.
+
 051.09F: aTa kadAcitsA daRqanAyakaputreRa saha ramamARA tizWati . aTa
 051.09A: aTa kadA cit sA daRqanAyakaputreRa saha ramamARA tizWati . aTa
 
@@ -6973,20 +7155,25 @@
 051.10A: daRqanAyakaH api gantum tatra AgataH . tam AyAntam dfzwvA tatputram
 
 051.11F: kusUle nikzipya daRqanAyakena samaM taTEva krIqati . anantaraM tasyA
-051.11A: kusUle nikzipya daRqanAyakena samam taTA eva krIqati . anantaram tasyA
+051.11A: kusUle nikzipya daRqanAyakena samam taTA eva krIqati . anantaram tasyAH
 051.11P: kusUle DAnyasTApanapAtraviSeze .
 
-051.12F: BartA gopo gozWAtsamAgataH . tamAlokya gopyoktam -- daRqanAyaka
-051.12A: BartA gopaH gozWAt samAgataH . tam Alokya gopyA uktam -- daRqanAyaka
+051.12F: BartA gopo gozWAtsamAgataH . tamAlokya gopyoktam -- 
+051.12A: BartA gopaH gozWAt samAgataH . tam Alokya gopyA uktam -- 
+; daRqanAyaka moved from 12 to 13
 
-051.13F: tvaM laguqaM gfhItvA kopaM darSayansatvaraM gacCa . taTA
-051.13A: tvam laguqam gfhItvA kopam darSayan satvaram gacCa . taTA
+051.09-12E: One day she was sporting with the magistrate's son, when the magistrate too came there to enjoy her company. Seeing him coming, she put his son in a barn and began to amuse herself with him. After that her husband, the cowherd, returned from the cowpen. On spying him the cowherdess said to the magistrate
 
-051.14F: tenAnuzWite gopena gfhamAgatya BAryA pfzWA -- kena kAryeRa daRqanAyakaH
-051.14A: tena anuzWite gopena gfham Agatya BAryA pfzWA -- kena kAryeRa daRqanAyakaH
+051.13F: daRqanAyaka tvaM laguqaM gfhItvA kopaM darSayansatvaraM gacCa . taTA
+051.13A: daRqanAyaka tvam laguqam gfhItvA kopam darSayan satvaram gacCa . taTA
+
+051.14F: tenAnuzWite gopena gfhamAgatya BAryA pfzwA -- kena kAryeRa daRqanAyakaH
+051.14A: tena anuzWite gopena gfham Agatya BAryA pfzwA -- kena kAryeRa daRqanAyakaH
 
 051.15F: samAgatotra .
-051.15A: samAgatotra .
+051.15A: samAgataH atra .
+
+051.13-15E: Oh magistrate, you take a stick and quickly go out as if in a rage. He having acted accordingly the cowherd came in and asked his wife what had brought the justice there.
 
 051.16F: sA brUte -- ayaM
 051.16A: sA brUte -- ayam
@@ -6999,6 +7186,8 @@
 
 051.19F: na dfzwaH . atoyaM daRqanAyakaH kupita eva gacCati .
 051.19A: na dfzwaH . ataH ayam daRqanAyakaH kupitaH eva gacCati .
+
+015.16-19E: She replied -- For some reason or other he is angry with his son, who coming here entered our house and was protected by me by being concealed in the barn. His father searching for him did not find him in the house. Hence it is that the magistrate is going in a rage.
 
 051.20F: tataH sA
 051.20A: tataH sA
@@ -7016,9 +7205,14 @@
 051.23P: vyavasAyaH -- kArye pravfttiH .
 051.23P+: kAmAH -- saMBogecCA .
 
-051.24F: ato'haM bravImi -- utapannezvapi kAryezu ityAdi ..
-051.24A: ataH aham bravImi -- utapannezu api kAryezu ityAdi ..
+051.20-23E: She then took out the son from the barn and showed him. So it is said -- The food of women is twofold, their readiness of wit fourfold, perseverance sixfold and passion eightfold.
+
+051.24F: ato'haM bravImi -- utpannezvapi kAryezu ityAdi ..
+051.24A: ataH aham bravImi -- utpannezu api kAryezu ityAdi ..
 ; Sampada: 'ityAdi' left as is.
+
+051.24-24E: Therefore I say - 'He, whose intellect does not fail him.' &c.
+; Question this.  Haksar: 'new situations'
 
 051.25F: karawako brUte -- astvevam . kiMtvanayormahAnanyonyanisargopajAtasnehaH
 051.25A: karawakaH brUte --astu evam . kim tu anayoH mahAn anyonyanisargopajAtasnehaH
@@ -7029,6 +7223,8 @@
 
 051.27F: damanako brUte -- upAyaH kriyatAm . taTA coktam --
 051.27A: damanakaH brUte -- upAyaH kriyatAm . taTA ca uktam --
+
+051.25-27E: Karataka observed -- Be it so. But how will it be possible to dissolve the great friendship that has grown up between them by the similarity of their dispositions? Damanaka replied -- Let a remedy be applied. For it is said --
 
 051.28F: upAyena hi yacCakyaM na tacCakyaM parAkramEH .
 051.28A: upAyena hi yat SakyaM na tat SakyaM parAkramEH .
@@ -7042,9 +7238,12 @@
 051.31F: damanakaH kaTayati --
 051.31A: damanakaH kaTayati --
 
+051.28-31E: What is possible to be accomplished by stratagem cannot be effected by exploits: a crow brought about the destruction of a black serpent by means of a gold chain. Karataka asked how it was. Damanaka related --
+
 051.32F: .. kaTA 7 ..
 051.32A: .. kaTA 7 ..
-
+051.32-32E: Fable 7
+; 07/18/2021 
 051.33F: kasmiMScit tarO vAyasadampatI nivasataH . tayoScApatyAni
 051.33A: kasmin cit tarO vAyasadampatI nivasataH . tayoH ca patyAni
 
