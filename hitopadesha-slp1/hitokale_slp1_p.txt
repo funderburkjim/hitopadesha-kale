@@ -7254,10 +7254,13 @@
 051.35A: punaH garBavatI vAyasI vAyasam Aha -- nATa tyajyatAm ayam taruH .
 
 051.36F: atra yAvatkfzRasarpastAvadAvayoH saMtatIH kadAcidapi na Bavizyati .
+; saMtatIH 2p of saMtati f.  Should it be 1p saMtatayaH ?
 051.36A: atra yAvat kfzRasarpaH tAvat AvayoH saMtatIH kadA cit api na Bavizyati .
 
 051.37F: yataH .
 051.37A: yataH .
+
+051.33-37E: A pair of crows lived in a certain tree. Their youngs were eaten by a cobra who lived in the hollow of the tree. Thereafter, the female crow, when again breeding said to her mate -- My dear, let us abandon this tree. As long as the serpent lives here, our offspring can never live. For,
 
 052.01F: duzwA BAryA SaWaM mitraM BftyaScottaradAyakaH .
 052.01A: duzwA BAryA SaWam mitram BftyaH ca uttaradAyakaH .
@@ -7273,17 +7276,21 @@
 052.04F: Betavyam .
 052.04A: Betavyam .
 
+052.01-04E: A wicked wife, a cunning friend, an insolent servant, and a residence in a house infested by a cobra, mean undoubtedly death. Don't you be afraid, my dear, replied the crow.
+
 052.05F: vAraMvAraM mayEtasya mahAparADaH soQaH . idAnIM punarna kzantavyaH .
 052.05A: vAraMvAram mayA etasya mahAparADaH soQaH . idAnIm punaH na kzantavyaH .
 
 052.06F: vAyasyAha -- kaTametena balavatA sArDe BavAnvigrahItuM samarTaH .
+; sArDe  7s of sArDa 'plus one half' .  Sense here ?
+; vAyasI Aha  vAyasI is 1s f. 
 052.06A: vAyasI Aha -- kaTam etena balavatA sArDe BavAn vigrahItum samarTaH .
 052.06P: vigrahItuM yodDum .
-; Sampada: I think it should be vAyasaH instead of vAyasyaH.
-; Jim:  vAyasI Aha   (there are two crows, I think: v
 
 052.07F: vAyaso brUte -- alamanayA SaNkayA . yataH .
 052.07A: vAyasaH brUte -- alam anayA SaNkayA . yataH .
+
+052.05-07E: I have pardoned his great crime again and again. But it shall not be tolerated now. The female crow observed -- How will you be able to contend with one who is powerful? The crow replied -- Away with this doubt. For,
 
 052.08F: budDiryasya balaM tasya nirbudDestu kuto balam .
 052.08A: budDiH yasya balam tasya nirbudDeH tu kutaH balam .
@@ -7292,19 +7299,25 @@
 052.09A: paSya siMhaH madonmattaH SaSakena nipAtitaH .. 120..
 
 052.10F: vAyasI vihasyAha -- kaTametat .
+; vihasyAha ? 'vihas' = to laugh' vihasya is Absolutive with pfx. Having laughed
 052.10A: vAyasI vihasya Aha -- kaTam etat .
 
 052.11F: vAyasaH kaTayati .
 052.11A: vAyasaH kaTayati .
 
+052.08-11E: He who has talent has strength; how can he, who is without talent, have strength? Behold, a haughty lion was killed by a hare. The female asked how that was, whereupon the male thus related --
+
 052.12F: .. kaTA 8 ..
 052.12A: .. kaTA 8 ..
+052.12E: Fable 8
 
 052.13F: asti mandaranAmni parvate
 052.13A: asti mandaranAmni parvate
 
 052.14F: durdAnto nAma siMhaH . sa ca sarvadA paSUnAM vaDaM kurvann Aste .
 052.14A: durdAntaH nAma siMhaH . saH ca sarvadA paSUnAm vaDam kurvan Aste .
+
+052.13-14E: On the mountain named Mandara there dwelt a lion Durdanta by name, who always used to slaughter the beasts.
 
 052.15F: tataH sarvEH paSuBirmilitvA sa siMho vijYaptaH -- mfgendra
 052.15A: tataH sarvEH paSuBiH militvA saH siMhaH vijYaptaH -- mfgendra
@@ -7313,18 +7326,23 @@
 052.16A: kim arTam ekadA bahupaSuGAtaH kriyate . yadi prasAdaH Bavati tadA
 
 052.17F: vayameva BavadAhArArTaM pratyahamekEkaM paSumupaQOkayAmaH . tataH
-052.17A: vayam eva Bavat AhArArTam prati aham ekEkam paSum upaQOkayAmaH . tataH
+052.17A: vayam eva BavadAhArArTam pratyaham ekEkam paSum upaQOkayAmaH . tataH
+; BavadAhArArTam = Bavat-AhAra-arTam
+; upaQOkayAmaH = upaQOk 1p Causal  (we present)
 052.17P: upaQOkayAmaH -- upAhArArTaM dAsyAmaH . upahArIkarizyAmaH .
 
 052.18F: siMhenoktam -- yadyetadaBimataM BavatAM tarhi Bavatu tat .
 052.18A: siMhena uktam -- yadi etat aBimatam BavatAm tarhi Bavatu tat .
 
-052.19F: tataH praBftyekEkaM paSumupakalpitaM Bakzayann Aste . aTa
-052.19A: tataH praBfti ekEkam paSum upakalpitam Bakzayan Aste . aTa
+052.19F: tataH praBftyekEkaM paSumupakalpitaM Bakzayann Aste . 
+052.19A: tataH praBfti ekEkam paSum upakalpitam Bakzayan Aste . 
+; Aste ? 3s As (he sits)  -- Doesn't make sense.
 052.19P: upakalpitam -- tadarTaM prezitam .
 
-052.20F: kadAcidvfdDaSaSakasya kasyacidvAraH samAyAtaH . so'cintayat --
-052.20A: kadA cit vfdDaSaSakasya kasya cit vAraH samAyAtaH . saH acintayat --
+052.15-19E: Then all the beasts having assembled together made this representation to the lion -- Sovereign of the beasts, why are so many animals slaughtered at a time? If it please Your Highness, we ourselves shall send one beast every day for your food. To this the lion replied -- If you desire it let it be done. Thenceforth he ate one animal that was offered him.
+
+052.20F: aTa kadAcidvfdDaSaSakasya kasyacidvAraH samAyAtaH . so'cintayat --
+052.20A: aTa kadA cit vfdDaSaSakasya kasya cit vAraH samAyAtaH . saH acintayat --
 
 052.21F: trAsahetorvinItistu kriyate jIvitASayA .
 052.21A: trAsahetoH vinItiH tu kriyate jIvitASayA .
@@ -7333,6 +7351,9 @@
 052.22F: paYcatvaM cedgamizyAmi kiM siMhAnunayena me .. 123..
 052.22A: paYcatvam cet gamizyAmi kim siMhAnunayena me .. 123..
 
+052.20-22E:  Now one day the lot fell on an aged hare. He meditated -- It is in the hope of saving one's life that a supplication is made to the source of fear: -- If I am to die why should I conciliate the lion?
+
+; 07/23/2021 end
 052.23F: tanmandaM mandaM gacCAmi . tataH siMho'pi
 052.23A: tat mandam mandam gacCAmi . tataH siMhaH api
 
@@ -7342,6 +7363,8 @@
 052.25F: SaSako'bravIt -- deva
 052.25A: SaSakaH abravIt -- deva
 
+052.23-25E: I shall go then slowly. The lion who was oppressed with hunger, asked him in anger -- Why hast thou come so late? The hare replied -- My lord,
+
 052.26F: nAhamaparADI . AgacCanpaTi siMhAntareRa balAd DftaH . tasyAgre
 052.26A: na aham aparADI . AgacCan paTi siMhAntareRa balAt DftaH . tasya agre
 
@@ -7350,6 +7373,8 @@
 
 052.28F: siMhaH sakopamAha --
 052.28A: siMhaH sakopam Aha --
+
+052.26-28E: I am not to blame. On my way I was forcibly seized by another lion. Having pledged my word that I would return to him I have come here to represent it to Your Highness. The lion said in a passion --
 
 052.29F: satvaraM gatvA durAtmAnaM darSaya . kva sa durAtmA tizWati .
 052.29A: satvaram gatvA durAtmAnam darSaya . kva saH durAtmA tizWati .
@@ -7366,7 +7391,8 @@
 
 052.33F: nikzipya paYcatvaM gataH . ato'haM bravImi -- budDiryasya ityAdi ..
 052.33A: nikzipya paYcatvam gataH . ataH aham bravImi --  budDiH yasya ityAdi ..
-; Sampada: 'ityAdi' left as is.
+
+052.29-33E: Go quickly and show the vile wretch to me. Where does the villain live? Then the hare taking the lion with him set out to show him a deep well. 'Please Your Highness, come here and behold him yourself.' With these words he showed him the lion's own reflection in the water of the well. Thereupon he, being swollen with rage, sprang upon him through arrogagance and lost his life. Therefore I say, he who has talent has strength &c
 
 052.34F: vAyasyAha -- SrutaM mayA sarvam . saMprati yaTA kartavyaM tad brUhi .
 052.34A: vAyasI Aha -- Srutam mayA sarvam . saMprati yaTA kartavyam tat brUhi .
@@ -7382,6 +7408,8 @@
 052.37A: kanakasUtram caYcvA viDftyAnIya asmin koware DArayizyasi  .
 052.37P: kanakasUtraM suvarRanirmitakaRWABaraRaviSezam . kanakasUtra -- kAkyA Dftasya kanakasUtrasya anusaraRe anugamane kftodyogEH .
 
+052.34-37E: The female crow said I have heard everything. Now tell me what I am to do. The crow replied -- The prince comes every day and bathes in the adjacent tank. Hold up in your bill a gold necklace, which is taken off from his person at the time of bathing and placed on a stone of the flight of steps, and put it in this hollow.
+
 052.38F: aTa kadAcitsnAtuM jalaM pravizwe rAjaputre vAyasyA tadanuzWitam .
 052.38A: aTa kadA cit snAtum jalam pravizwe rAjaputre vAyasyA tat anuzWitam .
 
@@ -7391,12 +7419,15 @@
 052.40F: tarukoware kfzRasarpo dfzwo vyApAditaSca . ato'haM bravImi --
 052.40A: tarukoware kfzRasarpaH dfzwaH vyApAditaH ca . ataH aham bravImi --
 
-052.41F: upAyena hi yacCakyam ityAdi . karawako brUte -- yadyevaM tarhi
-052.41A: upAyena hi yat Sakyam ityAdi . karawakaH brUte -- yadi evam tarhi
-; Sampada: 'ityAdi' left as is.
+052.41F: upAyena hi yacCakyam ityAdi .
+052.41A: upAyena hi yat Sakyam ityAdi .
+; moved 'karawakaH brUte -- yadi evam tarhi to next line'
 
-053.01F: gacCa . SivAste santu panTAnaH . tato
-053.01A: gacCa . SivAH te santu panTAnaH . tataH
+052.38-41E: Now on one occasion when the prince had entered the water for bathing, the female crow did what she was directed to do. Then by the servants of the prince who followed the track of the gold necklace, the serpent was seen and killed. Hence I say -- What is possible to be accomplished, etc.
+; 
+053.01F: karawako brUte -- yadyevaM tarhi gacCa . SivAste santu panTAnaH . tato
+053.01A: karawakaH brUte -- yadi evam tarhi gacCa . SivAH te santu panTAnaH . tataH
+; panTAnaH m. pl. nom. paTin
 
 053.02F: damanakaH piNgalakasamIpaM gatvA praRamyovAca -- deva AtyayikaM
 053.02A: damanakaH piNgalakasamIpam gatvA praRamya uvAca -- deva Atyayikam
@@ -7405,17 +7436,23 @@
 053.03F: kimapi mahABayakAri manyamAna Agato'smi . yataH .
 053.03A: kim api mahABayakAri manyamAnaH AgataH asmi . yataH .
 
+053.01-03E: Karataka said -- If it is so, then go. May your efforts be crowned with success! Then Damanaka went to Pingalaka, bowed, and said -- Please Your Highness, I have come here perceiving that some calamity, leading to great disaster, is imminent. For,
+
 053.04F: ApadyunmArgagamane kAryakAlAtyayezu ca .
-053.04A: ApadyunmArgagamane kAryakAlAtyayezu ca .
+053.04A: Apadi unmArgagamane kAryakAlAtyayezu ca .
 
 053.05F: kalyARavacanaM brUyAdapfzwo'pi hito naraH .. 122..
 053.05A: kalyARavacanam brUyAt apfzwaH api hitaH naraH .. 122..
+
+053:04-05E: A well-meaning man should give his wholesome counsel even unasked, in the case of a calamity, when a man swerves from the right path, or when the time of taking action is passing away.
 
 053.06F: anyacca . Bogasya BAjanaM rAjA mantrI kAryasya BAjanam .
 053.06A: anyat ca . Bogasya BAjanam rAjA mantrI kAryasya BAjanam .
 
 053.07F: rAjakAryapariDvaMsI mantrI dozeRa lipyate .. 123..
 053.07A: rAjakAryapariDvaMsI mantrI dozeRa lipyate .. 123..
+
+053.06-07E: Again, The proper sphere of the king is to enjoy pleasures, while that of the minister is to attend to business. A minister who spoils the business of state is to blame in every way.
 
 053.08F: amAtyAnAmeza kramaH --
 053.08A: amAtyAnAm ezaH kramaH --
@@ -7424,21 +7461,27 @@
 053.09A: varam prARaparityAgaH SirasaH vA api kartanam .
 
 053.10F: na tu svAmipadAvAptipAtakecCorupekzaRam .. 124..
-053.10A: na tu svAmipadO AptipAtakecCoH upekzaRam .. 124..
+053.10A: na tu svAmipadAvAptipAtakecCoH upekzaRam .. 124..
+; svAmipada-avApti-pAtaka-icCoH
 053.10P: svAmipadAvAptipAtakecCoH -- svAminaH rAjYaH padasya avAptistadeva pAtakaM avAptirUpaM pAtakaM vA tasyecCoH aBilAzukasya .
+
+053.08-10E: Better is the abandonment of life or the cutting off of the head than the neglect of one who desires to commit the sin of obtaining his master's post.
 
 053.11F: piNgalakaH sAdaram Aha -- aTa BavAnkiM vaktumicCati .
 053.11A: piNgalakaH sAdaram Aha -- aTa BavAn kim vaktum icCati .
 
-053.12F: damanako brUte -- deva saMjIvakastavopayasadfSavyavahArIva
-053.12A: damanakaH brUte -- deva saMjIvakaH tO upayasadfSavyavahArI iva
+053.12F: damanako brUte -- deva saMjIvakastavoparyasadfSavyavahArIva
+053.12A: damanakaH brUte -- deva saMjIvakaH tava upari asadfSavyavahArI iva
+; upari asadfSa-vyavahArI
 
 053.13F: lakzyate . taTA cAsmat saMniDAne SrImaddevapAdAnAM
-053.13A: lakzyate . taTA ca asmat saMniDAne SrImat devapAdAnAm
+053.13A: lakzyate . taTA ca asmat saMniDAne SrImaddevapAdAnAm
 
 053.14F: SaktitrayanindAM kftvA rAjyamevABilazati .
 053.14A: SaktitrayanindAm kftvA rAjyam eva aBilazati .
 053.14P: SaktitrayanindA -- praBuSaktiH utsAhaSaktiH mantraSaktiSceti SaktitrayaM tasya nindA . 'SaktayastisraH praBAvotsAhamantrajAH' . ityamaraH . tatra koSadaRqajaM tejaH praBuSaktiH . vikramabalamutsAhaSaktiH . saMDyAdInAM sAmAdInAM ca yaTAvatsTApanaM mantraSaktiH .
+
+053.11-14E: Pingalaka asked him graciously -- Now what do you wish to say? Damanaka replied -- My lord, Samjivaka appears to be acting in an unbecoming manner towards Your Highness. To speak clearly, he, having cast reproach on Your Highness' three powers, wishes to gain the sovereignty itself.
 
 053.15F: etacCrutvA piNgalakaH saBayaM sAScaryaM tUzRIM sTitaH .
 053.15A: etat SrutvA piNgalakaH saBayam sAScaryam tUzRIm sTitaH .
@@ -7449,8 +7492,12 @@
 053.17F: evAyaM yattvayA sarvADikArI kftaH sa eva dozaH . yataH .
 053.17A: eva ayam yat tvayA sarvADikArI kftaH saH eva dozaH . yataH .
 
+053.15-17E: On hearing that Pingalaka stood quite full of wonder mingled with fear. Damanaka observed again -- My lord, that Your Highness, having dismissed all ministers, placed him alone at the head of all affairs, was in itself a blunder. For --
+
 053.18F: atyucCrite mantriRi pArTive ca vizwaBya pAdAvupatizWate SrIH .
 053.18A: ati ucCrite mantriRi pArTive ca vizwaBya pAdO upatizWate SrIH .
+; vizwaBya . ind. part. vi-staB : having fixed firmly
+; SrI = lakzmI
 053.18P: atyucCrite mahAbalatayA atyantonnate .
 053.18P+: pAdO mantraSaktipraBuSaktirUpO vizwaBya samavasTApya .
 053.18P++: upatizWate . susTirA satI tayoH saMgatA Bavati ityarTaH . upaddevapUjAsaMgatikaraRamitrakaraRapaTizviti taN .
@@ -7459,22 +7506,30 @@
 053.19A: sA strIsvaBAvAt asahA Barasya tayoH dvayoH ekataram jahAti .. 125..
 053.19P: asahA Barasya tAddfSAvasTAnaBarAsahizRuH . dvayoH vEmatyena nyUnADikaBAvamupetya dvEDIBAvena sTitayoH ityarTaH . ayaM Sloko mudrArAkzasAccaturTANkAduDftaH .
 
+053.18-19E: The goddess of royalty stands having placed her feet on a minister when very highly exalted and the king; but she, unable long to bear the burden, being of the nature of a woman, gives up one of the two.
+
 053.20F: aparam ca . ekaM BUmipatiH karoti sacivaM rAjye pramARaM yadA
 053.20A: aparam ca . ekam BUmipatiH karoti sacivam rAjye pramARam yadA
 053.20P: ekamiti -- mohAt Atmano vAstavapadAjYAnAt .
 
 053.21F: taM mohAcCrayate madaH sa ca madAlasyena nirBidyate .
-053.21A: tam mohAt Srayate madaH saH ca mat Alasyena nirBidyate .
+053.21A: tam mohAt Srayate madaH saH ca madAlasyena nirBidyate .
+; madAlasya mada-Alasya
 053.21P: madaH garvaH .
 053.21P+: madAlasyena -- madaSca AlasyaM kAryavimuKatA ca madAlasyaM (sa.dvaM.) madajanitaM AlasyaM iti vA tena nirBidyate AkraMtaH Bavati .
 
+053.20-21E: Moreover, When a king makes one minister the (sole) authority in a kingdom, vanity takes possession of him through delusion, and he alienates himself (from the king) through indolence brought on by vanity.
+
 053.22F: nirBinnasya padaM karoti hfdaye tasya svatantraspfhA
 053.22A: nirBinnasya padam karoti hfdaye tasya svatantraspfhA
+; padam kf: set foot in, enter.  
 053.22P: svatantraspfhA svAtantryecCA .
 
 053.23F: svAtantryaspfhayA tataH sa nfpateH prARAntikaM druhyati .. 126..
 053.23A: svAtantryaspfhayA tataH saH nfpateH prARAn antikam druhyati .. 126..
 053.23P: prARAntikaM druhyati -- prARavinASaM yAvadanizwAcaraRaM karoti .
+
+053.22-23E: When (once) alienated, a desire for independence springs up in his mind; and then led by the desire for independence he (the minister) acts treacherously even to the extent of robbing the king of his life.
 
 053.24F: anyacca . vizadigDasya Baktasya dantasya calitasya ca .
 053.24A: anyat ca . vizadigDasya Baktasya dantasya calitasya ca .
