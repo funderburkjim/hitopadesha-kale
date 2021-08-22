@@ -7353,7 +7353,7 @@
 
 052.20-22E:  Now one day the lot fell on an aged hare. He meditated -- It is in the hope of saving one's life that a supplication is made to the source of fear: -- If I am to die why should I conciliate the lion?
 
-; 07/23/2021 end
+; 07/23/2021
 052.23F: tanmandaM mandaM gacCAmi . tataH siMho'pi
 052.23A: tat mandam mandam gacCAmi . tataH siMhaH api
 
@@ -7533,27 +7533,35 @@
 
 053.24F: anyacca . vizadigDasya Baktasya dantasya calitasya ca .
 053.24A: anyat ca . vizadigDasya Baktasya dantasya calitasya ca .
-053.24P: vizadigDasya -- vizamiSritasyannasya .
+053.24P: vizadigDasya -- vizamiSritasyAnnasya .
 
 053.25F: amAtyasya ca duzwasya mUlAdudDaraRaM suKam .. 127..
 053.25A: amAtyasya ca duzwasya mUlAt udDaraRam suKam .. 127..
 053.25P: duzwasya -- kaluzitamanasaH durASayasya .
 053.25P+: suKaM -- suKakaram .
 
+053.24-25E: Again, Of rice tainted with poison, of a tooth got loose and of a minister turned a traitor, complete eradication leads to happiness.
+
 054.01F: kiM ca . yaH kuryAtsacivAyattAM SriyaM tadvyasane sati .
-054.01A: kim ca . yaH kuryAt sacivAyattAm Sriyam tat vyasane sati .
+054.01A: kim ca . yaH kuryAt sacivAyattAm Sriyam tadvyasane sati .
+; Sriyam f. 2s of srI
 054.01P: tadvyasane -- tasya sacivasya vyasane sati tasminnApadDaste .
 
 054.02F: so'nDavajjagatIpAlaH sIdetsaMcArakErvinA .. 128..
 054.02A: saH anDavat jagatIpAlaH sIdet saMcArakEH vinA .. 128..
+; anDavat = anDa+vat = like 'anDa' (blind man)
 054.02P: saMcArakEH upadeSakEH .
+
+054.01-02E: Also, A king, who places his royal fortune under his minister's control, will, in the event of his (minister's) being in calamity, experience trouble like a blind man without guides.
 
 054.03F: sa ca sarvakAryezu
 054.03A: saH ca sarvakAryezu
 
 054.04F: svecCAtaH pravartate . tadatra pramARaM svAmI . etacca jAnAmi .
 054.04A: svecCAtaH pravartate . tat atra pramARam svAmI . etat ca jAnAmi .
-054.04P: atra pramARam svAmI -- parastAtkAryanirRaye iti SezaH .
+054.04P: atra pramARam svAmI -- parastAtkAryanirRaye iti SezaH . 
+
+054.03-05E: He proceeds in (conducts) all affairs according to his will. Your Highness, therefore, is the authority is to decide as to what is to be done under these circumstances. As for myself ..
 
 054.05F: na so'sti puruzo loke yo na kAmayate Sriyam .
 054.05A: na saH asti puruzaH loke yaH na kAmayate Sriyam .
@@ -7561,11 +7569,16 @@
 054.06F: parasya yuvatiM ramyAM sAdaraM nekzate'tra kaH .. 129..
 054.06A: parasya yuvatim ramyAm sAdaram na Ikzate atra kaH .. 129..
 
+054.05-06E: There is not that man in this world who does not covet riches. Who, in this world, does not wistfully look at the youthful and charming wife of another?
+
 054.07F: siMho vimfSyAha -- Badra
 054.07A: siMhaH vimfSya Aha -- Badra
 
 054.08F: yadyapyevaM taTApi saMjIvakena saha mama mahAnsnehaH . paSya .
 054.08A: yadi api evam taTA api saMjIvakena saha mama mahAn snehaH . paSya .
+
+054.07-08E: 
+The lion observed reflecting -- Dear Damanaka, although such is the case, still great is the affection that I have for Samjivaka. Behold!
 
 054.09F: kurvannapi vyalIkAni yaH priyaH priya eva saH .
 054.09A: kurvan api vyalIkAni yaH priyaH priyaH eva saH .
@@ -7575,12 +7588,17 @@
 054.10A: aSezadozaduzwaH api kAyaH kasya na vallaBaH .. 130..
 054.10P: duzwaH dUzitaH .
 
+054.09-10E: Although committing offences, a favourite is a favourite : who does not like the body although affected with all humours?
+
 054.11F: anyacca . apriyARyapi kurvARo yaH priyaH priya eva saH .
 054.11A: anyat ca. apriyARi api kurvARaH yaH priyaH priyaH eva saH .
 
 054.12F: dagDamandirasAre'pi kasya vahnAvanAdaraH .. 131..
 054.12A: dagDamandirasAre api kasya vahnAvanAdaraH .. 131..
+; vahnO 7s m. vahni (who carries) fire
 054.12P: anAdaraH -- anAsTA .
+
+054.11-12E:  Again, He who is dear is so although doing unpleasant things; who has disregard for (has not to do with) fire although it has consumed all the substance in the house?
 
 054.13F: damanako vadati -- deva sa eva dozaH . yataH .
 054.13A: damanakaH vadati -- deva saH eva dozaH . yataH .
@@ -7592,12 +7610,17 @@
 054.15A: sute amAtye api udAsIne saH lakzmI ASrIyate janaH .. 132..
 054.15P: udAsIne -- parakIye , anyasminkasminScit .
 
+054.13-15E: Damanaka replied. My lord, and just therein lies the fault. For, He on whom the king fixes his eye more (than on others) -- be he a son, or a minister, or a stranger -- is resorted to by the goddess of wealth.
+; 07/31/2021 end
 054.16F: SfRu deva . apriyasyApi paTyasya pariRAmaH suKAvahaH .
 054.16A: SfRu deva . apriyasya api paTyasya pariRAmaH suKAvahaH .
 054.16P: apriyasya -- ApetitaH duHKakarasya .
+; Apetita ?
 
 054.17F: vaktA SrotA ca yatrAsti ramante tatra saMpadaH .. 133..
 054.17A: vaktA SrotA ca yatra asti ramante tatra saMpadaH .. 133..
+
+054.16-17E: May Your Highness listen -- The result of what is wholesome although unpleasant, is happy: riches delight (to live) there where there is a speaker and a hearer (of things wholesome though disagreeable).
 
 054.18F: tvayA ca mUlaBftyAnapAsyAyamAgantukaH puraskftaH .
 054.18A: tvayA ca mUlaBftyAn apAsya ayam AgantukaH puraskftaH .
@@ -7605,17 +7628,23 @@
 054.19F: etaccAnucitaM kftam . yataH .
 054.19A: etat ca anucitam kftam . yataH .
 
+054.18-19E: You, having discarded old servants, advanced this stranger. And this was a wrong step. For,
+
 054.20F: mUlaBftyAnparityajya nAgantUnpratimAnayet .
-054.20A: mUlaBftyAn parityajya na agantUn pratimAnayet .
+054.20A: mUlaBftyAn parityajya na AgantUn pratimAnayet .
 
 054.21F: nAtaH parataro dozo rAjyaBedakaro yataH .. 134..
-054.21A: nAtaH parataraH dozaH rAjyaBedakaraH yataH .. 134..
+054.21A: na ataH parataraH dozaH rAjyaBedakaraH yataH .. 134..
+
+054.20-21E: Having cast off old servants one should not honour strangers: because there is no other fault so destructive to royalty than this.
 
 054.22F: siMho brUte -- kimAScaryam . yanmayAyaM
 054.22A: siMhaH brUte -- kim AScaryam . yat mayA ayam
 
 054.23F: aBayavAcaM dattvAnItaH saMvarDitaSca tatkaTaM mahyaM druhyati .
 054.23A: aBayavAcam dattvA AnItaH saMvarDitaH ca tat kaTam mahyam druhyati .
+
+054.22-23E: The lion said -- What wonder! Since he was brought here by me having pledged my word of safety and was well taken care of, how can he turn a traitor to me?
 
 054.24F: damanako brUte -- deva .
 054.24A: damanakaH brUte -- deva .
@@ -7624,19 +7653,30 @@
 054.25A: durjanaH prakftim yAti sevyamAnaH api nityaSaH .
 
 054.26F: svedanAByaYjanopAyEH SvapucCamiva nAmitam .. 135..
-054.26A: svedanAByaYjanopAyEH SvapucCam iva na amitam .. 135..
+054.26A: svedanAByaYjanopAyEH SvapucCam iva nAmitam .. 135..
+; svedana-aByaYjana-upAya  
+; SvapucCam  n. nom. s.
+
+054.24-26E: Damanaka observed -- Sire,
+A wicked man, even though served every day, reverts to his natural disposition, like a dog's tail resuming (its natural) bent, notwithstanding such remedies as causing sweat (by fumigation) and rubbing it with unguents (for making it straight).
 
 054.27F: aparaM ca . svedito marditaScEva rajjuBiH parivezwitaH .
 054.27A: aparam ca . sveditaH marditaH ca eva rajjuBiH parivezwitaH .
+; mardita (not MW) from mfd (to squeeze, rub)
 
 054.28F: mukto dvAdaSaBirvarzEH SvapucCaH prakftiM gataH .. 136..
 054.28A: muktaH dvAdaSaBiH varzEH SvapucCaH prakftim gataH .. 136..
 
+054.27-28E: A dog's tail, made to sweat, rubbed and bound round with strings, returned to its nature when set free (even) after twelve years.
+
 054.29F: anyacca . varDanaM vATa sanmAnaM KalAnAM prItaye kutaH .
 054.29A: anyat ca . varDanam vA aTa sanmAnam KalAnAm prItaye kutaH .
+; prItaye = 4s. f. of prIti
 
 054.30F: Palantyamftaseke'pi na paTyAni vizadrumAH .. 137..
 054.30A: Palanti amftaseke api na paTyAni vizadrumAH .. 137..
+
+054.29-30E: Moreover, Whence can advancement or bestowal of honour please the wicked? Poisonous trees, although watered with nectar, do not bring forth fruit wholesome to eat.
 
 054.31F: ato'haM bravImi --
 054.31A: ataH aham bravImi --
@@ -7645,7 +7685,9 @@
 054.32A: apfzwaH api hitam brUyAt yasya na icCet parABavam .
 
 054.33F: eza eva satAM Darmo viparItamato'nyaTA .. 138..
-054.33A: eza eva satAm DarmaH viparItam aTaH anyaTA .. 138..
+054.33A: ezaH eva satAm DarmaH viparItam aTaH anyaTA .. 138..
+
+015.31-33E: Hence my observation -- One should say what is beneficial to him whose ruin one does not wish; this is the duty of the good; the contrary is otherwise (i. e. is the way of action of bad men).
 
 055.01F: taTA coktam --
 055.01A: taTA ca uktam --
@@ -7657,6 +7699,8 @@
 055.03A: sA strI yAtu viDAyinI saH matimAn yaH sadBiH aByarcyate .
 055.03P: anuviDAyinI -- AjYAkAriRI , BartuScittAnusAriRI vA .
 
+055.01-03E: It is said in connexion with this -- He has affection (for us) who dissuades (us) from evil; that is an act which is pure; she is a wife, who is obedient; he is talented who is esteemed by the good;
+
 055.04F: sA SrIryA na madaM karoti sa suKI yastfzRayA mucyate
 055.04A: sA SrIH yA na madam karoti saH suKI yaH tfzRayA mucyate
 055.04P: karoti janayati .
@@ -7666,15 +7710,19 @@
 055.05P: akftrimaM nizkapawaM , SudDamati .
 055.05P+: indriyEH na Kidyate -- tezAM vaSago BUtvA nAyAsyate .
 
+055.04-05E: that is wealth which begets no vanity; he is happy who is free from desire; he is a friend who is sincere (lit. artless); and he is a man who is not troubled by the senses (i. e. has his senses under control).
+
 ; Kale scan here has gaps.
 055.06F: yadi saMjIvakavyasanArdito vijYApito'pi
-055.06A: yadi saMjIvakavyasanArditaH avijYApitaH api
+055.06A: yadi saMjIvakavyasanArditaH vijYApitaH api
 055.06P: saYjIvakavyasanArditaH saYjIvakAt yad vyasanaM apAyaH tena arditaH pIqitaH .
 
 055.07F: svAmI na nivartate tadIdfSe Bftye na dozaH . taTA ca .
 055.07A: svAmI na nivartate tat IdfSe Bftye na dozaH . taTA ca .
 055.07P: nivartate -- AgAmivyasanAditi SezaH .
 055.07P+: IdfSaH mAdfSaH . BAvyApatpiSunasya ityarTaH .
+
+055.06-07E: If Your Highness who stands in imminent danger from Samjivaka, does not turn back after being warned (lit. informed), then the blame does not lie with a servant like myself.
 
 055.08F: nfpaH kAmAsakto gaRayati na kArye na ca hitaM
 055.08A: nfpaH kAmAsaktaH gaRayati na kArye na ca hitam
@@ -7687,6 +7735,8 @@
 055.09P++: mattaH -- nfpaH gajaSca .
 055.09P+++: pravicarati -- praBrazwaH vicarati .
 
+055.08-09E: A king who is addicted to carnal pleasures does not mind the business he has to attend to or his good, but led by his free will he acts as he likes like a mad elephant;
+
 055.10F: tato mAnaDmAtaH sa patati yadA Sokagahane
 055.10A: tataH mAnaDmAtaH saH patati yadA Sokagahane
 055.10P: mAnADmAtaH -- madodDataH .
@@ -7695,6 +7745,8 @@
 055.11F: tadA Bftye dozAnkzipati na nijaM vettyavinayam .. 140..
 055.11A: tadA Bftye dozAn kzipati na nijam vetti avinayam .. 140..
 055.11P: avinayam -- anucitAcaraRam .
+
+055.10-11E:  but when, puffed up with pride, he falls into the abyss of sorrow, he casts the blame on his servants, but does not take into account his own misconduct.
 
 055.12F: piNgalakaH svagatam .
 055.12A: piNgalakaH svagatam .
@@ -7709,6 +7761,8 @@
 055.14P: AtmanAvagamaM kftvA -- svayaM yATArTyaM jYAtvA . viDirgrahanigrahe grahanigrahO na kartavyO ityarTaH .kftO cet svanASAya <ab n="ityAdi">i</ab> .
 055.14P+: grahaH niroDaH nirbanDaH . 'grahonugrahanirbanDagrahaRezu raRodyame . sUryAdO pUtanAdO ca sEMhikeyoparAgayoH' . iti viSvaH .
 
+055.12-14E: Pingalaka (To himself) -- One should not inflict punishment upon others by (listening to) the adverse representation of another : but having ascertained the truth for oneself, one shonld mete out punishment or praise.
+
 055.15F: taTA coktam --
 055.15A: taTA ca uktam --
 
@@ -7718,6 +7772,8 @@
 
 055.17F: svanASAya yaTA nyasto darpAtsarpamuKe karaH .. 142..
 055.17A: svanASAya yaTA nyastaH darpAt sarpamuKe karaH .. 142..
+
+055.15-17E: Similarly it is said -- To award favour or punishment without ascertaining one's merit or fault is not the policy: (such a course) leads to one's destruction like the hand thrust into a serpent's month through vanity.
 
 055.18F: prakASaM brUte -- tadA saMjIvakaH kiM pratyAdiSyatAm .
 055.18A: prakASam brUte -- tadA saMjIvakaH kim pratyAdiSyatAm .
@@ -7729,6 +7785,8 @@
 055.20F: deva mA mEvam . etAvatA mantraBedo jAyate . taTA coktam  --
 055.20A: deva mA mA evam . etAvatA mantraBedaH jAyate . taTA ca uktam --
 
+055.18-20E: (Aloud) What then, shall Samjivaka be warned (against such a course of conduct)? Damanaka observed in haste -- Not so, not so my lord. This will mean the divulging of counsel. For it is said --
+
 055.21F: mantrabIjamidaM guptaM rakzaRIyaM taTA yaTA .
 055.21A: mantrabIjam idam guptam rakzaRIyam taTA yaTA .
 
@@ -7737,12 +7795,16 @@
 055.22P: Bidyeta -- prakASaM gacCet .
 055.22P+: na prarohati aNkuraM na prasUte . vistAraM prApya na Palati ityarTaH .
 
+055.21-22E: The seed of counsel should be kept concealed in such a way that not even a glimpse of it could get out; if got out it will not thrive.
+
 055.23F: kiM ca . Adeyasya pradeyasya kartavyasya ca karmaRaH .
 055.23A: kim ca . Adeyasya pradeyasya kartavyasya ca karmaRaH .
 055.23P: Adeyasyeti -- Adeyasya karmaRaH kzipraM akriyamARasya sataH tadrasaM tasya sAraBUtaM Palamiti yAvat kAlaH pibati grasate .
 
 055.24F: kzipramakriyamARasya kAlaH pibati tadrasam .. 144..
 055.24A: kzipram akriyamARasya kAlaH pibati tat rasam .. 144..
+
+055.23-24E: Moreover, If what is to be taken or given or done be not quickly attended to, time saps its juice.
 
 056.01F: tadavaSyaM samArabDaM mahatA prayatnena sampAdanIyam . kiM ca .
 056.01A: tat avaSyam samArabDam mahatA prayatnena sampAdanIyam . kim ca .
@@ -7756,11 +7818,15 @@
 056.03A: ciram na sahate sTAtum pareByaH BedaSaNkayA .. 145..
 056.03P: BedaSaNkayA -- prakASaSaNkayA vidAraRaSaNkayA ca .
 
+056.01-03E: Therefore what is set on foot should necessarily be accomplished with a mighty effort. Again, Counsel, like a timid warrior, although having all the parts well covered, is not able to keep up long for fear of being penetrated by others (the enemies).
+
 056.04F: yadyasO dfzwadozo'pi dozAnnivartya saMDAtavyastad atIvAnucitam .
 056.04A: yadi asO dfzwadozaH api dozAn nivartya saMDAtavyaH tat atIva anucitam .
 
 056.05F: yataH .
 056.05A: yataH .
+
+056.04-05E: And if a reconciliation is to be sought with him (the bull), after his offence has been known, he being made to turn back from such a wrong course of conduct, that would be extremely impolitic. For,
 
 056.06F: sakfdduzwaM tu yo mitraM punaH saMDAtumicCati .
 056.06A: sakft duzwam tu yaH mitram punaH saMDAtum icCati .
@@ -7770,14 +7836,18 @@
 056.07A: saH mftyum eva gfhRAti garBam aSvatarI yaTA .. 146..
 056.07P: garBamaSvatarI yaTA -- yaTA aSvatarI gardaBajA aSvA garBaM mftyumeva gfhRAti garBarUpaM mftyumevodare vahati ityarTaH . sA hi garBamocanasamaye udaraBedAnmriyate iti prasidDiH . taTA hi mahABAratam -- 'daRqanopanataM SatrumanugfhRAti yo naraH . sa mftyumupagfhRAti garBamaSvatarI yaTA ' . rAmAyaRaM ca -- 'udarasya samutTAne svagarBoSvatarImiva ' [hanti] <ab n="ityAdi">i</ab> .
 
-; Not sure of word after 'kartum'
-056.08F: siMho brUte -- jYAyatAM tAvatkimasmAkamasO kartuM ?? . damanaka Aha -- deva .
-056.08A: siMhaH brUte -- jYAyatAm tAvat kim asmAkam asO kartum ?? . damanakaH Aha -- deva .
+056.06-07E: He who wishes to conciliate a friend once estranged invites death itself like a she-mule conceiving a fetus.
+
+; Not sure of word after 'kartum'. Guess 'Saknoti'  (is able)
+056.08F: siMho brUte -- jYAyatAM tAvatkimasmAkamasO kartuM Saknoti . damanaka Aha -- deva .
+056.08A: siMhaH brUte -- jYAyatAm tAvat kim asmAkam asO kartum Saknoti . damanakaH Aha -- deva .
 ; Sampada: 'asmakam'?  [Jim: print shows 'asmAkam' - now corrected]
 
 056.09F: aNgANgiBAvamajYAtvA kaTaM sAmarTyanirRayaH .
 056.09A: aNgANgiBAvam ajYAtvA kaTam sAmarTyanirRayaH .
 056.09P: aNgANgiBAvam -- nyUnADikatAM , praDAnApraDAnatAm .
+
+056.08-09E: The lion said -- Let it be first ascertained what harm he is able to do us. Damanaka replied —- My lord, How can one's power be ascertained unless the relation of principal and subordinate is known?
 
 056.10F: paSya wiwwiBamAtreRa samudro vyAkulIkftaH .. 147..
 056.10A: paSya wiwwiBamAtreRa samudraH vyAkulIkftaH .. 147..
@@ -7788,8 +7858,12 @@
 056.12F: damanakaH kaTayati --
 056.12A: damanakaH kaTayati --
 
+056.10-12E: Behold how an insignificant bird like a tittibha (a lap-wing) overpowered the sea.
+The lion asked how it was. Damanaka related --
+
 056.13F: .. kaTA 9 ..
 056.13A: .. kaTA 9 ..
+056.13E: Fable 9
 
 056.14F: dakziRasamudratIre wiwwiBadampatI nivasataH .
 056.14A: dakziRasamudratIre wiwwiBadampatI nivasataH .
@@ -7798,32 +7872,41 @@
 056.15A: tatra ca AsannaprasavAH wiwwiBI BartAram Aha --
 056.15P: AsannaprasavAH -- AsannaH prasavaH prasUtikAlaH yasyAH sA .
 
+056.14-15E: A pair of tittibhas lived on the shore of the southern sea. The female when near her delivery said to her husband
+
 056.16F: nATa prasavayogyasTAnaM niBftamanusaMDIyatAm .
 056.16A: nATa prasavayogyasTAnam niBftam anusaMDIyatAm .
+; anusaMDIyatAm anusaMDA
 056.16P: niBftaM -- dfzweragocaram .
 056.16P+: anusaMDIyatAM -- nirUpyatAM , anvizyatAm .
 
 056.17F: wiwwiBo'vadat -- BArye nanvidameva sTAnaM prasUtiyogyam .
 056.17A: wiwwiBaH avadat -- BArye nanu idam eva sTAnam prasUtiyogyam .
 
-056.18F: sA brUte -- samudravelayA plAyate sTAnametat .
-056.18A: sA brUte -- samudravelayA plAyate sTAnam etat .
+056.16-17E: My dear, find out a retired place convenient for my delivery. The male said -- My dear, this very place is surely fit for your delivery.
+
+056.18F: sA brUte -- samudravelayA plAvyate sTAnametat .
+056.18A: sA brUte -- samudravelayA plAvyate sTAnam etat .
 
 056.19F: wiwwiBo'vadat -- kimahaM nirbalaH tena svagfhAvasTitaH samudreRa nigrahItavyaH .
 056.19A: wiwwiBaH avadat -- kim aham nirbalaH tena svagfhAvasTitaH samudreRa nigrahItavyaH .
 056.19P: nigrahItavyaH -- aRqApahArarUpanigraheRa avajYAtavyaH .
 
+056.18-19E: She replied -- This place is washed over by the tide. The male observed -- What? Am I so powerless that the sea should insult me, stationed in my own house?
+
 056.20F: wiwwiBI vihasyAha -- svAmin tvayA samudreRa ca mahadantaram . aTavA .
 056.20A: wiwwiBI vihasya Aha -- svAmin tvayA samudreRa ca mahat antaram . aTavA .
 
 056.21F: duHKamAtmA paricCettumevaM yogyo na veti vA .
-056.21A: duHKam AtmA paricCettum evam yogyaH na veti vA .
+056.21A: duHKam AtmA paricCettum evam yogyaH na vA iti vA .
 056.21P: duHKamiti -- AtmA svayaM yogyaH karmaRi Sakto na veti paricCettuM niScayena jYAtuM duHKaM kazwameva . sahasAtmano yogyAyogyatA na jYAyate ityarTaH .
 
-056.22F: astIwwagyasya vijYAnaM sa kfcCreRpi na sIdati .. 148..
-056.22A: astIwwagyasya vijYAnam sa kfcCreRa api na sIdati .. 148..
+056.22F: astIdfgyasya vijYAnaM sa kfcCrepi na sIdati .. 148..
+056.22A: asti Idfk yasya vijYAnam saH kfcCre pi na sIdati .. 148..
 056.22P: na sIdati na viDuro Bavati , nASaM nEtIti vA .
 ; Sampada: some typo in this sentence? What is 'astIwwagyasya'?
+
+056.20-22E: The female said smiling -- My lord, vast is the difference between the sea and yourself. Or rather, It is difficult to form a correct estimate of one's self -- whether one is capable (of achieving a thing) or not.  He who has such knowledge does not experience trouble even in a difficulty.
 
 056.23F: api ca . anucitakAryAramBaH svajanaviroDo balIyasA sparDA .
 056.23A: api ca . anucitakAryAramBaH svajanaviroDaH balIyasA sparDA .
@@ -7831,11 +7914,15 @@
 056.24F: pramadAjanaviSvAso mftyordvArARi catvAri .. 149..
 056.24A: pramadAjanaviSvAsaH mftyoH dvArARi catvAri .. 149..
 
+056.23-24E: The beginning of an unworthy act, opposition to one's relatives, emulation with the stronger, and confidence in young women —- these are four doors to death.
+
 056.25F: tataH kfcCreRa svAmivacanAttatrEva prasUtA sA . etatsarvaM
 056.25A: tataH kfcCreRa svAmivacanAt tatra eva prasUtA sA . etat sarvam
 
 056.26F: SrutvA samudreRApi tacCaktijYAnArTaM tadaRqAnyapahftAni .
-056.26A: SrutvA samudreRa api tat SaktijYAnArTam tadaRqAnyapahftAni .
+056.26A: SrutvA samudreRa api tat SaktijYAnArTam tadaRqAni apahftAni .
+
+056.25-26E: Then following (with difficulty) the advice of her husband she laid her eggs there. Having heard all that, the sea too, wishing to know their strength, carried off their eggs.
 
 056.27F: tata wiwwiBI SokArtA
 056.27A: tataH wiwwiBI SokArtA
@@ -7843,8 +7930,11 @@
 056.28F: BartAramAha -- nATa kazwamApatitam . tAnyaRqAni me nazwAni .
 056.28A: BartAram Aha -- nATa kazwam Apatitam . tAni aRqAni me nazwAni .
 
+056.27-28E: Then the female tittibha, smitten with grief, said to her husband -- Lord, evil has befallen us. Those my eggs are lost.
+
 056.29F: wiwwiBo'vadat -- priye mA BEzIH . ityuktvA pakziRAM melakaM
 056.29A: wiwwiBaH avadat -- priye mA BEzIH . iti uktvA pakziRAm melakam
+; BEzIH [bhī_1]{inj. [4] ac. sg. 2}  (Huet)
 056.29P: melakam -- saBAm .
 
 056.30F: kftvA pakzisvAmino garuqasya samIpaM gataH . tatra gatvA
@@ -7856,27 +7946,35 @@
 056.32F: deva
 056.32A: deva
 
+056.29-32E: The male said -- Fear not, my dear. With these words he called together a council of birds and repaired into the presence of Garuda, the king of the feathered tribes. On reaching the place, the tittibha related the whole affair before the divine Garuda (saying) -- Lord, 
+; 08/01/2021 end
 057.01F: samudreRAhaM svagfhAvasTito vinAparADanenEva nigfhItaH iti .
-057.01A: samudreRa aham svagfhAvasTitaH vinAparADanena eva nigfhItaH iti .
+057.01A: samudreRa aham svagfhAvasTitaH vinA aparADanena eva nigfhItaH iti .
+; nigfhIta : wronged (Kale); held back (MW)
 
 057.02F: tatastadvacanamAkarRya garutmatA praBurBagavAn
 057.02A: tataH tat vacanam AkarRya garutmatA praBuH BagavAn
 
 057.03F: nArAyaRaH sfzwisTitipralayaheturvijYaptaH . sa
-057.03A: nArAyaRaH sfzwisTitipralayahetuH vijYaptaH . sa
+057.03A: nArAyaRaH sfzwisTitipralayahetuH vijYaptaH . saH
 057.03P: sfzwisTitipralayahetuH jagataH sfzwiH utpattiSca sTitiH pAlanaM ca pralayaH saMhAraSca tezAM hetuH kAraRam .
 
 057.04F: samudramaRqadAnAyAdideSa . tato
 057.04A: samudram aRqadAnAya AdideSa . tataH
 
+057.01-04E: Lord, without any fault, I, who was stationed in my house, was wronged by the sea. Having heard his words, Garuda besought the Lord, the divine Narayana, the author of the creation, preservation and destruction of the universe, who ordered the sea to restore the eggs.  Then,
+
 057.05F: BagavadAjYAM mOlO niDAya samudreRa tAnyaRqAni wiwwiBAya
 057.05A: BagavadAjYAm mOlO niDAya samudreRa tAni aRqAni wiwwiBAya
+; mOlO m. 7s of mOli (head)
 057.05P: mOlO niDAya mastake kftvA , SirasA'Byarcya . ativinayena BagavadAjYAM pAlayitvetyarTaH .
-; Sampada: 'wiwwiBAya' typo?
+; Sampada: 'wiwwiBAya' typo?  Jim: No. wiwwiBa m. case 4s.
 
 057.06F: samarpitAni . ato'haM bravImi aNgANgiBAvamajYAtvA ityAdi .
 057.06A: samarpitAni . ataH aham bravImi aNgANgiBAvam ajYAtvA ityAdi .
 ; Sampada: 'ityAdi' left as is.
+
+057.05-06E: Then having placed on the crown of his head (obeyed with deep reverence) the divine order, the sea returned the eggs to the tittibha. Hence I say -- Without knowing the relation of principal and subordinate, &c.
 
 057.07F: rAjAha -- kaTamasO jYAtavyo drohabudDiriti .
 057.07A: rAjA Aha -- kaTam asO jYAtavyaH drohabudDiH iti .
@@ -7885,31 +7983,37 @@
 057.08F: damanako brUte -- yadAsO sadarpaH
 057.08A: damanakaH brUte -- yadA asO sadarpaH
 
-057.09F: SfNgAgrapraharaRABimuKaScakita ivAgacCati tadA jYAsyati
-057.09A: SfNgAgrapraharaRABimuKaH cakita iva AgacCati tadA jYAsyati
+057.09F: SfNgAgrapraharaRABimuKaScakita ivAgacCati tadA jYAsyatisvAmI . 
+057.09A: SfNgAgrapraharaRABimuKaH cakitaH iva AgacCati tadA jYAsyati svAmI . 
 057.09P: SfNgAgra -- SfNgayoragre tAByAM praharaRaM tatra aBimuKaH .
 057.09P+: cakita iva -- saMrabDacitta iva saMBrAnta iva .
 
-057.10F: svAmI . evamuktvA saMjIvakasamIpaM gataH . tatra gataSca mandaM
-057.10A: svAmI . evam uktvA saMjIvakasamIpam gataH . tatra gataH ca mandam
+057.07-09E: The king asked -- How is it to be known that he is maliciously disposed (towards me)? Damanaka replied -- Your Highness will know it when he, full of pride, will approach you, ready to strike with the tips of his horns and like one dismiayed (or bewildered).
+
+057.10F: evamuktvA saMjIvakasamIpaM gataH . tatra gataSca mandaM
+057.10A: evam uktvA saMjIvakasamIpam gataH . tatra gataH ca mandam
 
 057.11F: mandamupasarpanvismitamivAtmAnamadarSayat . saMjIvakena sAdaramuktam --
-057.11A: mandam upasarpan vismitam iva AtmAnam adarSayat . saMjIvakena sAdaramuktam --
-
+057.11A: mandam upasarpan vismitam iva AtmAnam adarSayat . saMjIvakena sAdaram uktam --
+; upasarpan  pres. part. upa+sfp  (nom. 1s)
 057.12F: Badra kuSalaM te .
 057.12A: Badra kuSalam te .
+
+057.10-12E: Having uttered these words, he went to Samjivaka. On reaching the place, he, approaching gently, presented himself like one amazed. Samjivaka inquired with affectionate regard -- Friend, are you happy ?
 
 057.13F: damanako brUte -- anujIvinAM kutaH kuSalam . yataH .
 057.13A: damanakaH brUte -- anujIvinAm kutaH kuSalam . yataH .
 
 057.14F: sampattayaH parADInAH sadA cittamanirvfttam .
-057.14A: sampattayaH parADInAH sadA cittamanirvfttam .
+057.14A: sampattayaH parADInAH sadA cittam anirvfttam .
 057.14P: parADInAH nfpecCAyattA ityarTaH .
 057.14P+: anirvfttam -- Akulam .
 
-057.15F: svajIivite'pyaviSvAsastezAM ye rAjasaMSreyAH .. 150..
-057.15A: svajIivite api aviSvAsaH tezAm ye rAjasaMSreyAH .. 150..
+057.15F: svajIvite'pyaviSvAsastezAM ye rAjasaMSreyAH .. 150..
+057.15A: svajIvite api aviSvAsaH tezAm ye rAjasaMSreyAH .. 150..
 057.15P: rAjasaMSreyAH BUpAlAvalambinaH , rAjasevakAH .
+
+057.13-15E: Damanaka replied -- How can there be any happiness for servants? For, the riches of those who are in royal service are in another's power; their mind is always uneasy, and they have no surety even of their lives.
 
 057.16F: anyacca . ko'rTAn prApya na garvito vizayiRaH kasyApado'staM gatAH
 057.16A: anyat ca . kaH arTAn prApya na garvitaH vizayiRaH kasya ApadaH astam gatAH
@@ -7918,7 +8022,10 @@
 
 057.17F: strIBiH kasya na KaRqitaM Buvi manaH ko vAsti rAjYAM priyaH .
 057.17A: strIBiH kasya na KaRqitam Buvi manaH kaH vA asti rAjYAm priyaH .
+; Buvi f. sg. loc. BU
 057.17P: KaRqitam -- vikalIkftaM , pratipremABAvAdvyAhatam .
+
+057.16-17E: Moreover, Who, having obtained wealth, does not become proud? The miseries of what sensualist have come to an end? Whose mind is not wounded by woman? Who is a favourite of kings?
 
 057.18F: kaH kAlasya BujAntaraM na ca gataH ko'rTI gato gOravaM
 057.18A: kaH kAlasya BujAntaram na ca gataH kaH arTI gataH gOravam
@@ -7926,13 +8033,19 @@
 
 057.19F: ko vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
 057.19A: kaH vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
+; vAgurA net
+; pumAn  m. sg. nom. of puMs (man)
 057.19P: durjanavAgurAsu durjanAnAM KalAnAM vAgurAsu kapawajAlezu .
+
+057.18-19E: Who has not fallen into the clutches of Death? What supplicant has met with honour, and what man, fallen into the meshes of the wicked, has escaped unscathed?
 
 057.20F: saMjIvakenoktam -- saKe brUhi kimetat .
 057.20A: saMjIvakena uktam -- saKe brUhi kim etat .
 
 057.21F: damanaka Aha -- kiM bravImi mandaBAgyaH . paSya .
 057.21A: damanakaH Aha -- kim bravImi mandaBAgyaH . paSya .
+
+057.20-21E: Samjivaka said -- Friend, speak out what this means. Damanaka replied -- What should I say, an unfortunate creature! Behold,
 
 057.22F: yaTA samudre nirmagno labDvA sarpAvalambanam .
 057.22A: yaTA samudre nirmagno labDvA sarpO avalambanam .
@@ -7941,11 +8054,15 @@
 057.23A: na muYcati na ca Adatte taTA mugDaH asmi saMprati .. 152..
 057.23P: mugDaH -- kiMkartavyatAmUQaH . itikartavyatASUnyaH ityarTaH .
 
+057.22-23E: Just as a man plunged into the sea having obtained the support of a serpent, does neither give it up nor hold fast to it, so bewildered am I now.
+
 057.24F: yataH . ekatra rAjaviSvAso naSyatyanyatra bAnDavaH .
 057.24A: yataH . ekatra rAjaviSvAsaH naSyati anyatra bAnDavaH .
 
 057.25F: kiM karomi kva gacCAmi patito duHKasAgare .. 153..
 057.25A: kim karomi kva gacCAmi patitaH duHKasAgare .. 153..
+
+057.24-25E:  For, On the one hand is the royal confidence betrayed, on the other, a friend perishes: what shall I do, and where shall I go, I who am fallen into the sea of trouble?
 
 057.26F: ityuktvA dIrGaM niHSvasyopavizwaH .
 057.26A: iti uktvA dIrGam niHSvasya upavizwaH .
@@ -7954,19 +8071,29 @@
 057.27A: saMjIvakaH brUte -- taTA api mitra savistaram manogatam ucyatAm .
 057.27P: manogataM yad hfdayasTitaM tat .
 
+057.26-27E: With these words he heaved a deep sigh and sat down. Samjivaka said -- Still, friend, tell me in detail what you have at heart.
+
 057.28F: damanakaH suniBftamAha -- yadyapi rAjaviSvAso na kaTanIyastaTApi
 057.28A: damanakaH suniBftam Aha -- yadi api rAjaviSvAsaH na kaTanIyaH taTA api
 057.28P: rAjaviSvAsaH rAjYA viSvasya kaTitam .
 
-057.29F: BavAn asmadIyapratyayAdAgataH . mayA paralokArTinAvaSyaM tava
-057.29A: BavAn asmadIyapratyayAt AgataH . mayA paralokArTinAvaSyam tava
+057.29F: BavAn asmadIyapratyayAdAgataH . mayA paralokArTinAvaSyaM tava hitam AKyeyam . 
+057.29A: BavAn asmadIyapratyayAt AgataH . mayA paralokArTinA avaSyam tava hitam AKyeyam . 
 
-057.30F: hitamAKyeyam . SfRu . ayaM svAmI tavopari vikftabudDI
-057.30A: hitam AKyeyam . SfRu . ayam svAmI tava upari vikftabudDI
+057.28-29E: Damanaka said with (a show of) great secrecy -- 
+Although I must not betray the king's secret, yet you have come here through confidence in us; and I, as desiring the next world, must necessarily tell you what concerns your welfare.
+
+;057.30F: hitamAKyeyam . SfRu . ayaM svAmI tavopari vikftabudDI
+;057.30A: hitam AKyeyam . SfRu . ayam svAmI tava upari vikftabudDI
+057.30F: SfRu . ayaM svAmI tavopari vikftabudDI
+057.30A: SfRu . ayam svAmI tava upari vikftabudDiH
+; budDI :  budDiH + rahasi -> budDI rahasi  (rare sandhi)
 057.30P: vikftabudDiH vikftA viparItaBAvamApannA budDiH yasya .
 
 057.31F: rahasyuktavAn  -- saMjIvakameva hatvA svaparivAraM tarpayAmi .
-057.31A: rahasyuktavAn  -- saMjIvakam eva hatvA svaparivAram tarpayAmi .
+057.31A: rahasi uktavAn  -- saMjIvakam eva hatvA svaparivAram tarpayAmi .
+
+057.30-31E: Listen. This our Lord, being prejudiced against you, said in private -- I will kill Samjivaka himself and treat my attendants (with his flesh).
 
 057.32F: etacCrutvA saMjIvakaH paraM vizAdamagamat . damanakaH punarAha .
 057.32A: etat SrutvA saMjIvakaH param vizAdam agamat . damanakaH punaH Aha .
@@ -7978,8 +8105,11 @@
 057.34F: kzaRaM vimfSyAha .. suzWu Kalvidamucyate .
 057.34A: kzaRam vimfSya Aha .. suzWu Kalu idam ucyate .
 
+057.32-34E:  Samjivaka, on hearing this, was smitten with great sorrow. Damanaka observed again -- Away with sorrow. Do what the time demands. Samjivaka, after a moment’s reflection, said -- This is, indeed, well said--
+
 058.01F: durjanagamyA nAryaH prAyeRApAtraBfdBavati rAjA .
-058.01A: durjanagamyA nAryaH prAyeRa apAtraBft Bavati rAjA .
+058.01A: durjanagamyAH nAryaH prAyeRa apAtraBft Bavati rAjA .
+; prAya  Sense here ?
 058.01P: durjanagamyAH -- duzwalokEH laByAH .
 058.01P+: apAtraBft -- apAtraM ayogyapuruzaM biBartIti .
 
@@ -7987,8 +8117,10 @@
 058.02A: kfpaRAnusAri ca Danam devaH girijalaDivarzI ca .. 154..
 058.02P: girijalaDivarzI na sasyakzetravarzI ityarTaH . sarvatra visaMzwulA eva viDipravfttiH iti BAvaH .
 
+058.01-02E: Women seek the company of wicked men; a king generally patronizes (or, lavishes wealth upon) the undeserving; wealth seeks a miser; and the god of rain pours the showers on mountains and seas!
+
 058.03F: svagatam -- tatkimidametadvicezwitaM na vetyetadvyavahArAdeva nirRetuM na Sakyate . yataH .
-058.03A: svagatam -- tatkim idam etat vicezwitam na veti etat vyavahArAt eva nirRetum na Sakyate . yataH .
+058.03A: svagatam -- tat kim idam etat vicezwitam na vA iti etat vyavahArAt eva nirRetum na Sakyate . yataH .
 
 058.04F: kaScidASrayasOndaryAd atte SoBAmasajjanaH .
 058.04A: kaH cit ASrayasOndaryAt Datte SoBAm asajjanaH .
@@ -7998,19 +8130,26 @@
 058.05A: pramadAlocananyastam malImasam iva aYjanam .. 155..
 058.05P: malImasaM malinaM aYjanaM kajjalamiva .
 
+058.03-05E: (To himself) Now it is not possible to decide from his manner of acting (or, conversing) whether this is his doing or not. For, Some wicked man possesses splendour (appears good amiable) from the beauty of his master (or patron, lit. the person he depends upon), like fool (black) collyrium when put into their eyes by young women.
+
 058.06F: kazwaM kimidamApatitam . yataH .
 058.06A: kazwam kim idam Apatitam . yataH .
 
 058.07F: ArADyamAno nfpatiH prayatnAnna tozamAyAti kimatra citram .
 058.07A: ArADyamAnaH nfpatiH prayatnAt na tozam AyAti kim atra citram .
 
+058.06-07E: After reflection; he says -- Alas! What is this that has come to pass ! For,
+A king, though served with assiduity, may not be pleased; where is the wonder in this?
+
 058.08F: ayaM tvapUrvapratimAviSezo yaH sevyamAno riputAmupEti .. 156..
-058.08A: ayam tu apUrvapratimAviSezo yaH sevyamAno riputAm upEti .. 156..
+058.08A: ayam tu apUrvapratimAviSezaH yaH sevyamAnaH riputAm upEti .. 156..
 058.08P: pratimAviSezaH -- mUrtiviSezaH , vicitrA viDAturGawanA ityarTaH .
 
 058.09F: tad ayamaSakyarTaH prameyaH . yataH .
 058.09A: tat ayam aSakyarTaH prameyaH . yataH .
 058.09P: aSakyArTaH aSakyaH asADyaH arTaH vizayaH yasya . prameyaH arTa iti SezaH .
+
+058.08-09E: But this is some strange pattern of creation, who being served is turned into an enemy!!! So this is a matter (lit. something to be understood by inference) which it is impossible to understand. For,
 
 058.10F: nimittamuddiSya hi yaH prakupyati
 058.10A: nimittam uddiSya hi yaH prakupyati
@@ -8019,27 +8158,35 @@
 058.11A: Druvam saH tasya apagame prasIdati .
 058.11P: tasyApagame tasya nimittasya apagame dUrIBAve . tasminnirAkfte iti ityarTaH .
 
+058.10-11E: He who is displeased having some cause in view, is, indeed, pleased when that cause) is removed;
+
 058.12F: akAraRadvezi manastu yasya vE
-058.12A: akAraRadvezi manastu yasya vE
+058.12A: akAraRadvezi manaH tu yasya vE
 
 058.13F: kaTaM janastaM paritozayizyati .. 157..
-058.13A: kaTam janastam paritozayizyati .. 157..
+058.13A: kaTam janaH tam paritozayizyati .. 157..
+
+058.12-13E:  but how can a man please him whose mind harbours enmity without cause?
 
 058.14F: kiM mayApakftaM rAjYaH . aTavA nirnimittApakAriRaSca Bavanti rAjAnaH .
 058.14A: kim mayA apakftam rAjYaH . aTavA nirnimittApakAriRaH ca Bavanti rAjAnaH .
 058.14P: nirnimitta - nirgataM nimittaM yasminkarmaRi tadyaTA taTA kAraRavyatirekeRa apakurvanti tAdfSAH .
 
 058.15F: damanako brUte -- evametat . SfRu .
-058.15A: damanakaH brUte --evam etat . SfRu .
+058.15A: damanakaH brUte -- evam etat . SfRu .
+
+058.14-15E: What wrong did I do to the king? Or rather, kings are wont to do injury without any cause. Damanaka observed -- It is just so. Listen.
 
 058.16F: vijYEH snigDErupakftamapi dvezyatAmeti kiMcit
-058.16A: vijYEH snigDErH upakftam api dvezyatAm eti kim cit
+058.16A: vijYEH snigDEH upakftam api dvezyatAm eti kim cit
 058.16P: vijYEH viSezaM jAnantIti vijYAH vicakzaRAH .
 058.16P+: tEH snigDEH hitabudDiBiH .
 058.16P++: upakftamapi kiMcit upakAratvena kftamapi kiMcit .
 
 058.17F: sAkzAdanyErapakftamapi prItimevopayAti .
 058.17A: sAkzAt anyEH apakftam api prItim eva upayAti .
+
+057.16-17E: Even an act of kindness, done by man eminently learned and affectionate, becomes hateful; while an actual injury done by others is just regarded with pleasure:
 
 058.18F: durgrAhyatvAnnfpatimanasAM nEkaBAvASrayARAM
 058.18A: durgrAhyatvAt nfpatimanasAm na ekaBAvASrayARAm
@@ -8048,6 +8195,8 @@
 
 058.19F: sevADarmaH paramagahano yoginAmapyagamyaH .. 158..
 058.19A: sevADarmaH paramagahanaH yoginAm api agamyaH .. 158..
+
+058.18-19E: on account of difficulty of understanding the minds of kings which are unsteady (lit., not the abode of one feeling); the duty of servitude is extremely difficult, not to be comprehended even by Yogis (those who have attained superhuman powers).
 
 058.20F: anyacca . kftaSatamasatsu nazwaM suBAzitaSataM ca nazwamabuDezu .
 058.20A: anyat ca . kftaSatam asatsu nazwam suBAzitaSatam ca nazwam abuDezu .
@@ -8061,6 +8210,8 @@
 058.21P: avacanakare -- vAkyapAlanaparANmuKe .
 058.21P+: acetane jYAnarahite .
 
+058.20-21E: A hundred obligations (or, services rendered) are lost upon the wicked; a hundred fine speeches upon the illiterate; a hundred words of advice upon those who would not act up to them; and a hundred counsels on the senseless.
+
 058.22F: kiM ca . candanataruzu BujaNgA jalezu kamalAni tatra ca grAhAH .
 058.22A: kim ca . candanataruzu BujaNgAH jalezu kamalAni tatra ca grAhAH .
 058.22P: candanataruzu -- candanasya GrARatarpaRaH ganDaH asti kiMtu tatra BujaMgaBayaM ityarTaH .
@@ -8071,16 +8222,20 @@
 058.23P: Boge amAtyapadAdInAmiti SezaH .
 058.23P+: guRaGAtinaH -- guRalopakAriRaH KalAH piSunAH .
 
+058.22-23E: There are serpents on the sandal trees; lotuses grow in water wherein there are also alligators; and when one is in the enjoyment of a thing there are villains to obscure one's good qualities ; (so) pleasures are not without obstructions!
+
 059.01F: anyacca . mUlaM BujaNgEH kusumAni BfNgEH SAKAH plavaNgEH SiKarARi BallEH .
 059.01A: anyat ca. mUlam BujaNgEH kusumAni BfNgEH SAKAH plavaNgEH SiKarARi BallEH .
-059.01P: BallEH fkzE .
+059.01P: BallEH fkzEH .
 
 059.02F: nAstyeva taccandanapAdapasya yannASritaM duzwatarESca hiMsrEH .. 161..
-059.02A: nAsti eva tat candanapAdapasya yat na ASritam duzwatarEH ca hiMsrEH .. 161..
+059.02A: na asti eva tat candanapAdapasya yat na ASritam duzwatarEH ca hiMsrEH .. 161..
 059.02P: duzwatarEH atiduzwEH .
 
+059.01-02E: And further, The root is infested by serpents, the flowers by bees, the branches by monkeys and the tops by bears; thus there is nothing belonging to the sandal tree that is not resorted to by very cruel and murderous animals.
+
 059.03F: ayaM tAvatsvAmI vANmaDuro vizahfdayo mayA jYAtaH . yataH .
-059.03A: ayam tAvatsvAmI vANmaDuraH vizahfdayaH mayA jYAtaH . yataH .
+059.03A: ayam tAvat svAmI vANmaDuraH vizahfdayaH mayA jYAtaH . yataH .
 
 059.04F: dUrAd ucCritapARirArdranayanaH protsAritArDAsano
 059.04A: dUrAt ucCritapARiH ArdranayanaH protsAritArDAsanaH
@@ -8089,6 +8244,8 @@
 
 059.05F: gAQAliNganatatparaH priyakaTApraSnezu dattAdaraH .
 059.05A: gAQAliNganatatparaH priyakaTApraSnezu dattAdaraH .
+
+059.03-05E: As for our master, I have known him to be honeyed in speech but carrying poison in the heart. For, He raises his hand from a distance (by way of greeting) and has his eyes moist (with tears of joy); he proffers half of his seat, he is ready to give a close embrace, shows great regard in making inquiries and talking about one's beloved persons,
 
 059.06F: antarBUtavizo bahirmaDumayaScAtIva mAyApawuH
 059.06A: antarBUtavizaH bahiH maDumayaH ca atIva mAyApawuH
@@ -8100,20 +8257,32 @@
 059.07F: ko nAmAyamapUrvanAwakaviDiryaH Sikzito durjanEH .. 162..
 059.07A: kaH nAma ayam apUrvanAwakaviDiH yaH SikzitaH durjanEH .. 162..
 
+059.06-07E: has poison inside, but is all sweetness from outside, and is an expert in deceit (or dissembling ): what pantomimic art is this, unheard of before, that has beon learnt by the wicked ?
+
 059.08F: taTA hi . poto dustaravArirASitaraRe dIpo'nDakArAgame
 059.08A: taTA hi . potaH dustaravArirASitaraRe dIpaH anDakArAgame
+; vArirASi - great mass of water (sea).
 059.08P: potaH -- nOkA .
 
-059.09F: nirvAte vyajanaM madAnDakariRAM darpopaSAntyE sfRiH .
-059.09A: nirvAte vyajanam madAnDakariRAm darpopaSAntyE sfRiH .
-059.09P: SriRiH -- aNkuSaH .
+059.09F: nirvAte vyajanaM madAnDakariRAM darpopaSAntyE SfRiH .
+059.09A: nirvAte vyajanam madAnDakariRAm darpopaSAntyEH SfRiH .
+; mw has 'sfRi', not 'SfRi'
+; upaSAntyEH + sfRiH -> (? Sandhi) upaSAntyE SfRiH
+; karin elephant
+059.09P: SfRiH -- aNkuSaH .
+
+059.08-09E: To make matters clear. For crossing the impassable sea there is the boat (provided), the lamp against the approach of darkness, the fan when there is absence of breeze and the goad for quelling the pride of elephants stupified by rut:
 
 059.10F: itTaM tadBuvi nAsti yasya viDinA nopAyacintA kftA
 059.10A: itTam tat Buvi na asti yasya viDinA na upAyacintA kftA manye
+; kftA = 3s m. kft (creator)
 
 059.11F: manye durjanacittavfttiharaRe DAtApi BagnodyamaH .. 163..
 059.11A: manye durjanacittavfttiharaRe DAtApi BagnodyamaH .. 163..
+; DAtA = 1s m. DAtf (creator)
 059.11P: BagnodyamaH -- viPalaprayatnaH .
+
+059.10-11E: Thus there is nothing on earth, to provide a remedy against which, care has not been taken by the Creator; but, methinks, even the Creator is foiled in his efforts to dispel the (evil) tendencies of the minds of the wicked.
 
 059.12F: saMjIvakaH punarniHSvasya -- kazwaM BoH .
 059.12A: saMjIvakaH punaH niHSvasya -- kazwam BoH .
@@ -8121,27 +8290,36 @@
 059.13F: kaTamahaM sasyaBakzakaH siMhena nipAtayitavyaH . yataH .
 059.13A: kaTam aham sasyaBakzakaH siMhena nipAtayitavyaH . yataH .
 
+059.12-13E: Samjivaka, heaving a sigh again — Alas! Oh, pity! that I, as corn-eater, should be falled by a lion!! For,
+
 059.14F: yayoreva samaM vittaM yayoreva samaM balam .
 059.14A: yayoH eva samam vittam yayoH eva samam balam .
 
 059.15F: tayorvivAdo mantavyo nottamADamayoH kvacit .. 164..
-059.15A: tayoH vivAdaH mantavyaH na uttamADamayoH kvacit .. 164..
+059.15A: tayoH vivAdaH mantavyaH na uttamADamayoH kva cit .. 164..
 059.15P: uttamADamayoH utkfzwanikfzwayoH , hInADikabalayoH .
+
+059.14-15E: Between those two only whose wealth is equal, or whose power is equal, a dispute can well be understood; but never between the best and the worst.
 
 059.16F: punarvicintya . kenAyaM rAjA mamopari vikAntito na jAne . BedamupagatAdrAjYaH
 059.16A: punaH vicintya . kena ayam rAjA mama upari vikAntitaH na jAne . Bedam upagatAt rAjYaH
+; vikAntitaH probably wrong. ??
 059.16P: BedamupagatAt -- vikftAt vidvezaBAvaM gatAt .
 
 059.17F: sadA Betavyam . yataH .
 059.17A: sadA Betavyam . yataH .
 
+059.16-17E: (Reflecting again) I do not know who has set (poisoned the mind of) this king against me. One has to be always in dread of a king whose feelings are estranged. For,
+
 059.18F: mantriRA pfTivIpAlacittaM viGawitaM kvacit .
 059.18A: mantriRA pfTivIpAlacittaM viGawitam kvacit .
 059.18P: viGawitaM -- viSlezitam .
 
-059.19F: valayaM sPawikasyeva ko hi saMDAtumIsvaraH .. 165 ..
-059.19A: valayam sPawikasya eva kaH hi saMDAtum IsvaraH .. 165 ..
+059.19F: valayaM sPawikasyeva ko hi saMDAtumISvaraH .. 165 ..
+059.19A: valayam sPawikasya eva kaH hi saMDAtum ISvaraH .. 165 ..
 059.19P: ISvaraH -- samarTaH .
+
+059.18-19E: When a king's mind has once been alienated from his minister who can re-unite it, like a crystal bracelet when broken?
 
 059.20F: anyacca . vajraM ca rAjatejaSca dvayamevAtiBIzaRam .
 059.20A: anyat ca . vajram ca rAjatejaH ca dvayam eva atiBIzaRam .
@@ -8151,29 +8329,39 @@
 059.21A: ekam ekatra patati patati anyat samantataH .. 166 ..
 059.21P: samantataH sarvavyApIti tato viSizyata ityarTaH .
 
+059.20-21E: Moreover, The thunderbolt and kingly power -— these two are extremely terrible: but the one falls in one place, the other (exerts its influence) all round.
+
 059.22F: tatsaMgrAme mftyurevASrIyatAm . idAnIM tadAjYAnuvartanamayuktam . yataH .
 059.22A: tat saMgrAme mftyuH eva ASrIyatAm . idAnIm tadA AjYAnuvartanam ayuktam . yataH .
 
 059.23F: mftaH prApnoti vA svargaM SatruM hatvA suKAni vA .
 059.23A: mftaH prApnoti vA svargam Satrum hatvA suKAni vA .
 
-059.24F: uBAvapi hi SarARAM guRAvetO sudurlaBO .. 167 ..
-059.24A: uBO api hi SarARAm guRO etO sudurlaBO .. 167 ..
+059.22-23E: Death in battle, therefore, should be accepted. It will not be proper for me, now, to act in obedience to his commands. Because, If dead, he (a brave warrior) attains heaven; if he kills the foe he obtains happiness.
+
+059.24F: uBAvapi hi SUrARAM guRAvetO sudurlaBO .. 167 ..
+059.24A: uBO api hi SUrARAm guRO etO sudurlaBO .. 167 ..
 
 059.25F: yudDakAlaScAyam .
 059.25A: yudDakAlaH ca ayam .
 
+059.24-25E: These two advantages, which the valiant possess, are very rare. And this is the fit time for battle.
+
 059.26F: yatrAyudDe DruvaM mftyuryudDe jIvitasaMSayaH .
-059.26A: yatra AyudDe Druvam mftyuH yudDe jIvitasaMSayaH .
+059.26A: yatra ayudDe Druvam mftyuH yudDe jIvitasaMSayaH .
 
 059.27F: tameva kAlaM yudDasya pravadanti manIziRaH .. 168 ..
 059.27A: tam eva kAlam yudDasya pravadanti manIziRaH .. 168 ..
+
+059.26-27E: When out of battle death is certain, but in battle life is doubtful (there is some chance of living), then that, the wise declare to be the time for battle.
 
 059.28F: yataH . ayudDe hi yadA paSyenna kiYcid hitamAtmanaH .
 059.28A: yataH . ayudDe hi yadA paSyet na kim cit hitam AtmanaH .
 
 059.29F: yuDyamAnastadA prAjYo mriyate ripuRA saha .. 169..
 059.29A: yuDyamAnaH tadA prAjYaH mriyate ripuRA saha .. 169..
+
+059.28-29E: For, When a wise man sees no benefit accruing to himself from not fighting, he dies fighting the foe.
 
 060.01F: jaye ca laBate lakzmIM mftenApi surANganAm .
 060.01A: jaye ca laBate lakzmIm mftena api surANganAm .
@@ -8182,49 +8370,65 @@
 060.02F: kzaRaviDvaMsinaH kAyAH kA cintA maraRe raRe .. 170 ..
 060.02A: kzaRaviDvaMsinaH kAyAH kA cintA maraRe raRe .. 170 ..
 
+060.01-02E: In case of victory, he (a warrior) obtains fortune; if he dies, a heavenly damsel: when the bodies are perishable in a moment, what hesitation should there be about dying in battle?
+
 060.03F: etaccintayitvA saMjIvaka Aha -- Bo mitra kaTamasO mAM jiGAMsurjYAtavyaH . damanako
 060.03A: etat cintayitvA saMjIvakaH Aha -- Bo mitra kaTam asO mAm jiGAMsuH jYAtavyaH . damanakaH
 060.03P: jiGAMsuH hantumicCuH .
 
 060.04F: brUte -- yadAsO samudDatalANgUla unnatacaraRo vivftAsyastvAM paSyati tadA tvamapi
-060.04A: brUte -- yadA asO samudDatalANgUla unnatacaraRaH vivftAsyastvAm paSyati tadA tvam api
+060.04A: brUte -- yadA asO samudDatalANgUlaH unnatacaraRaH vivftAsyaH tvAm paSyati tadA tvam api
 
 060.05F: svavikramaM darSayizyasi . yataH .
 060.05A: svavikramam darSayizyasi . yataH .
 
+060.03-05E: Having pondered thus, Samjivaka said -- Friend, how am I to know that he is bent on (lit., desirous of) killing me? Damanaka replied -- When he, with his tail erect, his (fore)-paws lifted up and his mouth wide open, will look at you, you too should display your prowess. For,
+
 060.06F: balavAnapi nistejAH kasya nABiBavAspadam .
-060.06A: balavAn api nistejAH kasya nABiBavAspadam .
-060.06P: ABiBavAspadam -- parABavasTAnaM , kena na parABUyate sarvEH parABUyate eva ityarTaH .
+060.06A: balavAn api nistejAH kasya na aBiBavAspadam .
+; aBiBavAspadam derivation unclear to me. 'object of contempt'
+060.06P: aBiBavAspadam -- parABavasTAnaM , kena na parABUyate sarvEH parABUyate eva ityarTaH .
 
 060.07F: niHSaNkaM dIyate lOkeH paSya Basmacaye padam .. 171 ..
 060.07A: niHSaNkam dIyate lOkeH paSya Basmacaye padam .. 171 ..
 060.07P: Basmacaye BasmasamUhe .
 
+060.06-07E: To whom is a man, powerful yet void of fire (spirit, energy) not an object of contempt? Lo, people fearlessly set their foot upon a heap of ashes.
+
 060.08F: kiMtu sarvametatsuguptamanuzWAtavyam . no cenna tvaM nAham . ityuktvA damanakaH
 060.08A: kim tu sarvam etat suguptam anuzWAtavyam . na cet na tvam na aham . iti uktvA damanakaH
 060.08P: na tvam nAham -- uBAvapi vinaMkzyAva ityarTa .
+; vi+naMkzyAvaH  naS fut. ac. du. 1  (we two will perish)
 
 060.09F: karawakasamIpaM gataH . karawakenoktam -- kiM nizpannam . damanakenoktam --
 060.09A: karawakasamIpam gataH . karawakena uktam -- kim nizpannam . damanakena uktam --
 
+060.08-09E: ut all this must be done with the strictest privacy; otherwise, not you, not I (i. e., it will be all over with us both). Having said these things Damanaka went to Karataka.
+Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
+
 060.10F: nizpanno'sAvanyonyaBedaH . karawako brUte -- ko'tra saMdehaH . yataH .
-060.10A: nizpannaH asO avanyonyaBedaH . karawakaH brUte -- kaH atra saMdehaH . yataH .
+060.10A: nizpannaH asO anyonyaBedaH . karawakaH brUte -- kaH atra saMdehaH . yataH .
 
 060.11F: banDuH ko nAma duzwAnAM kupyetko nAtiyAcitaH .
 060.11A: banDuH kaH nAma duzwAnAm kupyet kaH na atiyAcitaH .
 ; Sampada: 'kupyetko' is confusing.
+
+060.10-11E: A reciprocal breach (of friendship) has been effected as intended. Karataka observed -- What doubt can there be as to that! For, Who, possibly, is a friend of the wicked? Who will not get angry when pressed with great importunity?
 
 060.12F: ko na hfzyati vittena kukftye ko na paRqitaH .. 172 ..
 060.12A: kaH na hfzyati vittena kukftye kaH na paRqitaH .. 172 ..
 
 060.13F: anyacca . durvfttaH kriyate DUrtEH SrImAnAtmavivfdDaye .
 060.13A: anyat ca . durvfttaH kriyate DUrtEH SrImAn AtmavivfdDaye .
+; grammatical form of 'durvfttaH' difficult here. why not 'EH' ?
 060.13P: durvfttaH iti - DUrtEH SaWEH .
 060.13P+: AtmavivfdDaye Atmana utkarzasADanArTam . SrImAn durvfttaH duScaritaH kriyate .
 
 060.14F: kiM nAma KalasaMsargaH kurute nASrayASavat .. 173 ..
 060.14A: kim nAma KalasaMsargaH kurute na ASrayASavat .. 173 ..
 060.14P: ASrayASavat -- ASrayaM ADAraM ASnAti BasmasAtkarotIti ASrayASaH agniH tena tulyam .
+
+060.12-134: Who does not become proud on account of wealth, and who is not clever in doing an evil deed? Moreover, A wealthy man is led into vice by artful men for self-aggrandizement: what mischief does not the company of villains do, like fire?
 
 060.15F: tato damanakaH piNgalakasamIpAM gatvA deva samAgato'sO pApASayaH . tatsajjIBUya
 060.15A: tataH damanakaH piNgalakasamIpAm gatvA deva samAgataH asO pApASayaH . tat sajjIBUya
@@ -8238,11 +8442,15 @@
 060.18F: saMjIvakaH siMhena vyApAditaH .
 060.18A: saMjIvakaH siMhena vyApAditaH .
 
+060.15-18E: Damanaka then repaired to Pingalaka, and saying -- My lord, the villain (lit., the vile intentioned one) is coming; do you therefore prepare yourself and wait -- he made him assume the attitude described before. Samjivaka too, on coming there, saw the lion with altered features in that way and displayed his valour in a manner worthy of himself. Then in the fierce battle that ensued Samjivaka was killed by the lion.
+
 060.19F: aTa piNgalakaH saMjIvakaM vyApAdya viSrAntaH saSoko iva tizWati . brUte ca -- kiM
 060.19A: aTa piNgalakaH saMjIvakam vyApAdya viSrAntaH saSokaH iva tizWati . brUte ca -- kim
 
 060.20F: mayA dAruRaM karma kftam . yataH .
 060.20A: mayA dAruRam karma kftam . yataH .
+
+060.19-20E: Now Pingalaka, after he had slain Samjivaka and taken rest, stood like one sorrow-smitten and said -- What a cruel deed have I done! For,
 
 060.21F: parEH saMBujyate rAjyaM svayaM pApasya BAjanam .
 060.21A: parEH saMBujyate rAjyam svayam pApasya BAjanam .
@@ -8252,6 +8460,8 @@
 060.22A: DarmAtikramataH rAjA siMhaH hastivaDAt iva .. 174 ..
 060.22P: yaTA siMhaH kftahastivaDapAtaka eva tizWati . hatahastino dantAH tadgaRqasTalagatAni ca mOktikAnyanye eva gfhRAti taTA ityarTaH .
 
+060.21-22E: When a king transgresses his duty, his kingdom is enjoyed by others; while he himself is the abode of sin, like a lion that kills an elephant. * The lion kills the elephant and remains guilty of the murder, while the tusks and bones of the elephant are obtained by others.
+; 08/08/2021 end
 060.23F: aparaM ca . BUmyekadeSasya guRAnvitasya
 060.23A: aparam ca . BUmyekadeSasya guRAnvitasya
 
