@@ -8475,24 +8475,35 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 060.26F: nazwApi BUmiH sulaBA na BftyAH .. 175..
 060.26A: nazwA api BUmiH sulaBAH na BftyAH .. 175..
 
+060.23-26E: When there is loss of a part of one's territory, or, of a servant meritorious and gifted with intellect, the loss of the servant is death to a king: land though lost may easily be acquired, but not servants.
+
 060.27F: damanako brUte -- svAmin ko'yaM
 060.27A: damanakaH brUte -- svAmin kaH ayam
 
 060.28F: nUtano nyAyo yadarAtiM hatvA saMtApaH kriyate . taTA coktam --
 060.28A: nUtanaH nyAyaH yat arAtim hatvA saMtApaH kriyate . taTA ca uktam --
 
+060.27-28E: Damanaka observed -- My lord, what a novel course of action is this, that having killed an enemy you should be sorrowing over it! For it is said --
+
 060.29F: pitA vA yadi vA BrAtA putrI vA yadi vA suhft .
 060.29A: pitA vA yadi vA BrAtA putrI vA yadi vA suhft .
 
 060.30F: prARacCedakarA rAjYA hantavyA BUtimicCatA .. 176..
+; icCatA 3s prap of iz 6: desiring
 060.30A: prARacCedakarA rAjYA hantavyA BUtim icCatA .. 176..
 
+060.29-30E: A king who desires his own welfare should put to death those who aim at his life, whether it be his father, or brother, or son or friend.
+
 060.31F: api ca . DarmArTakAmatattvajYo nEkAntakaruRo Bavet .
-060.31A: api ca . DarmArTakAmatattvajYaH nEkAntakaruRaH Bavet .
+060.31A: api ca . DarmArTakAmatattvajYaH na ekAntakaruRaH Bavet .
 060.31P: DarmArTakAmatattvajYaH - trivargasADanapara ityarTaH .
 
-060.32F: nahi hastasTamapyannaM kzamAvAyakzituM kzamaH .. 177..
-060.32A: nahi hastasTam api annam kzamAvAyakzitum kzamaH .. 177..
+060.32F: na hi hastasTamapyannaM kzamAvAnrakzituM kzamaH .. 177..
+; kzamAvAn (kzamAvat) = patient;
+; kzamaH = able
+060.32A: na hi hastasTam api annam kzamAvAn rakzitum kzamaH .. 177..
+
+060.31-32E: Moreover, One, who knows the real nature of Dharma, Artha and Kama, should not be exclusively merciful; for a man given to forgiveness is not able to save even the thing in his hand.
 
 061.01F: kiM ca . kzamA SatrO ca mitre ca yatInAmeva BUzaRam .
 061.01A: kim ca . kzamA SatrO ca mitre ca yatInAm eva BUzaRam .
@@ -8500,11 +8511,15 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.02F: aparADizu sattvezu nfpARAM sEva dUzaRam .. 178..
 061.02A: aparADizu sattvezu nfpARAm sA eva dUzaRam .. 178..
 
+061.01-02E: Also, Forgiveness shown to friend or foe is an ornament in the case of hermits, while the same when shown to offenders by kings is a blemish.
+
 061.03F: aparaM ca . rAjyaloBAdahaMkArAdicCataH svAminaH padam .
 061.03A: aparam ca . rAjyaloBAt ahaMkArAt icCataH svAminaH padam .
 
 061.04F: prAyaScittaM tu tasyEkaM jIvotsargo na cAparam .. 179..
-061.04A: prAyaH cittam tu tasya ekam jIvotsargaH na cAparam .. 179..
+061.04A: prAyaScittam tu tasya ekam jIvotsargaH na ca aparam .. 179..
+
+061.03-04E: Again, There is only one expiation for him who, through lust of sovereignty or pride, covets his master's post, viz., the relinquishing of life (capital punishment) and none else.
 
 061.05F: anyacca . rAjA GfRI brAhmaRaH sarvaBakzaH
 061.05A: anyat ca . rAjA GfRI brAhmaRaH sarvaBakzaH
@@ -8521,10 +8536,13 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.07P++: aDikftaH kAryADikArI .
 
 061.08F: tyAjyA ime yaSca kftaM na vetti .. 180..
-061.08A: tyAjyA ime yaH ca kftam na vetti .. 180..
+; vetti = 3s pre vid (he knows)
+061.08A: tyAjyAH ime yaH ca kftam na vetti .. 180..
+
+061.05-08E: A sovereign who is merciful, a Brahmana eating every thing (or, very greedy), a wife not under control, a companion of evil conduct, a servant who is impertinent (lit., going against his master's orders) and an officer who is careless -- these should be abandoned, as well as he who is ungrateful.
 
 061.09F: viSezataSca . satyA'nftA ca paruzA priyavAdinI ca
-061.09A: viSezataH ca . satyAH anftAH ca paruzAH priyavAdinI ca
+061.09A: viSezataH ca . satyA anftAH ca paruzA priyavAdinI ca
 061.09P: satyAnftA -- satyaM anftaM ca yasyAm .
 061.09P+: paruzA vizayaviSeze kaWinA .
 
@@ -8533,6 +8551,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.10P: arTaparA svArTasADanatatparA , dravyArjanatatparA vA .
 061.10P+: vadAnyA -- kadAcit dAnaSIlA .
 
+061.09-10E: Particularly, Truthful and (also) false (when necessary), now harsh and now of sweet address, cruel, and also merciful (at times), now economical (lit., devoted to saving money), anon liberal,
+
 061.11F: nityavyayA pracuraratnaDanAgamA ca
 061.11A: nityavyayA pracuraratnaDanAgamA ca
 061.11P: pracura -- pracurARAM ratnAnAM ca AgamaH yatra .
@@ -8540,6 +8560,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.12F: vArANganeva nfpanItiranekarUpA .. 181..
 061.12A: vArANganA iva nfpanItiH anekarUpA .. 181..
 061.12P: vArANganA -- veSyA .
+
+061.11-12E: ever spending and yet getting money and jewels in plenty -- royal policy, like a harlot, puts on a variety of forms.
 
 061.13F: iti damanakena saMtozitaH piNgalakaH svAM prakftimApannaH
 061.13A: iti damanakena saMtozitaH piNgalakaH svAm prakftim ApannaH
@@ -8550,6 +8572,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.15F: mahArAjaH SuBamastu sarvajagatAm ityuktvA yaTAsuKamavasTitaH .
 061.15A: mahArAjaH SuBam astu sarvajagatAm iti uktvA yaTAsuKam avasTitaH .
 
+061.13-15E: Thus consoled by Damanaka, Pingalaka regained his natural equanimity and sat on the throne. Damanaka, delighted at heart, said -- Victory to the king! May the worlds be happy! and lived in happiness according to his wishes.
+
 061.16F: vizRuSarmovAca -- suhfdBedaH SrutastAvadBavadBiH .
 061.16A: vizRuSarmA uvAca -- suhfdBedaH SrutaH tAvat BavadBiH .
 
@@ -8559,8 +8583,11 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.18F: vizRuSarmAbravIt -- aparamapIdamastu --
 061.18A: vizRuSarmA abravIt -- aparam api idam astu --
 
+061.16-18E: Vishnuskarma said -- You have heard the separation of Friends! The Princes replied-- Yes, we have by your favour, and have been happy. Vishnusharma said -- Let there be this much in addition --
+; 08/21/2021 END
 061.19F: suhfdBedastAvad Bavatu BavatAM Satrunilaye
 061.19A: suhfdBedaH tAvat Bavatu BavatAm Satrunilaye
+;  BavatAm ?  
 061.19P: Satrunilaye -- vErigfhe .
 
 061.20F: KalaH kAlAkfzwaH pralayamupasarpatvaharahaH .
@@ -8569,6 +8596,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.20P+: pralayamupasarpatu -- vinASaM yAtu .
 061.20P++: aharahaH -- pratyaham .
 
+061.19-20E: As for the separation of friends, let it be in the house of your enemies; let villains being drawn away by the god of death meet with destruction day by day;
+
 061.21F: jano nityaM BUyAtsakalasuKasampattivasatiH
 061.21A: janaH nityam BUyAt sakalasuKasampattivasatiH
 
@@ -8576,8 +8605,11 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.22A: kaTArAme ramye satatam iha bAlaH api ramatAm .. 182..
 061.22P: kaTArAme -- kaTodyAne . kaTAramBe iti pAWe kaTAprabanDa ityarTaH .
 
+061.21-22E:  may the people ever be the asylum of prosperity and happiness of every kind; and let young boys always sport in the delightful garden of stories.
+
 061.23F: .. vigrahaH ..
 061.23A: .. vigrahaH ..
+061.23-23E: Chapter III. WAR.
 
 061.24F: punaH kaTAramBakAle rAjaputrEruktam . Arya
 061.24A: aTa punaH kaTAramBakAle rAjaputrEH uktam . Arya
@@ -8586,11 +8618,15 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.25F: rAjaputrA vayam . tad vigrahaM SrotuM naH kutUhalamasti .
 061.25A: rAjaputrAH vayam . tat vigraham Srotum naH kutUhalam asti .
 
+061.24-25E: At the time of narrating the stories again, the princes said -- Venerable Sir, we are princes. We have, therefore, a curiosity to hear about War.
+
 061.26F: vizRuSarmaRoktam -- yadeva BavadByo rocate
 061.26A: vizRuSarmaRA uktam -- yat eva BavadByaH rocate
 
 061.27F: tatkaTayAmi . vigrahaH SrUyatAM yasyAyamAdyaH SlokaH --
 061.27A: tat kaTayAmi . vigrahaH SrUyatAm yasya ayam AdyaH SlokaH --
+
+061.26-27E:  Vishnusarma said I will relate just what your honours like. Do you hear about (the subject of) War then, of which this is the first Sloka --
 
 061.28F: haMsEH saha mayUrARAM vigrahe tulyavikrame .
 061.28A: haMsEH saha mayUrARAm vigrahe tulyavikrame .
@@ -8598,12 +8634,16 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 061.28P+: vigrahe yudDe .
 
 061.29F: viSvAsya vaYcitA haMsAH kAkEH sTitvArimandire .. 1..
+; viSvAsya? should it be viSvAsyaH ?
 061.29A: viSvAsya vaYcitAH haMsAH kAkEH sTitvA arimandire .. 1..
+
+061.28-29E: In the combat between the swans and the peacocks, in which equal valour was displayed, the swans were deceived, their confidence being gained by the crows, having resided in the enemy's house.
 
 062.01F: rAjaputrA UcuH -- kaTametat . vizRuSarmA kaTayati --
 062.01A: rAjaputrAH UcuH -- kaTam etat . vizRuSarmA kaTayati --
 
 062.02F: asti karpUradvIpe padmakelinAmaDeyaM saraH . tatra hiraRyagarBo nAma
+; karpUradvIpa : island of karpUra
 062.02A: asti karpUradvIpe padmakelinAmaDeyam saraH . tatra hiraRyagarBaH nAma
 
 062.03F: rAjahaMsaH prativasati . sa ca sarvErjalacarpakziBirmilitvA
@@ -8611,6 +8651,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 062.04F: pakzirAjye'BiziktaH . yataH .
 062.04A: pakzirAjye aBiziktaH . yataH .
+
+062.01-04E: The princes asked -- How was that? Vishnusarma related as follows -- There is, in Karpuradvipa, a lake, known as Padmakeli. In it dwelt a royal swan, Hiranyagarbha by name. He was installed their king by all the aquatic birds having assembled together. For,
 
 062.05F: yadi na syAnnarapatiH samyaNnetA tataH prajA .
 062.05A: yadi na syAt narapatiH samyak netA tataH prajA .
@@ -8620,6 +8662,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.06P: akarRaDArA nAsti karRaDAraH nAvikaH yasyAH sA .
 062.06P+: viplaveta -- nASamApnuyAt . kAmandakanI 1.10.
 
+062.05-06E: If there be no king to guide the subjects properly, they would sink (in misery) in this world, like a boat without a helmsman in the sea.
+
 062.07F: aparaM ca . prajAM saMrakzati nfpaH sA varDayati pArTivam .
 062.07A: aparam ca . prajAm saMrakzati nfpaH sA varDayati pArTivam .
 
@@ -8628,8 +8672,10 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.08P: varDanAditi -- prajAkftarAjavarDanAdrAjakftaprajArakzaRaM SreyaH praDAnam .
 062.08P+: yataH rakzaRABAve sadapi vidyamAnamapi vastu asadavidyamAnamiva Bavati . apahAraSaNkayeti BAvaH .
 
-062.09F: ekadAsO rAjahaMsEH suvistIrRakamalaparyaNke suKAsInaH
-062.09A: ekadAsO rAjahaMsEH suvistIrRakamalaparyaNke suKAsInaH
+062.07-08E: Moreover, The king protects the subjects; they enrich the king: protection is better than enrichment: for in its absence, even what is, is not (i.e, no property is secure).
+
+062.09F: ekadAsO rAjahaMsaH suvistIrRakamalaparyaNke suKAsInaH
+062.09A: ekadA asO rAjahaMsaH suvistIrRakamalaparyaNke suKAsInaH
 062.09P: suvistIrRa -- suvistIrRaH kamalaGawitaH paryaMkaH siMhAsanaM suvistIrRaM kamalameva paryaMkaH iti vA tasmin .
 
 062.10F: parivAraparivftastizWati . tataH kutaSciddeSAdAgatya
@@ -8638,15 +8684,20 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.11F: dIrGamuKo nAma bakaH praRamyopavizwaH . rAjovAca -- dIrGamuKa .
 062.11A: dIrGamuKaH nAma bakaH praRamya upavizwaH . rAjA uvAca -- dIrGamuKa .
 
+062.09-11E: One day that royal swan was sitting at ease on a large lotus-couch surrounded by his retinue, when a crane, Dirghamukha by name, coming from some country, made his obeisance and sat down. Dirghamukha, said the king,
+
 062.12F: daSAntarAdAgato'si . vArtAM kaTaya . sa brUte -- deva asti
 062.12A: daSAntarAt AgataH asi . vArtAm kaTaya . saH brUte -- deva asti
 
-062.13F: mahatI vArtA . tAmAKyAtukAma eva satvaramAgato'ham . SrUyatAm . asti
-062.13A: mahatI vArtA . tAm AKyAtukAma eva satvaram AgataH aham . SrUyatAm . asti
+062.13F: mahatI vArttA . tAmAKyAtukAma eva satvaramAgato'ham . SrUyatAm . 
+062.13A: mahatI vArttA . tAm AKyAtukAmaH eva satvaram AgataH aham . SrUyatAm .
+; vArttA (Kale has vArtA)
 062.13P: AKyAtukAmaH -- AKyAtuM kAmaH yasya . 'tuMkAmamanasorapi' iti vacanAt makAralopaH .
 
-062.14F: jambUdvIpe vinDyo nAma giriH . tatra citravarRo nAma mayUraH pakzirAjo
-062.14A: jambUdvIpe vinDyaH nAma giriH . tatra citravarRaH nAma mayUraH pakzirAjaH
+062.12-13E: you have come from a foreign country. Tell us the news. The crane replied, sire, there is great news and I have hastened here to communicate that. May Your Highness listen.
+
+062.14F: asti jambUdvIpe vinDyo nAma giriH . tatra citravarRo nAma mayUraH pakzirAjo
+062.14A: asti jambUdvIpe vinDyaH nAma giriH . tatra citravarRaH nAma mayUraH pakzirAjaH
 
 062.15F: nivasati . tasyAnucarEScaradBiH pakziBirahaM dagDAraRyamaDye
 062.15A: nivasati . tasya anucarEH caradBiH pakziBiH aham dagDAraRyamaDye
@@ -8654,11 +8705,15 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.16F: carannavalokitaH . pfzwaSca -- kastvam . kutaH samAgato'si .
 062.16A: caran avalokitaH . pfzwaH ca -- kaH tvam . kutaH samAgataH asi .
 
+062.14-16E: There is a mountain, Vindhya by name, in Jambudvipa, where lives a peacock, Chitravarna by name, king of birds. While roaming in Dagdharanya, I was observed by his attendant birds and asked -- Who are you and where have you come from?
+
 062.17F: tadA mayoktam -- karpUradvIpasya rAjacakravartino hiraRyagarBasya
 062.17A: tadA mayA uktam -- karpUradvIpasya rAjacakravartinaH hiraRyagarBasya
 
 062.18F: rAjahaMsasyAnucaro'haM . kOtukAddeSAntaraM drazwumAgato'smi .
 062.18A: rAjahaMsasya anucaraH ahaM . kOtukAt deSAntaram drazwum AgataH asmi .
+
+062.17-18E: Whereupon I replied -- I am a follower of his Imperial Majesty, the royal swan, Hiranyagarbha, king of Karpuradvipa and have come here out of curiosity to see foreign countries.
 
 062.19F: etacCrutvA pakziBiruktam -- anayordeSayoH ko deSo Badrataro
 062.19A: etat SrutvA pakziBiH uktam -- anayoH deSayoH kaH deSaH BadrataraH
@@ -8666,6 +8721,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 062.20F: rAjA ca . mayoktam -- AH kimevamucyate -- mahadantaram .
 062.20A: rAjA ca . mayA uktam -- AH kim evam ucyate -- mahat antaram .
+
+062.19-20E: On hearing this, the birds asked me -- Which of the two countries and kings you think to be the better? I replied -- Why is the question necessary? Great is the difference.
 
 062.21F: yataH karpUradvIpaH svarga eva rAjahaMsaSca dvitIyaH svargapatiH .
 062.21A: yataH karpUradvIpaH svargaH eva rAjahaMsaH ca dvitIyaH svargapatiH .
@@ -8675,11 +8732,15 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.22P: marusTale DanvaBUmO nirjalapradeSe . 'samAnO marunDavAnO' ityamaraH . maruBUmivat nisargasOndaryahIne rUkzapradeSe ityarTaH .
 062.22P+: yUyaM kiM kuruTa yUyaM duHKaBAgina eva ityarTaH .
 
+062.21-22E: Karpuradvipa is heaven itself, while the royal swan is the second lord of heaven. Condemned to this desolate place, what do you do here?
+
 062.23F: AgacCatAsmaddeSo gamyatAm .
-062.23A: AgacCata asmat deSaH gamyatAm .
+062.23A: AgacCata asmaddeSaH gamyatAm .
 
 062.24F: tato'smadvacanamAkarRya sarve sakopA baBUvuH .
-062.24A: tataH asmat vacanam AkarRya sarve sakopAH baBUvuH .
+062.24A: tataH asmadvacanam AkarRya sarve sakopAH baBUvuH .
+
+062.23-24E: Come away; let us go to our country. Then on hearing my words all flew into a passion.
 
 062.25F: taTA coktam --
 062.25A: taTA ca uktam --
@@ -8692,12 +8753,16 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.27A: upadeSaH hi mUrKARAm prakopAya na SAntaye .. 4..
 062.27P:  prakopAya -- prakopajananArTam .
 
+062.25-27E: For, To feed serpents on milk is simply to add to their poison : advice given to fools leads to provocation and not to satisfaction.
+
 062.28F: anyacca . vidvAnevopadezwavyo nAvidvAMstu kadAcana .
-062.28A: anyat ca . vidvAn eva upadezwavyaH na avidvAMstu kadAcana .
+062.28A: anyat ca . vidvAn eva upadezwavyaH na avidvAn tu kadAcana .
 062.28P: vidvAn sadasadvivekavAn .
 
 062.29F: vAnarAnupadiSyATa sTAnaBrazwA yayuH KagAH .. 5..
-062.29A: vAnarAnupadiSyATa sTAnaBrazwA yayuH KagAH .. 5..
+062.29A: vAnarAn upadiSya aTa sTAnaBrazwAH yayuH KagAH .. 5..
+
+062.28-29E: Moreover, A learned man only should be advised, and never an illiterate one; for having offered advice to monkeys, the birds had to go away being deprived of their place of abode.
 
 062.30F: rAjovAca -- kaTametat .
 062.30A: rAjA uvAca -- kaTam etat .
@@ -8705,27 +8770,38 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 062.31F: dIrGamuKaH kaTayati --
 062.31A: dIrGamuKaH kaTayati --
 
+062.30-31E: The king asked how it was. Dirghamukha thus related --
+
 062.32F: .. kaTA 1 ..
 062.32A: .. kaTA 1 ..
+
+062.32-32E: FABLE 1
 
 062.33F: asti narmadAtIre parvatopatyakAyAM viSAlaH SAlmalItaruH .
 062.33A: asti narmadAtIre parvatopatyakAyAm viSAlaH SAlmalItaruH .
 062.33P: parvatopatyakAyAm -- parvatasya upatyakAyAM AsannaBUmO . 'upatyakAdrarosannA BUmirUrDvamaDityakA' ityamaraH . 'upADiByAM tyakannAsannArUQayoH' iti tyakan .
 
-062.34F: tatra nirmitanIqakoqe pakziRaH suKaM varzAsvapi nivasanti . aTEkadA
-062.34A: tatra nirmitanIqakoqe pakziRaH suKam varzAsu api nivasanti . aTa ekadA
+062.34F: tatra nirmitanIqakroqe pakziRaH suKaM varzAsvapi nivasanti . 
+062.34A: tatra nirmitanIqakroqe pakziRaH suKam varzAsu api nivasanti . 
 062.34P: aTa -- upadeSAnantaram . aTaSabdasyAnantaryamarTaH . 'maNgalAnantarAramBapraSnakArtsnyezvaTo aTa' ityamaraH .
 062.34P+: nirmitanIqakroqe -- nirmitAnAM nIqAnAM kulAyAnAM kroqe garBe .
 062.34P++: varzAsu prAvfwsamaye . ayaM Sabdo nityabahuvacanAntaH . 'striyAM prAvfw striyAM BUmni varzAH' ityamaraH .
 
-062.35F: varzAsu nIlapawalEriva
-062.35A: varzAsu nIlapawalEH iva
+062.33-34E: There is a large Salmali tree on the bank of the Narmada, in the vicinity of a hill. There, in the interiors of nests built by themselves lived certain birds in happiness even in the monsoons.
+
+062.35F: aTEkadA varzAsu nIlapawalEriva
+062.35A: aTa ekadA varzAsu nIlapawalEH iva
 062.35P: nIlapawalEH -- nIlAcCAdanEH avaguRWanEH pawalEH samUhEH . 'pawalaM tilake netraroge Cadizi saYcaye' iti hEmaH .
+
+062.35-35E: Once in the rainy season, looking like so many dark veils,
 
 063.01F: jalaDarapawalErAvfte naBastale DArAsArErmahatI vfzwirbaBUva .
 063.01A: jalaDarapawalEH Avfte naBastale DArAsArEH mahatI vfzwiH baBUva .
+; DArAsAra = DArAnipAta rain shower (DArA stream)
 063.01P: DArAsArEH -- avirataDArAsaMpAtEH .
 
+063.01-01E: the sky being overcast with masses of clouds , there fell a heavy shower of rain in large streams.
+; 08/22/2021 end.
 063.02F: tato vAnarAMstarutale'vasTitAYSItArtAnkampamAnAn
 063.02A: tataH vAnarAn tarutale avasTitAn SItArtAn kampamAnAn
 063.02P: SItArtAn -- SItena pIqitAn .
@@ -8733,13 +8809,17 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.03F: avalokya kfpayA pakziBiruktam -- Bo Bo vAnarAH SfRuta .
 063.03A: avalokya kfpayA pakziBiH uktam -- Bo Bo vAnarAH SfRuta .
 
+063.02-03E: Then the birds seeing some monkeys at the foot of the tree, suffering from cold and shivering, said, through mercy - Ho monkeys, hear --
+
 063.04F: asmABirnirmitA nIqAScaYcumAtrAhftEstfREH .
 063.04A: asmABiH nirmitAH nIqAH caYcumAtrAhftEH tfREH .
 063.04P: caYcumAtrAhftEH -- caYcureva caYcumAtraM tEH AhftEH .
 
 063.05F: hastapAdAdisaMyuktA yUyaM kimiti sIdaTa .. 6..
-063.05A: hastapAdAdisaMyuktA yUyam kim iti sIdaTa .. 6..
+063.05A: hastapAdAdisaMyuktAH yUyam kim iti sIdaTa .. 6..
 063.05P: sIdaTa -- duHKaM anuBavaTa .
+
+063.04-05E: We have built nests with straws brought by means of nothing else but our bills: why do you (then), who are endowed with hands and feet, experience suffering?
 
 063.06F: tacCrutvA
 063.06A: tat SrutvA
@@ -8754,6 +8834,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.08P: tadBavatu <ab n="ityAdi">i</ab> -- tAvad avaDO . 'yAvattAvacca sAkalye'vaDO' ityamaraH .
 063.08P+: upaSamaH -- SAntiH nivfttiH .
 
+063.06-08E: Hearing this, the monkeys being enraged said to themselves - Oh, the birds comfortably lodged in the interior of their neats not exposed to the blast, are reproaching us! Well, let the showers just cease.
+
 063.09F: anantaraM SAnte pAnIyavarze
 063.09A: anantaram SAnte pAnIyavarze
 
@@ -8761,14 +8843,18 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.10A: tEH vAnarEH vfkzam Aruhya . sarve nIqAH BagnAH tezAm aRqAni
 
 063.11F: cADaH pAtitAni . ato'haM bravImi -- vidvAnevopadezwavyaH ityAdi .
-063.11A: cADaH pAtitAni . ataH aham bravImi -- vidvAn eva upadezwavyaH ityAdi .
+063.11A: ca aDaH pAtitAni . ataH aham bravImi -- vidvAn eva upadezwavyaH ityAdi .
 ; Sampada: 'ityAdi' left as is.
+
+063.09-11E: Thereafter, when the downpour of rain had stopped, the monkeys climbed up the tree, and smashed all the nests, so that the eggs of the birds fell down. Hence I say -- A learned man only should be advised &c.
 
 063.12F: rAjovAca -- tatastEH kiM kftam .
 063.12A: rAjA uvAca -- tataH tEH kim kftam .
 
 063.13F: bakaH kaTayati -- tatastEH pakziBiH kopAd uktam --
 063.13A: bakaH kaTayati -- tataH tEH pakziBiH kopAt uktam --
+
+062.12-13E: What did they do then? -- asked the king. The crane replied -- Then the birds said, in anger --
 
 063.14F: kenAsO rAjahaMso kfto rAjA . tato mayApi jAtakopenoktam --
 063.14A: kena asO rAjahaMsaH kftaH rAjA . tataH mayA api jAtakopena uktam --
@@ -8779,15 +8865,20 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.16F: te sarve mAM hantumudyatAH . tato mayApi svavikramo darSitaH .
 063.16A: te sarve mAm hantum udyatAH . tataH mayA api svavikramaH darSitaH .
 
+063.14-16E: Who made the royal swan king? Thereupon I too being irritated asked them -- By whom was your peacock made king? Hearing this they all became ready to kill me, whereupon I also displayed my valour.
+
 063.17F: yataH .
 063.17A: yataH .
 
 063.18F: anyadA BUzaRaM puMsaH kzamA lajjeva yozitaH .
-063.18A: anyadA BUzaRam puMsaH kzamA lajjeva yozitaH .
+063.18A: anyadA BUzaRam puMsaH kzamA lajjA iva yozitaH .
+; puMsaH m. sg. gen. of puMs; yozitaH f. sg. gen. of yozit.
 063.18P: anyadeti -- anyadA suratavyatirikte kAle yozito lajjeva puMso'nyadA apariBave kzamA Samo BUzaRam . pariBave tu yozitaH suratezu vEyAtyaM DArzwyamiva . 'Dfzwe DfzRurviyAtaSca' ityamaraH . parAkramaH pOruzaM BUzyate'neneti BUzaRamABaraRam . iti SiSupAlavaDe mallinATaH . yaH AtmanaH parezAM SatrURAM ca balAbalaM sAmarTyAsAmarTyaM samIkzya samyak paryAlocya antaraM na jAnAti AtmanaH balaM kiyat SatrURAM balaM kiyad iti na vicArayati sa SatruBiH pariBUyate .
 
 063.19F: parAkramaH pariBave vEyAtyaM suratezviva .. 7..
 063.19A: parAkramaH pariBave vEyAtyam suratezu iva .. 7..
+
+063.17-19E: For, On other occasions forbearance is an ornament to men as modesty is to women; but on the occasion of an insult a heroic action is an ornament as boldness (absence of modesty) is to a woman at the time of sexual enjoyment.
 
 063.20F: rAjA vihasyAha --
 063.20A: rAjA vihasya Aha --
@@ -8798,14 +8889,19 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.22F: antaraM nEva jAnAti sa tiraskriyate'riBiH .. 8..
 063.22A: antaram na eva jAnAti saH tiraskriyate ariBiH .. 8..
 
+063.20-22E: The king smiled and observed -- He, who having well considered his own strength or weakness as well as that of his enamies is not at all able to mark the difference, is despised by the enemies.
+
 063.23F: anyacca . suciraM hi carannityaM kzetre sasyam abudDimAn .
 063.23A: anyat ca . suciram hi caran nityam kzetre sasyam abudDimAn .
 063.23P: sasyam -- kzetragataM DAnyam . taduktam 'sasyaM kzetragataM proktuM satuzaM DAnyamucyate . nistuzastaRqulaH proktaH svinnamannamudAhftam .' iti .
 
 063.24F: dvIpicarmaparicCanno vAgdozAdgardaBo hataH .. 9..
-063.24A: dvIpicarmaparicCannaH vAk dozAt gardaBaH hataH .. 9..
+063.24A: dvIpicarmaparicCannaH vAgdozAt gardaBaH hataH .. 9..
+; dvIpin - tiger
 063.24P: dvIpicarmaparicCannaH -- vyAGracarmaRAcCAditaH . 'SArdUladvIpinO vyAGre' ityamaraH .
 063.24P+: vAgdozAt vAcaH dozAdrawanAparADAt .
+
+063.23-24E: Again, A stupid ass, that daily fed upon corn in a field for a long time, being covered with a tiger's skin, suffered death for the fault of his voice.
 
 063.25F: bakaH pfcCati -- kaTametat .
 063.25A: bakaH pfcCati -- kaTam etat .
@@ -8813,40 +8909,53 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.26F: rAjA kaTayati --
 063.26A: rAjA kaTayati --
 
+063.25-26E: The crane asked how it was. The king related --
+
 063.27F: .. kaTA 2 ..
 063.27A: .. kaTA 2 ..
-
+063.27-27E: Fable 2
+; 10/08/2021
 063.28F: asti hastinApure vilAso nAma rajakaH . tasya gardaBo'tivAhanAd
 063.28A: asti hastinApure vilAsaH nAma rajakaH . tasya gardaBaH ativAhanAt
 063.28P: ativAhanAt -- guruBAravahanaSramAt .
 
 063.29F: durbalo mumUrzurivABavat . tatastena rajakenAsO vyAGracarmaRA
 063.29A: durbalaH mumUrzuH iva aBavat . tataH tena rajakena asO vyAGracarmaRA
-063.29P: mumUrzuH AsannamftyuH .
+063.29P: mumUrzuH  AsannamftyuH .
 
-063.30F: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH . tato dUrAt
-063.30A: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH . tataH dUrAt
+063.30F: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH .
+063.30A: pracCAdya araRyakasamIpe sasyakzetre vimuktaH . 
 
-063.31F: tamavalokya vyAGrabudDyA kzetrapatayaH satvaraM palAyante .
-063.31A: tam avalokya vyAGrabudDyA kzetrapatayaH satvaram palAyante .
+063.28-30E: There lived, in Hastinapura, a washerman, Vilasa by name.
+His ass had become feeble on account of carrying burdens too heavy for him and was almost at the point of death. Thereapon the washerman, having wrapped him up in a tiger's skin, let him loose in a corn-field near a forest.
+
+063.31F: tato dUrAt tamavalokya vyAGrabudDyA kzetrapatayaH satvaraM palAyante .
+063.31A: tataH dUrAt tam avalokya vyAGrabudDyA kzetrapatayaH satvaram palAyante .
 063.31P: vyAGrabudDyA -- vyAGroyamiti matvA .
+
+063.31-31E: Now the masters of the field seeing him from a distance used quickly run away taking him for a tiger.
 
 064.01F: aTEkadA kenApi sasyarakzakeRa DUsarakambalakftatanutrARena
 064.01A: aTa ekadA kena api sasyarakzakeRa DUsarakambalakftatanutrARena
 064.01P:  DUsarakambala -- DUsaraH IzatpARquH pAMSuvarRo vA . 'IzatpARqustuDUsaraH' ityamaraH . kambalaH tena kftaM tanutrARaM SarIrAvaguRWanaM yena .
 
 ; EkAnte or EkrAnte ? print unclear
-064.02F: DanuHkARqaM sajjIkftyAnatakAyenEkAnte sTitam . taM ca dUrAd
-064.02A: DanuHkARqam sajjIkftyAnatakAyena ekAnte sTitam . tam ca dUrAt
+064.02F: DanuHkARqaM sajjIkftyAnatakAyenEkAnte sTitam . 
+064.02A: DanuHkARqam sajjIkftya AnatakAyena ekAnte sTitam . 
 064.02P: DanuHkARqaM -- DanurbARam .
 064.02P+: AnatakAyena -- AnataH kAyaH yasya tena .
 
-064.03F: dfzwvA gardaBaH puzwANgo yeTezwasasyaBakzaRajAtabalo
-064.03A: dfzwvA gardaBaH puzwANgaH yeTezwasasyaBakzaRajAtabalaH
+064.01-02E: 
+Then, one day, one of the men setting guard over the corn having protected his body with a dusky blanket and got a bow and arrow ready, remained waiting in a corner with his body bent down (in a bent posture).
+
+064.03F: taM ca dUrAd dfzwvA gardaBaH puzwANgo yaTezwasasyaBakzaRajAtabalo
+064.03A: tam ca dUrAt dfzwvA gardaBaH puzwANgaH yaTezwasasyaBakzaRajAtabalaH
 
 ; Kale print error? garDaBIyamiti
-064.04F: gardaBoyamiti matvoccEH SabdaM kurvARastadaBimuKaM DAvitaH .
-064.04A: gardaBaH ayam iti matvA uccEH Sabdam kurvARastadaBimuKam DAvitaH .
+064.04F: gardaBIyamiti matvoccEH SabdaM kurvARastadaBimuKaM DAvitaH .
+064.04A: gardaBI iyam iti matvA uccEH Sabdam kurvARaH tadaBimuKam DAvitaH .
+
+064.03-04E: Seeing him from a distance the donkey who had grown stout and gained strength by eating corn at pleasure thought him to be a female ass and setting up a loud bray ran towards her.
 
 064.05F: tatastena sasyarakzakeRa cItkAraSabdAnniScitya gardaBo'yamiti
 064.05A: tataH tena sasyarakzakeRa cItkAraSabdAn niScitya gardaBaH ayam iti
@@ -8856,22 +8965,27 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 064.07F: carannityam ityAdi .. tatastataH .
 064.07A: caran nityam ityAdi .. tataH tataH .
-; Sampada: 'ityAdi' left as is.
+;
+064.05-07E: The corn-keeper knowing for certain from his braying that it was an ass killed him easily. Hence I say -- A stupid ass, that daily fed on corn &c. What next? 
 
-064.08F: dIrGamuKo brUte -- tatastEH pakziBiruktam -- are pApA
-064.08A: dIrGamuKaH brUte -- tataH tEH pakziBiH uktam -- are pApA
+064.08F: dIrGamuKo brUte -- tatastEH pakziBiruktam -- are pApa
+064.08A: dIrGamuKaH brUte -- tataH tEH pakziBiH uktam -- are pApa
 
-064.09F: duzwa baka asmAkaM BUmO carannasmAkaM svAminamaDikzipasi . tan
-064.09A: duzwaH bakaH asmAkam BUmO caran asmAkam svAminam aDikzipasi . tan
+064.09F: duzwa baka asmAkaM BUmO carannasmAkaM svAminamaDikzipasi . 
+064.09A: duzwaH bakaH asmAkam BUmO caran asmAkam svAminam aDikzipasi . 
 
-064.10F: na kzantavyamidAnIm . ityuktvA sarve mAM caYcuBirhatvA sakopA UcuH --
-064.10A: na kzantavyam idAnIm . iti uktvA sarve mAm caYcuBiH hatvA sakopAH UcuH --
+0564.08-09E: Dirghamukha replied -- Then the birds said -- Ah villain, vile crane, treading on our ground, thou revilest our lord !
 
-064.11F: paSya re mUrKa sa haMsastava rAjA sarvaTA mfduH . tasya
-064.11A: paSya re mUrKa saH haMsaH tava rAjA sarvaTA mfduH . tasya
+064.10F: tan na kzantavyamidAnIm . ityuktvA sarve mAM caYcuBirhatvA sakopA UcuH --
+064.10A: tad na kzantavyam idAnIm . iti uktvA sarve mAm caYcuBiH hatvA sakopAH UcuH --
 
-064.12F: rAjye'DikAro eva nAsti . yata ekAntato mfduH karatalagatamapyarTaM
-064.12A: rAjye aDikAraH eva na asti . yataH ekAntataH mfduH karatalagatam api arTam
+064.11F: paSya re mUrKa sa haMsastava rAjA sarvaTA mfduH . 
+064.11A: paSya re mUrKa saH haMsaH tava rAjA sarvaTA mfduH . 
+
+064.10-11E: This cannot be borne now. With these words all of them pecked at me with their bills and said wrathfully -- Look here, thou blockhead, that swan, thy king, is extremely mild.
+
+064.12F: tasya rAjye'DikAro eva nAsti . yata ekAntato mfduH karatalagatamapyarTaM
+064.12A: tasya rAjye aDikAraH eva na asti . yataH ekAntatas mfduH karatalagatam api arTam
 064.12P: mfduH -- komalANgaH , alpasAraSca .
 064.12P+: rAjye'DikAraH -- rAjye rAjYaH karma rAjyaM tasmin prajApAlanAdikarmaRi aDikAraH yogyatA .
 064.12P++: karatalagataM -- hastatalasTaM , sarvaTA svAyattam .
@@ -8879,22 +8993,31 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 064.13F: rakzitumakzamaH . kaTaM sa pfTivIM SAsti rAjyaM vA tasya kim .
 064.13A: rakzitum akzamaH . kaTam saH pfTivIm SAsti rAjyam vA tasya kim .
 
+064.12-13E: He has no claim at all to sovereignty. For he who is all mildness is not able to save even the thing on the palm of his hand. How can he govern the earth then, or what is a kingdom to him?
+
 064.14F: tvaM kUpamaRqUkastena tadASrayamupadiSasi . SfRu .
-064.14A: tvam kUpamaRqUkaH tena tat ASrayam upadiSasi . SfRu .
+064.14A: tvam kUpamaRqUkaH tena tadASrayam upadiSasi . SfRu .
+
+064.14-14E: You too are a frog in a well (an inexperienced fellow) and hence you advise us to seek his shelter. Listen --
 
 064.15F: sevitavyo mahAvfkzaH PalacCAyAsamanvitaH .
 064.15A: sevitavyaH mahAvfkzaH PalacCAyAsamanvitaH .
 
 064.16F: yadi dEvAtPalaM nAsti cCAyA kena nivAryate .. 10..
-064.16A: yadi dEvAt Palam nAsti CAyA kena nivAryate .. 10..
+; ni+vf: Causal: prohibit
+064.16A: yadi dEvAt Palam na asti CAyA kena nivAryate .. 10..
+
+064.15-16E: A large tree, endowed with fruit and shade, should be resorted to: if, through ill luck, there be no fruit who can take off the shade?
 
 064.17F: anyacca . hInasevA na kartavyA kartavyo mahadASrayaH .
-064.17A: anyat ca . hInasevA na kartavyA kartavyaH mahat ASrayaH .
+064.17A: anyat ca . hInasevA na kartavyA kartavyaH mahadASrayaH .
 
 064.18F: payo'pi SORqikIhaste vAruRItyaBiDIyate .. 11..
 064.18A: payaH api SORqikIhaste vAruRI iti aBiDIyate .. 11..
 064.18P: SORqikI -- SuRqA surA paRyamasyAH surAvikrayakartrI .
 064.18P+: vAruRI surA .
+
+064.17-18E: Moreover, A mean person should not be served; shelter should be taken with a great man; (for) even milk in the hands of a liquor-selling-woman is said to be (taken for) wine.
 
 064.19F: anyacca . mahAnapyalpatAM yAti nirguRe guRavistaraH .
 064.19A: anyat ca . mahAn api alpatAm yAti nirguRe guRavistaraH .
@@ -8902,6 +9025,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 064.20F: ADArADeyaBAvena gajendra iva darpaRe .. 12..
 064.20A: ADArADeyaBAvena gajendraH iva darpaRe .. 12..
 064.20P: ADArADeyaBAvena -- biMbakabiMbitasaMbanDena .
+
+064.19-20E: The extent (lit, multitude) of merits, although great, shrinks into smallness when coming in contact with one void of merits, by the relation of the receiver and the received, like a large elephant in a mirror.
 
 064.21F: viSezataSca . vyapadeSe'pi sidDiH syAdatiSakte narADipe .
 064.21A: viSezataH ca . vyapadeSe api sidDiH syAt atiSakte narADipe .
@@ -8911,6 +9036,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 064.22F: SaSino vyapadeSena SaSakAH suKamAsate .. 13..
 064.22A: SaSinaH vyapadeSena SaSakAH suKam Asate .. 13..
 
+064.21-22E: Especially, When a king is very powerful, success can be obtained even by using a fiction: the hares lived happily by the fiction (fictitiously representing themselves as the servants) of the moon.
+
 064.23F: mayoktam -- kaTametat .
 064.23A: mayA uktam -- kaTam etat .
 
@@ -8919,6 +9046,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 064.25F: .. kaTA 3 ..
 064.25A: .. kaTA 3 ..
+
+064.23-25E: I asked how it was; and the birds related -- FABLE III.
 
 064.26F: kadAcidvarzAsvapi vfzweraBAvAt
 064.26A: kadAcit varzAsu api vfzweH aBAvAt
@@ -8931,7 +9060,9 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 064.28A: jIvanAya . asti atra kzudrajantUnAm api nimajjanasTAnam . vayam tu
 
 064.29F: nimajjanABAvAdanDA iva . kva yAmaH kiM kurmaH .
-064.29A: nimajjanABAvAdanDAH iva . kva yAmaH kim kurmaH .
+064.29A: nimajjanABAvAt anDAH iva . kva yAmaH kim kurmaH .
+
+064.26-29E: Once upon a time, as there was no rain even in the rainy season, a herd of elephants, being oppressed with thirst, said to their chief-Lord, what means have we to save our lives? There is a place here (only) for little creatures to bathe; but for want of a bath we are as though blind; so whither can we go? What can we do?
 
 064.30F: tato hastirAjo
 064.30A: tataH hastirAjaH
@@ -8945,11 +9076,15 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 ; Sampada: 'gajapAdAhatiBiH' any typo?
 ; Jim: gaja + pAdAhatiBiH.  3p of gaja + pAdAhata : struck by feet of elephant
 
+064.30-32E: Thereupon the lord of the herd, going to a place not very far off, showed them a pond full of clear water. Then, as days passed on, the little hares that lived on its bank were crushed by the treadings of the elephants.
+
 064.33F: anantaraM SilImuKo nAma SaSakaScintayAmAsa -- anena gajayUTena
 064.33A: anantaram SilImuKaH nAma SaSakaH cintayAmAsa -- anena gajayUTena
 
 064.34F: pipAsAkulitena pratyahamatrAgantavyam . ato vinaSyatyasmatkulam .
-064.34A: pipAsAkulitena pratyaham atra Agantavyam . ataH vinaSyati asmat kulam .
+064.34A: pipAsAkulitena pratyaham atra Agantavyam . ataH vinaSyati asmatkulam .
+
+064.33-34E: Upon this a hare, Silimukha by name, thus deliberated. This herd of elephants, being troubled by thirst, must be coming here every day and thus our race is destroyed.
 
 064.35F: tato vijayo nAma vfdDaSaSako'vadat . mA vizIdata .
 064.35A: tataH vijayaH nAma vfdDaSaSakaH avadat . mA vizIdata .
@@ -8966,17 +9101,24 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 064.39F: mayA gajayUTasamIpe sTitvA vaktavyam .
 064.39A: mayA gajayUTasamIpe sTitvA vaktavyam .
 
+064.35-39E: Then a certain old hare, Vijaya by name, said -- Be not sorry. I will remedy this. He then set out, having undertaken to achieve that. On his way he reflected. How shall I stand before the herd of elephants and address them -- For,
+
 064.40F: spfSann api gajo hanti jiGrann api BujaNgamaH .
 064.40A: spfSan api gajaH hanti jiGran api BujaNgamaH .
 
 064.41F: hasannapi nfpo hanti mAnayann api durjanaH .. 14..
 064.41A: hasan api nfpaH hanti mAnayan api durjanaH .. 14..
 
+064.40-41E: An elephant kills though only touching; a serpent when simply smelling; a king though smiling; and a wicked man although (outwardly) showing honour.
+
 065.01F: ato'haM parvataSiKaramAruhya yUTanATaM saMvAdayAmi .
 065.01A: ataH aham parvataSiKaram Aruhya yUTanATam saMvAdayAmi .
 
 065.02F: taTAnuzWite yUTanATa uvAca -- kastvam . kutaH samAyAtaH .
 065.02A: taTA anuzWite yUTanATaH uvAca -- kaH tvam . kutaH samAyAtaH .
+
+065.01-02E: I shall, therefore, mount the top of the hill and address the
+leader of the herd. That being done, the leader of the herd asked him -- Who are you and where have you come from?
 
 065.03F: sa brUte --
 065.03A: sa brUte --
@@ -8990,12 +9132,16 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 065.06F: vijayo brUte --
 065.06A: vijayaH brUte --
 
+065.03-06E:  He replied, I am a hare sent to you by the divine Moon. Declare your purpose, said the chief of the herd. Vijaya replied --
+
 065.07F: udyatezvapi Sastrezu dUto vadati nAnyaTA .
 065.07A: udyatezu api Sastrezu dUtaH vadati na anyaTA .
 
 065.08F: sadEvAvaDyaBAvena yaTArTasya hi vAcakaH .. 15..
 065.08A: sadA eva avaDyaBAvena yaTArTasya hi vAcakaH .. 15..
 065.08P: avaDyaBAvena vaDAnarhatvAt .
+
+065.07-08E: A messenger never speaks falsely even though weapons be raised against him: for he always declares the truth on account of the immunity from being killed which he always enjoys.
 
 065.09F: tad ahaM tadAjYayA bravImi -- SfRu . yadete candrasarorakzakAH
 065.09A: tat aham tadAjYayA bravImi -- SfRu . yat ete candrasarorakzakAH
@@ -9006,14 +9152,18 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 065.11F: SaSakASciramasmAkaM rakzitAH . ata eva me SaSANkaH iti prasidDiH .
 065.11A: SaSakAH ciram asmAkam rakzitAH . ataH eva me SaSANkaH iti prasidDiH .
 
+065.09-11E: I, therefore, speak by his order. Listen. You did not act properly inasmuch as you caused the hares, the guardians of the Moonlake, to be dispersed. For these hares have long been my proteges. Hence it is that I am called Sasanka (the hare-emblemed).
+
 065.12F: evamuktavati dUte yUTapatirBayAdidamAha --  idamajYAnataH
 065.12A: evam uktavati dUte yUTapatiH BayAt idam Aha --  idam ajYAnataH
 
-065.13F: kftam . punarna gamizyAmi . dUta uvAca yadyevaM tad
-065.13A: kftam . punaH na gamizyAmi . dUtaH uvAca yadi evam tat
+065.13F: kftam . punarna gamizyAmi . 
+065.13A: kftam . punaH na gamizyAmi . 
 
-065.14F: atra sarasi kopAt kampamAnaM BagavantaM SaSANkaM praRamya
-065.14A: atra sarasi kopAt kampamAnam Bagavantam SaSANkam praRamya
+065.12-13E: When the messenger had thus declared himself, the head of the herd said thus in terror -- This was done in ignorance, I will not go there again.
+
+065.14F: dUta uvAca yadyevaM tad atra sarasi kopAt kampamAnaM BagavantaM SaSANkaM praRamya
+065.14A: dUtaH uvAca yadi evam tat atra sarasi kopAt kampamAnam Bagavantam SaSANkam praRamya
 
 065.15F: prasAdya gacCa . tato rAtrO yUTapatiM nItvA jale
 065.15A: prasAdya gacCa . tataH rAtrO yUTapatim nItvA jale
@@ -9022,11 +9172,16 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 065.16A: caYcalam candrabimbam darSayitvA saH yUTapatiH praRAmam kAritaH .
 ; Sampada: Typo 'yUTaptiH' it should be 'yUTapatiH' i think.  [Jim: agree]
 
+065.14-16E: The messenger said -- If so, pay your homage to the lord Moon, trembling with anger in the lake, and having (thus) propitiated him, you may go. Then at night the chief of the herd was taken to the pond there shown the tremulous disk of the moon (reflected) in the water and made to bow down.
+
 065.17F: uktaM ca tena -- deva ajYAnAdanenAparADaH kftaH . tataH
 065.17A: uktam ca tena -- deva ajYAnAt anena aparADaH kftaH . tataH
 
 065.18F: kzamyatAm . nEvaM vArAntaraM viDAsyate . ityuktvA prasTApitaH .
+; vArAntaram = vAra+antara : occasion-another ~ 'a second time'
 065.18A: kzamyatAm . na evam vArAntaram viDAsyate . iti uktvA prasTApitaH .
+
+065.17-18E: The messenger said -- Lord, he committed the fault through ignorance; he should, therefore, be forgiven. He will not do so a second time. With these words he was sent away. 
 
 065.19F: atohaM bravImi -- vyapadeSe'pi sidDiH syAt iti . tato
 065.19A: ataH aham bravImi -- vyapadeSe api sidDiH syAt iti . tataH
@@ -9034,6 +9189,8 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 065.20F: mayoktam -- sa evAsmatpraBU rAjahaMso mahApratApo'tisamarTaH .
 065.20A: mayA uktam -- saH eva asmatpraBU rAjahaMsaH mahApratApaH atisamarTaH .
 
+065.19-20E: Hence I say -- When the king is very powerful, success can be obtained &c. Then I said -- That royal swan, our master, alone is mighty in valour and is exceedingly powerful.
+; 12-11-2021 stop.
 065.21F: trElokyasyApi praButvaM tatra yujyate kiM punA rAjyam iti . tadAhaM
 065.21A: trElokyasya api praButvam tatra yujyate kim punA rAjyam iti . tadA aham
 ; Sampada: 'punA' seems wrong.
