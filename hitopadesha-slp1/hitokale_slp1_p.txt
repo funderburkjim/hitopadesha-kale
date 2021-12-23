@@ -9190,24 +9190,28 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 065.20A: mayA uktam -- saH eva asmatpraBU rAjahaMsaH mahApratApaH atisamarTaH .
 
 065.19-20E: Hence I say -- When the king is very powerful, success can be obtained &c. Then I said -- That royal swan, our master, alone is mighty in valour and is exceedingly powerful.
-; 12-11-2021 stop.
+; 12-11-2021
 065.21F: trElokyasyApi praButvaM tatra yujyate kiM punA rAjyam iti . tadAhaM
-065.21A: trElokyasya api praButvam tatra yujyate kim punA rAjyam iti . tadA aham
+065.21A: trElokyasya api praButvam tatra yujyate kim punar rAjyam iti . tadA aham
 ; Sampada: 'punA' seems wrong.
-; Jim: probably ok, a sandhi of 'punar rAjyam'
+; Jim:  a sandhi of 'punar rAjyam'
 
 065.22F: tEH pakziBiH duzwa kaTamasmadBUmO carasi ityaBiDAya
-065.22A: tEH pakziBiH duzwa kaTam asmat BUmO carasi iti aBiDAya
+065.22A: tEH pakziBiH duzwa kaTam asmadBUmO carasi iti aBiDAya
 
-065.23F: rAjYaScitravarRasya samIpaM nItaH . tato
-065.23A: rAjYaH citravarRasya samIpam nItaH . tataH
+065.23F: rAjYaScitravarRasya samIpaM nItaH .
+065.23A: rAjYaH citravarRasya samIpam nItaH .
 
-065.24F: rAjYaH puro mAM pradarSya tEH praRamyoktam -- deva avaDIyatAm .
-065.24A: rAjYaH puraH mAm pradarSya tEH praRamya uktam -- deva avaDIyatAm .
+065.22-23E: Even the sovereignty of the three worlds would become him, what of a kingdom then! Thereupon the birds, saying -- "Villain, what business have you to tread on our ground?" took me to king Chitravarna.
+
+065.24F: tato rAjYaH puro mAM pradarSya tEH praRamyoktam -- deva avaDIyatAm .
+065.24A: tataH rAjYaH puras mAm pradarSya tEH praRamya uktam -- deva avaDIyatAm .
 065.24P: avaDIyatAm -- sAvaDAnaM SrUyatAm .
 
 065.25F: eza duzwo yadasmaddeSe carannapi devapAdAn aDikzipati .
-065.25A: ezaH duzwaH yat asmat deSe caran api devapAdAn aDikzipati .
+065.25A: ezaH duzwaH yat asmaddeSe caran api devapAdAn aDikzipati .
+
+065.24-25E: Then having presented me before the king they said after bowing -- Sire, please note -- this wicked crane, although travelling in our country, speaks contemptuously of your Majesty's feet.
 
 065.26F: rAjAha -- ko'yam . kutaH samAyAtaH .
 065.26A: rAjA Aha -- kaH ayam . kutaH samAyAtaH .
@@ -9218,15 +9222,20 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 065.28F: hiraRyagarBanAmno rAjahaMsasyAnucaraH karpUradvIpAd AgataH .
 065.28A: hiraRyagarBanAmnaH rAjahaMsasya anucaraH karpUradvIpAt AgataH .
 
+065.26-28E: The king demanded who I was and where, I came from. They replied -- He is an attendant of the royal swan, Hiranyagarbha by name, and has come here from Karpuradvipa.
+
 065.29F: aTAhaM gfDreRa mantriRA pfzwaH -- kastatra muKyo mantrI iti .
 065.29A: aTa aham gfDreRa mantriRA pfzwaH -- kaH tatra muKyaH mantrI iti .
 
 065.30F: mayoktam -- sarvaSAstrArTapAragaH sarvajYo nAma cakravAkaH .
+; cakravAka - a water bird
 065.30A: mayA uktam -- sarvaSAstrArTapAragaH sarvajYaH nAma cakravAkaH .
 065.30P: sarvaSAstrArTapAragaH sarvezAM SAstrARAM arTasya vizayasya pAragaH pAradfSvA niKilAgamajYAnasaMpanna ityarTaH .
 
 065.31F: gfDro brUte -- yujyate . svadeSajo'sO . yataH .
 065.31A: gfDraH brUte -- yujyate . svadeSajaH asO . yataH .
+
+065.29-31E: Thereafter, the minister, a vulture, asked me -- Who is the prime minister there? I replied -- A Chakravaka, named Sarvajna(all-knowing), who is an adept in the principles of all the Sastras (sciences). The vulture remarked--This is proper. He is a native of the same country.
 
 065.32F: svadeSajaM kulAcAraM viSudDamupaDASucim .
 065.32A: svadeSajam kulAcAram viSudDam upaDASucim .
@@ -9237,6 +9246,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 065.33A: mantrajYam avyasaninam vyaBicAravivarjitam .. 16..
 065.33P: vyaBicAravivarjitam -- vyaBicAraH sanmArgAd BraMSanaM tadrahitaM sanmArgasTitam .
 
+065.32-33E: A king should fittingly appoint, as his minister, one who is born in the same country, who is nobly bred (lit. observes the family practices, or who is nobly born and of virtuous conduct; see com.), who is pure and of tried honesty, who is a sound counsellor, who is not addicted to vices and does not swerve from the right path,
+
 065.34F: aDItavyavahArANgaM mOlaM KyAtaM vipaScitam .
 065.34A: aDItavyavahArANgam mOlam KyAtam vipaScitam .
 065.34P: aDItavyavahArANgaM vivAdanirRayaSAstrajYam .
@@ -9245,6 +9256,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 
 065.35F: arTasyotpAdakaM samyagvidaDyAnmantriRaM nfpaH .. 17..
 065.35A: arTasya utpAdakam samyak vidaDyAn mantriRam nfpaH .. 17..
+
+065.34-35E:  who has mastered the law relating to disputes, who is hereditary, reputed, learned and an expert in raising revenue.
 
 065.36F: atrAntare Sukenoktam -- deva
 065.36A: atra antare Sukena uktam -- deva
@@ -9255,12 +9268,16 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 065.38F: devapAdAnAmevADipatyam . tato rAjYApyuktam -- evameva . yataH .
 065.38A: devapAdAnAm eva ADipatyam . tataH rAjYA api uktam -- evam eva . yataH .
 
+065.36-38E: Just then a parrot observed--Please Your Highness, Karpuradvipa and other small countries are inciuded in Jambudvipa and therefore the authority of Your Highness extends over them also. To this the king replied that it was so. For,
+
 065.39F: rAjA mattaH SiSuScEva pramadA DanagarvitaH .
 065.39A: rAjA mattaH SiSuH ca eva pramadAH DanagarvitaH .
 
 065.40F: aprApyamapi vAYCanti kiM punarlaByameva yat .. 18..
-065.40A: aprApyamapi vAYCanti kim punarlaByam eva yat .. 18..
+065.40A: aprApyam api vAYCanti kim punar laByam eva yat .. 18..
 065.40P: aprApyamapi vAYCanti yatpunaH laByaM labDuM SakyaM tadvAYCatIti kiM vaktavyaM tasya kA kaTetyarTaH . 'laByatepi yat iti pAWe yat laByate tad vAcCanti iti pUrvadyojanIyam .
+
+065.39-40E: A king, a mad man, a child, a young woman, and one elated with the pride of wealth, desire what is unattainable; how much more so then what can be certainly obtained?
 
 066.01F: tato mayoktam -- yadi vacanammAtreREvADipatyaM sidDyati .
 066.01A: tataH mayA uktam -- yadi vacanammAtreRa eva ADipatyam sidDyati .
@@ -9268,20 +9285,27 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.02F: tadA jambudvIpe'pyasmatpraBorhiraRyagarBasya svAmyamasti .
 066.02A: tadA jambudvIpe api asmatpraBoH hiraRyagarBasya svAmyam asti .
 
+066.01-02E: To this I said -- If by mere words one's sovereignty  can be established, our lord Hiranyagarbha too has mastery over Jambudvipa.
+
 066.03F: Suka uvAca -- kaTamatra nirRayaH .
 066.03A: SukaH uvAca -- kaTam atra nirRayaH .
 
 066.04F: mayoktaM -- saMgrAma eva .
+; saMgrAme eva OR saMgrAmaH eva ->? (sandhi) saMgrAma eva  -- need a sandhi checker.
 066.04A: mayA uktam -- saMgrAma eva .
 
 066.05F: rAjYA vihasyoktam -- svasvAminaM gatvA sajjIkuru .
 066.05A: rAjYA vihasya uktam -- svasvAminam gatvA sajjIkuru .
 
+066.03-05E: The parrot said -- How can this matter be decided? I replied -- By war. The king said smilingly -- Go and ask your king to be ready.
+; 12-12-2021
 066.06F: tadA mayoktam -- svadUto'pi prasTApyatAm .
 066.06A: tadA mayA uktam -- svadUtaH api prasTApyatAm .
 
 066.07F: rAjovAca -- kaH prayAtu dOtyena . yata evamBUto dUtaH kAryaH .
 066.07A: rAjA uvAca -- kaH prayAtu dOtyena . yataH evam BUtaH dUtaH kAryaH .
+
+066.06-07E: Then I said -- You should send your ambassador also. The king asked -- Who will go as an ambassador? For a person of this description should be appointed an ambassador.
 
 066.08F: Bakto guRI SucirdakzaH pragalBo'vyasanI .
 066.08A: BaktaH guRI SuciH dakzaH pragalBaH avyasanI .
@@ -9293,11 +9317,15 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.09P: paramarmajYaH -- parezAM SatrURAM marma hfdgataBAvaM jAnAtIti taTA .
 066.09P+: pratiBAnavAn -- pratyutpannamatiH . 'prajYA navanavonmezaSAlinI pratiBA matA' ityuktaprajYAvAn .
 
+066.08-09E: A messenger should be devoted to his master, pure (or, honest), diligent, bold, unaddicted to vices, forgiving, a Brahmana, one knowing the weak points (or, secrets of the enemy) and ready-witted.
+
 066.10F: gfDro vadati -- santyeva dUtA bahavaH . kiMtu brAhmaRa eva kartavyaH .
-066.10A: gfDraH vadati -- santi eva dUtA bahavaH . kiMtu brAhmaRa eva kartavyaH .
+066.10A: gfDraH vadati -- santi eva dUtAH bahavaH . kim tu brAhmaRaH eva kartavyaH .
 
 066.11F: yataH .
 066.11A: yataH .
+
+066.10-11E: The vulture observed -- Many are fit to be ambassadors, no doubt; but a Brahmana alone should be preferred. For,
 
 066.12F: prasAdaM kurute patyuH sampattiM nABivAYCati .
 066.12A: prasAdam kurute patyuH sampattim na aBivAYCati .
@@ -9306,24 +9334,32 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.13A: kAlimA kAlakUwasya na apEti ISvarasaNgamAt .. 20..
 066.13P: kAlimeti -- yaTA kAlakUwasya kAlimA ISvarasaNgamAdapi na naSyati taTA SatrunfpatisaNgamAdapi brAhmaRasya DanAdAvanaBilAzo nApayati .
 
+066.12-13E: He pleases his master and does not aim at his wealth: the blackness of Kalakuta (a kind of deadly poison) does not vanish even by its contact with Isvara (Siva).
+
 066.14F: rAjAha -- tataH Suka eva vrajatu .
-066.14A: rAjA Aha -- tataH Suka eva vrajatu .
+066.14A: rAjA Aha -- tataH SukaH eva vrajatu .
 
 066.15F: Suka tvamevAnena saha gatvAsmadaBilazitaM brUhi .
-066.15A: Suka tvam eva anena saha gatvA asmat aBilazitam brUhi .
+066.15A: Suka tvam eva anena saha gatvA asmadaBilazitam brUhi .
+
+066.14-15E: The king - Let the parrot go then. Parrot, you yourself then go with him and declare our will.
 
 066.16F: Suko brUte -- yaTAjYApayati devaH . kiMtvayaM
-066.16A: SukaH brUte -- yaTAjYApayati devaH . kiMtu ayam
+066.16A: SukaH brUte -- yaTA AjYApayati devaH . kim tu ayam
 
 066.17F: durjano bakaH . tadanena saha na gacCAmi . taTA coktam --
-066.17A: durjanaH bakaH . tat anena saha na gacCAmi . taTA ca uktam --
+066.17A: durjanaH bakaH . tad anena saha na gacCAmi . taTA ca uktam --
+
+066.16-17E: The Parrot said -- As Your Majesty commands. But this crane is a villain; I will not go with him. For, it is said --
 
 066.18F: KalaH karoti durvfttaM nUnaM Palati sADuzu .
 066.18A: KalaH karoti durvfttam nUnam Palati sADuzu .
 066.18P: Palati -- tasya duzpariRAmaH sADUnBADate ityarTaH .
 
 066.19F: daSAnano haretsItAM banDanaM syAn mahodaDeH .. 21..
-066.19A: daSAnanaH haretsItAm banDanam syAt mahodaDeH .. 21..
+066.19A: daSAnanaH haret sItAm banDanam syAt mahodaDeH .. 21..
+
+066.18-19E: A wicked man commits an evil deed, while its consequences are sure to be suffered by the good. Ravana carried away Sita, while the great ocean suffered confinement (had a bridge built over it).
 
 066.20F: aparaM ca . na sTAtavyaM na gantavyaM durjanena samaM kvacit .
 066.20A: aparam ca . na sTAtavyam na gantavyam durjanena samam kvacit .
@@ -9332,6 +9368,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.21A: kAkasaNgAt hataH haMsaH tizWan gacCan ca vartakaH .. 22..
 066.21P: kAkasaNgAt -- tena saha tizWat haMsaH hataH gacCan vartakaH hataH iti yojanA .
 066.21P+: vartaka -- pakziviSezaH .
+
+066.20-21E: Moreover, One should not, in any case, live with a wicked man: from their contact with a crow were killed a goose who lived with him and a quail for going on a journey with him.
 
 066.22F: rAjovAca -- kaTametat .
 066.22A: rAjA uvAca -- kaTam etat .
@@ -9342,6 +9380,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.24F: .. kaTA 4 ..
 066.24A: .. kaTA 4 ..
 
+066.22-24E: The king asked how that was, whereupon the parrot related -- FABLE IV.
+
 066.25F: astyujjayinIvartmani prAntare mahAn pippalIvfkzaH . tatra haMsakAkO
 066.25A: asti ujjayinIvartmani prAntare mahAn pippalIvfkzaH . tatra haMsakAkO
 066.25P: prAntare -- 'prAntaraM dUraSUnyo'DvA' ityamaraH .
@@ -9349,22 +9389,26 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.26F: nivasataH . kadAcid grIzmasamaye pariSrAntaH kaScitpaTikastatra
 066.26A: nivasataH . kadAcit grIzmasamaye pariSrAntaH kaH cit paTikaH tatra
 
-066.27F: tarutale DanuHkARqaM sanniDAya suptaH . kzaRAntare
-066.27A: tarutale DanuHkARqam sanniDAya suptaH . kzaRAntare
+066.27F: tarutale DanuHkARqaM sanniDAya suptaH . 
+066.27A: tarutale DanuHkARqam sanniDAya suptaH . 
 
-066.28F: tanmuKAdvfkzacCAyApagatA . tataH sUryatejasA tanmuKaM
-066.28A: tat muKAt vfkzacCAyApagatA . tataH sUryatejasA tat muKam
+066.25-27E: There is a large fig-tree in a forest bordering on the road leading to Ujjayini, upon which lived a goose and a crow. One day in the sultry season, a traveller, being fatigued, slept under the treo, having placed a bow and arrow by his side.
+
+066.28F: kzaRAntare tanmuKAdvfkzacCAyApagatA . tataH sUryatejasA tanmuKaM
+066.28A: kzaRAntare tanmuKAt vfkzacCAyApagatA . tataH sUryatejasA tanmuKam
 
 066.29F: vyAptamavalokya tadvfkzasTitena haMsena pakzO prasArya
-066.29A: vyAptam avalokya tadvfkzasTitena
+066.29A: vyAptam avalokya tadvfkzasTitena haMsena pakzO prasArya
 
-066.30F: punastanmuKe CAyA kftA . tato nirBaranidrASuKinA
-066.30A: punaH tat muKe CAyA kftA . tataH nirBaranidrASuKinA
+066.30F: punastanmuKe CAyA kftA . tato nirBaranidrAsuKinA
+066.30A: punaH tanmuKe CAyA kftA . tataH nirBaranidrAsuKinA
 
 066.31F: tenADvanyena muKavyAdAnaM kftam .
 066.31A: tena aDvanyena muKavyAdAnam kftam .
 066.31P: aDvanyena -- aDvAnaM gacCatIti aDvanyaH pAnTaH tena .
 066.31P+: muKavyAdAnam -- vadanavistAraH .
+
+066.28-31E: After a short while the shadow of the tree moved away from his face. Then, seeing that his face was covered with the sun, a swan, that lived on the tree, through mercy, spread his wings and shaded his face again. Thereafter the traveller, happy in the enjoyment of sound sleep, yawned.
 
 066.32F: aTa parasuKamasahizRuH svaBAvadOrjanyena sa kAkastasya muKe
 066.32A: aTa parasuKam asahizRuH svaBAvadOrjanyena saH kAkaH tasya muKe
@@ -9372,18 +9416,25 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 066.33F: purIzotsargaM kftvA palAyitaH . tato yAvad asO pAnTa utTAyorDvaM
 066.33A: purIzotsargam kftvA palAyitaH . tataH yAvat asO pAnTaH utTAya UrDvam
 
-066.34F: nirIkzate tAvattenAvalokito haMsaH kARqena hatvA vyApAditaH . ato'haM
-066.34A: nirIkzate tAvat tena avalokitaH haMsaH kARqena hatvA vyApAditaH . ataH aham
+066.34F: nirIkzate tAvattenAvalokito haMsaH kARqena hatvA vyApAditaH . 
+066.34A: nirIkzate tAvat tena avalokitaH haMsaH kARqena hatvA vyApAditaH . 
 066.34P: kARqena -- bARena .
 
-066.35F: bravImi -- durjanena sama na sTAtavyamiti . vartakakaTAmapi kaTayAmi --
-066.35A: bravImi -- durjanena sama na sTAtavyam iti . vartakakaTAm api kaTayAmi --
+066.32-34E: Now the crow, unable to bear the happiness of others, through the wickedness natural to his species, muted into his mouth and flew away. Thereupon, as soon as the traveller rose and looked up, he saw the goose whom he killed with an arrow.
 
-067.01F: vartakakaTAm api kaTayAmi --
+066.35F: ato'haM bravImi -- durjanena sama na sTAtavyamiti .
+; sama : should it be 'saha' ?
+066.35A: ataH aham bravImi -- durjanena sama na sTAtavyam iti . 
+
+066.35-35E: Hence I say -- One should not live with a wicked man.
+
+067.01F: vartakakaTAmapi kaTayAmi --
 067.01A: vartakakaTAm api kaTayAmi --
 
 067.02F: .. kaTA 5 ..
 067.02A: .. kaTA 5 ..
+
+067.01-02E: I will also relate the story of the quail. FABLE V.
 
 067.03F: ekadA sarve pakziRaH Bagavato
 067.03A: ekadA sarve pakziRaH BagavataH
@@ -9391,14 +9442,18 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.04F: garuqasya yAtrAprasaNgena samudratIraM pracalitAH .
 067.04A: garuqasya yAtrAprasaNgena samudratIram pracalitAH .
 
+065.03-04E: Once upon a time all the birds went to the sea-side, on a pilgrimage in honour of Garuda (the divine Eagle).
+
 067.05F: tatra kAkena saha vartakaScalitaH . aTa gacCato gopAlasya
 067.05A: tatra kAkena saha vartakaH calitaH . aTa gacCataH gopAlasya
 
 067.06F: mastakasTitaBARqAddaDi vAraMvAraM tena kAkena KAdyate .
 067.06A: mastakasTitaBARqAt daDi vAram vAram tena kAkena KAdyate .
 
+067.05-06E: Among them a quail travelled with a crow. Now the crow repeatedly ate of the curds in a pot which a cowherd was carrying on his head.
+
 067.07F: tato yAvadasO daDiBARqaM BUmO niDAyorDvamavalokate tAvat
-067.07A: tataH yAvat asO daDiBARqam BUmO niDAyorDvam  avalokate tAvat
+067.07A: tataH yAvat asO daDiBARqam BUmO niDAya UrDvam  avalokate tAvat
 
 067.08F: tena kAkavartakO dfzwO . tatastena KeditaH kAkaH palAyitaH .
 067.08A: tena kAkavartakO dfzwO . tataH tena KeditaH kAkaH palAyitaH .
@@ -9406,6 +9461,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 
 067.09F: vartakaH mandagatistena prApto vyApAditaH .
 067.09A: vartakaH mandagatiH tena prAptaH vyApAditaH .
+
+067.07-09E: Thereupon, as he placed his pot on the ground and looked up, the cowherd saw the crow and the quail. The crow being affrighted by him flew away, while the quail being slow of flight was caught and put to death.
 
 067.10F: ato'haM bravImi -- na sTAtavyaM na gantavyam ityAdi .. tato mayoktam -- BrAtaH Suka
 067.10A: ataH aham bravImi -- na sTAtavyam na gantavyam ityAdi .. tataH mayA uktam -- BrAtaH Suka
@@ -9417,6 +9474,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.12F: api . Sukenoktam -- astvevam . kiMtu .
 067.12A: api . Sukena uktam -- astu evam . kim tu .
 
+067.10-12E: Hence I say -- One should neither live nor go with &c. I then observed -- Brother parrot, why do you talk so? I esteem you as much as I do His Majesty. The parrot replied -- Be it so; but --
+
 067.13F: durjanErucyamAnAni sasmitAni priyARyapi .
 067.13A: durjanEH ucyamAnAni sasmitAni priyARi api .
 067.13P: priyARi SrutisuKAni .
@@ -9426,18 +9485,24 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.14P: akAlakusumAni -- kAlotpannAni kusu .
 067.14P+: SaNkA Bayam . 'SaNkA BayavitarkayoH' iti yAdavaH .
 
+067.13-14E: Even sweet things accompained with smiles, said by the wicked, certainly cause fear, like flowers appearing out of season.
+
 067.15F: durjanatvaM ca Bavato vAkyAdeva jYAtam .
 067.15A: durjanatvam ca BavataH vAkyAt eva jYAtam .
 
 067.16F: yadanayorBUpAlayorvigrahe Bavadvacanameva nidAnam . paSya .
 067.16A: yat anayoH BUpAlayoH vigrahe Bavadvacanam eva nidAnam . paSya .
 
+067.15-16E: As for your wickedness, that was known from your very speech, since your words are the cause of the fight between these two kings. See --
+; 12-19-2021
 067.17F: pratyakze'pi kfte doze mUrKaH sAntvena tuzyati .
 067.17A: pratyakze api kfte doze mUrKaH sAntvena tuzyati .
 067.17P: sAntvena maDuraBAzaRena . 'atyarTaM maDuraM sAntvam' ityamaraH .
 
 067.18F: raTakAro nijAM BAryAM sajArAM SirasAkarot .. 24..
 067.18A: raTakAraH nijAm BAryAm sajArAm SirasA akarot .. 24..
+
+067.17-18E: A fool is pleased by conciliatory words, even though an offence be committed before his eyes: (as was) a wheel-wright (who) took on his head his wife with her paramour.
 
 067.19F: rAjYoktam -- kaTametat .
 067.19A: rAjYA uktam -- kaTam etat .
@@ -9448,6 +9513,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.21F: .. kaTA 6 ..
 067.21A: .. kaTA 6 ..
 
+067.19-21E:  The king asked how that was, upon which the parrot related -- FABLE VI.
+
 067.22F: asti yOvanaSrInagare
 067.22A: asti yOvanaSrInagare
 
@@ -9455,27 +9522,36 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.23A: mandamatiH nAma raTakAraH . saH ca svaBAryAm banDakIm jAnAti .
 067.23P: banDakIM kulawAm .
 
-067.24F: kiMtu jAreRa samaM svacakzuzA nEkasTAne paSyati . tato'sO
-067.24A: kim tu jAreRa samam svacakzuzA na ekasTAne paSyati . tataH asO
+067.24F: kiMtu jAreRa samaM svacakzuzA nEkasTAne paSyati . 
+067.24A: kim tu jAreRa samam svacakzuzA na ekasTAne paSyati . 
 
-067.25F: raTakAraH ahamanyaM grAmaM gacCAmi ityuktvA calitaH . kiyad
-067.25A: raTakAraH aham anyam grAmam gacCAmi ityuktvA calitaH . kiyad
+067.22-24E: There was a wheel-wright in the town of Yauvanasri named Mandamati (Dull-wit). He knew his wife was false, but had never seen her, with his own eyes, with her lover in the same place.
 
-067.26F: dUraM gatvA niBftaM punarAgatya svagfhe svadvAtale
-067.26A: dUram gatvA niBftam punaH Agatya svagfhe KawvAtale
+067.25F: tato'sO raTakAraH ahamanyaM grAmaM gacCAmi ityuktvA calitaH . kiyad
+067.25A: tataH asO raTakAraH aham anyam grAmam gacCAmi ityuktvA calitaH . kiyad
 
-067.27F: sTitaH . aTa raTakAro grAmAntaraM gata ityupajAtaviSvAsayA tadvaDvA
-067.27A: sTitaH . aTa raTakAraH grAmAntaram gata iti upajAtaviSvAsayA tat vaDvA
+067.26F: dUraM gatvA niBftaM punarAgatya svagfhe KawvAtale sTitaH .
+067.26A: dUram gatvA niBftam punaH Agatya svagfhe KawvAtale sTitaH .
 
-067.28F: jAraH saMDyAkAla evAhUtaH . paScAttena samaM tasyAM KawvAyAM
-067.28A: jAraH saMDyAkAlaH eva AhUtaH . paScAt tena samam tasyAm svadvAyAm
+067.25-26E: Then the wheel-wright saying that he was going to a village set out, but after having gone some way he returned secretly and hid himself in his house under the cot.
 
-067.29F: nirBaraM krIqantI KawvAtalasTitena sahAnuBUtakiMcid
-067.29A: nirBaram krIqantI KawvAtalasTitena saha anuBUtakiMcit
+067.27F: aTa raTakAro grAmAntaraM gata ityupajAtaviSvAsayA tadvaDvA
+; viSvAsayA.  Looks like 3s f of 'viSvAsA', but viSvAsa is m. ?
+067.27A: aTa raTakAraH grAmAntaram gataH iti upajAtaviSvAsayA tadvaDvA
 
-067.30F: aNgasaMsparSAtsvAminaM vijYAya sA vizaRRABavat .
-067.30A: aNgasaMsparSAt svAminam vijYAya sA vizaRRABavat .
+067.28F: jAraH saMDyAkAla evAhUtaH . 
+067.28A: jAraH saMDyAkAlaH eva AhUtaH . 
+
+067.27-28E: Now the wife of the wheel-wright, confident that he had gone to another village, called her lover just in the evening.
+
+067.29F: paScAttena samaM tasyAM KawvAyAM nirBaraM krIqantI 
+067.29A: paScAt tena samam tasyAm KawvAyAm nirBaram krIqantI 
+
+067.30F: KawvAtalasTitena sahAnuBUtakiMcid aNgasaMsparSAtsvAminaM vijYAya sA vizaRRABavat .
+067.30A: KawvAtalasTitena saha anuBUtakiMcit aNgasaMsparSAt svAminam vijYAya sA vizaRRABavat .
 067.30P: vizaRRA KinnA .
+
+067.29-30E:  Thereafter, as she was sporting heartily with him on the cot, she got a slight touch of his (the wheel-wright's) body as he lay under the cot, and feeling sure that it was her husband, became disconcerted.
 
 067.31F: tato jAreRoktam -- kimiti tvamadya
 067.31A: tataH jAreRa uktam -- kim iti tvam adya
@@ -9484,35 +9560,47 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 067.32A: mayA saha nirBaram na ramase . vismitA iva pratiBAsi .
 067.32P: vismitA paryAkulA .
 
+067.31-32E: Thereupon the gallant asked her - Why don't you sport with me lustily to-day but appear to be bewildered?
+
 067.33F: aTa tayoktam --
 067.33A: aTa tayA uktam --
 
 067.34F: anaBijYo'si . yo'sO mama prAReSvaro yena mamAkOmAraM
-067.34A: anaBijYaH asi . yaH asO mama prAReSvaraH yena mamAkOmAram
+; mamAkOmAram mama + A? + kOmAram  
+067.34A: anaBijYaH asi . yaH asO mama prAReSvaraH yena mama AkOmAram
 
 067.35F: saKyaM saH adya grAmAntaraM gataH . tena vinA sakalajanapUrRo'pyayaM
 067.35A: saKyam saH adya grAmAntaram gataH . tena vinA sakalajanapUrRaH api ayam
 
-067.36F: grAmo mAM pratyaraRyavatpratiBAti . kiM BAvi tatra parasTAne
-067.36A: grAmaH mAm pratyaraRyavat pratiBAti . kim BAvi tatra parasTAne
+067.36F: grAmo mAM pratyaraRyavatpratiBAti . 
+067.36A: grAmaH mAm pratyaraRyavat pratiBAti . 
 
-067.37F: kiM KAditavAnkaTaM vA prasupta ityasmadDfdayaM vidIryate .
-067.37A: kim KAditavAn kaTam vA prasuptaH iti asmat hfdayam vidIryate .
+067.33-36E: To this she replied -- You are quite ignorant of the truth. He who is the lord of my life, and with whom I have been in friendship from childhood has gone to a village. Without him, this village, although full of people, is to me as a desert.
+
+067.37F: kiM BAvi tatra parasTAne kiM KAditavAnkaTaM vA prasupta ityasmadDfdayaM vidIryate .
+; BAvi - inj-p 3s BU ? 
+067.37A: kim BAvi tatra parasTAne kim KAditavAn kaTam vA prasuptaH iti asmat hfdayam vidIryate .
 
 067.38F: jAro brUte -- tava kimevaMviDA snehaBUmiH sa te raTakAraH .
 067.38A: jAraH brUte -- tava kim evaMviDA snehaBUmiH saH te raTakAraH .
 
+067.37-38E: How has he fared in that strange place? What has he eaten ? How has he managed for his bedding ?- with such thoughts is my mind distracted. What then, asked the gallant, is that wheel-wright such an object of love to you?
+
 067.39F: banDakyavadat -- re barbara kiM bravIzi . SfRu .
 067.39A: banDakI avadat -- re barbara kim bravIzi . SfRu .
 
-067.40F: paruzARyapi coktA yA dfzwA yA kruDacakzuzA .
-067.40A: paruzARi api ca uktA yA dfzwA yA kruDacakzuzA .
+067.39-39E: The whore replied -- You blockhead, why do you chatter thus? Listen --
+
+067.40F: paruzARyapi coktA yA dfzwA yA krudDacakzuzA .
+067.40A: paruzARi api ca uktA yA dfzwA yA krudDacakzuzA .
 067.40P: paruzARi rUkzavacanAni .
 067.40P+: BartrA paruzARyuktA api krudDacakzuzA dfzwApi yA BartuH suprasannaM premRA praPullaM na tu kopAtkaluzaM vadanaM yasyAH tAdfzI Bavati sA .
 
 067.41F: suprasannamuKI BartuH sA nArI DarmaBAjanam .. 25..
 067.41A: suprasannamuKI BartuH sA nArI DarmaBAjanam .. 25..
 067.41P: DarmaBAjanaM puRyapAtram . sA uttamAM gatiM laBate iti BAvaH .
+
+067.40-41E: She, who, although addressed in harsh words or looked at with angry eyes, receives her husband with a cheerful countenance, is the abode of religious merit.
 
 068.01F: aparaM ca . nagarasTo vanasTo vA pApo vA yadi vA SuciH .
 068.01A: aparam ca . nagarasTaH vanasTaH vA pApaH vA yadi vA SuciH .
@@ -9521,11 +9609,15 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.02A: yAsAm strIRAm priyaH BartA tAsAm lokAH mahodayAH .. 26..
 068.02P: mahodayAH mahAn udayaH suKasaMat yezy te svargAdayaH .
 
+068.01-02E: The worlds of great bliss are (in reserve) for those women who love their husband, whether living in a city or a wilderness, whether reprobate or virtuous.
+
 068.03F: anyacca . BartA hi paramaM nAryA BUzaRaM BUzaRErvinA .
 068.03A: anyat ca . BartA hi paramam nAryAH BUzaRam BUzaREH vinA .
 
 068.04F: ezA virahitA tena SoBanApi na SoBanA .. 27..
 068.04A: ezA virahitA tena SoBanA api na SoBanA .. 27..
+
+068.03-04E: Again, The husband is the most precious ornament of a woman althogh without (other) ornaments: for without him, she, even though decorated, is without grace.
 
 068.05F: tvaM jAro
 068.05A: tvam jAraH
@@ -9535,14 +9627,19 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.06P: manolOlyAt -- manasaH cAYcalyAt .
 068.06P: puzpatAmbUlasadfSaH -- puzpamAlAtAmbUlAdIni anAvaSyakAni tucCAni ca vilAsavastUnIva .
 
+068.05-06E: You are a paramour. Through levity of heart, I sometimes consort with you, as I would chew a roll of betel-nut leaves or put on flowers.
+
 068.07F: sa ca svAmI mAM vikretuM deveByo
 068.07A: saH ca svAmI mAm vikretum deveByaH
 
 068.08F: brAhmaReByo'pi vA dAtumISvaraH . kiM bahunA . tasmijjIvati jIvAmi .
-068.08A: brAhmaReByaH api vA dAtumISvaraH . kim bahunA . tasmin jIvati jIvAmi .
+; ISvara able to + infinitive
+068.08A: brAhmaReByaH api vA dAtum ISvaraH . kim bahunA . tasmin jIvati jIvAmi .
 
 068.09F: tanmaraRe cAnumaraRaM karizyAmItyeza me niScayaH . yataH .
 068.09A: tat maraRe ca anumaraRam karizyAmi iti ezaH me niScayaH . yataH .
+
+068.07-09E: But he is my master, having power to sell me, or to give me away to the gods or the Brahmanas. In short, I live while he lives, and will die with him when he dies. This is my resolve. For,
 
 068.10F: tisraH kowyo'rDakowI ca yAni lomAni mAnave .
 068.10A: tisraH kowyaH arDakowI ca yAni lomAni mAnave .
@@ -9551,15 +9648,19 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.11A: tAvat kAlam vaset svarge BartAram yA anugacCati .. 28..
 068.11P: anugacCati -- BartfmaraRe anusriyate .
 
+068.10-11E: For years three crores and a half - which is the number of hair on the human body -- does a woman live in heaven, who follows her husband in death
+
 068.12F: anyacca . vyAlagrAhI yaTA vyAlaM balAdudDarate bilAt .
 068.12A: anyat ca . vyAlagrAhI yaTA vyAlam balAt udDarate bilAt .
 068.12P: vyAlagrAhI -- vyAlaM sarpaM gfhRAtIti vyAlagrAhI AhituRqikaH .
 
 068.13F: tadvadBartAramAdAya svargaloke mahIyate .. 29..
-068.13A: tat vat BartAram AdAya svargaloke mahIyate .. 29..
+068.13A: tadvat BartAram AdAya svargaloke mahIyate .. 29..
 068.13P: AdAya gfhItvA . sargaM nItveti yAvat .
 068.13P+: mahIyate -- pUjyate .
 
+068.12-13E: Moreover, Just as a snake-catcher forcibly draws a serpent out of its hole, so does she take her husband to heaven and is exalted with him.
+; 12-22-2021 end
 068.14F: aparaM ca . citO parizvajya vicetanaM patiM
 068.14A: aparam ca . citO parizvajya vicetanam patim
 068.14P: citO citAyAm .
@@ -9573,6 +9674,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.17F: patiM gfhItvA suralokamApnuyAt .. 30..
 068.17A: patim gfhItvA suralokam ApnuyAt .. 30..
 
+067.14-17E: Moreover, The wife, who having clasped her dead husband on the funeral pyre quits her body, will, although she might have committed sins to be counted by hundreds, go to heaven with her husband.
+
 068.18F: etatsarvaM SrutvA sa raTakAro'vadat -- Danyo'haM
 068.18A: etat sarvam SrutvA saH raTakAraH avadat -- DanyaH aham
 
@@ -9582,19 +9685,24 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.20F: niDAya tAM KawvAM strIpuruzasahitAM mUrDni kftvA sAnandaM
 068.20A: niDAya tAm KawvAm strIpuruzasahitAm mUrDni kftvA sAnandam
 
-068.21F: nanarta . ato'haM bravImi -- prayakze'pi kfte doze ityAdi ..
-068.21A: nanarta . ataH aham bravImi -- prayakze api kfte doze ityAdi ..
+068.21F: nanarta . ato'haM bravImi -- pratyakze'pi kfte doze ityAdi ..
+068.21A: nanarta . ataH aham bravImi -- pratyakze api kfte doze ityAdi ..
 ; Sampada: 'ityAdi' left as is.
 
+068.18-21E: Having heard all that, that wheel-wright said to himself -- Blessed am I whose wife is so sweet-speaking and attached to her lord! With these thoughts in his mind, he having taken on his head the cot with the man and woman upon it danced with joy. Hence I say - A fool is pleased &c.
+
 068.22F: tato'haM tena rAjYA yaTAvyavahAraM saMpUjya prasTApitaH .
-068.22A: tataH aham tena rAjYA yaTA avyavahAram saMpUjya prasTApitaH .
+068.22A: tataH aham tena rAjYA yaTAvyavahAram saMpUjya prasTApitaH .
+; yaTA-vyavahAram 
 068.22P: yaTAvyavahAram -- ucitAcArAnuroDena .
 
-068.23F: Suko'pi mama paScAdAgacCan Aste . etatsarvaM parijYAya
-068.23A: SukaH api mama paScAt AgacCan Aste . etat sarvam parijYAya
+068.23F: Suko'pi mama paScAdAgacCan Aste . 
+068.23A: SukaH api mama paScAt AgacCan Aste . 
 
-068.24F: yaTAkartavyamanusaMDIyatAm . cakravAko
-068.24A: yaTAkartavyam anusaMDIyatAm . cakravAkaH
+068.22-23E: I was then treated with the usual formalities by the king and dismissed. The parrot too is coming after me.
+
+068.24F: etatsarvaM parijYAya yaTAkartavyamanusaMDIyatAm . cakravAko
+068.24A: etat sarvam parijYAya yaTAkartavyam anusaMDIyatAm . cakravAkaH
 
 068.25F: vihasyAha -- deva bakena tAvaddeSAntaramapi gatvA yaTASakti
 068.25A: vihasya Aha -- deva bakena tAvat deSAntaram api gatvA yaTASaktiH
@@ -9602,13 +9710,18 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.26F: rAjakAryamanuzWitam . kiMtu deva svaBAva eza mUrKAnAm . yataH .
 068.26A: rAjakAryam anuzWitam . kim tu deva svaBAvaH ezaH mUrKAnAm . yataH .
 
-068.27F: SataM dadyAn na vivadediti vijYasya saMmatam .
-068.27A: Satam dadyAn na vivadet iti vijYasya saMmatam .
+068.24-26E: All this being considered, let the course to be adopted be well attended to. The Chakravaka observed smilingly -- Please Your Highness, the crane, for one, has advanced Your Highness's interests to the best of his ability. But my lord, this is the nature of fools. For,
+
+068.27F: SataM dadyAnna vivadediti vijYasya saMmatam .
+068.27A: Satam dadyAt na vivadet iti vijYasya saMmatam .
+; dadyAt
 068.27P: na vivadet -- kalahaM na kuryAt .
 068.27P+: vijYasya prAjYasya , paRqitasya .
 
 068.28F: vinA hetumapi dvandvametanmUrKasya lakzaRam .. 31..
 068.28A: vinA hetum api dvandvam etat mUrKasya lakzaRam .. 31..
+
+067.27-28E: One should give a hundred but not quarrel — this is the opinion of the wise : but a strife without cause is the sign of the foolish.
 
 068.29F: rAjAha -- kimatItopAlamBanena . prastutamanusaMDIyatAm .
 068.29A: rAjA Aha -- kim atItopAlamBanena . prastutam anusaMDIyatAm .
@@ -9616,16 +9729,19 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.30F: cakravAko brUte -- deva vijane bravImi . yataH .
 068.30A: cakravAkaH brUte -- deva vijane bravImi . yataH .
 
-; vaktra -> vakra ?
+068.29-30E: The king remarked -- What is the use of finding fault with the past? Let us attend to the matter in hand. Chakravaka -- My lord, I will speak in private. For,
+
 068.31F: varRAkArapratiDvAnErnetravaktravikArataH .
 068.31A: varRAkArapratiDvAnEH netravaktravikArataH .
 068.31P: varRAkAra -- varRaH muKarAgaH .
 068.31P+: AkAraH -- iNgitam . 'AkArastviNga iNgitam' ityamaraH .
 
 068.32F: apyUhanti mano DIrAstasmAdrahasi mantrayet .. 32..
-068.32A: apyUhanti manaH DIrAH tasmAt rahasi mantrayet .. 32..
+068.32A: api Uhanti manaH DIrAH tasmAt rahasi mantrayet .. 32..
 068.32P: Uhanti tarkeRa jAnanti .
 068.32P+: vijane -- rahasi
+
+068.31-32E: The wise read the thoughts of others from complexion, outward features and the echo of voice, as also from the movements of the eyes and the mouth: one should, therefore, hold a consultation in private.
 
 069.01F: rAjA mantrI ca tatra sTitO . anye'nyatra
 069.01A: rAjA mantrI ca tatra sTitO . anye anyatra
@@ -9636,19 +9752,26 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.03F: kasyApyasmanniyoginaH preraRayA bakenedamanuzWitam . yataH .
 069.03A: kasya api asmat niyoginaH preraRayA bakena idam anuzWitam . yataH .
 
-069.04F: vedyAnAmAturaH SreyAnvyasanI yo niyoginAm .
-069.04A: vedyAnAm AturaH SreyAn vyasanI yaH niyoginAm .
+069.01-03E: The king and the minister remained there; the rest withdrew to other places. The Chakravaka spoke -- Sire, my idea is this -- The crane has done this at the instigation of some one of our officers. For,
+
+069.04F: vEdyAnAmAturaH SreyAnvyasanI yo niyoginAm .
+069.04A: vEdyAnAm AturaH SreyAn vyasanI yaH niyoginAm .
 069.04P: AturaH SreyAn vEdyA arTalABAdAturaM bahu manyante iti BAvaH .
 069.04P+: AturaH rugRaH .
 
 069.05F: viduzAM jIvanaM mUrKaH sadvarRo jIvanaM satAm .. 33..
+; sadvarRa : 'high caste'
 069.05A: viduzAm jIvanam mUrKaH sadvarRaH jIvanam satAm .. 33..
+
+069.04-05E: A sick man is most welcome to physicians, and such is one who is vicious (or, one in trouble) to the officers of state: the clever prey upon fools, while one of a high caste is the life of the good.
 
 069.06F: rAjAbravIt -- Bavatu kAraRamatra
 069.06A: rAjA abravIt -- Bavatu kAraRam atra
 
 069.07F: paScAnnirUpaRIyam . samprati yatkartavyaM tan nirUpyatAm .
 069.07A: paScAt nirUpaRIyam . samprati yat kartavyam tat nirUpyatAm .
+
+069.06-07E: The king remarked -- Be that as it may. The cause may be investigated afterwards. Just now let it be determined what steps we are to take.
 
 069.08F: cakravAko brUte -- deva praRiDistAvattatra
 069.08A: cakravAkaH brUte -- deva praRiDiH tAvat tatra
@@ -9658,6 +9781,9 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.09A: yAtu . tataH tat anuzWAnam balAbalam ca jAnImaH . taTA hi .
 069.09P: anuzWAnaM vyavasAyam .
 
+069.08-09E: Chakravaka -- My lord, let our spy first go
+there so that we may know of their doings as well as their strength and weaknees. For,
+
 069.10F: BavetsvapararAzwrARAM kAryAkAryAvalokane .
 069.10A: Bavet svapararAzwrARAm kAryAkAryAvalokane .
 
@@ -9665,8 +9791,10 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.11A: cAraH cakzuH mahIBartuH yasya na asti anDaH eva saH .. 34..
 069.11P: cAraH cakzuH -- atra kAmandakaH 'gAvaH paSyanti ganDena vedEH paSyanti ca dvijAH . cArEH paSyanti rAjAnaScakzuzurByAmitare janAH .' iti . rAmAyaRepi 'yasmatpaSyanti dUrasTAH sarvAnarTAnnarADipAH . cAreRa tasmAducyate rAjAnaScAracakzuzaH .' iti .
 
+069.10-11E: A spy is the eye of a king in the determination of what policy to pursue or what to abandon with regard to his own kingdom or that of his enemies: he who has it not is quite blind.
+
 069.12F: sa ca dvitIyaM viSvAsapAtraM gfhItvA yAtu .
-069.12A: sa ca dvitIyam viSvAsapAtram gfhItvA yAtu .
+069.12A: saH ca dvitIyam viSvAsapAtram gfhItvA yAtu .
 
 069.13F: tenAsO svayaM tatrAvasTAya dvitIyaM tatratyamantrakAryaM
 069.13A: tena asO svayam tatra avasTAya dvitIyam tatratyamantrakAryam
@@ -9677,13 +9805,17 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.14P: suniBftaM -- suguptam .
 069.14P+: niScitya -- avaDarya .
 
-069.15F: tIrTASramasurasTAne SAstaravijYAnahetunA .
-069.15A: tIrTASramasurasTAne SAstaravijYAnahetunA .
+069.12-14E: Let him, too, take with him a second person worthy of confidence, so that himself staying there he might very secretly ascertain the secret measures adopted by the enemy there, and having communicated the same to him, would send him here. For it is said
+
+069.15F: tIrTASramasurasTAne SAstravijYAnahetunA .
+069.15A: tIrTASramasurasTAne SAstravijYAnahetunA .
 
 069.16F: tapasvivyaYjanopetEH svacarEH saha saMvaset .. 5..
 069.16A: tapasvivyaYjanopetEH svacarEH saha saMvaset .. 35..
 069.16P: tapasvi -- tapasvinAM vyaYjanaM lakzaRaM veza iti yAvat tena upetEH . varRiliNgigaBiH ityarTaM . 'sa varRiliNgI viditaH samayAyO' iti kirAtArjunIye .
 069.16P+: saMvadet mantrayet . atra kAmandakaH -- 'cArAnvicArayettIrTe AtmanaSca parasya ca . pAzaRqAdInavijYAtAnanyonyamitarErapi' iti .
+
+069.15-16E: (A king ) should hold discourse with his spies gathered under the disguise of ascetics at some holy place or a hermitage or a temple with the (outward) object of learning the truths of the sastras.
 
 069.17F: gUQacAraSca yo jale sTale
 069.17A: gUQacAraH ca yaH jale sTale
@@ -9692,13 +9824,15 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.18F: carati . tato'sAveva bako niyujyatAm . etAdfSa eva kaScid
 069.18A: carati . tataH asO eva bakaH niyujyatAm . etAdfSa eva kaH cid
 
-069.19F: bako dvitIyatvena prayAtu . tadgfhalokASca rAjadvAre
-069.19A: bakaH dvitIyatvena prayAtu . tadgfhalokAH ca rAjadvAre
+069.19F: bako dvitIyatvena prayAtu . tadgfhalokASca rAjadvAre tizWatu . 
+069.19A: bakaH dvitIyatvena prayAtu . tadgfhalokAH ca rAjadvAre tizWatu . 
 069.19P: tadgfhalokaH -- tayoH bakayoH parivAraH .
+069.19P+: tizWatu pratiBUtvena vartatAm .
 
-069.20F: tizWatu . kiMtu deva etadapi suguptamanuzWAtavyam . yataH .
-069.20A: tizWatu . kim tu deva etat api suguptam anuzWAtavyam . yataH .
-069.20P: tizWatu pratiBUtvena vartatAm .
+069.20F: kiMtu deva etadapi suguptamanuzWAtavyam . yataH .
+069.20A: kim tu deva etat api suguptam anuzWAtavyam . yataH .
+
+069.17-20E: A secret spy is one who can move in water or on land. Let that very crane, therefore be appointed. Let some such other crane go with him as his companion; and let the members of their families stay at the royal gate.  But my lord, all thiş should be done, with the profoundest secrecy. For,
 
 069.21F: zawkarRo Bidyate mantrastaTA prAptaSca vArtayA .
 069.21A: zawkarRaH Bidyate mantraH taTA prAptaH ca vArtayA .
@@ -9708,6 +9842,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.22F: ityAtmanA dvitIyena mantraH kAryo mahIBftA .. 36..
 069.22A: iti AtmanA dvitIyena mantraH kAryaH mahIBftA .. 36..
 
+069.21-22E: Counsel when reaching six ears (if heard by a third person) leaks out as well as that got by hearsay: wherefore a king should deliberate with himself as the second (i. e. with his minister alone).
+
 069.23F: paSya . mantraBede'pi ye dozA Bavanti pfTivIpateH .
 069.23A: paSya . mantraBede api ye dozAH Bavanti pfTivIpateH .
 069.23P: dozAH anarTAH anizwAni .
@@ -9716,11 +9852,15 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.24A: na SakyAH te samADAtum iti nItividAm matam .. 37..
 069.24P: samADAtum pratikartum .
 
+069.23-24E: Observe. The evils resulting to a king from his counsels getting out are not capable of being remedied -- such is the opinion of those who are versed in politics.
+
 069.25F: rAjA vimfSyovAca -- prAptastAvanmayottamaH praRiDiH .
 069.25A: rAjA vimfSya uvAca -- prAptaH tAvat mayA uttamaH praRiDiH .
 
 069.26F: mantrI brUte -- tadA saNgrAmavijayo'pi prAptaH .
 069.26A: mantrI brUte -- tadA saNgrAmavijayaH api prAptaH .
+
+069.25-26E: The king after reflecting -- I have got the best emissary. The minister -- Then success in battle too is got.
 
 069.27F: atrAntare pratIhAraH praviSya
 069.27A: atra antare pratIhAraH praviSya
@@ -9728,22 +9868,28 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.28F: praRamyovAca deva -- jambudvIpAdAgato dvAri SukastizWati .
 069.28A: praRamya uvAca deva -- jambudvIpAt AgataH dvAri SukaH tizWati .
 
-069.29F: rAjA cakravAkamAlokate . cakravAkenoktam -- kftAvAse tAvadgatvA
-069.29A: rAjA cakravAkamAlokate . cakravAkena uktam -- kftAvAse tAvat gatvA
+069.29F: rAjA cakravAkamAlokate . cakravAkenoktam -- kftAvAse tAvadgatvA Bavatu . 
+069.29A: rAjA cakravAkam Alokate . cakravAkena uktam -- kftAvAse tAvat gatvA Bavatu . 
 069.29P: cakravAkamAlokate -- kartavyanirdeSApekzayA tanmuKaM paSyatItyarTaH .
 069.29P+: kftAvAse -- praRiDyarTaM nirmite gfhe .
 
-070.01F: Bavatu . paScAdAnIya drazwavyaH .
-070.01A: Bavatu . paScAt AnIya drazwavyaH .
+069.27-29E: Just then the door-keeper, having entered, said after bowing -- Sire, a parrot who has come from Jambudvipa is waiting at the door. The king looked at Chakravaka. Chakravaka said -- let him first go to the residence prepared for him and wait there.
+
+070.01F: paScAdAnIya drazwavyaH .
+070.01A: paScAt AnIya drazwavyaH .
 
 070.02F: pratIhArastamAvAsasTAnaM nItvA gataH .
 070.02A: pratIhAraH tam AvAsasTAnam nItvA gataH .
+
+070.01-02E: We shall send for him afterwards and grant him an interview. The door-keeper took the parrot to the residence and departed.
 
 070.03F: rAjAha -- vigrahastAvadupasTitaH .
 070.03A: rAjA Aha -- vigrahaH tAvat upasTitaH .
 
 070.04F: cakravAko brUte -- deva taTApi sahasA vigraho na viDiH . yataH .
 070.04A: cakravAkaH brUte -- deva taTA api sahasA vigrahaH na viDiH . yataH .
+
+070.03-04E: The king -- As for war it is imminent. Chakravaka -- Still to go to war all at once is no wise policy. For,
 
 070.05F: sacivaH kiM sa mantrI vA ya AdAveva BUpatim .
 070.05A: sacivaH kim saH mantrI vA yaH AdO eva BUpatim .
@@ -9753,11 +9899,15 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 070.06P: nirdiSati -- upadiSati .
 070.06P+: avicAritam -- avicArya . Slo. 39-40. manu.a.sapta.Slo. 198-99 drazwavyO .
 
+070.05-06E: Is he a servant or a counsellor, who, without due consideration, advises his sovereign at the outset to prepare for war or to quit his land?
+
 070.07F: aparaM ca . vijetuM prayatetArInna yudDena kadAcana .
 070.07A: aparam ca . vijetum prayateta arIn na yudDena kadAcana .
 
 070.08F: anityo vijayo yasmAd dfSyate yuDyamAnayoH .. 39.
 070.08A: anityaH vijayaH yasmAt dfSyate yuDyamAnayoH .. 39.
+
+070.07-08E: Moreover, One should try to put down an enemy but never by means of fight: for victory in the case of combatants is always uncertain.
 
 070.09F: anyacca . sAmnA dAnena Bedena samastEraTavA pfTak .
 070.09A: anyat ca . sAmnA dAnena Bedena samastEH aTavA pfTak .
@@ -9766,8 +9916,10 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 070.09P++: BedaH -- SatroramAtyAdInAmupAyena parato viSlizyAtmasAtkaraRaM BedaH . sa triviDaH 'sneharAgApanayanaM saMharzotpAdanaM taTA . saMtarjanaM ca BedajYErBedastu triviDaH smftaH .'
 
 070.10F: sADituM prayatetArIn na yudDena kadAcana .. 40..
-070.10A: sADitum prayatetArIn na yudDena kadAcana .. 40..
+070.10A: sADitum prayateta arIn na yudDena kadAcana .. 40..
 070.10P: sADitum -- vaSIkartum .
+
+070.09-10E: Again, One should strive to subdue an enemy by conciliatory means, by gifts, by (sowing seeds of) discord -- by all these simultaneously or singly -- but never by battle.
 
 070.11F: yataH . sarva eva janaH SUro hyanAsAditavigrahaH .
 070.11A: yataH . sarvaH eva janaH SUraH hi anAsAditavigrahaH .
@@ -9776,21 +9928,29 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 070.12F: adfzwaparasAmarTyaH sadarpaH ko Bavenna hi .. 41..
 070.12A: adfzwaparasAmarTyaH sadarpaH kaH Bavet na hi .. 41..
 
+070.11-12E: And further, Every man is a hero as long as not engaged in a fight: who will not be proud that has not yet experienced the strength of his enemy (or, of another)?
+
 070.13F: kiM ca . na taTotTApyate grAvA prARiBirdAruRA yaTA .
 070.13A: kim ca . na taTotTApyate grAvA prARiBiH dAruRA yaTA .
 070.13P: dAruRA yaTA -- yaTA grAvA uttolanadaRqena sahAyena suKenEva utTApyate taTA prARiBiH kevalayA SaktyA na utTApyate ityarTaH .
 
 070.14F: alpopAyAnmahAsidDiretanmantraPalaM mahat .. 42..
-070.14A: alpopAyAn mahAsidDiH etat mantraPalam mahat .. 42..
+070.14A: alpopAyAt mahAsidDiH etat mantraPalam mahat .. 42..
+
+070.13-14E: Moreover, A stone is not raised by men so easily as it is with a pole (serving as a lever); great success by trifling means is the great fruit of counsel.
 
 070.15F: kiMtu vigrahamupasTitaM vilokya vyavahriyatAm . yataH .
 070.15A: kim tu vigraham upasTitam vilokya vyavahriyatAm . yataH .
+
+070.15-15E: But seeing that war is at hand let the necessary steps be taken. For,
 
 070.16F: yaTA kAlakftodyogAt kfziH PalavatI Bavet .
 070.16A: yaTA kAlakftodyogAt kfziH PalavatI Bavet .
 
 070.17F: tadvannItiriyaM deva cirAt Palati na kzaRAt .. 43..
-070.17A: tat vat nItiH iyam deva cirAt Palati na kzaRAt .. 43..
+070.17A: tadvat nItiH iyam deva cirAt Palati na kzaRAt .. 43..
+
+070.16-17E: As husbandry becomes fruitful from labour spent upon it in due season, so, my lord, this policy (political measures) bears fruit after a long time (when the proper time comes), and not in a moment.
 
 070.18F: aparaM ca . mahato dUraBIrutvamAsanne SUratA guRaH .
 070.18A: aparam ca . mahataH dUraBIrutvam Asanne SUratA guRaH .
@@ -9800,6 +9960,8 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 070.19F: vipattO hi mahAMlloke DIratAmaDigacCati .. 44..
 070.19A: vipattO hi mahAn loke DIratAm aDigacCati .. 44..
 
+070.18-19E: Again Fearing a danger when at a distance but displaying bravery when it is at hand is a virtue that belongs to the great : a great man, in this world, conducts himself bravely in adversity.
+; 12-22-2021 end.
 070.20F: anyacca . pratyUhaH sarvasidDInAmuttApaH praTamaH kila .
 070.20A: anyat ca . pratyUhaH sarvasidDInAm uttApaH praTamaH kila .
 070.20P: uttApaH -- cittasaMkzoBajanitA nEsargikaDEryacyutirityarTaH .
