@@ -403,6 +403,7 @@
 003.28F: yatne kfte yadi na siDyati ko'tra dozaH .. 31..
 003.28A: yatne kfte yadi na siDyati kaH atra dozaH .. 31..
 003.28P: yatne kfte, i° -- yatne kfte api yadi kAryaM na sidDyati tarhi atra asmin vizaye kartuH kaH dozaH na kaScidapi .
+; i° = ityAdi
 003.28P+: yadvA yatne kfte yadi kAryaM na sidDyati tarhi atra ko me dozaH iti kartrA vicAraRA kAryA . kAryasidDeH udyamAyattatvAt kAryavipatteSca dozaM vinA asaMBavAt .
 
 003.27-28E: Dismissing all idea about (lit., killing) fate, put forth manly efforts depending upon your own strength; and if, after an exertion is made, success attend not, where is the blame (i.e., you are not to blame; or, find out where the fault lay)?
@@ -2487,7 +2488,7 @@
 017.32F: prItyA sajjanaBAzitaM praBavati prAyo yaTA cetasaH
 ; prAyaH =? prAyas : 'for the most part'
 017.32A: prItyA sajjanaBAzitam praBavati prAyaH yaTA cetasaH
-017.32P: prItyA <ab n="ityAdi">i</ab> -- sadyuktyA puraskftaM sanATaM
+017.32P: prItyA i° -- sadyuktyA puraskftaM sanATaM
 
 017.33F: sadyuktyA ca puraskftaM sukftinAmAkfzwimantropamam .. 98..
 017.33A: sadyuktyA ca puraskftam sukftinAm Akfzwimantropamam .. 98..
@@ -3313,7 +3314,7 @@
 
 023.10F: tfRAni SayyA pariDAnavalkalaM
 023.10A: tfRAni SayyA pariDAnavalkalam
-023.10P: tfRAni <ab n="ityAdi">i</ab> -- yatra tfRAnyeva SayyA valkalameva pariDAnaM tAdfgvanaM varam .
+023.10P: tfRAni i° -- yatra tfRAnyeva SayyA valkalameva pariDAnaM tAdfgvanaM varam .
 
 023.11F: na banDumaDye DanahInajIvanam .. 152 ..
 023.11A: na banDumaDye DanahInajIvanam .. 152 ..
@@ -3683,7 +3684,7 @@
 026.12A: karanihatakandukasamAH pAtotpAtAH manuzyARAm .. 177..
 
 026.11-12E: Why should you be proud when you have wealth, and why should you be sorry when you have lost it? The ups and downs (in the life) of man are like (risings and fallings of) a ball struck with the hand.
-; xxxx
+; 
 026.13F: aparaM ca . aBracCAyA KalaprItirnavasasyAni yozitaH .
 026.13A: aparam ca . aBracCAyA KalaprItiH navasasyAni yozitaH .
 
@@ -3907,7 +3908,7 @@
 027.32A: saMcaranti . mfgeRa uktam .
 
 027.29-32E: Now Manthara asked -- Friend deer, by whom were you frightened in this desolate wood? What, are there huntsmen roaming about? The deer replied.
-; xxxx
+; 
 028.01F: asti kaliNgavizaye rukmANgado nAma nfpatiH . sa ca digvijayavyApArakrameRAgatya
 028.01A: asti kaliNgavizaye rukmANgadaH nAma nfpatiH . saH ca digvijayavyApArakrameRa Agatya
 028.01P: vizaye deSe
@@ -4956,7 +4957,7 @@
 
 036.03F: viSezataSca . praRamatyunnatihetorjIvitahetorvimuYcati prARAn .
 036.03A: viSezataH ca . praRamati unnatihetoH jIvitahetoH vimuYcati prARAn .
-036.03P: praRamati <ab n="ityAdi">i</ab> -- unnatiM uccEH padamicCantaH praRamanti sA praRatireva uccatvaviGAtinI .
+036.03P: praRamati i° -- unnatiM uccEH padamicCantaH praRamanti sA praRatireva uccatvaviGAtinI .
 
 036.04F: duHKIyati suKahetoH ko mUQaH sevakAdanyaH .. 27..
 036.04A: duHKIyati suKahetoH kaH mUQaH sevakAt anyaH .. 27..
@@ -5211,7 +5212,7 @@
 037.22F: pfzWataH sevayedarkaM jaWareRa hutASanam .
 ; arka = sun
 037.22A: pfzWataH sevayet arkam jaWareRa hutASanam .
-037.22P: pfzWataH <ab n="ityAdi">i</ab> -- sUryAtapaM pfzWe gfhRIyAt .
+037.22P: pfzWataH i° -- sUryAtapaM pfzWe gfhRIyAt .
 
 037.23F: svAminaM sarvaBAvena paralokamamAyayA .. 34..
 037.23A: svAminam sarvaBAvena paralokam amAyayA .. 34..
@@ -5429,7 +5430,7 @@
 
 039.12F: kiyatA kAlenAmAtyAH praDAnatAmapraDAnatAM vA laBante . yataH .
 039.12A: kiyatA kAlena AmAtyAH praDAnatAm apraDAnatAm vA laBante . yataH .
-039.12P: kiyatA <ab n="ityAdi">i</ab> -- kiyAn kiMpramARakaH sa kAlaH yena amAtyAH agryaM avaraM vA padaM prApnuvanti . acirAdevetyarTaH .
+039.12P: kiyatA i° -- kiyAn kiMpramARakaH sa kAlaH yena amAtyAH agryaM avaraM vA padaM prApnuvanti . acirAdevetyarTaH .
 039.12P+: yaH rAjakAryaDuraMDaraH sa SIGraM mUrDanyaM padamArohati yaH na taTA sa parAcInaM padaM laBate . taTAhi uccanIcapadalABo guRAguRanibanDano na kAlAyatta iti BAvaH .
 
 039.11-12E: Damanaka replied -- In what space of time (i.e. in a short time if they have the ability) do ministers become principal or subordinate ? For,
@@ -5443,7 +5444,7 @@
 
 039.15F: loke gurutvaM viparItatAM vA
 039.15A: loke gurutvam viparItatAm vA
-039.15P: loke <ab n="ityAdi">i</ab> -- asya samAnAMrTaH SlokAMSaH -- 'AtmEva hyAtmano banDurAtmEva ripurAtmanaH' jAtO ekavacanam .
+039.15P: loke i° -- asya samAnAMrTaH SlokAMSaH -- 'AtmEva hyAtmano banDurAtmEva ripurAtmanaH' jAtO ekavacanam .
 
 039.16F: svacezwitAnyeva naraM nayanti .. 46..
 039.16A: svacezwitAni eva naram nayanti .. 46..
@@ -5505,14 +5506,14 @@
 
 039.28F: AkArEriNgitErgatyA cezwayA BAzaRena ca .
 039.28A: AkArEH iNgitEH gatyA cezwayA BAzaRena ca .
-039.28P: AkArEH <ab n="ityAdi">i</ab> -- BrukuwImuKarAgAdiH AkAraH .
+039.28P: AkArEH i° -- BrukuwImuKarAgAdiH AkAraH .
 039.28P+: iNgitaM -- aBiprAyAnurUpA cezwA . ma. smf. a. 8 Slo. 26 .
 
 039.29F: netravaktravikAreRa lakzyate'ntargataM manaH .. 50..
 039.29A: netravaktravikAreRa lakzyate antargatam manas .. 50..
 
 039.28-29E: The inmost thoughts of a man are divined from his features, gestures, movements, actions, speech and the motion of the eyes and the face.
-; xxxx
+; 
 040.01F: tadatra BayaprastAve
 040.01A: tad atra BayaprastAve
 040.01P: BayaprastAve -- prastAvaH avasaraH prasaNgaH . ' prastAvaH syAdavasaraH ' ityamaraH .
@@ -7346,7 +7347,7 @@
 
 052.21F: trAsahetorvinItistu kriyate jIvitASayA .
 052.21A: trAsahetoH vinItiH tu kriyate jIvitASayA .
-052.21P: trAsahetoH <ab n="ityAdi">i</ab> jIvitASayA prARarakzApekzayA trAsahetoH BayahetoH vinItiH vinayaH kriyate anuzWIyate . tadanuroDAdvinayena vartanaM kriyate yaducitam .
+052.21P: trAsahetoH i° jIvitASayA prARarakzApekzayA trAsahetoH BayahetoH vinItiH vinayaH kriyate anuzWIyate . tadanuroDAdvinayena vartanaM kriyate yaducitam .
 
 052.22F: paYcatvaM cedgamizyAmi kiM siMhAnunayena me .. 123..
 052.22A: paYcatvam cet gamizyAmi kim siMhAnunayena me .. 123..
@@ -7758,7 +7759,7 @@ A wicked man, even though served every day, reverts to his natural disposition, 
 
 055.14F: AtmanAvagataM kftvA baDnIyAtpUjayeta vA .. 141..
 055.14A: AtmanA avagatam kftvA baDnIyAt pUjayeta vA .. 141..
-055.14P: AtmanAvagamaM kftvA -- svayaM yATArTyaM jYAtvA . viDirgrahanigrahe grahanigrahO na kartavyO ityarTaH .kftO cet svanASAya <ab n="ityAdi">i</ab> .
+055.14P: AtmanAvagamaM kftvA -- svayaM yATArTyaM jYAtvA . viDirgrahanigrahe grahanigrahO na kartavyO ityarTaH .kftO cet svanASAya i° .
 055.14P+: grahaH niroDaH nirbanDaH . 'grahonugrahanirbanDagrahaRezu raRodyame . sUryAdO pUtanAdO ca sEMhikeyoparAgayoH' . iti viSvaH .
 
 055.12-14E: Pingalaka (To himself) -- One should not inflict punishment upon others by (listening to) the adverse representation of another : but having ascertained the truth for oneself, one shonld mete out punishment or praise.
@@ -7834,7 +7835,7 @@ A wicked man, even though served every day, reverts to his natural disposition, 
 ; Kale scan has missing data in this and next 3 lines.
 056.07F: sa mftyumeva gfhRAti garBamaSvatarI yaTA .. 146..
 056.07A: saH mftyum eva gfhRAti garBam aSvatarI yaTA .. 146..
-056.07P: garBamaSvatarI yaTA -- yaTA aSvatarI gardaBajA aSvA garBaM mftyumeva gfhRAti garBarUpaM mftyumevodare vahati ityarTaH . sA hi garBamocanasamaye udaraBedAnmriyate iti prasidDiH . taTA hi mahABAratam -- 'daRqanopanataM SatrumanugfhRAti yo naraH . sa mftyumupagfhRAti garBamaSvatarI yaTA ' . rAmAyaRaM ca -- 'udarasya samutTAne svagarBoSvatarImiva ' [hanti] <ab n="ityAdi">i</ab> .
+056.07P: garBamaSvatarI yaTA -- yaTA aSvatarI gardaBajA aSvA garBaM mftyumeva gfhRAti garBarUpaM mftyumevodare vahati ityarTaH . sA hi garBamocanasamaye udaraBedAnmriyate iti prasidDiH . taTA hi mahABAratam -- 'daRqanopanataM SatrumanugfhRAti yo naraH . sa mftyumupagfhRAti garBamaSvatarI yaTA ' . rAmAyaRaM ca -- 'udarasya samutTAne svagarBoSvatarImiva ' [hanti] i° .
 
 056.06-07E: He who wishes to conciliate a friend once estranged invites death itself like a she-mule conceiving a fetus.
 
@@ -8029,7 +8030,7 @@ The lion asked how it was. Damanaka related --
 
 057.18F: kaH kAlasya BujAntaraM na ca gataH ko'rTI gato gOravaM
 057.18A: kaH kAlasya BujAntaram na ca gataH kaH arTI gataH gOravam
-057.18P: kAlasya <ab n="ityAdi">i</ab> -- yamasya vaSatAM gataH kAlena na kavalitaH .
+057.18P: kAlasya i° -- yamasya vaSatAM gataH kAlena na kavalitaH .
 
 057.19F: ko vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
 057.19A: kaH vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn .. 151..
@@ -8831,7 +8832,7 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 063.08F: suKinaH pakziRo'smAnnindanti . tad Bavatu tAvadvfzwerupaSamaH .
 063.08A: suKinaH pakziRaH asmAn nindanti . tat Bavatu tAvat vfzweH upaSamaH .
-063.08P: tadBavatu <ab n="ityAdi">i</ab> -- tAvad avaDO . 'yAvattAvacca sAkalye'vaDO' ityamaraH .
+063.08P: tadBavatu i° -- tAvad avaDO . 'yAvattAvacca sAkalye'vaDO' ityamaraH .
 063.08P+: upaSamaH -- SAntiH nivfttiH .
 
 063.06-08E: Hearing this, the monkeys being enraged said to themselves - Oh, the birds comfortably lodged in the interior of their neats not exposed to the blast, are reproaching us! Well, let the showers just cease.
@@ -9660,7 +9661,7 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 068.13P+: mahIyate -- pUjyate .
 
 068.12-13E: Moreover, Just as a snake-catcher forcibly draws a serpent out of its hole, so does she take her husband to heaven and is exalted with him.
-; 12-22-2021 end
+
 068.14F: aparaM ca . citO parizvajya vicetanaM patiM
 068.14A: aparam ca . citO parizvajya vicetanam patim
 068.14P: citO citAyAm .
@@ -9971,8 +9972,12 @@ there so that we may know of their doings as well as their strength and weaknees
 070.21P: BUBftaH -- parvatAn .
 070.21P+: atiSItalami -- SAntacittatayA vyavaharatA vijayaH suKaM laByate iti BAvaH .
 
+070.20-21E: Also, Mental agitation is the first (greatest) obstacle to success of every kind: does not water, even though exceedingly cold, break through a mountain?
+
 070.22F: viSezataSca deva mahAbalo'sO citravarRo rAjA . yataH .
 070.22A: viSezataH ca deva mahAbalaH asO citravarRaH rAjA . yataH .
+
+070.22-22E: More particularly because king Chitravarna is very powerful. For,
 
 070.23F: balinA saha yodDavyamiti nAsti nidarSanam .
 070.23A: balinA saha yodDavyam iti na asti nidarSanam .
@@ -9982,13 +9987,17 @@ there so that we may know of their doings as well as their strength and weaknees
 070.24A: tat yudDam hastinA sArDam narARAm mftyum Avahet .. 46..
 070.24P: taditi -- yannarARAM ... tat .
 
+070.23-24E: There is no ordinance to the affect that one should fight with the powerful: that fight which is between men and elephants must result in the destruction of the former.
+
 071.01F: anyacca . sa mUrKaH kAlamaprApya yo'pakartari vartate .
-071.01A: anyat ca . sa mUrKaH kAlam aprApya yaH apakartari vartate .
+071.01A: anyat ca . saH mUrKaH kAlam aprApya yaH apakartari vartate .
 071.01P: apakartari vartate -- apakartari SatrO vizaye vartate aBiyogaM kurute . yudDodyoge pravartate ityarTaH .
 
 071.02F: kalirbalavatA sArDaM kIwapakzodgamo yaTA .. 47..
 071.02A: kaliH balavatA sArDam kIwapakzodgamaH yaTA .. 47..
 071.02P: kIwasya pipIlikAdeH pakzodgamaH yaTA tannASAya Bavati taTA . pakzodyama iti pAWe sa yaTA akiMcitkarastaTA ityarTaH .
+
+071.01-02E: Again, He is a fool who without getting the proper opportunity commences operations against his adversary: a strife with the powerful is like an insect getting wings (UAT v. l. like the exertions of an insect's wings, i. e. quite futile ).
 
 071.03F: kiM ca . kOrmaM saMkocamAsTAya prahAramapi marzayet .
 071.03A: kim ca . kOrmam saMkocam AsTAya prahAram api marzayet .
@@ -9996,17 +10005,23 @@ there so that we may know of their doings as well as their strength and weaknees
 071.04F: prAptakAle tu nItijYa uttizWetkrUrasarpavat .. 48..
 071.04A: prAptakAle tu nItijYaH uttizWet krUrasarpavat .. 48..
 
+071.03-04E:  Moreover, Having recourse to the tortoise's mode of contracting its body one should suffer even a blow: but when the right time comes, one, knowing the policy, should rise like a fierce cobra.
+
 071.05F: SfRu deva . mahatyalpe'pyupAyajYaH samameva Bavet kzamaH .
 071.05A: SfRu deva . mahati alpe api upAyajYaH samam eva Bavet kzamaH .
 
 071.06F: samunmUlayituM vfkzAMstfRAnIva nadIrayaH .. 49..
 071.06A: samunmUlayitum vfkzAn tfRAni iva nadIrayaH .. 49..
 
-071.07F: attastaddUto'yaM
+071.05-06E: I invite your attention, my lord, to this, One who knows how to use the proper remedies is able to uproot the great and the small equally, as is the current of a river which sweeps away the trees and grass.
+
+071.07F: atastaddUto'yaM
 071.07A: ataH tat dUtaH ayam
 
 071.08F: Suko'trASvAsya tAvadDriyatAM yAvaddurgaM sajjIkriyate . yataH .
 071.08A: SukaH atra ASvAsya tAvat DriyatAm yAvat durgam sajjIkriyate . yataH .
+
+071.07-08E: For this purpose, let this parrot, the enemy's emissary, be given assurances and detained here until the fortress is prepared. For, 
 
 071.09F: ekaH SataM yoDayati prAkArasTo DanurDaraH .
 071.09A: ekaH Satam yoDayati prAkArasTaH DanurDaraH .
@@ -10016,31 +10031,41 @@ there so that we may know of their doings as well as their strength and weaknees
 071.10A: Satam SatasahasrARi tasmAt durgam viDIyate .. 50..
 071.10P: viDIyate -- kartavyatayA upadiSyate . durgaviDAne ca manuH -- 'DanurdurgaM mahIdurgamabdurgaM vArkzameva vA . nfdurgaM giridurgaM vA samASritya vasetpuram .' iti .
 
+071.09-10E: A single bowman standing on the battlement can fight a hundred, and, a hundred a hundred thousand : hence a fortress is set down (* by writers of military science) as necessary.
+
 071.11F: adurgovizayaH kasya nAreH pariBavAspadam .
-071.11A: adurgaH vizayaH kasya nAreH pariBavAspadam .
+071.11A: adurgaH vizayaH kasya na areH pariBavAspadam .
 071.11P: kasyAreH -- paMcamarTe zazWI . rAjYo vizayaH adurgaH syAccet kasmAt SatroH tasya parABavaH na syAt . yadvA kasya vizayaH iti yojanA . tadeva spazwayati adurgaH rAjA potacyutamanuzyavad anASrayaH nirAlambaH mriyate ityarTaH .
 
 071.12F: adurgo'nASrayo rAjA potacyutamanuzyavat .. 51..
-071.12A: adurgaH anASrayaH rAjA potacyutam anuzyavat .. 51..
+; pota: ship, cyuta: moved
+071.12A: adurgaH anASrayaH rAjA potacyutamanuzyavat .. 51..
+
+071.11-12E: The territory of what king which is without strongholds is not liable to be conquered by the enemy? A king who has no fortress is helpless like a man fallen overboard.
 
 071.13F: durgaM kuryAn mahAKAtamuccaprAkArasaMyutam .
-071.13A: durgam kuryAn mahAKAtam uccaprAkArasaMyutam .
+071.13A: durgam kuryAt mahAKAtam uccaprAkArasaMyutam .
 071.13P: mahAKAtam -- mahat KAtaM pariKA yasya .
 071.13P+: prAkAraH -- prAnto BittiH .
 
 071.14F: sayantraM sajalaM SElasarinmaruvanASrayam .. 52..
-071.14A: sayantram sajalam SElasarit maruvanASrayam .. 52..
+071.14A: sayantram sajalam SEla-sarit-maru-vanASrayam .. 52..
 071.14P: sayantram -- SatrupIqanArTamiti BAvaH .
 
+071.13-14E: One should build a castle with a large trench, furnished with lofty battlements, having machines, and a good supply of water and situated in a place sarrounded by hills, rivers and deserts.
+; 12-23-2021
 071.15F: vistIrRatAtivEzamyaM rasaDAnyeDmasaMgrahaH .
+; ati+vEzamya .  DAnya+iDma
 071.15A: vistIrRatA ativEzamyam rasaDAnyeDmasaMgrahaH .
 071.15P: ativEzamyam -- BUmeH natonnatatA .
 071.15P+: rasa -- rasaH jalam . 'raso ganDe rase jale' iti medinI .
 
 071.16F: praveSaScApasAraSca saptEtA durgasampadaH .. 53..
-071.16A: praveSaH ca apasAraH ca saptEtA durgasampadaH .. 53..
-071.16P: praveSa <ab n="ityAdi">i</ab>
+071.16A: praveSaH ca apasAraH ca saptEtAH durgasampadaH .. 53..
+071.16P: praveSa i°
 071.16P+: praveSanirgamamArgAH .
+
+071.15-16E: Spaciousness, extreme difficulty of access (lit. ruggedness of the ground), a large store of water, grain and fuel and the means of ingress and egress -- these seven are the precious possessions of a fort.
 
 071.17F: rAjAha -- durgAnusaMDAne ko niyujyatAm .
 071.17A: rAjA Aha -- durgAnusaMDAne kaH niyujyatAm .
@@ -10049,19 +10074,26 @@ there so that we may know of their doings as well as their strength and weaknees
 071.18F: cakro brUte --
 071.18A: cakraH brUte --
 
+071.17-18E: The king -- Who should be entrusted with the work of getting the fortress ready? Chakravaka said --
+
 071.19F: yo yatra kuSalaH kArye taM tatra viniyojayet .
 071.19A: yaH yatra kuSalaH kArye tam tatra viniyojayet .
 
 071.20F: karmasvadfzwakarmA yaH SAstrajYo'pi vimuhyati .. 54..
-071.20A: karmasvadfzwakarmA yaH SAstrajYaH api vimuhyati .. 54..
+071.20A: karmasu adfzwakarmA yaH SAstrajYaH api vimuhyati .. 54..
 071.20P: adfzwakarmA -- ajYAtaviDAnaH svayamakftakAryaH .
 071.20P+: vimuhyati -- mohamApadyate . tasya budDistasminkArye samyaN na sPurati .
+
+071.19-20E: One should employ a man in that business in which he is skilled. He who has no practical knowledge of a work gets bewildered (when set to it), although well versed in science.
 
 071.21F: tadAhUyatAM sArasaH . taTAnuzWite satyAgataM sArasamAlokya
 071.21A: tat AhUyatAm sArasaH . taTA anuzWite sati Agatam sArasam Alokya
 
 071.22F: rAjovAca -- BoH sArasa tvaM satvaraM durgamanusaMDehi .
+; sArasa : proper name
 071.22A: rAjA uvAca -- BoH sArasa tvam satvaram durgam anusaMDehi .
+
+071.21-22E: Let Sarasa be called then. That being done, when Sarasa came the king looked at him and said -- Sarasa, quickly attend to the fitting up of a fortress.
 
 071.23F: sArasaH praRamyovAca -- deva durgaM tAvadidameva cirAt
 071.23A: sArasaH praRamya uvAca -- deva durgam tAvat idam eva cirAt
@@ -10070,7 +10102,10 @@ there so that we may know of their doings as well as their strength and weaknees
 071.24A: sunirUpitam Aste mahat saraH .
 
 071.25F: kiMtvatra maDyavartidvIpe dravyasaNgrahaH kAryatAm . yataH .
-071.25A: ki tu atra maDyavartidvIpe dravyasaNgrahaH kAryatAm . yataH .
+071.25A: kim tu atra maDyavartidvIpe dravyasaNgrahaH kAryatAm . yataH .
+; maDyavartidvIpa middle-situated-island
+
+071.23-25E: Sarasa replied after bowing -- As for a fortress, Sire, I have long well marked this large lake as such; only let a stock of provisions be ordered to be laid up in the island which is in its centre. For,
 
 071.26F: DAnyAnAM saMgraho rAjannuttamaH sarvasaMgrahAt .
 071.26A: DAnyAnAm saMgrahaH rAjan uttamaH sarvasaMgrahAt .
@@ -10079,14 +10114,20 @@ there so that we may know of their doings as well as their strength and weaknees
 071.27A: nikziptam hi muKe ratnam na kuryAt prARaDAraRam .. 55..
 071.27P: nikziptamiti -- ratnaM dravyamityarTaH . kevalaM kozasaMvarDaM na kAryakaramiti BAvaH .
 
+071.26-27E: The store of grains, O king, is the best of all stores; because a jewel put into the mouth cannot support life.
+
 072.01F: kiM ca . KyAtaH sarvarasAnAM hi lavaRo rasa uttamaH .
 072.01A: kim ca . KyAtaH sarvarasAnAm hi lavaRaH rasaH uttamaH .
 
-072.02F: gfhRItaM ca vinA tena vyaYjanaM gomayAyate .. 56..
-072.02A: gfhRItam ca vinA tena vyaYjanam gomayAyate .. 56..
+072.02F: gfhItaM ca vinA tena vyaYjanaM gomayAyate .. 56..
+072.02A: gfhItam ca vinA tena vyaYjanam gomayAyate .. 56..
+
+072.01-02E: Moreover, Of all spiced things salt is known to be the best : for a condiment taken without it tastes like cowdung (is quite insipid).
 
 072.03F: rAjAha -- satvaraM gatvA sarvamanutizWa .
 072.03A: rAjA Aha -- satvaram gatvA sarvam anutizWa .
+
+072.03-03E: The king -- Go and attend to everything with despatch.
 
 072.04F: punaH praviSya
 072.04A: punaH praviSya
@@ -10097,26 +10138,34 @@ there so that we may know of their doings as well as their strength and weaknees
 072.06F: saparivAro dvAri tizWati . devapAdaM drazwumicCati .
 072.06A: saparivAraH dvAri tizWati . devapAdam drazwum icCati .
 
+072.04-06E: The door-keeper having entered again -- Sire, a crow, Meghavarna (cloud-colour) by name, who has come from Ceylon, is waiting at the gate with his retinue and wishes to see Your Majesty's feet.
+
 072.07F: rAjAha --
 072.07A: rAjA Aha --
 
 072.08F: kAkaH punaH sarvajYo bahudrazwA ca . tad Bavati saMgrAhyaH .
-072.08A: kAkaH punaH sarvajYaH bahudrazwAH ca . tat Bavati saMgrAhyaH .
+072.08A: kAkaH punar sarvajYaH bahudrazwAH ca . tat Bavati saMgrAhyaH .
+
+072.07-08E:  The king -- A crow again knows everything and has a wide range of observation and is, for this reason, worthy of being retained.
 
 072.09F: cakro brUte -- deva astyevaM . kiMtu kAkaH
 072.09A: cakraH brUte -- deva asti evam . kim tu kAkaH
 
 072.10F: sTalacaraH . tenAsmadvipakzapakze niyuktaH kaTaM saMgrAhyaH .
-072.10A: sTalacaraH . tena asmat vipakzapakze niyuktaH kaTam saMgrAhyaH .
+072.10A: sTalacaraH . tena asmat-vipakzapakze niyuktaH kaTam saMgrAhyaH .
 
 072.11F: taTA coktam --
 072.11A: taTA ca uktam --
+
+072.09-11E: Chakravaka observed -- Sire, this may be. But the crow is a land-bird and is consequently set on the side of our enemies. How should he be admitted, then? For it is said --
 
 072.12F: AtmapakzaM parityajya parapakzezu yo rataH .
 072.12A: Atmapakzam parityajya parapakzezu yaH rataH .
 
 072.13F: sa parErhanyate mUQo nIlavarRaSfgAlavat .. 57..
 072.13A: sa parEH hanyate mUQaH nIlavarRaSfgAlavat .. 57..
+
+072.12-13E: That fool, who deserting his own side is attached to the enemy's party, is killed by the enemies, like the jackal with the blue colour.
 
 072.14F: rAjovAca -- kaTametat .
 072.14A: rAjA uvAca -- kaTam etat .
@@ -10127,19 +10176,26 @@ there so that we may know of their doings as well as their strength and weaknees
 072.16F: .. kaTA 7 ..
 072.16A: .. kaTA 7 ..
 
-072.17F: astyaraRye kaScicCfgAlaH svecCayA nagaropAnte BrAmyan nIlIBARqe
-072.17A: asti araRye kaH cit SfgAlaH svecCayA nagaropAnte BrAmyan nIlIBARqe
+072.14-16E: The king asked how it was. The minister related -- FABLE VII.
+
+072.17F: astyaraRye kaScicCfgAlaH svecCayA nagaropAnte BrAmyan nIlIBARqe patitaH . 
+072.17A: asti araRye kaH cit SfgAlaH svecCayA nagaropAnte BrAmyan nIlIBARqe patitaH . 
 ; Sampada: BrAmyan or should it be BrAmayan?
 ; Jim: OK. This is m1s of prap of  Bram 4p
 
-072.18F: patitaH . paScAttata utTAtumasamarTaH prAtarAtmAnaM mftavat
-072.18A: patitaH . paScAt tataH utTAtum asamarTaH prAtaH AtmAnam mftavat
+072.18F: paScAttata utTAtumasamarTaH prAtarAtmAnaM mftavat saMdarSya sTitaH . 
+072.18A: paScAt tataH utTAtum asamarTaH prAtaH AtmAnam mftavat saMdarSya sTitaH . 
 
-072.19F: saMdarSya sTitaH . aTa nIlIBARqasvAminA mfta iti jYAtvA
-072.19A: saMdarSya sTitaH . aTa nIlIBARqasvAminA mftaH iti jYAtvA
+072.17-18E: A certain jackal that lived in a forest, fell, while wandering on the borders of a town, into an indigo-pot. Thereupon, not being able to get out of it, he feigned himself dead in the morning and so remained.
+
+072.19F: aTa nIlIBARqasvAminA mfta iti jYAtvA
+072.19A: aTa nIlIBARqasvAminA mftaH iti jYAtvA
 
 072.20F: tasmAtsamutTApya dUre nItvApasAritastasmAtpalAyitaH .
+; sArita : sf caus. ppp ?
 072.20A: tasmAt samutTApya dUre nItvA apasAritaH tasmAt palAyitaH .
+
+072.19-20E: Now the master of the indigo-pot, taking him to be dead, lifted him out of it, and carrying him to a distance, cast him off, whence he ran off.
 
 072.21F: tato'sO vanaM gatvA svakIyamAtmAnaM nIlavarRamavalokyAcintayat --
 072.21A: tataH asO vanam gatvA svakIyam AtmAnam nIlavarRam avalokya acintayat --
@@ -10147,7 +10203,10 @@ there so that we may know of their doings as well as their strength and weaknees
 
 072.22F: ahamidAnImuttamavarRaH . tad ahaM svakIyotkarzaM kiM na sADayAmi .
 072.22A: aham idAnIm uttamavarRaH . tat aham svakIyotkarzam kim na sADayAmi .
+; sADayAmi: [sidh_1]{ca. pr. ac. sg. 1 (Huet) ==  Casual sAD (MW).  
 072.22P: uttamavarRaH -- svaBAvApekzayA sundaravarRaH .
+
+072.21-22E: Then on going into the forest, and finding himself turned blue, he thus meditated -- I have now got the best colour. Why should I not, then, secure my own exaltation?
 
 072.23F: ityAlocya
 072.23A: iti Alocya
@@ -10158,20 +10217,26 @@ there so that we may know of their doings as well as their strength and weaknees
 072.25F: svahastenAraRyarAjye sarvOzaDirasenABiziktaH .
 072.25A: svahastena araRyarAjye sarvOzaDirasena aBiziktaH .
 
+072.23-25E: Having thus cogitated he called together the jackals and said I am installed king of the forest by the revered goddess of the woods with her own hands being anointed with the juice of the sarvaushadhi.
+
 072.26F: tadadyAraByAraRye'smadAjYayA vyavahAraH kAryaH .
 072.26A: tat adya AraBya aByAraRye asmat AjYayA vyavahAraH kAryaH .
 
-072.27F: SfgAlASca taM viSizwavarRamavalokya sAzwANgapAtaM
-072.27A: SfgAlAH ca tam viSizwavarRam avalokya sa azwANgapAtam
+072.27F: SfgAlASca taM viSizwavarRamavalokya sAzwANgapAtaM praRamyocuH -- 
+072.27A: SfgAlAH ca tam viSizwavarRam avalokya sAzwANgapAtam praRamya UcuH -- 
 
-072.28F: praRamyocuH -- yaTAjYApayati deva iti anenEva krameRa
-072.28A: praRamya UcuH -- yaTA AjYApayati devaH iti anena eva krameRa
+072.26-27E: Hence, from to-day all business should be carried on in the forest according to my orders. The jackals on their part, observing that he possessed the particular colour, prostrated themselves before him and said --
 
-072.29F: sarvezvaraRyavAsizvADipatyaM tasya baBUva . tatastena
-072.29A: sarvezu araRyavAsizu ADipatyam tasya baBUva . tataH tena
+072.28F: yaTAjYApayati deva iti anenEva krameRa
+072.28A: yaTA AjYApayati devaH iti anena eva krameRa
 
-072.30F: svajYAtiBirAvftenADikyaM sADitam . tatastena vyAGrasiMhAdIn
-072.30A: svajYAtiBiH Avftena aDikyam sADitam . tataH tena vyAGrasiMhAdIn
+072.29F: sarvezvaraRyavAsizvADipatyaM tasya baBUva . 
+072.29A: sarvezu araRyavAsizu ADipatyam tasya baBUva . 
+
+072.28-29E: It will be as Your Majesty commands. In the same way his sovereignty was gradually established over the other tenants of the forest.
+
+072.30F: tatastena svajYAtiBirAvftenADikyaM sADitam . tatastena vyAGrasiMhAdIn
+072.30A: tataH tena svajYAtiBiH Avftena ADikyam sADitam . tataH tena vyAGrasiMhAdIn
 072.30P: svajYAtiBirAvftena -- tatkftasAhAyyena ityarTaH .
 072.30P+: ADikyaM -- prakarzaH .
 
@@ -10179,34 +10244,44 @@ there so that we may know of their doings as well as their strength and weaknees
 072.31A: uttamaparijanAt prApya sadasi SfgAlAn avalokya lajjamAnena avajYayA
 
 072.32F: dUrIkftAH svajYAtIyAH  . tato vizaRRAYSfgAlAnavalokya
+; svajYAtIya ?  cannot find.  Assume  same sense as 'svajYAti'
 072.32A: dUrIkftAH svajYAtIyAH . tataH vizaRRAn SfgAlAn avalokya
 
-072.33F: kenacid vfdDaSfgAlenEtat pratijYAtaM -- mA vizIdata .
-072.33A: kena cit vfdDaSfgAlena etat pratijYAtam -- mA vizIdata .
+072.33F: kenacid vfdDaSfgAlenEtat pratijYAtaM --
+072.33A: kena cit vfdDaSfgAlena etat pratijYAtam -- 
 
-072.34F: yadanenAnaBjYena
-072.34A: yat anena anaBijYena
+072.30-33E: Thereafter being surrounded by his brethren he attained supreme power. After a while, having obtained servants of superior rank ench as the tiger, the lion and the like, he was ashamed to find the jackals in the court and discarded them with scorn. Then, finding the jackals dejected, an old jackal thus declared himself --
+
+072.34F:  mA vizIdata . yadanenAnaBjYena
+072.34A: mA vizIdata . yat anena anaBijYena
 072.34P: anaBijYena Atmano hitamajAnatA .
 
-072.35F: nItivido marmajYA vayaM svasamIpAtpariBUtAstadyaTAyaM naSyati
-072.35A: nItividaH marmajYAH vayam svasamIpAt pariBUtAH tat yaTA ayam naSyati
+072.35F: nItivido marmajYA vayaM svasamIpAtpariBUtAstadyaTAyaM naSyati taTA viDeyam . 
+072.35A: nItividaH marmajYAH vayam svasamIpAt pariBUtAH tat yaTA ayam naSyati taTA viDeyam . 
 072.35P: pariBUtAH -- avajYAtAH . satiraskAraM dUrIkftA ityarTaH .
 
-072.36F: taTA viDeyam . yato'mI vyAGrAdayo varRamAtravipralabDAH
-072.36A: taTA viDeyam . yataH amI vyAGrAdayaH varRamAtravipralabDAH
+072.34-35E: Do not be sorry. Since by him who does not know his interest, we, who are well versed in policy and know his weak points, have been dismissed from his presence, that must be done by which he will perish.
+
+072.36F: yato'mI vyAGrAdayo varRamAtravipralabDAH
+072.36A: yataH amI vyAGrAdayaH varRamAtravipralabDAH
+; amI : adas 1p (those)
 072.36P: varRamAtravipralabDAH -- varRa eva varRamAtraM tena pratAritAH . yaH svaBAvaH ityAdi -- 'atItya hi guRAnsarvAnsvaBAvo mUrDni vartate .' iti BAvaH .
 
-072.37F: SfgAlamajYAtvA rAjAnamimaM manyante . tadyaTAyaM paricito Bavati
-072.37A: SfgAlam ajYAtvA rAjAnam imam manyante . tat yaTA ayam paricitaH Bavati
+072.37F: SfgAlamajYAtvA rAjAnamimaM manyante . 
+072.37A: SfgAlam ajYAtvA rAjAnam imam manyante . 
 
-072.38F: taTA kuruta . tatra cEvamanuzWeyam . yat sarve
-072.38A: taTA kuruta . tatra ca evam anuzWeyam . yat sarve
+072.36-37E: For these (nobler animals) the tiger and others, deceived by him mere colour and not recognizing him as a jackal consider him their king.
 
-072.39F: saMDyAsamaye tatsaMniDAne mahArAvamekadEva karizyaTa . tatastaM
-072.39A: saMDyAsamaye tat saMniDAne mahArAvam ekadA eva karizyaTa . tataH tam
+072.38F: tadyaTAyaM paricito Bavati taTA kuruta . tatra cEvamanuzWeyam . 
+072.38A: tat yaTA ayam paricitaH Bavati taTA kuruta . tatra ca evam anuzWeyam . 
 
-072.40F: SabdamAkarRya jAtisvaBAvAttenApi SabdaH kartavyaH . yataH .
-072.40A: Sabdam AkarRya jAtisvaBAvAt tena api SabdaH kartavyaH . yataH .
+072.39F: yat sarve saMDyAsamaye tatsaMniDAne mahArAvamekadEva karizyaTa . 
+072.39A: yat sarve saMDyAsamaye tat saMniDAne mahArAvam ekadA eva karizyaTa . 
+
+072.40F: tatastaM SabdamAkarRya jAtisvaBAvAttenApi SabdaH kartavyaH . yataH .
+072.40A: tataH tam Sabdam AkarRya jAtisvaBAvAt tena api SabdaH kartavyaH . yataH .
+
+072.38-40E: Act, therefore, in such a way that he will be found out. To this end this should be done. That at the evening time you shall, all of you, set up a loud yell simultaneously in his hearing (lit. near him); so that on hearing that howl, he too following the natural disposition of his species, will utter a cry. For,
 
 072.41F: yaH svaBAvo hi yasyAsti sa nityaM duratikramaH .
 072.41A: yaH svaBAvaH hi yasya asti saH nityam duratikramaH .
@@ -10214,11 +10289,15 @@ there so that we may know of their doings as well as their strength and weaknees
 072.42F: SvA yadi kriyate rAjA tat kiM nASnAtyupAnaham .. 58..
 072.42A: SvA yadi kriyate rAjA tat kim na aSnAti upAnaham .. 58..
 
+072.41-42E: That which is the natural disposition of one is always hard to be got rid of. If a dog were made a king would he not gnaw a shoe?
+
 072.43F: tataH SabdAdaBijYAya sa vyAGreRa
 072.43A: tataH SabdAt aBijYAya saH vyAGreRa
 
 072.44F: hantavyaH . tatastaTAnuzWite sati tad vfttam . taTA coktam --
 072.44A: hantavyaH . tataH taTA anuzWite sati tat vfttam . taTA ca uktam --
+
+072.43-44E: Upon this, being discovered by his voice he will be killed by the tiger. Then that being done that happened (i. e. the plan being put into execution the event turned out as anticipated). For it is said --
 
 073.01F: CidraM marma ca vIryaM ca sarvaM vetti nijo ripuH .
 073.01A: Cidram marma ca vIryam ca sarvam vetti nijaH ripuH .
@@ -10231,7 +10310,8 @@ there so that we may know of their doings as well as their strength and weaknees
 
 073.03F: ato'haM bravImi -- AtmapakzaM parityajya ityAdi .
 073.03A: ataH aham bravImi -- Atmapakzam parityajya ityAdi .
-; Sampada: 'ityAdi' left as is.
+
+072.01-03E: An enemy of our own tribe knows our weak points, our secrets, our valour - our everything, and when such a one is in our midst he burns, as fire in the interior does a dry tree. I say, therefore, -- That fool who having left off his own side &c.
 
 073.04F: rAjAha -- yadyevaM taTApi
 073.04A: rAjA Aha -- yadi evam taTA api
@@ -10239,21 +10319,27 @@ there so that we may know of their doings as well as their strength and weaknees
 073.05F: dfSyatAM tAvadayaM dUrAd AgataH . tatsaMgrahe vicAraH kAryaH .
 073.05A: dfSyatAm tAvat ayam dUrAt AgataH . tat saMgrahe vicAraH kAryaH .
 
+073.04-05E: The king -- Although this is the case, still he must be seen as he has come from a distance. We shall consider the question of his being retained here.
+
 073.06F: cakro brUte -- deva praRiDiH
 073.06A: cakraH brUte -- deva praRiDiH
 
-073.07F: prahito durgSca sajjIkftaH . ataH Suko'pyAlokya prasTApyatAm .
-073.07A: prahitaH durgaH ca sajjIkftaH . ataH SukaH api Alokya prasTApyatAm .
+073.07F: prahito durgSca sajjIkftaH . ataH Suko'pyAlokya prasTApyatAm . kiM tu
+073.07A: prahitaH durgaH ca sajjIkftaH . ataH SukaH api Alokya prasTApyatAm . kim tu .
+
+073.06-07E: The minister -- Please Your Highness, the emissary has been sent and the castle put in readiness. Let the parrot, therefore, be granted an interview and dismissed. But,
 
 073.08F: nandaM jaGAna cARakyastIkzRadUtaprayogataH .
 073.08A: nandam jaGAna cARakyaH tIkzRadUtaprayogataH .
 073.08P: cARakyaH -- tannAmA brAhmaRaH candraguptasyAmAtyaH .
 073.08P+: tIkzRadUta -- prARaharasya dUtasya prayogataH vizakanyAprayogeRa iti yAvat .
 
-073.09F: tacCUrAntaritaM dUtaM paSyedvIrasamanvitaH .. 60..
-073.09A: tat SUrAntaritam dUtam paSyet vIrasam anvitaH .. 60..
+073.09F: tacCUrAntaritaM dUtaM paSyedDIrasamanvitaH .. 60..
+073.09A: tat SUrAntaritam dUtam paSyet DIra-samanvitaH .. 60..
 073.09P: SUrAntaritam . dUtaviSezaRaM kriyAviSezaRaM vedam .
 073.09P+: DIrasamanvitaH -- nItikuSalEH sahetyarTaH .
+
+073.08-09E: Chanakya killed Nanda through the agency of a sharp spy: one should, therefore, see an emissary, accompanied by wise men and with brave men intervening.
 
 073.10F: tataH saBAM kftvAhUtaH SukaH kAkaSca . SukaH kiMcidunnataSirA
 073.10A: tataH saBAm kftvA AhUtaH SukaH kAkaH ca . SukaH kim cit unnataSirAH
@@ -10261,24 +10347,30 @@ there so that we may know of their doings as well as their strength and weaknees
 073.11F: dattAsana upaviSya brUte -- Bo hiraRyagarBa tvAM mahArAjADirAjaH
 073.11A: dattAsane upaviSya brUte -- Bo hiraRyagarBa tvAm mahArAjADirAjaH
 
-073.12F: SrImaccitravarRaH samAjYApayati . yadi jIvitena SriyA vA
-073.12A: SrImat citravarRaH samAjYApayati . yadi jIvitena SriyA vA
+073.12F: SrImaccitravarRaH samAjYApayati . 
+073.12A: SrImat citravarRaH samAjYApayati . 
 
-073.13F: prayojanamasti tadA satvaramAgatyAsmaccaraRO praRama . no ced
-073.13A: prayojanam asti tadA satvaram Agatya asmat caraRO praRama . naH cet
+073.10-12E: Thereafter a council being called, the parrot and the crow were sent for. The parrot, with his neck raised a little, sat on the seat that was offered him and said -- His Imperial Majesty, the great Chitravarna commands you --
 
-073.14F: avasTAtuM sTAnAntaraM cintaya .
-073.14A: avasTAtum sTAnAntaram cintaya .
+073.13F: yadi jIvitena SriyA vA prayojanamasti tadA satvaramAgatyAsmaccaraRO praRama . 
+073.13A: yadi jIvitena SriyA vA prayojanam asti tadA satvaram Agatya asmat caraRO praRama . 
+
+073.14F: no ced avasTAtuM sTAnAntaraM cintaya .
+073.14A: no ced avasTAtum sTAnAntaram cintaya .
+
+073.13-14E: If you care anything for your life or wealth, come quickly and bow to our feet; or else think of some other place to live in.
 
 073.15F: rAjA sakopamAha -- AH
 073.15A: rAjA sakopam Aha -- AH
 
-073.16F: saBAyAM ko'pyasmAkaM nAsti ya enaM galahastayati . utTAya
-073.16A: saBAyAm kaH api asmAkam na asti ya enam galahastayati . utTAya
+073.16F: saBAyAM ko'pyasmAkaM nAsti ya enaM galahastayati . 
+073.16A: saBAyAm kaH api asmAkam na asti yaH enam galahastayati . 
 073.16P: galahastayati -- galahastaM datvA nizkAsayati .
 
-073.17F: meGavarRo brUte -- deva AjYApaya . hanmi duzwaM Sukam .
-073.17A: meGavarRaH brUte -- deva AjYApaya . hanmi duzwam Sukam .
+073.15-16E: The king said in a rage -- Is there none among our servants here who will seize him by the neck (and turn him out)?
+
+073.17F: utTAya meGavarRo brUte -- deva AjYApaya . hanmi duzwaM Sukam .
+073.17A: utTAya meGavarRaH brUte -- deva AjYApaya . hanmi duzwam Sukam .
 
 073.18F: sarvajYo rAjAnaM
 073.18A: sarvajYaH rAjAnam
@@ -10286,30 +10378,38 @@ there so that we may know of their doings as well as their strength and weaknees
 073.19F: kAkaM ca sAntvayanbrUte --  SfRu tAvat .
 073.19A: kAkam ca sAntvayan brUte -- SfRu tAvat .
 
+073.17-19E: Meghavarna rising -- Sire, give but your command and I will kill the vile parrot. Sarvajna, having pacified the king and the crow, said -- Please listen --
+
 073.20F: na sA saBA yatra na santi vfdDA vfdDA na te ye na vadanti Darmam .
-073.20A: na sA saBA yatra na santi vfdDA vfdDA na te ye na vadanti Darmam .
+073.20A: na sA saBA yatra na santi vfdDAH vfdDAH na te ye na vadanti Darmam .
 
 073.21F: DarmaH sa no yatra na satyamasti satyaM na tadyacCalamaByupEti .. 61..
-073.21A: DarmaH saH naH yatra na satyamasti satyam na tat yat Calam aByupEti .. 61..
+073.21A: DarmaH saH no yatra na satyam asti satyam na tat yat Calam aByupEti .. 61..
 073.21P: CalamaByupEti -- kapawamASrayate . yatkapawena saMkIryate ityarTaH . Bayamiti pAWe prakASaSaNkAmityarTaH .
 
+073.20-21E: That is not an assembly which has no old men in it; those are not old men who do not declare what is just. That is no justice which has no truth in it; and that is not truth which borders on (leaves room for, partakes of) fraud.
+
 073.22F: yato DarmaScEzaH . dUto mlecCo'pyavaDyaH syAdrAjA dUtamuKo yataH .
-073.22A: yataH DarmaH ca ezaH . dUtaH mlecCaH apyavaDyaH syAt rAjA dUtamuKaH yataH .
+073.22A: yataH DarmaH ca ezaH . dUtaH mlecCaH api avaDyaH syAt rAjA dUtamuKaH yataH .
 
 073.23F: udyatezvapi Sastrezu dUto vadati nAnyaTA .. 62..
 073.23A: udyatezu api Sastrezu dUtaH vadati na anyaTA .. 62..
 
-073.24F: aparaM ca .svApakarzaM parotkarzaM dUtoktErmanyate tu kaH .
-073.24A: aparam ca .svApakarzam parotkarzam dUtoktEH manyate tu kaH .
+073.22-23E: And justice requires this -- A messenger, even though he be a Mlechchha (an out-caste) is exempt from being put to death; for a king has a messenger for his mouth (i.e. it is the king who speaks through his messenger). A messenger, does not speak otherwise (than directed) although weapons be raised against him.
+; 12-25-2021
+073.24F: aparaM ca . svApakarzaM parotkarzaM dUtoktErmanyate tu kaH .
+073.24A: aparam ca . svApakarzam parotkarzam dUtoktEH manyate tu kaH .
 
 073.25F: sadEvAvaDyaBAvena dUtaH sarvaM hi jalpati .. 63..
 073.25A: sadA eva avaDyaBAvena dUtaH sarvam hi jalpati .. 63..
+
+073.24-25E: Moreover, Who believes in his own inferiority or his enemy's superiority from the words of a messenger? For, from his nature of not being punishable by death, a messenger speaks anything and everything.
 
 073.26F: tato rAjA kAkaSca svAM
 073.26A: tataH rAjA kAkaH ca svAm
 
 073.27F: prakftimApannO . Suko'pyutTAya calitaH . paScAccakravAkeRAnIya
-073.27A: prakftim ApannO . SukaH apyutTAya calitaH . paScAt cakravAkeRa AnIya
+073.27A: prakftim ApannO . SukaH api utTAya calitaH . paScAt cakravAkeRa AnIya
 073.27P: prakftim -- svABAvikamanaHsvAsTyam .
 073.27P+: ApannO prAptO .
 
@@ -10317,11 +10417,16 @@ there so that we may know of their doings as well as their strength and weaknees
 073.28A: praboDya kanakAlaNkArAdikam datvA saMprezitaH yayO .
 073.28P: praboDya -- sarvaM vfttAntaM yaTAvadavagamayya , taM sAntvayitvA ityarTaH .
 
+073.26-28E: On hearing this the king and the crow were pacified (lit. were themselves again). The parrot, too, got up and went away. He was, however, brought back by Chakravaka, and after matters had been explained to him, was presented with gold ornaments and the like and dismissed, upon which he departed.
+
 073.29F: Suko'pi vinDyAcalaM gatvA  rAjAnaM praRatavAn .
+; vinDya+acala
 073.29A: SukaH api vinDyAcalam gatvA rAjAnam praRatavAn .
 
 073.30F: tamAlokya citravarRo rAjovAca -- Suka kA vArtA . kIdfSo'sO deSaH .
 073.30A: tam Alokya citravarRaH rAjA uvAca -- Suka kA vArtA . kIdfSaH asO deSaH .
+
+073.29-30E: The parrot having returned to the Vindhya mountain paid his respects to his sovereign. Seeing him the king Chitravarna asked him -- What is the news? What sort of country is that?
 
 073.31F: Suko brUte -- deva saMkzepAdiyaM vArtA . saMprati yudDodyogaH
 073.31A: SukaH brUte -- deva saMkzepAt iyam vArtA . saMprati yudDodyogaH
@@ -10329,11 +10434,13 @@ there so that we may know of their doings as well as their strength and weaknees
 073.32F: kriyatAm . deSaScAsO karpUradvIpaH svargEkadeSaH
 073.32A: kriyatAm . deSaH ca asO karpUradvIpaH svargEkadeSaH
 
-073.33F: kaTaM varRayituM Sakyate . tataH sarvAn
-073.33A: kaTam varRayitum Sakyate . tataH sarvAn
+073.33F: kaTaM varRayituM Sakyate . 
+073.33A: kaTam varRayitum Sakyate . 
 
-073.34F: SizwAnAhUya rAjA mantrayitumupavizwaH . Aha ca -- saMprati
-073.34A: SizwAn AhUya rAjA mantrayitum upavizwaH . Aha ca -- saMprati
+073.31-33E: The parrot replied -- Sire, in brief this is the news. Let preparations be made for war. As for the country of Karpuradvipa, it is (as it were) a part of heaven; how can it be possible to describe it?
+
+073.34F: tataH sarvAn SizwAnAhUya rAjA mantrayitumupavizwaH . Aha ca -- saMprati
+073.34A: tataH sarvAn SizwAn AhUya rAjA mantrayitum upavizwaH . Aha ca -- saMprati
 
 073.35F: kartavyavigrahe yaTAkartavyamupadeSaM brUta . vigrahaH punaravaSyaM
 073.35A: kartavyavigrahe yaTAkartavyam upadeSam brUta . vigrahaH punaH avaSyam
@@ -10341,14 +10448,19 @@ there so that we may know of their doings as well as their strength and weaknees
 073.36F: kartavyaH . taTA coktam --
 073.36A: kartavyaH . taTA ca uktam --
 
+073.34-36E: The King, on hearing this, summoned all the principal persons together and sat down to deliberate with them. Said he -- With reference to the war presently to be carried on, advise me as to what is proper to be done. As for war it is absolutely determined upon. For it is said: --
+
 073.37F: asaMtuzwA dvijA nazwA saMtuzwASca mahIBujaH .
 073.37A: asaMtuzwAH dvijAH nazwAH saMtuzwAH ca mahIBujaH .
 
-073.38F: salajjA gaRikA nazwA nirlajjASca kulAstriyaH .. 64..
+073.38F: salajjA gaRikA nazwA nirlajjASca kulastriyaH .. 64..
 ; Kale typo? sallajjA -> salajjA
-073.38A: salajjAH gaRikAH nazwAH nirlajjAH ca kulAstriyaH .. 64..
+073.38A: salajjAH gaRikAH nazwAH nirlajjAH ca kulastriyaH .. 64..
 073.38P: nazwAH -- nASaM yAnti asuKaBAgino Bavanti ityarTaH .
 ; Sampada: 'kulAstriyaH' is a typo? Should be 'kulastriyaH'.  Jim: Yes; changed.
+
+073.37-38E: Brahmanas are ruined when discontented, and kings when contented, a harlot full of modesty is ruined and so are ladies of family, if without modesty.
+
 074.01F: dUradarSI nAma gfDro brUte --
 074.01A: dUradarSI nAma gfDraH brUte --
 
@@ -10356,19 +10468,26 @@ there so that we may know of their doings as well as their strength and weaknees
 074.02A: deva vyasanitayA vigrahaH na viDiH . yataH .
 074.02P: vyasanitayA -- vyasanamasyAstIti vyasanI tasya BAvaH tattA tayA . vyasanABiBUtEH iti yAvat .
 
+074.01-02E: The vulture named Duradarsi (Far-seeing) observed -- My lord it is not advisable to enter upon war under adverse circumstances. For,
+
 074.03F: mitrAmAtyasuhfdvargA yadA syurdfQaBaktayaH .
-074.03A: mitrAmAtyasuhfdvargA yadA syuH dfQaBaktayaH .
+074.03A: mitrAmAtyasuhfdvargAH yadA syuH dfQaBaktayaH .
 
 074.04F: SatrURAM viparItASca kartavyo vigrahastadA .. 65..
 074.04A: SatrURAm viparItAH ca kartavyaH vigrahaH tadA .. 65..
 074.04P: SatrURAm viparItAH -- tezu adfzQaBaktayaH . araktA vA suKaBedyA ityarTaH .
+
+074.03-04E: When one's friends, ministers and allies are deeply attached, and of the enemy the reverse of this (i. e. disaffected with their sovereign), then only should war be made.
 
 074.05F: anyacca . BUmirmitraM hiraRyaM ca vigrahasya PalaM trayam .
 074.05A: anyat ca . BUmiH mitram hiraRyam ca vigrahasya Palam trayam .
 074.05P: trayam -- etat trayaM vigrahasya Palam . yadEtanniyataM BAvi tadA vigrahamAcaret iti kAmandakanItisAre dvitIyacaraRasya pAWaH .
 
 074.06F: yadEtanniScitaM BAvi kartavyo vigrahastadA .. 66..
+; BAvi : inj-p 3s BU  OR? neut 1s of BAvin
 074.06A: yadA etat niScitam BAvi kartavyaH vigrahaH tadA .. 66..
+
+074.05-06E: Moreover, (The acquisition of) land, an ally and gold -- these three are the benefits accruing from war; when these can be counted upon as sure then only war should be made.
 
 074.07F: rAjAha --
 074.07A: rAjA Aha --
@@ -10383,17 +10502,25 @@ there so that we may know of their doings as well as their strength and weaknees
 074.09P++: SuBalagnaM -- SuBaM SuBaPalapradaM lagnaM rASInAM udayaH .
 074.09P+++: yAtrArTam -- aBiyAnArTam .
 
+074.07-09E: The King observed -- Let the minister first inspect my forces, so that it may be known how far they will be useful. Similarly, let the astrologer be called who will determine and tell us the lucky time for starting.
+
 074.10F: mantrI brUte --
 074.10A: mantrI brUte --
 
 074.11F: taTApi sahasA yAtrAkaraRamanucitam . yataH .
 074.11A: taTA api sahasA yAtrAkaraRam anucitam . yataH .
 
+074.10-11E: The minister -- Still, to begin the expedition all at once is not advisable. For,
+
 074.12F: viSanti sahasA mUQA ye vicArya dvizadbalam .
+; viSanti 3p viS
+; dvizadbala: dvizat + bala : enemy + army
 074.12A: viSanti sahasA mUQAH ye vicArya dvizadbalam .
 
 074.13F: KaqgaDArAparizvaNgaM laBante te suniScitam .. 67..
 074.13A: KaqgaDArAparizvaNgam laBante te suniScitam .. 67..
+
+074.12-13E: Those fools, who without taking counsel rashly enter into the enemy's army, are sure to get an embrace with the edges of their swords.
 
 074.14F: rAjAha -- mantrin mamotsAhaBaNgaM sarvaTA
 074.14A: rAjA Aha -- mantrin mama utsAhaBaNgam sarvaTA
@@ -10402,11 +10529,15 @@ there so that we may know of their doings as well as their strength and weaknees
 074.15A: mA kfTAH . vijigIzuH yaTA paraBUmim Akramati taTA kaTaya .
 074.15P: vijigIzuH -- vijetumicCuH .
 
+074.14-15E: The king said -- Minister, do not at all damp my spirits. Tell me how one wishing for conquest invades his enemy's territory.
+
 074.16F: gfDro brUte -- tatkaTayAmi .
 074.16A: gfDraH brUte -- tat kaTayAmi .
 
 074.17F: kiMtu tadanuzWitameva Palapradam . taTA coktam --
 074.17A: kim tu tat anuzWitam eva Palapradam . taTA ca uktam --
+
+074.16-17E: The vulture replied I will tell you that. But it will yield fruit (prove beneficial) only if acted upon. For it is said --
 
 074.18F: kiM mantreRAnanuzWAne SAstravatpfTivIpateH .
 074.18A: kim mantreRa ananuzWAne SAstravat pfTivIpateH .
@@ -10416,19 +10547,25 @@ there so that we may know of their doings as well as their strength and weaknees
 074.19F: na hyOzaDaparijYAnAdvyADeH SAntiH kvacid Bavet .. 68..
 074.19A: na hi OzaDaparijYAnAt vyADeH SAntiH kvacit Bavet .. 68..
 
+074.18-19E: What is the use of counsel given according to the Sastras (or, like the knowledge of the Sastras) to a king, if it be not acted upon? In no case can a disease be cured by the mere knowledge of medicine.
+
 074.20F: rAjAdeSaScAnatikramaRIya iti yaTASrutaM nivedayAmi . SfRu .
 074.20A: rAjAdeSaH ca anatikramaRIya iti yaTASrutam nivedayAmi . SfRu .
+
+074.20-20E: But as the command of a king is not to be transgressed, I will relate what I have learnt from the tests on the subject. Please to listen --
 
 074.21F: nadyadrivanadurgezu yatra yatra BayaM nfpa .
 074.21A: nadyadrivanadurgezu yatra yatra Bayam nfpa .
 
 074.22F: tatra tatra ca senAnIryAyAdvyUhIkftErbalEH .. 69..
-074.22A: tatra tatra ca senAnIryAyAt vyUhIkftEH balEH .. 69..
+074.22A: tatra tatra ca senAnIH yAyAt vyUhIkftEH balEH .. 69..
 074.22P: vyUhIkftErbalEH -- balAni vyUhIkftya ityarTaH .
 074.22P+: vyUhaH -- senAvinyAsaH . vyUhaH syAdbalavinyAse nirmARe vfndatarkayoH . iti medinI . etezAM BUyAMsaH SlokAH kAmandakanItiSAstrAduDftAH .
 
+074.21-22E: In rivers, mountains, wilds and difficult passes, wherever there is danger, O king, there the general should march with his forces drawn in battle-array.
+
 074.23F: balADyakzaH puro yAyAtpravIrapuruzAnvitaH .
-074.23A: balADyakzaH puraH yAyAt pravIrapuruzAnvitaH .
+074.23A: balADyakzaH puras yAyAt pravIrapuruzAnvitaH .
 074.23P: balADyakzaH -- tattatsenAviBAgasyADyakzaH .
 
 074.24F: maDye kalatraM svAmI ca koSaH Palgu ca yad balam .. 70..
@@ -10436,11 +10573,15 @@ there so that we may know of their doings as well as their strength and weaknees
 074.24P: kalatram -- strIvargaH .
 074.24P+: Palgu -- kzIRasattvaM , nirarTakaH janasamudAyaSca . nAgAnAM ca padAtayaH ityatra cAwavIbalam iti kAmandakoktaH pAWaH .
 
+074.23-24E: The commander of the forces should march in the van, accompained by the flower of the army; in the middle should be stationed the women, the king, the treasury and the unimportant sections of the army.
+
 074.25F: pArSvayoruBayoraSvA aSvAnAM pArSvato raTAH .
 074.25A: pArSvayoH uBayoH aSvAH aSvAnAm pArSvataH raTAH .
 
 074.26F: raTAnAM pArSvayornAgA nAgAnAM ca padAtayaH .. 71..
 074.26A: raTAnAm pArSvayoH nAgAH nAgAnAm ca padAtayaH .. 71..
+
+074.25-26E: On each flank the horse; on the sides of the horse the chariots; on both sides of the chariots the elephants, and on the flanks of the elephants the foot-soldiers.
 
 074.27F: paScAtsenApatiryAyAtKinnAnASvAsayaYCanEH .
 074.27A: paScAt senApatiH yAyAt KinnAn ASvAsayan SanEH .
@@ -10450,12 +10591,17 @@ there so that we may know of their doings as well as their strength and weaknees
 074.28F: mantriBiH suBawEryuktaH pratigfhya balaM nfpa .. 72..
 074.28A: mantriBiH suBawEH yuktaH pratigfhya balam nfpa .. 72..
 
+074.27-28E: In the rear should slowly march, O king, the commander-in-chief, accompained by ministers and brave warriors, cheering those that are fatigued and backing the army.
+
 075.01F: sameyAdvizamaM nAgErjalAQyaM samahIDaram .
-075.01A: sameyAdvizamam nAgEH jalAQyam samahIDaram .
-075.01P: vizamaM <ab n="ityAdi">i</ab> -- pradeSaM  iti SezaH .
+075.01A: sameyAt vizamam nAgEH jalAQyam samahIDaram .
+; sameyAt sam+A+i  opt. 3s
+075.01P: vizamaM i° -- pradeSaM  iti SezaH .
 
 075.02F: samamaSvErjalaM nOBiH sarvatrEva padAtiBiH .. 73..
 075.02A: samam aSvEH jalam nOBiH sarvatra eva padAtiBiH .. 73..
+
+075.01-02E: One should traverse uneven ground abounding in water and full of hills by means of elephants, plains by means of horses, and rivers by means of boats, while the infantry should be employed in all place.
 
 075.03F: hastinAM gamanaM proktaM praSastaM jaladAgame .
 075.03A: hastinAm gamanam proktam praSastam jaladAgame .
@@ -10464,12 +10610,16 @@ there so that we may know of their doings as well as their strength and weaknees
 075.04F: tad anyatra turaNgARAM pattInAM sarvadEva hi .. 74..
 075.04A: tat anyatra turaNgARAm pattInAm sarvadA eva hi .. 74..
 
+075.03-04E: A march with elephants is said to be advantageous at the approach of the rainy season, with the horse at other times, and with foot-soldiers in all seasons.
+
 075.05F: SElezu durgamArgezu viDeyaM nfparakzaRam .
 075.05A: SElezu durgamArgezu viDeyam nfparakzaRam .
 
 075.06F: suyoDE rakzitasyApi SayanaM yoganidrayA .. 75..
 075.06A: suyoDEH rakzitasya api Sayanam yoganidrayA .. 75..
 075.06P: Sayanam yoganidrayA -- arDapraboDayuktanidrA yoganidrA tayA . nfpaH suptopi sAvaDAnaM varteta iti BAvaH .
+
+076.05-06E: In hills and difficult passes the king should be protected; and he should sleep wakefully even though guarded by brave men.
 
 075.07F: nASayet karzayecCatrUndurgakaRwakamardanEH .
 075.07A: nASayet karzayet SatrUn durgakaRwakamardanEH .
@@ -10479,12 +10629,17 @@ there so that we may know of their doings as well as their strength and weaknees
 075.08F: paradeSapraveSe ca kuryAdAwavikAnpuraH .. 76..
 075.08A: paradeSapraveSe ca kuryAt AwavikAn puraH .. 76..
 
+075.07-08E: One should destroy and harass the enemy by hard-pressing him in difficult places; and at the time of entering into the enemy's country, the foresters should be placed foremost.
+
 075.09F: yatra rAjA tatra koSo vinA koSAnna rAjatA .
 075.09A: yatra rAjA tatra koSaH vinA koSAt na rAjatA .
 
 075.10F: svaBftyeByastato dadyAtko hi dAturna yuDyate .. 77..
 075.10A: svaBftyeByaH tataH dadyAt kaH hi dAtuH na yuDyate .. 77..
+; dAtuH: dAtf 5s/6s 
 075.10P: ko hi dAtuH na yuDyate -- yaH nfpaH dravyadAnena suyoDAn tozayati tadarTaM ko na yuDyate . sarva eva yuDyate iti BAvaH . atra bfhaspatiH -- niyuktaH karmanizpattO vijYaptO ca yadfcCayA . BftyAnDanErmAnayaMstu navopyakzoByatAM vrajet . iti .
+
+076.09-10E: Where the king is, there the treasure should also be; without the treasure there can be no royalty: from it (the treasure) the king should make payments to his servants: for who does not fight for one who gives (freely)?
 
 075.11F: yataH . na narasya naro dAso dAsastvarTasya BUpate .
 075.11A: yataH . na narasya naraH dAsaH dAsaH tu arTasya BUpate .
@@ -10493,6 +10648,8 @@ there so that we may know of their doings as well as their strength and weaknees
 075.12A: gOravam lAGavam vA api DanADananibanDanam .. 78..
 075.12P: DanADananibanDanam -- DanADananizwam .
 
+075.11-12E: For, Man is not the servant of men, O king, but he is the servant of money. Greatness or littleness too depends on the possession or absence of wealth.
+
 075.13F: aBedena ca yuDyeran rakzeyuSca parasparam .
 075.13A: aBedena ca yuDyeran rakzeyuH ca parasparam .
 075.13P: aBedena -- Ekyena , parasparAviyogena .
@@ -10500,13 +10657,19 @@ there so that we may know of their doings as well as their strength and weaknees
 075.14F: Palgu sEnyaM ca yatkiMcinmaDye vyUhasya kArayet .. 79..
 075.14A: Palgu sEnyam ca yat kim cit maDye vyUhasya kArayet .. 79..
 
+075.13-14E: They (the warriors) should fight in a compact body and defend one another; and whatever worthless portion of the army there may be should be placed in the middle of the column.
+
 075.15F: padAtIMSca mahIpAlaH puro'nIkasya yojayet .
 075.15A: padAtIn ca mahIpAlaH puraH anIkasya yojayet .
+; yojayet: (Huet) ca. opt. ac. sg. 3: 
 075.15P: anIkasya -- sEnyasya . anIkaM tu raRe sEnye iti viSvaH .
 ; Sampada: 'padAtIMSca'?
 
 075.16F: uparuDyArimAsIta rAzwraM cAsyopapIqayet .. 80..
-075.16A: uparuDyArimAsIta rAzwram ca asya upapIqayet .. 80..
+; AsIta: opt-2m 3s As
+075.16A: uparuDya arim AsIta rAzwram ca asya upapIqayet .. 80..
+
+075.15-16E: A king should place the infantry in the front of the army (or, send the infantry ahead of the army); he should wait having blocked up the enemy and also harass his country.
 
 075.17F: syandanASvEH same yuDyedanUpe nOdvipEstaTA .
 075.17A: syandanASvEH same yuDyet anUpe nOdvipEH taTA .
@@ -10515,19 +10678,27 @@ there so that we may know of their doings as well as their strength and weaknees
 075.18F: vfkzagulmAvfte cApErasicarmAyuDEH sTale .. 81..
 075.18A: vfkzagulmAvfte cApEH asicarmAyuDEH sTale .. 81..
 
+075.17-18E: Upon even ground he should fight with chariots and horses; in a place overflowing with water with boats and elephants; in a place covered with trees and shrubs, with bows; and on open land with swords, shields and other weapons.
+
 075.19F: dUzayeccAsya satataM yavasAnnodakenDanam .
-075.19A: dUzayeccAsya satatam yavasAn na udakenDanam .
+075.19A: dUzayet ca asya satatam yavasAnnodakenDanam .
+; dUzayet: (Huet) duz: ca. opt. ac. sg. 3
+; yavasAnnodakenDanam : yavasa+anna+udaka+inDana
 075.19P: dUzayet -- nASayet , anupayogi vA kuryAt .
 075.19P+: yavasaH -- GAsaH .
 
-075.20F: BindyAccEva taqAgAni prakArArAn pariKAstaTA .. 82..
-075.20A: BindyAt ca eva taqAgAni prakArArAn pariKAstaTA .. 82..
+075.20F: BindyAccEva taqAgAni prAkArAn pariKAstaTA .. 82..
+075.20A: BindyAt ca eva taqAgAni prAkArAn pariKAH taTA .. 82..
+
+075.19-20E: He should ever and anon spoil his (enemy's) fodder, food, water and firewood; and demolish his tanks, ramparts and ditches.
 
 075.21F: balezu pramuKo hastI na taTAnyo mahIpateH .
 075.21A: balezu pramuKaH hastI na taTA anyaH mahIpateH .
 
 075.22F: nijEravayavEreva mAtaNgo'zwAyuDaH smftaH .. 83..
 075.22A: nijEH avayavEH eva mAtaNgaH azwAyuDaH smftaH .. 83..
+
+075.21-22E: The elephant forms the chief factor in a king's army: there is none other like him, because the elephant is said to possess eight weapons in his very limbs.
 
 075.23F: balamaSvaSca sEnyAnAM prAkAro jaNgamo yataH .
 075.23A: balam aSvaH ca sEnyAnAm prAkAraH jaNgamaH yataH .
@@ -10536,136 +10707,202 @@ there so that we may know of their doings as well as their strength and weaknees
 075.24F: tasmAdaSvADiko rAjA vijayI sTalavigrahe .. 84..
 075.24A: tasmAt aSvADikaH rAjA vijayI sTalavigrahe .. 84..
 
+075.23-24E: The cavalry is the strength of the army inasmuch as it forms a moving bulwark; a king, therefore, who is rich in cavalry, is victorious in a land-fight.
+
 075.25F: taTA coktam . yuDyamAnA hayArUQA devAnAmapi durjayAH .
-075.25A: taTA ca uktam . yuDyamAnA hayArUQA devAnAm api durjayAH .
+075.25A: taTA ca uktam . yuDyamAnAH hayArUQAH devAnAm api durjayAH .
 
 075.26F: api dUrasTitAstezAM vEriRo hastavartinaH .. 85..
-075.26A: api dUrasTitAH tezAm vEriRaH hastavattinaH .. 85..
+075.26A: api dUrasTitAH tezAm vEriRaH hastavartinaH .. 85..
 
+075.25-26E: For it is said -- Warriors fighting on horseback are difficult to be conquered even by the gods; the enemies, even though stationed at a distance, are (as it were) in their hands.
+; 12-26-2021
 075.27F: praTamaM yudDakAritvaM samastabalapAlanam .
 075.27A: praTamam yudDakAritvam samastabalapAlanam .
 075.27P: yudDakAritvaM -- yoDakAryam . yudDena SatruniroDa ityarTaH .
 
-076.01F: diNmArgARAM viSoDitvaM pattikarma pracakzate .. 86..
-076.01A: diNmArgARAm viSoDitvam pattikarma pracakzate .. 86..
+075.28F: diNmArgARAM viSoDitvaM pattikarma pracakzate .. 86..
+075.28A: diNmArgARAm viSoDitvam pattikarma pracakzate .. 86..
 
-076.02F: svaBAvaSUramastrajYamaviraktaM jitaSramam .
-076.02A: svaBAvaSUramastrajYamaviraktam jitaSramam .
-076.02P: aviraktaM -- svasvAmini dfQaBaktimat .
+075.27-28E: Striking the first blow in a battle, taking care of the whole army, and the clearing of roads in all directions -- (these three) they say, form the duty of the infantry.
 
-076.03F: prasidDakzatriyaprAyaM balaM SrezWatamaM viduH .. 87..
-076.03A: prasidDakzatriyaprAyam balam SrezWatamam viduH .. 87..
+076.01F: svaBAvaSUramastrajYamaviraktaM jitaSramam .
+076.01A: svaBAvaSUram astrajYam aviraktam jitaSramam .
+076.01P: aviraktaM -- svasvAmini dfQaBaktimat .
 
-076.04F: yaTA praBukftAnmAnAdyuDyante Buvi mAnavAH .
-076.04A: yaTA praBukftAn mAnAt yuDyante Buvi mAnavAH .
+076.02F: prasidDakzatriyaprAyaM balaM SrezWatamaM viduH .. 87..
+076.02A: prasidDakzatriyaprAyam balam SrezWatamam viduH .. 87..
 
-076.05F: na taTA bahuBirdattErdraviRErapi BUpate .. 88..
-076.05A: na taTA bahuBiH dattEH draviREH api BUpate .. 88..
+076.01-02E: That army they declare to be the best, the soldiers in which are naturally brave, skilled in the use of weapons, loyal (lit. attached to their master), inured to fatigue and mostly drawn from the ranks of renowned Kshatriyas.
 
-076.06F: varamalpabalaM sAraM na kuryAnmuRqamaRqalIm .
-076.06A: varam alpabalam sAram na kuryAn muRqamaRqalIm .
-076.06P: varamiti -- sAraM SOryaDEryAdiguRavat alpabalaM kzudrasaMKyAkamapi balaM varaM .
-076.06P+: muRqamaRqalI SiraHparamparA kevalaM saMKyApUrakA narA iti yAvat .
+076.03F: yaTA praBukftAnmAnAdyuDyante Buvi mAnavAH .
+076.03A: yaTA praBukftAt mAnAt yuDyante Buvi mAnavAH .
 
-076.07F: kuryAdasAraBaNgo hi sAraBaNgamapi sPuwam .. 89..
-076.07A: kuryAt asAraBaNgaH hi sAraBaNgam api sPuwam .. 89..
-076.07P: BaNgaH -- parAjayaH palAyanaM vA .
-076.07P+: sPuwam , spazwaM , asaMSayam .
-076.07P++: hi -- hetO niScaye vA .
+076.04F: na taTA bahuBirdattErdraviRErapi BUpate .. 88..
+076.04A: na taTA bahuBiH dattEH draviREH api BUpate .. 88..
 
-076.08F: aprasAdo'naDizWAnaM deyAMSaharaRaM ca yat .
-076.08A: aprasAdaH anaDizWAnam deyAMSaharaRam ca yat .
-076.08P: aprasAdaH -- prasAdakaraRavEmuKyaM , apuraskAradAnamityarTaH .
-076.08P+: anaDizWAnam -- balaviBAgAdInAmaDyakzAdipadAlABaH , aDikArapadAt cyutirvA .
-076.08P++: deyAMSaharaRaM -- deyasya dAnocitasya aMSasya loptrAMSasya haraRaM AdAnamAtmasAtkaraRamityarTaH .
+076.03-04E: As men fight in this world, O king, by honour being shown to them by their lord, so they do not, even by large sums of money being given to them.
 
-076.09F: kAlayApo'pratIkArastadvErAgyasya kAraRam .. 90..
-076.09A: kAlayApaH apratIkAraH tat vErAgyasya kAraRam .. 90..
-076.09P: kAlayApaH -- aniyogena vfTA kAlapekzaH .
-076.09P+: apratIkAraH -- kftamAnaBaNgAderaniryAtanaM , apakArASoDanam .
-076.09P++: vErAgyasya -- sEnikAnAmiti SezaH .
+076.05F: varamalpabalaM sAraM na kuryAnmuRqamaRqalIm .
+076.05A: varam alpabalam sAram na kuryAt muRqamaRqalIm .
+076.05P: varamiti -- sAraM SOryaDEryAdiguRavat alpabalaM kzudrasaMKyAkamapi balaM varaM .
+076.05P+: muRqamaRqalI SiraHparamparA kevalaM saMKyApUrakA narA iti yAvat .
 
-076.10F: apIqayanbalaM SatrUYjigIzuraBizeRayet .
-076.10A: apIqayan balam SatrUn jigIzuH aBizeRayet .
-076.10P: apIqayan <ab n="ityAdi">i</ab> AtmanaH sEnyaM dIrGaprayARAdinA apIqayan akleSayan .
-076.10P+: SatrUn aBizeRayet , aBidravet , aBiyAyena pIqayediti yAvat .
+076.06F: kuryAdasAraBaNgo hi sAraBaNgamapi sPuwam .. 89..
+076.06A: kuryAt asAraBaNgaH hi sAraBaNgam api sPuwam .. 89..
+076.06P: BaNgaH -- parAjayaH palAyanaM vA .
+076.06P+: sPuwam , spazwaM , asaMSayam .
+076.06P++: hi -- hetO niScaye vA .
 
-076.11F: suKasADyaM dvizAM sEnyaM dIrGayAnapraapIqitam .. 91..
-076.11A: suKasADyam dvizAm sEnyam dIrGayAnaprapIqitam .. 91..
-076.11P: yataH dIrGayAnaprapIqitaM -- dUrAkramaRaKinnaM balaM SatrURAM suKasADyamanAyAsena jayyam . atiSrameRa kzIRabalasya sEnyasya parABavaH sulaBa iti BAvaH .
-076.11P+: atra manuH -- 'yadA manyeta BAvena hfzwapuzwabalaM svakam . parasya viparItaM cettadA yAyAdarInprati . yadA ca syAtparikzIRo vAhanena balena ca . tadAsIta prayatnena SanakEH sAntvayannarIn .' iti .
-; Sampada: 'dIrGayAnapraapIqitam' there is a typo.
+076.05-06E: It is better to have a small army of chosen men than a multitude of heads: for the defeat of the weak will evidently lead to that of the strong.
 
-076.12F: dAyAdAd aparo mantro nAsti Bedakaro dvizAm .
-076.12A: dAyAdAt aparaH mantraH na asti BedakaraH dvizAm .
-076.12P: dAyAdAt -- dAyaM pEtfkaDanasya viBAgaM gfhRAtIti dAyAdaH sagotraH .
-076.12P+: Bedakaro mantro nAsti - dAyAda eva SatrugfhavicCede muKyaM sADanamityarTaH . ataH dAyAdottejanaM kAryamityAha -- tasmAditi .
+076.07F: aprasAdo'naDizWAnaM deyAMSaharaRaM ca yat .
+076.07A: aprasAdaH anaDizWAnam deyAMSaharaRam ca yat .
+076.07P: aprasAdaH -- prasAdakaraRavEmuKyaM , apuraskAradAnamityarTaH .
+076.07P+: anaDizWAnam -- balaviBAgAdInAmaDyakzAdipadAlABaH , aDikArapadAt cyutirvA .
+076.07P++: deyAMSaharaRaM -- deyasya dAnocitasya aMSasya loptrAMSasya haraRaM AdAnamAtmasAtkaraRamityarTaH .
 
-076.13F: tasmAdutTApayed yatnAddAyAdaM tasya vidvizaH .. 92..
-076.13A: tasmAt utTApayet yatnAt dAyAdam tasya vidvizaH .. 92..
+076.08F: kAlayApo'pratIkArastadvErAgyasya kAraRam .. 90..
+076.08A: kAlayApaH apratIkAraH tat vErAgyasya kAraRam .. 90..
+076.08P: kAlayApaH -- aniyogena vfTA kAlapekzaH .
+076.08P+: apratIkAraH -- kftamAnaBaNgAderaniryAtanaM , apakArASoDanam .
+076.08P++: vErAgyasya -- sEnikAnAmiti SezaH .
 
-076.14F: sanDAya yuvarAjena yadi vA muKyamantriRA .
-076.14A: sanDAya yuvarAjena yadi vA muKyamantriRA .
-076.14P: yuvarAjena arAti -- nfpaputreRa iti yAvat .
-076.14P+: muKyamantriRA Satroriti SezaH .
+076.07-08E: Witholding of favour, not getting posts of honour [* Lit. non-leadership], seizing the portion due (to any one), delay (in payment or advancement) and non-retaliation (or, not redressing wrongs) -- these are the causes of the disaffection of the troops.
 
-; Kale prakopanaM ?
-076.15F: antaH prakopanaM kuryamaBiyoktuH sTirAtmanaH .. 93..
-076.15A: antaH prakopanam kuryam aBiyoktuH sTirAtmanaH .. 93..
-076.15P: antaH prakopanaM -- gfhakaliH .
-076.15P+: aBiyoktuH -- sTirAtmanaH . tftIyArTe zazWI .
-076.15P++: DIracetasA aBiyoktfSatrugfhe antarBedaH prakftivyAkopo vA kAryaH .
+076.09F: apIqayanbalaM SatrUYjigIzuraBizeRayet .
+076.09A: apIqayan balam SatrUn jigIzuH aBizeRayet .
+076.09P: apIqayan i° AtmanaH sEnyaM dIrGaprayARAdinA apIqayan akleSayan .
+076.09P+: SatrUn aBizeRayet , aBidravet , aBiyAyena pIqayediti yAvat .
 
-076.16F: krUraM mitraM raRe cApi BaNgaM dattvABiGAtayet .
-076.16A: krUram mitram raRe ca api BaNgam dattvA aBiGAtayet .
-076.16P: krUramiti -- api ca raRe krUraM pramATi mitraM Satroriti SezaH BaNgaM dattvA samaraBUmeH palAyanaM kftvABiGAtayet . parABUtA ete iti viSvasya pramAdyantaM taM sarvatovaskadya GAtayedityarTaH .
+076.10F: suKasADyaM dvizAM sEnyaM dIrGayAnaprapIqitam .. 91..
+076.10A: suKasADyam dvizAm sEnyam dIrGayAnaprapIqitam .. 91..
+076.10P: yataH dIrGayAnaprapIqitaM -- dUrAkramaRaKinnaM balaM SatrURAM suKasADyamanAyAsena jayyam . atiSrameRa kzIRabalasya sEnyasya parABavaH sulaBa iti BAvaH .
+076.10P+: atra manuH -- 'yadA manyeta BAvena hfzwapuzwabalaM svakam . parasya viparItaM cettadA yAyAdarInprati . yadA ca syAtparikzIRo vAhanena balena ca . tadAsIta prayatnena SanakEH sAntvayannarIn .' iti .
+; Sampada: 'dIrGayAnapraapIqitam' there is a typo. (jim - yes '...prapIqitam')
 
-076.17F: aTavA gograhAkfzwyA tanmuKyASritabanDanAt .. 94..
-076.17A: aTavA gograhAkfzwyA tat muKyASritabanDanAt .. 94..
-076.17P: aTa vA gavAM grahaH gograhastena yA AkfzwistayA . aTavetyanuvartanIyam .
-076.17P+: tasya ye muKyAH praDAnapuruzAH ASritaH sevakASca tezAM banDanAt tadGAtayet . yadermitraM BedAkzamaM tatpakzapAtAcca samaBUmO krUraparAkramaM tajjetuM sarvaTA prayatitavyamiti BAvaH .
+076.09-10E: One wishing to gain victory should attack his enemies without hard-pressing his own army: for the army of the enemies, when extremely wearied by long marches, can be easily overpowered.
 
-077.01F: svarAjyaM vAsayedrAjA paradeSApavAharaRAt .
-077.01A: svarAjyam vAsayet rAjA paradeSApavAharaRAt .
+076.11F: dAyAdAd aparo mantro nAsti Bedakaro dvizAm .
+076.11A: dAyAdAt aparaH mantraH na asti BedakaraH dvizAm .
+076.11P: dAyAdAt -- dAyaM pEtfkaDanasya viBAgaM gfhRAtIti dAyAdaH sagotraH .
+076.11P+: Bedakaro mantro nAsti - dAyAda eva SatrugfhavicCede muKyaM sADanamityarTaH . ataH dAyAdottejanaM kAryamityAha -- tasmAditi .
+
+076.12F: tasmAdutTApayed yatnAddAyAdaM tasya vidvizaH .. 92..
+076.12A: tasmAt utTApayet yatnAt dAyAdam tasya vidvizaH .. 92..
+
+076.11-12E: There is no cleverer stroke of policy than a kinsman (of the enemy won over) causing the over-throw of an enemy: one should, therefore, set up, by all means, a kinsman of the enemy against him.
+
+076.13F: sanDAya yuvarAjena yadi vA muKyamantriRA .
+076.13A: sanDAya yuvarAjena yadi vA muKyamantriRA .
+076.13P: yuvarAjena arAti -- nfpaputreRa iti yAvat .
+076.13P+: muKyamantriRA Satroriti SezaH .
+
+076.14F: antaH prakopanaM kAryamaBiyoktuH sTirAtmanaH .. 93..
+076.14A: antaH prakopanam kAryam aBiyoktuH sTirAtmanaH .. 93..
+076.14P: antaH prakopanaM -- gfhakaliH .
+076.14P+: aBiyoktuH -- sTirAtmanaH . tftIyArTe zazWI .
+076.14P++: DIracetasA aBiyoktfSatrugfhe antarBedaH prakftivyAkopo vA kAryaH .
+cd
+076.13-14E: Having entered into a league with the heir-apparent or the principal minister (of the enemy), [* Or, one should cause internal discord (in the camps of) an invader who is &c.] an invader who is steady of purpose, should cause internal dissentions (in his enemy's camps).
+
+076.15F: krUraM mitraM raRe cApi BaNgaM dattvABiGAtayet .
+076.15A: krUram mitram raRe ca api BaNgam dattvA aBiGAtayet .
+; GAtayet (Huet): han#1 ca. opt. ac. sg. 3 
+076.15P: krUramiti -- api ca raRe krUraM pramATi mitraM Satroriti SezaH BaNgaM dattvA samaraBUmeH palAyanaM kftvABiGAtayet . parABUtA ete iti viSvasya pramAdyantaM taM sarvatovaskadya GAtayedityarTaH .
+
+076.16F: aTavA gograhAkfzwyA tanmuKyASritabanDanAt .. 94..
+076.16A: aTavA gograhAkfzwyA tat muKyASritabanDanAt .. 94..
+076.16P: aTa vA gavAM grahaH gograhastena yA AkfzwistayA . aTavetyanuvartanIyam .
+076.16P+: tasya ye muKyAH praDAnapuruzAH ASritaH sevakASca tezAM banDanAt tadGAtayet . yadermitraM BedAkzamaM tatpakzapAtAcca samaBUmO krUraparAkramaM tajjetuM sarvaTA prayatitavyamiti BAvaH .
+
+076.15-16E: One should cause the destruction of a formidable ally (of his enemy) by giving him a defeat on the battlefield (or by fleeing before him and then suddenly turning upon him), or by seizing his cattle and capturing his principal men and dependants.
+; 12-27-2021 end
+077.01F: svarAjyaM vAsayedrAjA paradeSApavAhanAt .
+077.01A: svarAjyam vAsayet rAjA paradeSApavAhanAt .
 077.01P: rAjA paradeSApavAhanAt SanoH deSasya apavAhanAttasmAdbandiBAvena prajAH AnIya aTavA dAnamAnAByAM vanadAnena satkAreRa ca AnIya svarAjyaM vAsayet -- svarAjye niveSayet .
 
 077.02F: aTavA dAnamAnAByAM vAsitaM DanadaM hi tat .. 95..
 077.02A: aTavA dAnamAnAByAm vAsitam Danadam hi tat .. 95..
-077.02P: hi yataH taTA vAsitaM vfdDapradaM rAjyaM DanadaM samfdDikaram .
+077.02P: hi yataH taTA vAsitaM vfdDaprajaM rAjyaM DanadaM samfdDikaram .
+
+077.01-02E: A king should cause his country to be populated by men brought forcibly from other countries, or rather, by means of gifts and the bestowal of honour; for when replenished with subjects it proves prosperous.
 
 077.03F: rAjAHa -- AH kiM bahunoditena .
-077.03A: rAjA AHa -- AH kim bahunoditena .
+077.03A: rAjA AHa -- AH kim bahunA uditena .
+
+077.03-03E: The king observed -- Ah, why waste more words on this?
 
 077.04F: AtmodayaH parajyAnirdvayaM nItiritIyatI .
-077.04A: AtmodayaH parajyAnirdvayam nItiH iti iyatI .
+077.04A: AtmodayaH parajyAniH dvayam nItiH iti iyatI .
 077.04P: Atmodaya iti -- Atmana udayo vfdDiH .
+077.04P: parasyaSatrorjyAnirhAniH . 
+077.04P: 'vIjyAhAjvaribyo niH' ityORAdiko niH pratyayaH .
+077.04P: iti dvayam .
+077.04P: idaM parimARamasyA iti iyatI etAvatI .
+077.04P: 'kimidaMByAM vo GaH' iti vatupo vasya GaSca .
+077.04P: 'ugitaSca' iti NIp .
+077.04P: nItirnItisaMgrahaH .
+077.04P: etaddvayAtirikto na kaScinnItipadArTo'stItyarTaH .
+077.04P: yadanyatzAqguRyAdivarRanaM tatsarvamasyEva prapaYca ityaH -- taditi .
 
-077.05F: tadUrIkftya kftiBirvAcaspatyaM pratIyate .. 96..
-; Kale typo? pratAyate -> pratIyate
-077.05A: tat UrIkftya kftiBiH vAcaspatyam pratIyate .. 96..
-077.05P: pratAyate -- vistIryate . karmaRi law . 'tanoteryaki' ityAtvam . tasmAdAtmodayArTiBiravilambAcCatrucCetavyaH . tatrAntarIyatvAttasyeti BAvaH iti .
+077.05F: tadUrIkftya kftiBirvAcaspatyaM pratAyate .. 96..
+077.05A: tat UrIkftya kftiBiH vAcaspatyam pratAyate .. 96..
+077.05P: taddvayamUrIkftyANgIkftya .
+077.05P: 'urIkftamurarIkftam' ityamaraH .
+077.05P: 'UryAdicviqAcaSca' iti gatisaMjYAyAM
+077.05P: 'kugatiprAdayaH' it samAse ktvo lyap .
+077.05P: kftiBiH kuSalEH vAcaspatyaM vAgmitvam .
+077.05P: kaskAditvAdaluksatve .
+077.05P: 'zazWyAH patiputra --' ityAdinA satvamiti svAmI .
+077.05P: tanna .
+077.05P: tasya CandovizayatvAt .
+077.05P: brAhmaRAditvAdBAve zyaYpratyayaH .
+077.05P: pratAyate -- vistIryate . karmaRi law . 'tanoteryaki' ityAtvam . tasmAdAtmodayArTiBiravilambAcCatrurucCetavyaH . tatrAntarIyatvAttasyeti BAvaH iti .
+; tasmAt Atmodaya-arTiBiH avilambAt SatruH ucCetavyaH
 
+077.04-05E: The aggrandizement of one's power and the decline of that of the enemy -- the accomplishment of these two is all policy : having put forth this pre-eminently, those versed in policy display great eloquence (lit. play the Brihaspati).
+
+; 12-28-2021 end
 077.06F: mantriRA vihasyoktam -- sarvaM satyametat . kiMtu .
 077.06A: mantriRA vihasya uktam -- sarvam satyam etat . kim tu .
 
+077.06-06E: The minister observed with a smile -- All this is true, but --
+
 077.07F: anyad ucCfNKalaM sattvamanyacCAstraniyantritam .
 077.07A: anyat ucCfNKalam sattvam anyat SAstraniyantritam .
-077.07P: anyaditi -- anyaducCfNKalamanargalaM prasahya . pIqanakzamamiti BAvaH .
-077.07P+: sattvaM balamanyat .
-077.07P++: SAstreRa -- manvAdiSAstreRa niyantritamudAhftaM paravyasanakAle nirmitaM sattvamanyat . utkawAnutkawalakzaRavElakzaRamanyaSabdArTaH .
-077.07P+++: tayoH sApekzatvanirapekzatvAByAM miTo viroDAnnEkaSAstratvaM saMBavatItyarTaH . atra dfzwAntamAha - tejastimirayoH samAnamaDikaraRaM yayostayorBAvaH samAnADikaraRyamekAyaSrayatvaM kutaH . na kutaScit . tayoH sahAvasTAnaviroDAditi BAvaH . tasmAduBayoruditAnuditahomavadBinnavizayatvAditaretaraSAstraviroDo na bADaka iti BAvaH . iti ca SiSupAlavaDawIkAyAM mallinATaH .
+
+077.07P: anyaditi -- anyaducCfNKalamanargalaM prasahya .
+077.07P: pIqanakzamamiti BAvaH .
+077.07P: sattvaM balamanyat .
+077.07P: SAstreRa -- manvAdiSAstreRa niyantritamudAhftaM paravyasanakAle nirmitaM sattvamanyat .
+077.07P: utkawAnutkawalakzaRavElakzaRamanyaSabdArTaH .
+077.07P: tayoH sApekzatvanirapekzatvAByAM miTo viroDAnnEkaSAstratvaM saMBavatItyarTaH .
+077.07P: atra dfzwAntamAha - tejastimirayoH samAnamaDikaraRaM yayostayorBAvaH samAnADikaraRyamekAyaSrayatvaM kutaH .
+077.07P: na kutaScit .
+077.07P: tayoH sahAvasTAnaviroDAditi BAvaH .
+077.07P: tasmAduBayoruditAnuditahomavadBinnavizayatvAditaretaraSAstraviroDo na bADaka iti BAvaH .
+077.07P: iti ca SiSupAlavaDawIkAyAM mallinATaH .
 
 077.08F: sAmAnADikaraRyaM hi tejastimirayoH kutaH .. 97..
 077.08A: sAmAnADikaraRyam hi tejastimirayoH kutaH .. 97..
+; sAmAna-aDi-karaRya
+; samAna
+
+077.07-08E: Unrestrained might is one thing, while might guided (or governed) by (the principles of) science is quite another: for whence can there be the existence of light and darkness in one and the same place?
 
 077.09F: tata utTAya rAjA mOhUrtikAveditalagne prasTitaH . aTa
 077.09A: tataH utTAya rAjA mOhUrtikAveditalagne prasTitaH . aTa
+; muhUrta    mOhUrtika-Avedita-lagne  lagna lajj
+;
+077.10F: praRiDiprahitaScaro hiraRyagarBamAgatyovAca -- 
+077.10A: praRiDiprahitaH caraH hiraRyagarBam Agatya uvAca -- 
 
-077.10F: praRiDiprahitaScaro hiraRyagarBamAgatyovAca -- deva
-077.10A: praRiDiprahitaH caraH hiraRyagarBam Agatya uvAca -- deva
+077.09-10E: Then the king, having got up set out at the auspicious hour declared by the astrologers. Now the spy despatched by his emissary came to Hiranyagarbha and said --
 
-077.11F: samAgataprAyo rAjA citravarRaH . saMprati malayaparvatADityakAyAM
-077.11A: samAgataprAyaH rAjA citravarRaH . saMprati malayaparvatADityakAyAm
+077.11F: deva samAgataprAyo rAjA citravarRaH . saMprati malayaparvatADityakAyAM
+077.11A: deva samAgataprAyaH rAjA citravarRaH . saMprati malayaparvatADityakAyAm
+; 12-29-2021 end
 
 077.12F: samAvAsitakawako vartate . durgaSoDanaM pratikzaRamanusaMDAtavyam
 077.12A: samAvAsitakawakaH vartate . durgaSoDanam pratikzaRam anusaMDAtavyam
@@ -10675,26 +10912,33 @@ there so that we may know of their doings as well as their strength and weaknees
 077.13F: yato'sO gfDro mahAmantrI . kiM ca kenacitsaha tasya
 077.13A: yataH asO gfDraH mahAmantrI . kim ca kena cit saha tasya
 
-077.14F: viSvAsakaTAprasaNgenEva tadiNgitamavagataM mayA . yadanena
-077.14A: viSvAsakaTAprasaNgena eva tat iNgitam avagatam mayA . yat anena
+077.14F: viSvAsakaTAprasaNgenEva tadiNgitamavagataM mayA . 
+077.14A: viSvAsakaTAprasaNgena eva tat iNgitam avagatam mayA . 
 
-077.15F: ko'pyasmaddurge prAgeva niyuktaH .
-077.15A: kaH api asmat durge prAk eva niyuktaH .
+077.15F: yadanena ko'pyasmaddurge prAgeva niyuktaH .
+077.15A: yat anena kaH api asmat durge prAk eva niyuktaH .
+
+077.11-15E: Sire, king Chitavarna is almost arrived. Now he is on the table-land of the Malaya mountain with his army encamped there. The castle should be carefully searched every moment: for, the vulture is a great statesman and in the course of his confidential talk with some one, I came to know his secret that he had already placed some one in our castle.
 
 077.16F: cakro brUte -- deva kAka evAsO saMBavati .
-077.16A: cakraH brUte -- deva kAkaH evAsO saMBavati .
+077.16A: cakraH brUte -- deva kAkaH eva asO saMBavati .
 
 077.17F: rAjAha -- na kadAcid etat . yadyevaM tadA kaTaM
 077.17A: rAjA Aha -- na kadA cit etat . yadi evam tadA kaTam
 
-078.01F: tena SukasyABiBavAyodyogaH kftaH . aparaM
-078.01A: tena SukasyABiBavAyodyogaH kftaH . aparam
+077.16-17E: My lord, said Chakravaka, that could be the crow alone. It can never be, remarked the king. For, if this were the case, how
+
+078.01F: tena SukasyABiBavAyodyogaH kftaH . 
+078.01A: tena Sukasya aBiBavAya udyogaH kftaH . 
 078.01P: aBiBavAya -- nigrahArTam .
 
-078.02F: ca . Sukasya gamanti tasya vigrahotsAhaH . sa cirAd atrAste .
-078.02A: ca . Sukasya gamanti tasya vigrahotsAhaH . saH cirAt atra Aste .
+078.02F: aparaM ca . Sukasya gamanAt tasya vigrahotsAhaH . sa cirAd atrAste .
+078.02A: aparam ca . Sukasya gamanAt tasya vigrahotsAhaH . saH cirAt atra Aste .
+; vigraha-utsAha.  Another edition has AgamanAt namely
+; cf."Hitopadesha- Abhinava Rajalakshmi, With Hindi Translation" by Guru Prasad Shastri
 
-; print hard to read: gangukaH
+078.01-02E: could he have shown readiness to punish the parrot?  Besides, it was after the departure of the parrot, that an eagerness for war was displayed there, while he is here for a long time.
+
 078.03F: mantrI brUte -- taTApyAgantukaH SaNkanIyaH .
 078.03A: mantrI brUte -- taTA api AgantukaH SaNkanIyaH .
 
@@ -10704,6 +10948,8 @@ there so that we may know of their doings as well as their strength and weaknees
 078.05F: AgantukA api kadAcidupakArakA dfSyante . SfRu .
 078.05A: AgantukAH api kadAcit upakArakAH dfSyante . SfRu .
 
+078.03-05E: The minister remarked -- Still a stranger must be suspected. The king rejoined -- Even strangers are sometimes observed to be benefactors. Listen --
+
 078.06F: paro'pi hitavAnbanDurbanDurapyahitaH paraH .
 ; print unclear: apyahitaH
 078.06A: paraH api hitavAn banDuH banDuH api ahitaH paraH .
@@ -10711,11 +10957,15 @@ there so that we may know of their doings as well as their strength and weaknees
 078.07F: ahito dehajo vyADirhitamAraRyamOzaDam .. 98..
 078.07A: ahitaH dehajaH vyADiH hitam AraRyam OzaDam .. 98..
 
+078.06-07E: Even a stranger doing good is a relative, while a relative doing harm is a stranger (an enemy); a disease taking its birth in the body is injurious, while a medicinal herb produced in the forest is salutary.
+
 078.08F: aparaM ca . AsIdvIravaro nAma SUdrakasya mahIBftaH .
 078.08A: aparam ca . AsIt vIravaraH nAma SUdrakasya mahIBftaH .
 
 078.09F: sevakaH svalpakAlena sa dadO sutamAtmanaH .. 99..
 078.09A: sevakaH svalpakAlena saH dadO sutam AtmanaH .. 99..
+
+078.08-09E: Moreover, There was a servant of the king Sudraka, Viravara by name, who in a short time, offered up his son.
 
 078.10F: cakraH pfcCati -- kaTametat .
 078.10A: cakraH pfcCati-- kaTam etat .
@@ -10726,25 +10976,35 @@ there so that we may know of their doings as well as their strength and weaknees
 078.12F: .. kaTA 8 ..
 078.12A: .. kaTA 8 ..
 
-; Kale typo? kelinnAmno -> kelinAmno
+078.10-12E: Chakravaka asked how it was; the king related -- FABLE VIII.
+;12-30-2021 end
+
+; Kale typo: kelinnAmno -> kelinAmno
 078.13F: ahaM purA SUdrakasya rAjYaH krIqAsarasi karpUrakelinAmno
-078.13A: aham purA SUdrakasya rAjYaH krIqAsarasi karpUrakelinAmno
+078.13A: aham purA SUdrakasya rAjYaH krIqAsarasi karpUrakelinAmnaH
 
-078.14F: rAjahaMsasya putryA karpUramaYjaryA sahAnurAgavAnaBavam . tatra vIravaro nAma
-078.14A: rAjahaMsasya putryA karpUramaYjaryA saha anurAgavAn aBavam . tatra vIravaraH nAma
+078.14F: rAjahaMsasya putryA karpUramaYjaryA sahAnurAgavAnaBavam . 
+078.14A: rAjahaMsasya putryA karpUramaYjaryA saha anurAgavAn aBavam . 
 
-078.15F: rAjaputraH kutaSciddeSAdAgatya rAjadvAramupagamya pratIhAramuvAca --
-078.15A: rAjaputraH kutaH cit deSAt Agatya rAjadvAram upagamya pratIhAram uvAca --
+078.13-14E: Formerly I fell in love with Karpuramanjari, daughter of the royal gander, Karpurakeli by name, who lived in the pleasure-lake of king Sudraka.
+
+078.15F: tatra vIravaro nAma rAjaputraH kutaSciddeSAdAgatya rAjadvAramupagamya pratIhAramuvAca --
+078.15A: tatra vIravaraH nAma rAjaputraH kutaH-cit deSAt Agatya rAjadvAram upagamya pratIhAram uvAca --
+; pratIhAra = pratihAra = door-keeper
 
 078.16F: ahaM tAvadvartanArTI rAjaputraH rajadarSanaM kAraya .
 078.16A: aham tAvat vartanArTI rAjaputraH rajadarSanam kAraya .
+
+078.15-16E: A certain prince, Viravara by name, coming from some country, approached the royal gate and addressed the porter thus -- I, for one, am a prince whose object is wages (to seek service); procure me the sight of the king.
 
 078.17F: tatastenAsO rAjadarSanaM kArito brUte -- deva
 078.17A: tataH tena asO rAjadarSanam kAritaH brUte -- deva
 
 078.18F: yadi mayA sevakena prayojanamasti tadAsmadvartanaM kriyatAm .
-078.18A: yadi mayA sevakena prayojanam asti tadA asmat vartanam kriyatAm .
+078.18A: yadi mayA sevakena prayojanam asti tadA asmat-vartanam kriyatAm .
 078.18P: vartanam -- pf. 14 drazwavyam .
+
+078.17-18E: Thereupon, he, being ushered into the royal presence by him, said -- Sire, if you wish to engage me as a servant fix my salary.
 
 078.19F: SUdraka uvAca -- kiM te vartanam .
 078.19A: SUdrakaH uvAca -- kim te vartanam .
@@ -10752,11 +11012,15 @@ there so that we may know of their doings as well as their strength and weaknees
 078.20F: vIravaro brUte -- pratyahaM suvarRaSatacatuzwayam  .
 078.20A: vIravaraH brUte -- pratyaham suvarRaSatacatuzwayam  .
 
+078.19-20E: Sudraka asked -- What is your salary? Viravara replied -- Four hundred gold coins per day.
+
 078.21F: rAjAha -- kA te sAmagrI .
 078.21A: rAjA Aha -- kA te sAmagrI .
 
 078.22F: vIravaro brUte -- dvO bAhU . tftIyaSca KaqgaH .
 078.22A: vIravaraH brUte -- dvO bAhU . tftIyaH ca KaqgaH .
+
+078.21-22E: The king demanded -- What are your accoutrements? Viravara replied -- my two arms, and the third, my sword.
 
 078.23F: rAjAha -- nEtacCakyam .
 078.23A: rAjA Aha -- na etat Sakyam .
@@ -10764,37 +11028,49 @@ there so that we may know of their doings as well as their strength and weaknees
 078.24F: tacCrutvA vIravaraH praRamya calitaH . aTa mantriBiruktam --
 078.24A: tat SrutvA vIravaraH praRamya calitaH . aTa mantriBiH uktam --
 
+078.23-24E: The king said -- This is not possible. On hearing that he bowed and departed. Now the ministers observed --
+
 078.25F: deva dinacatuzwayasya vartanaM dattvA jYAyatAmasya
 078.25A: deva dinacatuzwayasya vartanam dattvA jYAyatAm asya
 
 078.26F: svarUpam . kimupayukto'yametAvadvartanaM gfhRAtyanupayukto veti .
 ; Kale print unclear: kimupayukto
-078.26A: svarUpam . kim upayuktaH ayam etAvat vartanam gfhRAti anupayuktaH veti .
+078.26A: svarUpam . kim upayuktaH ayam etAvat vartanam gfhRAti anupayuktaH vA iti .
+
+078.25-26E: Sire, having given him his four days' pay let us know his characteristic nature -- whether he receives such salary usefully (deservedly), or without being of use.
 
 078.27F: tato mantrivacanAd AhUya vIravarAya tAmbUlaM dattvA
 078.27A: tataH mantrivacanAt AhUya vIravarAya tAmbUlam dattvA
 
 078.28F: suvarRaSatacatuzwayaM dattam . tadviniyogaSca rAjYA suniBftaM nirUpitaH .
-078.28A: suvarRaSatacatuzwayam dattam . tat viniyogaH ca rAjYA suniBftam nirUpitaH .
+078.28A: suvarRaSatacatuzwayam dattam . tat-viniyogaH ca rAjYA suniBftam nirUpitaH .
 078.28P: viniyogaH -- vyayakaraRam .
 
-078.29F: tadarDaM vIravareRa deveByo brAhmaReByaSca dattam . sTitasyArDaM
-078.29A: tat arDam vIravareRa deveByaH brAhmaReByaH ca dattam . sTitasya arDam
+078.27-28E: Then, in accordance with the ministers' advice, Viravara was called back and given a betel-nut-roll and four hundred coins of gold. The king very secretly watched the use he made of them.
 
-078.30F: duHKiteByaH . tadavaSizwaM BojyavyayavilAsavyayena vyayitam . etatsarvaM
-078.30A: duHKiteByaH . tat avaSizwam BojyavyayavilAsavyayena vyayitam . etat sarvam
+078.29F: tadarDaM vIravareRa deveByo brAhmaReByaSca dattam . 
+078.29A: tat-arDam vIravareRa deveByaH brAhmaReByaH ca dattam . 
 
-078.31F: nityakftyaM kftvA rAjadvAramaharniSaM KaqgapARiH sevate .
-078.31A: nityakftyam kftvA rAjadvAram ahaH niSam KaqgapARiH sevate .
+078.30F: sTitasyArDaM duHKiteByaH . tadavaSizwaM BojyavyayavilAsavyayena vyayitam . 
+078.30A: sTitasya arDam duHKiteByaH . tat-avaSizwam BojyavyayavilAsavyayena vyayitam . 
 
-078.32F: yadA ca rAjA svayaM samAdiSati tadA svagfhamapi yAti . aTEkadA
-078.32A: yadA ca rAjA svayam samAdiSati tadA svagfham api yAti . aTa ekadA
+078.29-30E: Half of the money Viravara gave to the gods and the Brahmanas; half of what remained to the distressed, and the remainder he spent in food and amusements.
 
-078.33F: kfzRacaturdaSyAM rAtrO rAjA sakaruRaM krandanaDvaniM
-078.33A: kfzRacaturdaSyAm rAtrO rAjA sakaruRam krandanaDvanim
+078.31F: etatsarvaM nityakftyaM kftvA rAjadvAramaharniSaM KaqgapARiH sevate .
+078.31A: etat sarvam nityakftyam kftvA rAjadvAram ahaH niSam KaqgapARiH sevate .
+
+078.32F: yadA ca rAjA svayaM samAdiSati tadA svagfhamapi yAti . 
+078.32A: yadA ca rAjA svayam samAdiSati tadA svagfham api yAti . 
+
+078.31-32E: Having done all these daily duties he attended, sword in hand, at the king's door, day and night. He also went home whenever the king ordered him to do so.
+
+078.33F: aTEkadA kfzRacaturdaSyAM rAtrO rAjA sakaruRaM krandanaDvaniM
+078.33A: aTa ekadA kfzRacaturdaSyAm rAtrO rAjA sakaruRam krandanaDvanim
 
 078.34F: SuSrAva . Sudraka uvAca -- kaH ko'tra dvAri .
 078.34A: SuSrAva . SudrakaH uvAca -- kaH kaH atra dvAri .
+
+078.33-34E: Once, on the fourteenth night of the dark half of a month, the king heard a plaintive sound of lamentation. Sudraka asked -- Who waits at the door?
 
 078.35F: tenoktaM -- deva ahaM vIravaraH .
 078.35A: tena uktam -- deva aham vIravaraH .
@@ -10803,93 +11079,123 @@ there so that we may know of their doings as well as their strength and weaknees
 078.36A: rAjA uvAca -- krandanAnusaraRam kriyatAm .
 078.36P: krandanAnusaraRam -- krandanaSabdAnuroDena gamanam .
 
+078.35-36E: He replied -- I, Viravara. The king said -- Follow the sound of wailing.
+
 078.37F: vIravaraH yaTAjYApayati deva ityuktvA calitaH .
-078.37A: vIravaraH yaTA AjYApayati deva iti uktvA calitaH .
+078.37A: vIravaraH yaTA AjYApayati devaH iti uktvA calitaH .
 
 078.38F: rAjYA ca cintitam -- nEtaducitam . ayamekAkI rAjaputro mayA sUcIBedye tamasi
 078.38A: rAjYA ca cintitam -- na etat ucitam . ayam ekAkI rAjaputraH mayA sUcIBedye tamasi
 078.38P: sUcIBedye tamasi gAQAnDakAre .
 
 078.39F: preritaH . tadanu gatvA kimetaditi nirUpayAmi .
-078.39A: preritaH . tadanu gatvA kim etat iti nirUpayAmi .
+078.39A: preritaH . tad-anu gatvA kim etat iti nirUpayAmi .
+
+078.38-39E: Saying, 'As Your Majesty commands', away went Viravara. Now the king reflected -- It is not proper that I sent this prince, all alone, in the pitchy darkness. I will, therefore, go after him and see what this might mean.
 
 078.40F: tato rAjApi
 078.40A: tataH rAjA api
 
-078.41F: KaqgamAdAya tadanusaraRakrameRa nagarAdbahirnirjagAma . gatvA ca
-078.41A: Kaqgam AdAya tadanusaraRakrameRa nagarAt bahiH nirjagAma . gatvA ca
+078.41F: KaqgamAdAya tadanusaraRakrameRa nagarAdbahirnirjagAma . 
+078.41A: Kaqgam AdAya tadanusaraRakrameRa nagarAt bahiH nirjagAma . 
 
-078.42F: vIravareRa sA rudatI rupayOvanasaMpannA sarvAlaNkAraBUzitA kAcit
-078.42A: vIravareRa sA rudatI rupayOvanasaMpannA sarvAlaNkAraBUzitA kA cit
+078.40-41E: So the king, too, took his sword and went out of the city, following his course.
+
+078.42F: gatvA ca vIravareRa sA rudatI rUpayOvanasaMpannA sarvAlaNkAraBUzitA kAcit
+078.42A: gatvA ca vIravareRa sA rudatI rUpayOvanasaMpannA sarvAlaNkAraBUzitA kA-cit
 
 078.43F: strI dfzwA pfzwA ca -- kA tvam . kimarTaM rodizIti .
 078.43A: strI dfzwA pfzwA ca -- kA tvam . kim arTam rodizi iti .
 
-078.44F: striyoktam -- ahametasya SUdrakasya rAjYo lakzmIH . cirAdetasya
-078.44A: striyoktam -- aham etasya SUdrakasya rAjYaH lakzmIH . cirAt etasya
+078.42-43E: Viravara, on reaching the place, saw a woman, endowed with beauty and youth and decorated with ornaments of every description, crying; and asked her -- Who are you? Why do you weep? 
 
-078.45F: BujacCAyAyAM mahatA suKena viSrAntA . idAnImanyatra gamizyAmi .
-078.45A: BujacCAyAyAm mahatA suKena viSrAntA . idAnIm anyatra gamizyAmi .
+078.44F: striyoktam -- ahametasya SUdrakasya rAjYo lakzmIH . 
+078.44A: striyA uktam -- aham etasya SUdrakasya rAjYaH lakzmIH . 
+; 12-31-2021 end
+078.45F: cirAdetasya BujacCAyAyAM mahatA suKena viSrAntA . idAnImanyatra gamizyAmi .
+078.45A: cirAt etasya BujacCAyAyAm mahatA suKena viSrAntA . idAnIm anyatra gamizyAmi .
+; CAyA shade
+
+078.44-45E: The woman replied -- I am the goddess of royalty of this king, Sudraka. I have long lived in great happiness under the shadow of his arms, but now I shall (have to) go elsewhere.
 
 078.46F: vIravaro brUte -- yatrApAyaH saMBavati tatropAyo'pyasti .
-078.46A: vIravaraH brUte -- yatra ApAyaH saMBavati tatra upAyaH api asti .
+078.46A: vIravaraH brUte -- yatra apAyaH saMBavati tatra upAyaH api asti .
 
 078.47F: tatkaTaM syAt punarihAvalambanaM BagavatyAH .
-078.47A: tat kaTam syAt punaH iha avalambanam BagavatyAH .
+078.47A: tat kaTam syAt punar iha avalambanam BagavatyAH .
 078.47P: avalambanaM sTitiH avasTAnam .
+
+078.47-34E: Viravara said -- Where there is a possibility of danger there is also a remedy. By what means then will the stability of your divine self here be ensured?
 
 078.48F: lakzmIruvAca -- yadi tvamAtmanaH putraM SaktiDaraM
 078.48A: lakzmIH uvAca -- yadi tvam AtmanaH putram SaktiDaram
 
 078.49F: dvAtriMSallakzaRopetaM BagavatyAH sarvamaNgalAyA upahArIkarozi
-078.49A: dvAtriMSat lakzaRopetam BagavatyAH sarvamaNgalAyA upahArIkarozi
+078.49A: dvAtriMSat lakzaRopetam BagavatyAH sarvamaNgalAyAH upahArIkarozi
 078.49P: dvAtriMSallakzaRopetam dve ca triMSacca yadvA dyaDikA triMSadyAni lakzaRAni tEH upetam .
 078.49P+: sarvamaNgalAyAH -- sarveByaH sarvezAM vA maNgalA . sarvARi maNgalAni yasyAH iti vA sarvamaNgalA caRqikA .
 078.49P++: upahArIkarozi -- baliM dadAsi .
 
 078.50F: tadAhaM punaratra suciraM suKaM nivasAmi . ityuktvAdfSyABavat .
-078.50A: tadA aham punaH atra suciram suKam nivasAmi . iti uktvA adfSyA  aBavat .
+078.50A: tadA aham punaH atra suciram suKam nivasAmi . iti uktvA adfSyA aBavat .
+
+078.48-50E: The goddess of royalty said -- If you will offer up your son, Saktidhara, endowed with thirty-two auspicious marks, to the goddess Sarvamangala (presiding over all blessings), then I can again live here happily for a long time. Saying so she disappeared from view.
 
 079.01F: tato vIravareRa svagfhaM
 079.01A: tataH vIravareRa svagfham
 
-079.02F: gatvA nidrARA svavaDUH praboDitA putraSca . tO nidrAM
-079.02A: gatvA nidrARA svavaDUH praboDitA putraH ca . tO nidrAm
+079.02F: gatvA nidrARA svavaDUH praboDitA putraSca . 
+079.02A: gatvA nidrARA svavaDUH praboDitA putraH ca . 
 
-079.03F: parityajyotTAyopavizwO . vIravarastatsarvaM lakzmIvacanamuktavAn .
-079.03A: parityajyotTAyopavizwO . vIravarastat sarvam lakzmIvacanam uktavAn .
+079.01-02E: Viravara then went home and roused his wife, who was asleep, and his son.
+
+079.03F: tO nidrAM parityajyotTAyopavizwO . vIravarastatsarvaM lakzmIvacanamuktavAn .
+079.03A: tO nidrAm parityajya utTAya upavizwO . vIravaraH tat sarvam lakzmIvacanam uktavAn .
+
+079.01-03E: They having shaken off their sleep rose and sat down. Viravara communicated to them all that the goddess had said to him.
 
 079.04F: tacCrutvA sAnandaH SaktiDaro brUte -- Danyo'hamevamBUtaH .
 079.04A: tat SrutvA sAnandaH SaktiDaraH brUte -- DanyaH aham evam BUtaH .
 
-079.05F: svAmirAjyarakzArTaM yasyopayogaH . tattAta ko'DunA vilambasya
-079.05A: svAmirAjyarakzArTam yasya upayogaH . tat tAta kaH aDunA vilambasya
+079.05F: svAmirAjyarakzArTaM yasyopayogaH . tattAta ko'DunA vilambasya hetuH . 
+079.05A: svAmirAjyarakzArTam yasya upayogaH . tat tAta kaH aDunA vilambasya hetuH . 
 
-079.06F: hetuH . kadApi tavadevaMviDa eva karmaRyetasya dehasya viniyogaH SlAGyaH . yataH .
-079.06A: hetuH . kadA api tavat evaMviDa eva karmaRi etasya dehasya viniyogaH SlAGyaH . yataH .
+079.04-05E: Hearing that Saktidhara, being full of joy, said -- Blessed am I, being such as will be useful for the preservation of our lord's sovereignty. Then father, what occasion is there for delay?
+
+079.06F: kadApi tAvadevaMviDa eva karmaRyetasya dehasya viniyogaH SlAGyaH . yataH .
+079.06A: kadA api tAvat evaMviDe eva karmaRi etasya dehasya viniyogaH SlAGyaH . yataH .
+
+079.06-06E: The use of this body, in such a cause as this, whenever it may be, is praiseworthy, For --
 
 079.07F: DanAni jIvitaM cEva parArTe prAjYa utsfjet .
 079.07A: DanAni jIvitam ca eva parArTe prAjYaH utsfjet .
-079.07P: DanAni <ab n="ityAdi">i</ab> sannimittaM satkAryAya .
+079.07P: DanAni i° sannimittaM satkAryAya .
 
 079.08F: sannimittaM varaM tyAgo vinASe niyate sati .. 100..
 079.08A: sannimittam varam tyAgaH vinASe niyate sati .. 100..
 079.08P: tyAgaH -- jIvitasya Danasya ca . gatapUrvoyaM Slo. mi. 22 .
 
+079.07-08E: A wise man should give up his wealth and life for others; their abandonment in a good cause is better when destruction is certain.
+; 01-03-2022 end
+
 079.09F: SaktiDaramAtovAca -- yadyetanna kartavyaM tatkenAnyena
 079.09A: SaktiDaramAtA uvAca -- yadi etat na kartavyam tat kena anyena
 ; Sampada: the sanDi break seems this way: SaktiDaramAta uvAca
 ; Jim: SaktiDaramAtA uvAca
-; muKyasya or suKyasya ?
-079.10F: karmaRA muKyasya mahAvartanasya nizkrayo Bavizyati . ityAlocya
-079.10A: karmaRA muKyasya mahAvartanasya nizkrayaH Bavizyati . iti Alocya
+
+079.10F: karmaRA muKyasya mahAvartanasya nizkrayo Bavizyati . 
+079.10A: karmaRA muKyasya mahAvartanasya nizkrayaH Bavizyati . 
 079.10P: nizkrayaH -- nistAraM , AnfRyam .
 
-079.11F: sarve sarvamaNgalAyAH sTAnaM gatAH . tatra sarvamaNgalAM saMpUjya
-079.11A: sarve sarvamaNgalAyAH sTAnam gatAH . tatra sarvamaNgalAm saMpUjya
+079.09-10E: Saktidhara's mother remarked -- If this is not to be done, then by what other act can a return be made for the high salary paid in gold?
+
+079.11F: ityAlocya sarve sarvamaNgalAyAH sTAnaM gatAH . tatra sarvamaNgalAM saMpUjya
+079.11A: iti Alocya sarve sarvamaNgalAyAH sTAnam gatAH . tatra sarvamaNgalAm saMpUjya
 
 079.12F: vIravaro brUte -- devi prasIda . vijayatAM vijayatAM SUdrako mahArAjaH .
 079.12A: vIravaraH brUte -- devi prasIda . vijayatAm vijayatAm SUdrakaH mahArAjaH .
+
+079.11-12E: Having thus deliberated they all went to the temple of Sarvamangala. There having offered worship to the goddess, Viravara said –-  goddess, be propitiated. May the great king Sudraka be ever triumphant (prosper)!
 
 079.13F: gfhyatAmayamupahAraH . ityuktvA putrasya SiraScicCeda . tato
 079.13A: gfhyatAm ayam upahAraH . iti uktvA putrasya SiraH cicCeda . tataH
@@ -10897,15 +11203,21 @@ there so that we may know of their doings as well as their strength and weaknees
 079.14F: vIravaraScintayAmAsa -- gfhItarAjavartanasya tAvannistAraH kftaH .
 079.14A: vIravaraH cintayAmAsa -- gfhItarAjavartanasya tAvat nistAraH kftaH .
 
+079.13-14E: Accept this offering. With these words he cut off his son's head. Then Viravara thought to himself -- As for the salary received from the king, it has been repaid.
+
 079.15F: aDunA nizputrasya me jIvanaM viqambanam . ityAlocyAtmanaH SiraScinnavAn .
-079.15A: aDunA nizputrasya me jIvanam viqambanam . iti AlocyAtmanaH SiraH cinnavAn .
+079.15A: aDunA nizputrasya me jIvanam viqambanam . iti Alocya AtmanaH SiraH cinnavAn .
 079.15P: viqambanam -- garhaRamAtram .
 
-079.16F: tataH striyApi svAminaH putrasya ca SokArtayA
-079.16A: tataH striyApi svAminaH putrasya ca SokArtayA
+079.16F: tataH striyApi svAminaH putrasya ca SokArtayA tad anuzWitam . 
+079.16A: tataH striyA api svAminaH putrasya ca SokArtayA tat anuzWitam . 
 
-079.17F: tad anuzWitam . etatsarvaM SrutvA dfzwvA ca sa rAjA sAScaryaM cintayAmAsa --
-079.17A: tat anuzWitam . etat sarvam SrutvA dfzwvA ca saH rAjA sAScaryam cintayAmAsa --
+079.15-16E: Now that I have become sonless, life is but a mockery (miserable) with me. Thinking so he cut off his own head. Then his wife, too, being oppressed with grief for her husband and son, did the same.
+
+079.17F: etatsarvaM SrutvA dfzwvA ca sa rAjA sAScaryaM cintayAmAsa --
+079.17A: etat sarvam SrutvA dfzwvA ca saH rAjA sa-AScaryam cintayAmAsa --
+
+079.17-17E: Having heard and seen all that, the king, filled with astonishment, said to himself --
 
 079.18F: jIvanti ca mriyante ca madviDAH kzudrajantavaH .
 079.18A: jIvanti ca mriyante ca madviDAH kzudrajantavaH .
@@ -10913,18 +11225,24 @@ there so that we may know of their doings as well as their strength and weaknees
 079.19F: anena sadfSo loke na BUto na Bavizyati .. 101..
 079.19A: anena sadfSaH loke na BUtaH na Bavizyati .. 101..
 
-079.20F: tadetatparityaktena mama rAjyenApi aprayojanam . tataH
-079.20A: tat etat parityaktena mama rAjyena api kim prayojanam . tataH
+079.18-19E: Insignificant creatures, like myself, live and die: but there never has been nor will ever be, in this world, one like unto him.
 
-079.21F: svaSiraSCettumullAsitaH KaqgaH SUdrakeRApi . aTa BagavatyA
-079.21A: svaSiraH Cettum ullAsitaH KaqgaH SUdrakeRa api . aTa BagavatyA
+079.20F: tadetatparityaktena mama rAjyenApi aprayojanam . tataH
+079.20A: tat etat-parityaktena mama rAjyena api kim prayojanam . tataH
+
+079.21F: svaSiraSCettumullAsitaH KaqgaH SUdrakeRApi . 
+079.21A: svaSiraH Cettum ullAsitaH KaqgaH SUdrakeRa api . 
 079.21P: ullAsitaH -- udDftaH .
 
-079.22F: sarvamaNgalayA pratyakzaBUtayA rAjA haste Dfta uktaSca --
-079.22A: sarvamaNgalayA pratyakzaBUtayA rAjA haste DftaH uktaH ca --
+079.20-21E: So I shall have nothing to do with my kingdom, which is deserted by him. Then the sword was raised by Sudraka also to lop off his head.
+
+079.22F: aTa BagavatyA sarvamaNgalayA pratyakzaBUtayA rAjA haste Dfta uktaSca --
+079.22A: aTa BagavatyA sarvamaNgalayA pratyakzaBUtayA rAjA haste DftaH uktaH ca --
 
 079.23F: putra prasannAsmi te .
-079.23A: putra prasanna asmi te .
+079.23A: putra prasannA asmi te .
+
+079.22-23E: Now the goddess Sarvamangala, appearing in a visible form, seized the king by the hand and said -- Son, I am pleased with thee.
 
 079.24F: etAvatA sAhasenAlam . jIvanAnte'pi tava rAjyaBaNgo nAsti .
 079.24A: etAvatA sAhasena alam . jIvanAnte api tava rAjyaBaNgaH na asti .
@@ -10935,44 +11253,59 @@ there so that we may know of their doings as well as their strength and weaknees
 079.26F: jIvitena vA kiM prayojanam .
 079.26A: jIvitena vA kim prayojanam .
 
+079.24-26E: Desist from this adventure. Thy kingdom is secure even after thy death. The king prostrating himself before her said -- O goddess, of what use is kingdom to me or what have I to do with life?
+
 079.27F: yadyahamanukampanIyastadA mamAyuHSezeRAyaM sadAraputro
-079.27A: yadyahamanukampanIyastadA mama AyuHSezeRAyam sadAraputro
+079.27A: yadi aham anukampanIyaH tadA mama AyuH-SezeRAyam sa-dAra-putraH
 
 079.28F: vIravaro jIvatu . anyaTAhaM yaTAprAptAM gatiM gacCAmi .
-079.28A: vIravaraH jIvatu . anyaTA aham yaTAprAptAm gatim gacCAmi .
+079.28A: vIravaraH jIvatu . anyaTA aham yaTA-prAptAm gatim gacCAmi .
+
+079.27-28E: If you wish to take compassion upon me, let this Viravara, with his wife and son, live (be reanimated) with the remnant of my life. Or else, I will pursue the course which has fallen to my lot.
 
 079.29F: BagavatyuvAca -- putra anena te sattvotkarzeRa
 079.29A: BagavatI uvAca -- putra anena te sattvotkarzeRa
 079.29P: sattvotkarzeRa -- manasa udAratayA .
 
 079.30F: BftyavAtsalyena ca sarvaTA saMtuzwAsmi . gacCa vijayI Bava .
-079.30A: BftyavAtsalyena ca sarvaTA saMtuzwAsmi . gacCa vijayI Bava .
+079.30A: Bftya-vAtsalyena ca sarvaTA saMtuzwA asmi . gacCa vijayI Bava .
 079.30P: BftyavAtsalyena -- Bftyezu vAtsalyaM snehaH tena .
 
+079.29-30E: The goddess said -- Son, by this noble generosity of thy heart and thy kindness to thy servants, I am pleased with thee in every way. Go and prosper.
+
+; 01-04-2022
 079.31F: ayamapi saparivAro rAjaputro jIvatu . ityuktvA devyadfSyABavat .
 079.31A: ayam api saparivAraH rAjaputraH jIvatu . iti uktvA devI adfSyA aBavat .
 ; Sampada: 'devyadfSyABavat' unsure.  Jim: agree
 
-079.32F: tato vIravaraH saputradAraH prAptajIvanaH svagfhaM
-079.32A: tataH vIravaraH saputradAraH prAptajIvanaH svagfham
+079.32F: tato vIravaraH saputradAraH prAptajIvanaH svagfhaM gataH . 
+079.32A: tataH vIravaraH saputradAraH prAptajIvanaH svagfham gataH . 
 
-079.33F: gataH . rAjApi tEralakzitaH satvaraM prAsAdagarBaM gatvA taTEva suptaH .
-079.33A: gataH . rAjA api tEH alakzitaH satvaram prAsAdagarBam gatvA taTA eva suptaH .
+079.31-32E: Let this prince, too, with his family, revive. With these words the goddess vanished from sight. Thereupon Viravara, being restored to life with his wife and son, went home.
+
+079.33F: rAjApi tEralakzitaH satvaraM prAsAdagarBaM gatvA taTEva suptaH .
+079.33A: rAjA api tEH alakzitaH satvaram prAsAdagarBam gatvA taTA eva suptaH .
+
+079.33-33E: The king, too, quickly returned unobserved by them, and having entered the inner apartment of his palace slept as before.
 
 079.34F: aTa
 079.34A: aTa
 
-079.35F: vIravaro dvArasTaH punarBUpAlena pfzwaH sannuvAca -- deva
-079.35A: vIravaraH dvArasTaH punaH BUpAlena pfzwaH san uvAca -- deva
+079.35F: vIravaro dvArasTaH punarBUpAlena pfzwaH sannuvAca -- 
+079.35A: vIravaraH dvArasTaH punaH BUpAlena pfzwaH san uvAca -- 
 
-079.36F: sA rudatI mAmavalokyAdfSyABavat . na kApyanyA vArtA vidyate .
-079.36A: sA rudatI strI mAm avalokya AdfSyA aBavat . na kApi anyA vArtA vidyate .
+079.34-35E: Now Viravara, on guard at the door, being again questioned by the king replied --
 
-079.37F: tadvacanamAkarRya saMtuzwo rAjA sAScaryaM
-079.37A: tat vacanam AkarRya saMtuzwaH rAjA sAScaryam
+079.36F: deva sA rudatI mAmavalokyAdfSyABavat . na kApyanyA vArtA vidyate .
+079.36A: deva sA rudatI strI mAm avalokya AdfSyA aBavat . na kA api anyA vArtA vidyate .
 
-079.38F: acintayat -- kaTamayaM SlAGyo mahAsattvaH . yataH .
-079.38A: acintayat -- kaTam ayam SlAGyaH mahAsattvaH .yataH .
+079.37F: tadvacanamAkarRya saMtuzwo rAjA sAScaryaM acintayat -- 
+079.37A: tat vacanam AkarRya saMtuzwaH rAjA sAScaryam acintayat -- 
+
+079.38F: kaTamayaM SlAGyo mahAsattvaH . yataH .
+079.38A: kaTam ayam SlAGyaH mahAsattvaH . yataH .
+
+079.36-38E: My liege, the woman who was crying disappeared when she saw me. There is no further news. Hearing those words the king was pleased and said in astonishment -- How praiseworthy is this magnanimous person! For,
 
 079.39F: priyaM brUyAdakfpaRaH SUraH syAdavikatTanaH .
 079.39A: priyam brUyAt akfpaRaH SUraH syAt avikatTanaH .
@@ -10983,29 +11316,41 @@ there so that we may know of their doings as well as their strength and weaknees
 079.40A: dAtA na apAtravarzI ca pragalBaH syAt anizWuraH .. 102..
 079.40P: pragalBaH -- SUraH .
 079.40P+: anizWuraH -- sakfpaH .
+; kfpA: compassion
+
+079.39-40E: Being generous he should speak sweetly; he should be valiant without boasting; he should be munificent, but without shedding his bounty on the unworthy; and he should be bold without being harsh.
 
 079.41F: etanmahApuruzalakzaRametasminsarvamasti .
 079.41A: etat mahApuruzalakzaRam etasmin sarvam asti .
 
 079.42F: tataH sa rAjA prAtaH SizwasaBAM kftvA
-079.42A: tataH saH rAjA prAtaH SizwasaBAm kftvA
+079.42A: tataH saH rAjA prAtar SizwasaBAm kftvA
 
-079.43F: sarvavfttAntaM prastutya prasAdAttasmE karRAwarAjyaM dadO . tat
-079.43A: sarvavfttAntam prastutya prasAdAt tasmE karRAwarAjyam dadO . tat
+079.43F: sarvavfttAntaM prastutya prasAdAttasmE karRAwarAjyaM dadO . 
+079.43A: sarvavfttAntam prastutya prasAdAt tasmE karRAwarAjyam dadO . 
 
-079.44F: kimAgantuko jAtimAtrAdduzwaH . tatrApyuttamADamamaDyamAH santi .
-079.44A: kim AgantukaH jAtimAtrAt duzwaH . tatra api uttamADamamaDyamAH santi .
+079.41-43E: All these characteristics of a great man are found in him. Then in the morning the king having called together a council of great men, narrated before them the whole account and bestowed on him the kingdom of Karnata, as a mark of his favour.
+
+079.44F: tat kimAgantuko jAtimAtrAdduzwaH . tatrApyuttamADamamaDyamAH santi .
+079.44A: tat kim AgantukaH jAtimAtrAt duzwaH . tatra api uttamADamamaDyamAH santi .
 
 079.45F: cakravAko brUte --
 079.45A: cakravAkaH brUte --
 
+079.44-45E: What then, is a stranger wicked merely because of his nature (or class)? Even among these (strangers) there are those who are good, bad and middling. Chakravaka said --
+
 080.01F: yo'kAryaM kAryavacCAsti sa kiMmantrI nfpecCayA .
-080.01A: yaH akAryam kAryavat ca asti saH kim mantrI nfpecCayA .
+080.01A: yaH akAryam kAryavat SAsti saH kim-mantrI nfpecCayA .
 080.01P: nfpecCayA -- nfpecCAnuroDAt .
 
 080.02F: varaM svAmimanoduHKaM tannASo na tvakAryataH .. 103..
-080.02A: varam svAmimanoduHKam tat nASaH na tu akAryataH .. 103..
+080.02A: varam svAmimanoduHKam tat-nASaH na tu akAryataH .. 103..
+; akAryatas 
 080.02P: tannASaH -- svAminaH nASaH prARahAniH aDaHpAto vA ,
+
+080.01-02E: He is a bad minister (or, is he a minister) who, having regard to the will of the king represents (recommends) what ought not to be done as proper to be done: better is the pain caused to the master's mind than his ruin brought about by his doing what is improper.
+
+; 01-05-2022 end
 
 080.03F: vEdyo guruSca mantrI ca yasya rAjYaH priyaMvadAH .
 080.03A: vEdyaH guruH ca mantrI ca yasya rAjYaH priyaMvadAH .
@@ -11013,11 +11358,15 @@ there so that we may know of their doings as well as their strength and weaknees
 080.04F: SarIraDarmakoSeByaH kzipraM sa parihIyate .. 104..
 080.04A: SarIraDarmakoSeByaH kzipram saH parihIyate .. 104..
 
+080.03-04E: A king, whose physician, spiritual guide and minister are flatterers, fast loses his health, his religious merit and treasure.
+
 080.05F: SfRu deva . puRyAllabDaM yadekena tanmamApi Bavizyati .
 080.05A: SfRu deva . puRyAt labDam yat ekena tat mama api Bavizyati .
 
 080.06F: hatvA Bikzumato mohAnniDyarTI nApito hataH .. 105..
 080.06A: hatvA Bikzum ataH mohAt niDyarTI nApitaH hataH .. 105..
+
+080.05-06E: Hear, my liege. 'What was obtained by one through the force of merit I too shall gain'- A barber, who, through avarice, thus coveted a treasure, lost his life for having killed a mendicant.
 
 080.07F: rAjA pfcCati -- kaTametat .
 080.07A: rAjA pfcCati -- kaTam etat .
@@ -11028,115 +11377,154 @@ there so that we may know of their doings as well as their strength and weaknees
 080.09F: .. kaTA 9 ..
 080.09A: .. kaTA 9 ..
 
+080.07-09E: The King asked how that was. The minister related -- FABLE IX.
+
 080.10F: astyayoDyAyAM puri cUqAmaRirnAma kzatriyaH . tena DanArTinA
 080.10A: asti ayoDyAyAm puri cUqAmaRiH nAma kzatriyaH . tena DanArTinA
 
 080.11F: mahatA kAyakleSena BagavAMScandrArDacUqAmaRiSciramArADitaH .
-080.11A: mahatA kAyakleSena BagavAn candrArDacUqAmaRiH ciram ArADitaH .
+080.11A: mahatA kAyakleSena BagavAn candrArDa-cUqAmaRiH ciram ArADitaH .
 080.11P: candrArDacUqAmaRiH -- candrArDaM cUqAmaRiH SiroBUzaRaM yasya SivaH .
+
+080.10-11E: There was in the city of Ayodhya, a Kshatriya, by name Chudamani. He, longing after wealth, long worshipped Siva (lit. the god who has the crescent-moon for his crest-jewel) undergoing great bodily hardships.
 
 080.12F: tataH kzIRapApo'sO svapne darSanaM dattvA
 080.12A: tataH kzIRapApaH asO svapne darSanam dattvA
 
-080.13F: BagavadAdeSAdyakzeSvareRAdizwaH -- yattvamadya prAtaH kzOraM
-080.13A: Bagavat AdeSAt yakzeSvareRa AdizwaH -- yat tvam adya prAtaH kzOram
+080.13F: BagavadAdeSAdyakzeSvareRAdizwaH -- yattvamadya prAtaH 
+080.13A: Bagavat-AdeSAt yakzeSvareRa AdizwaH yat -- tvam adya prAtaH 
+;  yakza-ISvareRa
 080.13P: yakzeSvareRa -- kubereRa .
 
-080.14F: kftvA laguqahastaH sansvagfhadvAri niBftaM sTAsyasi .
-080.14A: kftvA laguqahastaH sansvagfhadvAri niBftam sTAsyasi .
+080.12-13E: Thereafter when he was purified of his sins, the lord of the Yakshas, at the command of the Lord, appeared before him in a dream and bade him thus -- To-day in the morning thou
+
+080.14F: kzOraM kftvA laguqahastaH sansvagfhadvAri niBftaM sTAsyasi .
+080.14A: kzOram kftvA laguqa-hastaH san svagfhadvAri niBftam sTAsyasi .
 080.14P: niBftaM -- guptam .
 
 080.15F: tato yamevAgataM prANgaRe BikzukaM
 080.15A: tataH yam eva Agatam prANgaRe Bikzukam
 
-080.16F: paSyasi taM nirdayaM laguqaprahAreRa hanizyasi . tato'sO
-080.16A: paSyasi tam nirdayam laguqaprahAreRa hanizyasi . tataH asO
+080.16F: paSyasi taM nirdayaM laguqaprahAreRa hanizyasi . 
+080.16A: paSyasi tam nirdayam laguqa-prahAreRa hanizyasi . 
+; nirdayam  is indeclinable, avyayIBAva cpd nir + dayA
 
-080.17F: BikzuH tatkzaRAtsuvarRakalaSo Bavizyati . tena tvayA
-080.17A: BikzuH tat kzaRAt suvarRakalaSaH Bavizyati . tena tvayA
+080.14-16E: shalt get yourself shaved and stand concealed, stick in hand, at the door of thy house. Then whatever mendicant thou shalt see coming into thy courtyard, him thou shalt strike mercilessly with thy stick.
+
+080.17F: tato'sO BikzuH tatkzaRAtsuvarRakalaSo Bavizyati . tena tvayA
+080.17A: tataH asO BikzuH tat-kzaRAt suvarRa-kalaSaH Bavizyati . tena tvayA
 080.17P: suvarRapUrRa -- suvarRamudrApUrRa .
 
 080.18F: yAvajjIvaM suKinA Bavitavyam . tatastaTAnuzWite tadvfttam .
-080.18A: yAvat jIvam suKinA Bavitavyam . tataH taTA anuzWite tat vfttam .
+080.18A: yAvat-jIvam suKinA Bavitavyam . tataH taTA anuzWite tat vfttam .
 080.18P: tadvfttam -- mftaBikzoH sTAne suvarRanARakapUrRakalaSo baBUvetyarTaH .
 
+080.17-18E: Then the very moment the mendicant will turn into a pot full of gold coins. With that (wealth) thou canst live happily during the rest of thy life. Then these instructions being carried out the result followed (as directed).
+
 080.19F: tacca kzOrakaraRAyAnItena nApitenAlokya cintitam --
-080.19A: tat ca kzOrakaraRAya anItena nApitena Alokya cintitam --
+080.19A: tat ca kzOrakaraRAya AnItena nApitena Alokya cintitam --
+; 01-06-2022 end;
 
-080.20F: aye niDiprApterayamupAyaH . tadahamapyevaM kiM na karomi . tataH
-080.20A: aye niDiprApteH ayam upAyaH . tat aham api evam kim na karomi . tataH
+080.20F: aye niDiprApterayamupAyaH . tadahamapyevaM kiM na karomi .
+080.20A: aye niDiprApteH ayam upAyaH . tat aham api evam kim na karomi .
 
-080.21F: praBfti sa nApitaH pratyahaM taTAviDo laguqahastaH suniBftaM
-080.21A: praBfti saH nApitaH pratyaham taTAviDaH laguqahastaH suniBftam
+080.19-20E: Now the barber who was called for shaving saw this and said to himself. Ah, this is the way to obtain a treasure. Why should I not then try the same!
 
-080.22F: BikzorAgamanaM pratIkzate . ekadA tena taTA prApto Bikzurlaguqena
-080.22A: BikzoH Agamanam pratIkzate . ekadA tena taTA prAptaH BikzuH laguqena
+080.21F: tataH praBfti sa nApitaH pratyahaM taTAviDo laguqahastaH suniBftaM
+080.21A: tataH praBfti saH nApitaH pratyaham taTAviDaH laguqahastaH suniBftam
 
-080.23F: vyApAditaH . tasmAdaparADAtso'pi nApito rAjapuruzEstAqitaH paYcatvaM gataH .
-080.23A: vyApAditaH . tasmAt aparADAt saH api nApitaH rAjapuruzEH tAqitaH paYcatvam gataH .
+080.22F: BikzorAgamanaM pratIkzate . ekadA tena taTA prApto Bikzurlaguqena vyApAditaH . 
+080.22A: BikzoH Agamanam pratIkzate . ekadA tena taTA prAptaH BikzuH laguqena vyApAditaH . 
+
+080.21-22E: Thenceforward the barber, lying concealed in that manner every day, stick in hand, awaited a beggar's arrival. One day he, having found such a beggar, struck him with his stick and killed him.
+
+080.23F: tasmAdaparADAtso'pi nApito rAjapuruzEstAqitaH paYcatvaM gataH .
+080.23A: tasmAt aparADAt saH api nApitaH rAjapuruzEH tAqitaH paYcatvam gataH .
 
 080.24F: ato'haM bravImi -- puRyAllabDaM yadekena ityAdi .
 080.24A: ataH aham bravImi -- puRyAt labDam yat ekena ityAdi .
 ; Sampada: 'ityAdi' left as is.
+
+080.23-24E: For that offence the barber, being punished by the king's officers, lost his life. Therefore I say, 'What was obtained by one through the force of merit' &c. 
 
 080.25F: rAjAha --
 080.25A: rAjA Aha --
 
 080.26F: purAvfttakaTodgArEH kaTaM nirRIyate paraH .
 080.26A: purAvfttakaTodgArEH kaTam nirRIyate paraH .
+;        purA-vftta-kaTA-udgArEH
 080.26P: purAvfttakaTodgArEH -- atItAKyAnena .
 080.26P+: nirRIyate tasya svarUpaparicCedaH kriyate sa yaTArTasvarUpatayA jYAyate .
 
 080.27F: syAnnizkAraRabanDurvA kiM vA viSvAsaGAtakaH .. 106..
-080.27A: syAt nizkAraRabanDuH vA kim vA viSvAsaGAtakaH .. 106..
+080.27A: syAt nizkAraRabanDuH vA kim vA viSvAsa-GAtakaH .. 106..
 080.27P: nizkAraRabanDuH svaBAvamitraM akftrimamitram .
 080.27P+: viSvAsa ityatra viSramBeti pAWaH .
+
+080.26-27E: The king remarked -- How can a stranger (i.e. his real character) be known by narrating stories of the past -- whether he is a disinterested friend or a traitor ?
 
 080.28F: yAtu . prastutamanusaMDIyatAm . malayADityakAyAM ceccitravarRastad
 080.28A: yAtu . prastutam anusaMDIyatAm . malayADityakAyAm cet citravarRaH tat
 
-080.29F: aDunA kiM viDeyam . mantrI vadati -- deva AgatapraRiDimuKAn
-080.29A: aDunA kim viDeyam . mantrI vadati -- deva AgatapraRiDimuKAn
+080.29F: aDunA kiM viDeyam . mantrI vadati -- 
+080.29A: aDunA kim viDeyam . mantrI vadati -- 
 
-080.30F: mayA SrutaM yanmahAmantriRo gfDrasyopadeSe citravarRenAnAdaraH
-080.30A: mayA Srutam yat mahAmantriRaH gfDrasya upadeSe citravarRena anAdaraH
+080.28-29E: Well, let it pass. Let us attend to what concerns us immediately. If Chitravarna is on the table-land of Malaya, what is best to be done now? The minister said --
+
+080.30F: deva AgatapraRiDimuKAn mayA SrutaM yanmahAmantriRo gfDrasyopadeSe citravarRenAnAdaraH
+080.30A: deva Agata-praRiDi-muKAt mayA Srutam yat mahAmantriRaH gfDrasya upadeSe citravarRena anAdaraH
 
 080.31F: kftaH . ato'sO mUQo jetuM SakyaH . taTA coktam --
 080.31A: kftaH . ataH asO mUQaH jetum SakyaH . taTA ca uktam --
+
+080.30-31E: I have heard from the mouth of the spy that came here that Chitravarna has disregarded the counsel of the great minister, Vulture. It will be easy, therefore, to conquer the fool. For it is said --
 
 080.32F: lubDaH krUro'laso'satyaH pramAdI BIrurasTiraH .
 080.32A: lubDaH krUraH alasaH asatyaH pramAdI BIruH asTiraH .
 
 080.33F: mUQo yoDAvamantA ca suKacCedyo ripuH smftaH .. 107..
-080.33A: mUQaH yoDAvamantA ca suKacCedyaH ripuH smftaH .. 107..
+080.33A: mUQaH yoDa-avamantA ca suKacCedyaH ripuH smftaH .. 107..
+
+080.32-33E: An enemy who is avaricious, cruel, lazy, treacherous, careless, cowardly, unsteady, foolish, and a despiser of warriors, can be easily destroyed.
 
 080.34F: tato'sO yAvadasmaddurgadvAraroDaM na karoti
-080.34A: tataH asO yAvat asmat durgadvAraroDam na karoti
+080.34A: tataH asO yAvat asmat-durgadvAraroDam na karoti
 
 080.35F: tAvannadyadrivanavartmasu tadbalAni
-080.35A: tAvat nadyadrivanavartmasu tat balAni
+080.35A: tAvat nadyadrivanavartmasu tat-balAni
+;              nadI-adri-vana-vartmasu
 080.35P: nadyadrivan -- nadyaSca adrayaSca vanAni ca tezAM vanAnAM vartmasu . tatrEva dvizAM suKocCedyatvAt .
 
 080.36F: hantuM sArasAdayaH senApatayo niyujyantAm . taTA coktam ..
 080.36A: hantum sArasAdayaH senApatayaH niyujyantAm . taTA ca uktam ..
+;  sArasa-Adi 
 
+080.34-36E: Therefore before he blocks up the gates of our castle, let Sarasa and the other generals be ordered to rout his army in the rivers, mountains, wilds and passes. For it is said --
+
+; 01-07-2022 end
 080.37F: dIrGavartmapariSrAntaM nadyadrivanasaMkulam .
-080.37A: dIrGavartmapariSrAntam nadyadrivanasaMkulam .
+080.37A: dIrGavartma-pariSrAntam nadyadrivanasaMkulam .
 080.37P: dIrGavartma -- dUraprayAraKinnam .
 080.37P+: saMkulaM -- saMkawam .
 
 080.38F: GorAgniBayasaMtrastaM kzutpipAsAhitaklamam .. 108..
 080.38A: GorAgniBayasaMtrastam kzutpipAsAhitaklamam .. 108..
+;        ((Gora-agni)-Baya)-saMtrasta
+;        ((kzuD-pipAsA)-Ahita)-klamam
+
+080.37-38E: When it is fatigued by long marches, hemmed in by rivers, mountains and forests, terrified by the fear of dreadful fires, distressed by hunger and thirst,
 
 081.01F: pramattaM BojanavyagraM vyADidurBikzapIqitam .
-081.01A: pramattam Bojanavyagram vyADidurBikzapIqitam .
-
+081.01A: pramattam Bojana-vyagram vyADi-durBikza-pIqitam .
+;  
 081.02F: asaMsTitamaBUyizWaM vfzwivAtasamAkulam .. 109..
-081.02A: asaMsTitam aBUyizWam vfzwivAtasamAkulam .. 109..
+081.02A: asaMsTitam aBUyizWam vfzwi-vAta-samAkulam .. 109..
 081.02P: asaMsTitam -- avyavasTitam .
 
+081.01-02E: (and when it is) careless, engaged in eating, afflicted with diseases and famine (or want of supplies), not in good order (disorderly), reduced in numbers, distressed by rain and wind,
+
 081.03F: paNkapAMSujalAcCannaM suvyastaM dasyuvidrutam .
-081.03A: paNkapAMSujalAcCannam suvyastam dasyuvidrutam .
+081.03A: paNka-pAMSu-jalAcCannam suvyastam dasyu-vidrutam .
 081.03P: suvyastam -- itastato'pasftam . triBirviSezakam .
 
 ; 'parasEnyaM' missing in print
@@ -11144,44 +11532,57 @@ there so that we may know of their doings as well as their strength and weaknees
 081.04A: evamBUtam mahIpAlaH parasEnyam viGAtayet .. 110..
 081.04P: atra kAmandakaH -- kandarASElagahananimnagAvanasaMkawe .
 
-081.05F: anyacca . avaskandaBayAdrAjA prajAgarakftaSramam .
-081.05A: anyat ca . avaskandaBayAt rAjA prajAgarakftaSramam .
-081.05P: avaskandaBayAt -- avaskandaH AkramaRaM tadBayAdyaH prajAgarastena kftaH SramaH yasya .
+081.03-04E: (and when it is) incommodiously situated in places full of mud, dust or water, scattered about, or put to flight by robbers, when the enemy's army is of such a quality king should cause the enemy's army to be destroyed.
 
-; sadA print unclear
-081.06F: divAsuptaM sadAhanyAnnidrAvyAkulasEnikam .. 111..
-081.06A: divAsuptam sadAhanyAn nidrAvyAkulasEnikam .. 111..
+081.05F: anyacca . avaskandaBayAdrAjA prajAgarakftaSramam .
+081.05A: anyat ca . avaskandaBayAt rAjA prajAgara-kfta-Sramam .
+081.05P: avaskandaBayAt -- avaskandaH AkramaRaM tadBayAdyaH prajAgarastena kftaH SramaH yasya .
+; skanDa
+081.06F: divAsuptaM samAhanyAnnidrAvyAkulasEnikam .. 111..
+081.06A: divAsuptam samAhanyAt nidrA-vyAkula-sEnikam .. 111..
+
+081.05-06E: Moreover, A king should destroy (his enemy's army) sleeping by day being fatigued by its keeping awake (the whole night) through the fear of an attack, and thus having the soldiers in it over-powered by sleep.
 
 081.07F: atastasya pramAdino balaM gatvA yaTAvakASaM divAniSaM
-081.07A: ataH tasya pramAdinaH balam gatvA yaTAvakASam divAniSaM
+081.07A: ataH tasya pramAdinaH balam gatvA yaTA-avakASam divAniSaM
 
-081.08F: GnantvasmatsenApatayaH . taTAnuzWite citravarRasya sEnikAH
-081.08A: Gnantu asmat senApatayaH . taTA anuzWite citravarRasya sEnikAH
+081.08F: GnantvasmatsenApatayaH . 
+081.08A: Gnantu asmat-senApatayaH . 
 
-081.09F: senApatayaSca bahavo nihatAH . tataScitravarRo vizaRRaH
-081.09A: senApatayaH ca bahavaH nihatAH . tataH citravarRaH vizaRRaH
+081.07-08E: For this reason, let our generals go and destroy the force of that careless (lit. blundering) king day and night, according to the opportunities they might get.
+
+081.09F: taTAnuzWite citravarRasya sEnikAH senApatayaSca bahavo nihatAH . tataScitravarRo vizaRRaH
+081.09A: taTA anuzWite citravarRasya sEnikAH senApatayaH ca bahavaH nihatAH . tataH citravarRaH vizaRRaH
 
 081.10F: svamantriRaM dUradarSinamAha -- tAta kimityasmadupekzA
-081.10A: svamantriRam dUradarSinam Aha -- tAta kim iti asmat upekzA
+081.10A: svamantriRam dUra-darSinam Aha -- tAta kim iti asmat upekzA
 
 081.11F: kriyate . kiM kvApyavinayo mamAsti . taTA coktam --
-081.11A: kriyate . kim kvApyavinayaH mama asti . taTA ca uktam --
+081.11A: kriyate . kim kva-api avinayaH mama asti . taTA ca uktam --
 
+081.09-11E: This being done, many of the soldiers and generals of Chitravarna were killed. Upon this Chitravarna being dejected said to his minister, Duradarsi -- Sir, why do you neglect us? Have I in any matter acted insolently towards (insulted) you? For it is said --
+
+; 01-10-2022 
 081.12F: na rAjyaM prAptamityeva vartitavyamasAMpratam .
-081.12A: na rAjyam prAptam iti eva vartitavyamasAMpratam .
+081.12A: na rAjyam prAptam iti eva vartitavyam asAMpratam .
 081.12P: asAMpratam -- niyamamujJitvA , avinayena .
 
 081.13F: SriyaM hyavinayo hanti jarA rUpamivottamam .. 112..
 081.13A: Sriyam hi avinayaH hanti jarA rUpam iva uttamam .. 112..
+
+081.12-13E: One should not act in an unbecoming way simply because one has obtained a kingdom; for insolence (lit. want of modesty) destroys wealth as old age destroys excellent beauty.
 
 081.14F: anyacca . dakzaH SriyamaDigacCati paTyASI kalyatAM suKamarogI .
 081.14A: anyat ca . dakzaH Sriyam aDigacCati paTyASI kalyatAm suKam arogI .
 081.14P: dakzaH -- svakAryadakzaH .
 081.14P+: kalyatAm -- arogitAm .
 
-; viyAnta or vidyAnta - print unclear
-081.15F: udyukto viyAntaM DarmArTayaSAMsi ca vinItaH .. 113..
-081.15A: udyuktaH viyAntam DarmArTayaSAMsi ca vinItaH .. 113..
+; viyAnta or vidyAnta (this is the one to use) - print unclear
+081.15F: udyukto vidyAntaM DarmArTayaSAMsi ca vinItaH .. 113..
+081.15A: udyuktaH vidyAntam DarmArTayaSAMsi ca vinItaH .. 113..
+; Darma-arTa-yaSAMsi
+
+081.14-15E: Moreover, One who is diligent gets wealth; he who eats what is wholesome gets health; a man who is healthy gets happiness; one who is resolute (lit. closely applying oneself to study) gets mastery over learning; and one who is well-trained, gets religious merit, wealth and fame.
 
 081.16F: gfDro'vadat -- deva SfRu .
 081.16A: gfDraH avadat -- deva SfRu .
@@ -11191,6 +11592,9 @@ there so that we may know of their doings as well as their strength and weaknees
 
 081.18F: parAM SriyamavApnoti jalAsannataruryaTA .. 114..
 081.18A: parAm Sriyam avApnoti jalAsannataruH yaTA .. 114..
+; jala-Asanna-taruH
+
+081.16-18E: The Vulture said -- My lord, hear me -- A king although illiterate (not well-versed in politics) attains great prosperity by having in his service men advanced in knowledge, as does a tree growing by the water-side.
 
 081.19F: anyacca . pAnaM strI mfgayA dyUtamarTadUzaRameva ca .
 081.19A: anyat ca . pAnam strI mfgayA dyUtam arTadUzaRam eva ca .
@@ -11198,164 +11602,247 @@ there so that we may know of their doings as well as their strength and weaknees
 
 081.20F: vAgdaRqayoSca pAruzyaM vyasanAni mahIBujAm .. 115..
 081.20A: vAgdaRqayoH ca pAruzyam vyasanAni mahIBujAm .. 115..
+; mahI-Buj
 
+081.19-20E: Moreover, drinking, (inordinate attachment to) women, hunting, gambling, squandering (lit. wrong use) of money and the harshness of speech and punishment -- these are the vices in (or, the sources of calamities to) kings.
+
+; 01-11-2022,
 081.21F: kiM ca . na sAhasEkAntarasAnuvartinA
-081.21A: kim ca . na sAhasA ekAntarasAnuvartinA
-081.21P: sAhasEkAnta -- sAhasaM amfSyakAritvaM eva ekAntaH muKyaH rasaH taM anuvartate tena .
+081.21A: kim ca . na sAhasa-(ekAnta-rasa)-anuvartinA
+081.21P: sAhasEkAnta -- sAhasaM avimfSyakAritvaM eva ekAntaH muKyaH rasaH taM anuvartate tena .
+
+081.21-21E: Again, Neither by one wholly intent on enterprise (and hence acting precipitately),
 
 081.22F: na cApyupAyopahatAntarAtmanA .
 081.22A: na ca api upAyopahatAntarAtmanA .
+; upAya-(upahata-antarAtmanA)
 081.22P: upAyo -- upAyezu sADanAnvezaRezu upahataH AtmA budDiryasya .
 
+081.22-22E: nor by one whose mind is tossed between means (and not coming to a decision),
+
 081.23F: viBUtayaH SakyamavAptumUrjitA
-081.23A: viBUtayaH Sakyam avAptum UrjitA
+081.23A: viBUtayaH Sakyam avAptum UrjitAH
 081.23P: UrjitAH -- utkfzwAH .
+
+081.23-23E: can noble riches be obtained.
 
 081.24F: naye ca SOrye ca vasanti saMpadaH .. 116..
 081.24A: naye ca SOrye ca vasanti saMpadaH .. 116..
 
-081.25F: tvayA svabalotsAhamavalokya sAhasEkarasinA mayopanTastezvapi
-081.25A: tvayA svabalotsAham avalokya sAhasA ekarasinA mayopanTaH tezu api
+081.24-24E:  fortune abides in statesmanship and heroism.
+
+; 01-13-2022
+081.25F: tvayA svabalotsAhamavalokya sAhasEkarasinA mayopanyastezvapi
+081.25A: tvayA svabalotsAham avalokya sAhasa-eka-rasinA mayA upanyastezu api
 081.25P: upanyastezu -- prastutezu kartavyatayA nirdizwezu .
 
-081.26F: mantrezvanavaDAnaM vAkpAruzyaM ca kftam . ato durnIteH
-081.26A: mantrezu anavaDAnam vAkpAruzyam ca kftam . ataH durnIteH
+081.26F: mantrezvanavaDAnaM vAkpAruzyaM ca kftam . 
+081.26A: mantrezu anavaDAnam vAkpAruzyam ca kftam . 
 
-081.27F: PalamidamanuBUyate . taTA coktam --
-081.27A: Palam idam anuBUyate . taTA ca uktam --
+081.25-26E: Your Highness, observing (or, taking note of) the (over-)enthusiasm (or activity) of your army and solely intent on adventure, did not heed even the counsels I laid before you, and used harsh words.
+
+081.27F: ato durnIteH PalamidamanuBUyate . taTA coktam --
+081.27A: ataH durnIteH Palam idam anuBUyate . taTA ca uktam --
+
+081.27-27E: Hence this is the fruit of your mis-behaviour (or, erroneous policy) that you have been experiencing. For it is said --
 
 082.01F: durmantriRaM kamupayAnti na nItidozAH
 082.01A: durmantriRam kam upayAnti na nItidozAH
-082.01P: durmantriRam -- duzwaH mantrI yasya sa yadvA duzwo mantrosyAstItitam .
+082.01P: durmantriRam -- duzwaH mantrI yasya taM yadvA duzwo mantrosyAstIti tam .
+;  mantrosyAstIti -- mantro 'sya asti iti 
 082.01P+: nItidozAH -- nayamArgollaNGanajanyApadaH .
+;  ((naya-mArga)-ullaNGana)-janya-ApadaH
+; naya-mArgasya ullaNGanAt janyAH ApadaH
 
 082.02F: saMtApayanti kamapaTyaBujaM na rogAH .
 082.02A: saMtApayanti kam apaTyaBujam na rogAH .
+; Buj : an enjoyer, eater
+; apaTya-Buj   apaTyam Buj  upapada-samAsa viBakti 
+
+082.01-02E: What king who is ill-advised, (or, has bad ministers) does not suffer from the (evil consequences of) errors of policy? Whom, eating unwholesome things, do diseases not afflict?
 
 082.03F: kaM SrIrna darpayati kaM na nihanti mftyuH
 082.03A: kam SrIH na darpayati kam na nihanti mftyuH
 
 082.04F: kaM strIkftA na vizayAH paritApayanti .. 117..
-082.04A: kam strIkftA na vizayAH paritApayanti .. 117..
+082.04A: kam strIkftAH na vizayAH paritApayanti .. 117..
 082.04P: strIkftAH kAminyudgatAH .
 
-082.05F: aparaM ca . mudaM vizAdaH SaradaM himAgamastamo vivasvAn sukftaM kftaGnatA .
-082.05A: aparam ca . mudam vizAdaH Saradam himAgamastamo vivasvAn sukftam kftaGnatA .
+082.03-04E:  Whom does not wealth make proud? Whom does not Death kill? And whom do not the amorous sports of women torment?
 
-082.06F: priyopapattiH SucamApadaM nayaH SriyaH samfdDAmapi hanti durnayaH .. 118..
-082.06A: priyopapattiH Sucam Apadam nayaH SriyaH samfdDAm api hanti durnayaH .. 118..
+082.05F: aparaM ca . mudaM vizAdaH SaradaM himAgamastamo vivasvAn sukftaM kftaGnatA .
+082.05A: aparam ca . mudam vizAdaH Saradam himAgamaH tamas vivasvAn sukftam kftaGnatA .
+; mud joy
+082.06F: priyopapattiH SucamApadaM nayaH SriyaM samfdDAmapi hanti durnayaH .. 118..
+082.06A: priyopapattiH Sucam Apadam nayaH SriyaM samfdDAm api hanti durnayaH .. 118..
+; Sucam Suc (f. 2s)
 082.06P: priyopapattiH -- priyasya izwasya upapattiH sidDiH .
+; samfdDa abundant
+
+082.05-06E: Moreover,  Dejection destroys joy, the advent of winter (the beauty of) autumn, the sun darkness, ingratitude a benedictory act, the attainment of what is desired (or, liked) sorrow, a right course of conduct adversity, and misbehaviour wealth, although abundant.
 
 082.07F: tato mayApyAlocitam -- prajYAhIno'yaM rAjA . na cetkaTaM
 082.07A: tataH mayA api Alocitam -- prajYAhInaH ayam rAjA . na cet kaTam
 
-082.08F: nItiSAstrakaTA vAgulkABistimirayati . yataH .
-082.08A: nItiSAstrakaTA vAgulkABiH timirayati . yataH .
+082.08F: nItiSAstrakaTAkOmudIM vAgulkABistimirayati . yataH .
+082.08A: nIti-SAstra-kaTA-kOmudIm vAgulkABiH timirayati . yataH .
+; typo nItiSAstrakaTA -> nItiSAstrakaTAkOmudI
+; ulkA meteor . timiraya to obscure .
 082.08P: nItiSAstra -- nItiSAstrasya nItiSAstrasaMbanDinI kaTA eva kOmudI jyotsnA tAm .
 082.08P+: vAgulkABiH -- vAcaH durvacAMsi tA eva ulkAH alAtAni tABiH timirayati malinayati . astvayaM kzantavyaH ityarTaH .
+; ulkA alAta - torch.   rAjA is implied subj. of timirayati
 
+082.07-08E: Then I too thought to myself -- This king is wanting in discrimination. Or else, how can he obscure the moonlight of the counsels of political science with the flameless fire-brand (or, meteors) of (foolish) speeches? For,
+
+; 01-14-2022
 082.09F: yasya nAsti svayaM prajYA SAstraM tasya karoti kim .
 082.09A: yasya na asti svayam prajYA SAstram tasya karoti kim .
 
 082.10F: locanAByAM vihInasya darpaRaH kiM karizyati .. 119..
 082.10A: locanAByAm vihInasya darpaRaH kim karizyati .. 119..
 
+082.09-10E: What good can science do to him who is himself wanting in talent? Of what service is a lamp [sic: mirror] to him who has no eyes?
+
 082.11F: ityAhamapi tUzRIM sTitaH . aTa rAjA badDAYjalirAha -- tAta
 082.11A: iti aham api tUzRIm sTitaH . aTa rAjA badDAYjaliH Aha -- tAta
 
 082.12F: astvayaM mamAparADaH . idAnIM yaTAhamavaSizwabalasahitaH
-082.12A: astu ayam mama aparADaH . idAnIm yaTA aham avaSizwabalasahitaH
+082.12A: astu ayam mama aparADaH . idAnIm yaTA aham avaSizwa-bala-sahitaH
 
 082.13F: pratyAvftya vinDyAcalaM gacCAmi taTopadiSa .
-082.13A: pratyAvftya vinDyAcalam gacCAmi taTA upadiSa .
+082.13A: pratyAvftya vinDya-acalam gacCAmi taTA upadiSa .
+
+082.11-13E: For this reason I too remained quiet. Upon this the king said with folded hands -- Sir, let this my fault be connived at. Now instruct me in such a way that having returned with the remnant of my forces I shall go back to the mountain Vindhya.
 
 082.14F: gfDraH svagataM cintayati -- kriyatAmatra pratIkAraH . yataH .
 082.14A: gfDraH svagatam cintayati -- kriyatAm atra pratIkAraH . yataH .
+; pratIkAra = pratikAra  revenge
+082.14-14E: The Vulture said to himself -- This must be remedied. For,
 
 082.15F: devatAsu gurO gozu rAjasu brAhmaRezu ca .
 082.15A: devatAsu gurO gozu rAjasu brAhmaRezu ca .
 
 082.16F: niyantavyaH sadA kopo bAlavfdDAturezu ca .. 120..
-082.16A: niyantavyaH sadA kopaH bAlavfdDAturezu ca .. 120..
+082.16A: niyantavyaH sadA kopaH bAla-vfdDa-Aturezu ca .. 120..
+; Atura diseased
 082.16P: niyantavyaH -- nigrahItavyaH .
+
+082.15-16E: In the case of deities, one's preceptor, cows, kings, Brahmanas, as also children, old men and sickly persons, anger should always be restrained.
 
 082.17F: mantrI vihasya brUte -- deva mA BEzIH . samASvasihi . SfRu deva .
 082.17A: mantrI vihasya brUte -- deva mA BEzIH . samASvasihi . SfRu deva .
+; BEzIH injunctive 2s BI 
+; samASvasihi  be assured
+082.17-17E: The minister having smiled said -- Fear not my lord. Take heart. Listen, my lord--
 
 082.18F: mantriRAM BinnasaMDAne BizajAM sAMnipAtike .
-082.18A: mantriRAm BinnasaMDAne BizajAm sAMnipAtike .
-082.18P: BinnasaMDAne -- Binnasya pratihatasya saMDAne punaH saPalIkaraRe ityarTe . yadvA BinnAnAM saMDAne saMGawwane , saMmelane ityarTe . yadvA BinnasaMDAne izwArTasADakopAyo moGIBUte .
-
+082.18A: mantriRAm Binna-saMDAne BizajAm sAMnipAtike .
+082.18P: BinnasaMDAne -- Binnasya pratihatasya saMDAne punaH saPalIkaraRe ityarTe . yadvA BinnAnAM saMDAne saMGawwane , saMmelane ityarTe . yadvA BinnasaMDAne izwArTasADakopAye moGIBUte .
+; sAMnipAtika complicated disease
 082.19F: karmaRi vyajyate prajYA susTe ko vA na paRqitaH .. 121..
 082.19A: karmaRi vyajyate prajYA susTe kaH vA na paRqitaH .. 121..
+; vyajyate 'is tested' -- vyaYj  (cf. Huet)
 
+082.18-19E: The talent of ministers is tested (or, is exhibited) when a plan fails (or, when an alliance is broken), and that of physicians in disease wherein all the three humours are most malignantly disturbed: for who is not wise when all goes on smoothly?
+; 01-15-2022
 082.20F: aparaM ca . AramBante'lpamevAjYAH kAmaM vyagrA Bavanti ca .
 082.20A: aparam ca . AramBante alpam eva ajYAH kAmam vyagrAH Bavanti ca .
+; A-ramB = A-raB : undertake
+; 
 082.20P: vyagrAH -- AkulacittAH tvaritA vA . na ca pAraM gacCantIti BAvaH .
 
 082.21F: mahAramBAH kftaDiyastizWanti ca nirAkulAH .. 122..
-082.21A: mahAramBAH kftaDiyastizWanti ca nirAkulAH .. 122..
+082.21A: mahAramBAH kftaDiyaH tizWanti ca nirAkulAH .. 122..
+; kftA DIH yasya saH
 082.21P: kftaDiyaH -- SikzitabudDayaH prAjYAH .
 
+082.20-21E:  Moreover, little minds attempt little and are greatly embarrassed; while men of firm minds undertake great things and remain undisturbed.
+
 082.22F: tad atra BavatpratApAdeva durgaM BaNktvA
-082.22A: tat atra BavatpratApAt eva durgam BaNktvA
+082.22A: tat atra Bavat-pratApAt eva durgam BaNktvA
+; BaNktvA BaYj break, etc.
 
 082.23F: kIrtipratApasahitaM tvAmacireRa kAlena vinDyAcalaM nezyAmi .
-082.23A: kIrtipratApasahitam tvAm acireRa kAlena vinDyAcalam nezyAmi .
+082.23A: kIrti-pratApa-sahitam tvAm acireRa kAlena vinDyAcalam nezyAmi .
+
+082.22-23E: Having therefore stormed the (enemy's) castle I will take you, in a short time, to the Vindhya mountain, accompanied with glory and power.
 
 082.24F: rAjAha -- kaTamaDunA svalpabalena tatsaMpadyate .
 082.24A: rAjA Aha -- kaTam aDunA svalpabalena tat saMpadyate .
 
-082.25F: gfDro vadati -- deva sarvaM Bavizyati . yato
-082.25A: gfDraH vadati -- deva sarvam Bavizyati . yataH
+082.25F: gfDro vadati -- deva sarvaM Bavizyati .
+082.25A: gfDraH vadati -- deva sarvam Bavizyati .
 
-082.26F: vijigIzoradIrGasUtratA vijayasidDeravaSyaMBAvaH .
-082.26A: vijigIzoH adIrGasUtratA vijayasidDeH avaSyamBAvaH .
+082.24-25E: The king asked -- How can this be achieved now with the small force (at our command)? The Valture said -- My lord, everything will be accomplished.
+
+082.26F: yato vijigIzoradIrGasUtratA vijayasidDeravaSyaMBAvaH .
+082.26A: yataH vijigIzoH adIrGasUtratA vijayasidDeH avaSyam-BAvaH .
+; yatas because; avaSyamBAvin avaSyaMBAvin 
 082.26P: adIrGasUtratA kAryatatparatA .
+; adIrGasUtra prompt
+; tatparatA intention
 
 082.27F: tatsahasEva durgadvArAvaroDaH kriyatAm .
-082.27A: tat sahasA eva durgadvArAvaroDaH kriyatAm .
+082.27A: tat sahasA eva durga-dvAra-avaroDaH kriyatAm .
 
+082.26-27E: Because in the case of a conqueror promptness of action is the guarantee for the accomplishment of success. Let the gates of the castle then be blocked up at once.
+; 01-18-2022
 082.28F: aTa praRiDinA bakenAgatya hiraRyagarBasya kaTitam -- deva
 082.28A: aTa praRiDinA bakena Agatya hiraRyagarBasya kaTitam -- deva
+; praRiDi 3s spy. hiraRyagarBa rAjahaMsaH (62.03)
 
 082.29F: svalpabala evAyaM rAjA citravarRo
-082.29A: svalpabala eva ayam rAjA citravarRaH
+082.29A: svalpabalaH eva ayam rAjA citravarRaH
+; citravarRaH mayUraH pakzirAjA
 
 082.30F: gfDrasya mantropazwamBAdAgatya durgadvArAvaroDaM karizyati .
 082.30A: gfDrasya mantropazwamBAt Agatya durgadvArAvaroDam karizyati .
 
+082.28-30E: After this, the spy, crane came to Hiranyagarbha and told him -- Sire, king Chitravarna relying on the advice of the Vulture, small as his army is, is going to blockade the castle-gates.
+
 082.31F: rAjahaMso brUte -- sarvajYa kimaDunA viDeyam . cakro brUte -- svabale sArAsAravicAraH
 082.31A: rAjahaMsaH brUte -- sarvajYa kim aDunA viDeyam . cakraH brUte -- svabale sArAsAravicAraH
+; sAra-asAra-vicAraH strength-weakness-examination
+; sarvajYa - (all-knowing) : Name of the Cakra [ruddy goose] (cakravAka).cf. 065.30
 
 082.32F: kriyatAm . tajjYAtvA suvarRavastrAdikaM yaTArhaM prasAdapradAnaM ca kriyatAm . yataH .
-082.32A: kriyatAm . tat jYAtvA suvarRavastrAdikam yaTA arham prasAdapradAnam ca kriyatAm . yataH .
+082.32A: kriyatAm . tat jYAtvA suvarRavastrAdikam yaTA-arham prasAdapradAnam ca kriyatAm . yataH .
+
+082.31-32E: The royal Swan said -- Sarvajna, what is to be done now? Chakravaka replied -- Let the discrimination of strong and weak men in our army be made. On that being known let presents of gold, garments and the like be made, as marks of royal favour, according to merit. For,
 
 083.01F: yaH kAkinImapyapaTaprapannAM samudDarennizkasahasratulyAm .
 083.01A: yaH kAkinIm api apaTaprapannAm samudDaret nizkasahasratulyAm .
+; kAkinI a particular coin; nizka gold coin; sam-ud-hf
 083.01P: apaTaprapannAm -- anyaTAvyayitAM durupayuktAm .
-083.01P+: samudDaret -- apavyayAdrakzet .
+083.01P+: samudDaret -- apavyayAdrakzet . 
 083.01P++: vyayAvasarAnAha -- kratAvityAdinA .
-
+;  where is vyayAvasarAnAha in the 
 083.02F: kAlezu kowizvapi muktahastastaM rAjasiMhaM na jahAti lakzmIH .. 123..
 083.02A: kAlezu kowizu api muktahastaH tam rAjasiMham na jahAti lakzmIH .. 123..
+; kowi a large number, crore
+; rAjasiMha : king like a lion ;  siMharAja : the lion which is a king.
+083.01-02E: The goddess of wealth never leaves him, the lion among kings, who saves even a cowri from being ill-spent, as if it were worth a thousand coins of gold, but spends in crores with a liberal hand on proper occasions.
 
 083.03F: anyacca . kratO vivAhe vyasane ripukzaye yaSaskare karmaRi mitrasaMgrahe .
 083.03A: anyat ca . kratO vivAhe vyasane ripukzaye yaSaskare karmaRi mitrasaMgrahe .
 083.03P: vyasane -- Apadi , tannikaraRe ityAdi .
-
+; kratu sacrifice, vivAha marriage ceremony, vyasana adversity [bad habit],
+; ripukzaya enemy destruction, 
 083.04F: priyAsu nArIzvaDanezu bAnDuzu hyativyayo nAsti narADipAzwasu .. 124..
 083.04A: priyAsu nArIzu aDanezu bAnDuzu hi ativyayaH na asti narADipAzwasu .. 124..
 083.04P: azwasu -- etezu azwasu vizayezu DanavyayovaSyaM karaRIyaH .
 
+083.03-04E: Again, In a sacrifice, on the occasion of a wedding, in (averting) a calamity, for the destruction of the enemy, in an act which would redound to one's fame, in securing friends, on beloved women, in (relieving) relations who are penniless-in these eight casess money can never be (said to be) over-spent.
+
 083.05F: yataH . mUrKaH svalpavyayatrAsAtsarvanASaM karoti hi .
 083.05A: yataH . mUrKaH svalpavyayatrAsAt sarvanASam karoti hi .
 
-; Kale print: Sulka -> Sukla ?
-083.06F: kaH suDIstyajate BARqaM SuklasyEvAtisADvasAt .. 125..
-083.06A: kaH suDIH tyajate BARqam Suklasya eva atisADvasAt .. 125..
+083.06F: kaH suDIstyajate BARqaM SulkasyEvAtisADvasAt .. 125..
+083.06A: kaH suDIH tyajate BARqam Sulkasya eva atisADvasAt .. 125..
 083.06P: BARqam -- paRyadravyam .
 083.06P+: Suklasya -- rAjadeyakarasya .
+
+083.05-06E: For, A fool for fear of spending a little brings about the ruin of the whole: what wise man will forego his merchandise through the extreme dread of duty (to be levied on it)?
 
 083.07F: rAjAha -- kaTamiha samaye'tivyayo
 083.07A: rAjA Aha -- kaTam iha samaye ativyayaH
@@ -11363,17 +11850,27 @@ there so that we may know of their doings as well as their strength and weaknees
 083.08F: yujyate . uktaM ca -- ApadarTe DanaM rakzet --
 083.08A: yujyate . uktam ca -- ApadarTe Danam rakzet --
 
+083.07-08E: The king asked -- How can an extraordinary expenditure be advisable at this (critical time)? For it is said -- One should save money against (pecuniary) difficulties.
+
 083.09F: mantrI brUte -- SrImatAM kaTamApadaH .
 083.09A: mantrI brUte -- SrImatAm kaTam ApadaH .
 
-083.10F: rAjAha -- kadAciccalite lakzmIH
-083.10A: rAjA Aha - kadAcit calite lakzmIH
+083.10F: rAjAha -- kadAciccalate lakzmIH
+083.10A: rAjA Aha - kadAcit calate lakzmIH
 
 083.11F: mantrI brUte -- saMcitApi vinaSyati .. 126 ..
 083.11A: mantrI brUte -- saMcitA api vinaSyati .. 126 ..
 
+083.09-11E: The minister -- How can a monarch have difficulties? The king -- Lakshmi sometimes forsakes (a king). The minister -- (wealth) even though hoarded vanishes.
+
+; 01-19-2022
+
 083.12F: taddeva kArpaRyaM vimucya svasuBawA dAnamAnAByAM puraskriyantAm . taTA coktam --
-083.12A: tat deva kArpaRyam vimucya svasuBawA dAnamAnAByAm puraskriyantAm . taTA ca uktam --
+083.12A: tad deva kArpaRyam vimucya svasuBawAH dAnamAnAByAm puraskriyantAm . taTA ca uktam --
+; kArpaRya parsimony (weakness w.r.t. money)
+; Bawa soldier.  mAna honor
+
+083.12-12E: Leave aside, therefore, parsimony, my lord, and encourage your valiant soldiers with gifts and honours. For it is said --
 
 083.13F: parasparajYAH saMhfzwAstyaktuM prARAnsuniScitAH .
 083.13A: parasparajYAH saMhfzwAH tyaktum prARAn suniScitAH .
@@ -11381,7 +11878,9 @@ there so that we may know of their doings as well as their strength and weaknees
 083.13P+: tyaktuM -- jIvitavyayenApi svAminaM sevituM kftaniScayAH .
 
 083.14F: kulInAH pUjitAH samyagvijayante dvizadbalam .. 127..
-083.14A: kulInAH pUjitAH samyak vijayante dvizat balam .. 127..
+083.14A: kulInAH pUjitAH samyak vijayante dvizat-balam .. 127..
+
+083.13-14E: Warriors who know each other, who are well pleased, who are bent on even sacrificing their lives and who are nobly born, when well honoured, conquer the enemy's force.
 
 083.15F: aparaM ca . suBawAH SIlasampannAH saMhatAH kftaniScayAH .
 083.15A: aparam ca . suBawAH SIlasampannAH saMhatAH kftaniScayAH .
@@ -11389,145 +11888,221 @@ there so that we may know of their doings as well as their strength and weaknees
 ; niGnanti -> 'mfdnanti', which looks like print. mfd: to press, squeeze, etc.
 083.16F: api paYcaSataM SUrA mfdnanti ripuvAhinIm .. 128..
 083.16A: api paYcaSatam SUrAH mfdnanti ripuvAhinIm .. 128..
+; vAhinI a partic. division of an army
+
+083.15-16E: Moreover, even five hundred good warriors, who are possessed of excellent character, united, resolute and brave, can rout a whole army of the enemy.
 
 083.17F: kiM ca . SizwErapyaviSezajYa ugraSca kftanASakaH .
-083.17A: kim ca . SizwEH api aviSezajYaH ugraH ca kftanASakaH .
+083.17A: kim ca . SizwEH api a-viSezajYaH ugraH ca kftanASakaH .
 083.17P: kftanASakaH -- akftajYaH kftaGnaH .
 
 083.18F: tyajyate kiM punarnAnyEryaScApyAtmaMBarirnaraH .. 129..
 083.18A: tyajyate kim punaH na anyEH yaH ca api AtmamBariH naraH .. 129..
 083.18P: AtmaMBariH -- svArTaparaH .
+; para chief matter
+
+083.17-18E: Again, A man who does not know how to discriminate (distinguish between good and bad), who is fierce and ungrateful, as also a seeker of self-interest, is abandoned even by the great; how much more so then by ordinary men?
 
 083.19F: yataH . satyaM SOryaM dayA tyAgo nfpasyEte mahAguRAH .
 083.19A: yataH . satyam SOryam dayA tyAgaH nfpasya ete mahAguRAH .
-
+; tyAga gift (leaving)
 083.20F: etEstyakto mahIpAlaH prApnoti Kalu vAcyatAm .. 130..
 083.20A: etEH tyaktaH mahIpAlaH prApnoti Kalu vAcyatAm .. 130..
+; vAcya censure
 
+083.19-20E: For, veracity, bravery, mercifulness and munificence -- these are the principal qualities of a king : a prince who is void of those certainly meets with censure.
+; 01-20-2022
 083.21F: IdfSi prastAve'mAtyAstAvadavaSyameva puraskartavyAH . taTA coktam --
-083.21A: IdfSi prastAve amAtyAH tAvat avaSyam eva puraH kartavyAH . taTA ca uktam --
+083.21A: IdfSi prastAve amAtyAH tAvat avaSyam eva puraskartavyAH . taTA ca uktam --
+; prastAva occasion. amAtyaH mantrI.  tAvat indeed.
+
+083.21-21E: On such an occasion, the ministers themselves, must, of necessity, be treated with marks of distinction. Says the precept --
 
 083.22F: yo yena pratibadDaH syAtsaha tenodayI vyayI .
-083.22A: yaH yena pratibadDaH syAt saha tenodayI vyayI .
+083.22A: yaH yena pratibadDaH syAt saha tena udayI vyayI .
 083.22P: yo yena pratibadDaH yasya hitAhitaM yannibanDanamasti . karmaRi saMbadDo vA .
-
+; pratibadDa connected
 083.23F: sa viSvasto niyoktavyaH prARezu ca Danezu ca .. 131..
 083.23A: saH viSvastaH niyoktavyaH prARezu ca Danezu ca .. 131..
 083.23P: prARezu -- prARarakzaRavizaye DanarakzaRavizaye ca .
 
+083.22-23E: He whose fortune is bound up with one's own, and who rises or falls along with one -- him, a trusty person, one (a king) should appoint to guard his body (lit. life) and the treasury.
+
 083.24F: yataH . DUrtaH strI vA SiSuryasya mantriRaH syurmahIpateH .
 083.24A: yataH . DUrtaH strI vA SiSuH yasya mantriRaH syuH mahIpateH .
+; DUrta a cheat
 
 083.25F: anItipavanakziptaH kAryAbDO sa nimajjati .. 132..
 083.25A: anItipavanakziptaH kAryAbDO saH nimajjati .. 132..
+; pavana vAyu. abDi ocean
+; syuH if (they) are
 083.25P: anItipavanakziptaH -- anItiH kunayaH sA eva pavanaH tenAkziptaH udDftaH .
 083.25P+: nimajjati -- kAryavinASena naSyatIti BAvaH .
 
-083.26F: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayastaTA .
-083.26A: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayastaTA .
+083.24-25E: For, The king who has for his counsellors a rogue, a woman or a child, sinks into the ocean of state-business, being hurled into it by the gales of erroneous policy.
 
-083.27F: nityaM BftyAnupekzA ca tasya syAdDanadA DarA .. 133..
-083.27A: nityam BftyAnupekzA ca tasya syAt DanadA DarA .. 133..
-083.27P: BftyAnupekzA -- Bftyezu AdaraH .
+083.26F: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayastaTA .
+083.26A: SfRu deva . harzakroDO yatO yasya SAstrArTe pratyayaH taTA .
+; pratyaya firm conviction 
+
+083.27F: nityaM BftyAnvavekzA ca tasya syAdDanadA DarA .. 133..
+083.27A: nityam Bftya-anvavekzA ca tasya syAt DanadA DarA .. 133..
+; DarA earth
+083.27P: BftyAnvavekzA -- Bftyezu AdaraH .
+
+083.26-27E: Listen, my lord. The earth will yield wealth to him whose joy and anger are well regulated, who has a firm belief in the teachinge of the Sastras, and who, every day, attends to his servants.
 
 083.28F: yezAM rAjYA saha syAtAmuccayApacayO Druvam .
 083.28A: yezAm rAjYA saha syAtAm uccayApacayO Druvam .
+; Druva fixed. Druvam firmly, certainly
+; cay gam
 083.28P: uccayApacayO -- utkarzApakarzO aByudayADaHpAtO .
 
 083.29F: amAtyA iti tAnrAjA nAvamanyetkadAcana .. 134..
-083.29A: amAtyAH iti tAt rAjA na avamanyet kadAcana .. 134..
+083.29A: amAtyAH iti tAn rAjA na avamanyet kadAcana .. 134..
+
+083.28-29E: A king should never despise his ministers as such, whose rise and fall take place with his own.
 
 084.01F: yataH . mahIBujo madAnDasya vizame kAryasAgare .
 084.01A: yataH . mahIBujaH madAnDasya vizame kAryasAgare .
+; mahIBujaH mahIBuj 6s
+; mada arrogance. vizama vi-sama uneven, when it goes wrong, perilous 
 
 084.02F: sKalato hi karAlambaH suhftsacivacezwitam .. 135 ..
-084.02A: sKalataH hi karAlambaH suhfd sacivacezwitam .. 135 ..
-084.02P: suhftsacivacezwitaM -- SoBanaM hfdayaM yezAM te suhfdaH hitabudDayaH ye sacivAH tezAM cazwitaM kriyA . sacivA eva pratIkAraM cintayitvA svAminamApada udDarantIti BAvaH
+084.02A: sKalataH hi kara-AlambaH suhfd-saciva-cezwitam .. 135 ..
+; sKal stumble, to err.  saciva friend, counsellor. cezwita karaRa
+084.02P: suhftsacivacezwitaM -- SoBanaM hfdayaM yezAM te suhfdaH hitabudDayaH ye sacivAH tezAM cezwitaM kriyA . sacivA eva pratIkAraM cintayitvA svAminamApada udDarantIti BAvaH
 
+084.01-02E: Since, When a king, blinded by vanity, sinks into the perilous ocean of state-matters, the action of a friendly ministry proves to be a helping hand (to him).
+; 01-24-2022
 084.03F: aTAgatya praRamya meGavarRo brUte -- deva
-084.03A: aTAgatya praRamya meGavarRaH brUte -- deva
+084.03A: aTa Agatya praRamya meGavarRaH brUte -- deva
 
-084.04F: dfzwiprasAdaM kuru . eza yudDArTo
-084.04A: dfzwiprasAdam kuru . ezaH yudDArTAH
+084.04F: dfzwiprasAdaM kuru . eza yudDArTo vipakzo durgadvAri vartate .
+084.04A: dfzwiprasAdam kuru . ezaH yudDArTaH vipakzaH durgadvAri vartate .
+; vipakzaH 'being on a different side', enemy
+084.03-04E: Now Meghavarna, having come and bowed to the king, said -- My lord, favour me with a glance. The enemy is at the castle-gate anxious for fight.
 
-084.05F: vipakzo durgadvAri vartate . tad devapAdAdeSAd bahirniHsftya
-084.05A: vipakzaH durgadvAri vartate . tat devapAdAdeSAt bahiH niHsftya
+084.05F: tad devapAdAdeSAd bahirniHsftya
+084.05A: tat devapAda-AdeSAt bahis niHsftya
+; bahis out.
 
 084.06F: svavikramaM darSayAmi . tena devapAdAnAmAnfRyamupagacCAmi .
 084.06A: svavikramam darSayAmi . tena devapAdAnAm AnfRyam upagacCAmi .
+; vikrama courage. AnfRya payment-of-debt [an-fRa without debt]
+
+084.05-06E: Sallying forth then, at the command of Your Majesty's feet, I will display my valour, by which (act) I will pay off the debt I owe to Your Majesty.
 
 084.07F: cakro brUte -- mEvam . yadi bahirniHsftya
 084.07A: cakraH brUte -- mA evam . yadi bahiH niHsftya
 
 084.08F: yodDavyam tadA durgASrayaRameva nizprayojanam .
-084.08A: yodDavyam tadA durgASrayaRam eva nizprayojanam .
+084.08A: yodDavyam tadA durga-ASrayaRam eva nizprayojanam .
+; yodDavya . to be fought. ASrayaRa seeking refuge.
+; niz-prayojana without purpose
+
+084.07-08E:  Not so said Chakravaka. If we are to go out and fight, then in vain have we taken shelter in the fortress.
 
 084.09F: aparaM ca . vizamo'pi yaTA nakraH salilAn nisfto vaSaH .
 ; Kale print error? vizamopi (no avagraha)
-084.09A: aparam ca . vizamaH api yaTA nakraH salilAn nisftaH vaSaH .
+084.09A: aparam ca . vizamaH api yaTA nakraH salilAt nisftaH vaSaH .
+; nakra crocodile. salila jala. 
 084.09P: vizamaH udDartuM jetuM vA aSakyaH .
 084.09P+: vaSaH -- anyezAM vaSago Bavati . yadvA avaSa iti padacCedaH . avaSaH vikalaH aSaraRo vA .
+; vaSaga obedient
 
 084.10F: vanAdvinirgataH SUraH siMho'pi syAcCfgAlavat .. 136..
 ; Kale print error? siMho'pi (no avagraha)
 084.10A: vanAt vinirgataH SUraH siMhaH api syAt SfgAlavat .. 136..
 
-; next 3 lines appear AFTER 137
+084.09-10E: Moreover, A crocodile, although formidable, can be easily overcome when come out of water; and the lion, although brave, is like a jackal when he is out of the forest.
+
 084.11F: deva svayaM gatvA dfSyatAM yudDam . yataH .
 084.11A: deva svayam gatvA dfSyatAm yudDam . yataH .
 
+084.11-11E: My lord, you should go in person and witness the fight. For,
+
 084.12F: puraskftya balaM rAjA yoDayedavalokayan .
 084.12A: puraskftya balam rAjA yoDayet avalokayan .
+; yoDayet yuD What grammatical form?  Causal Optative 3s?
 
 084.13F: svAminADizWitaH SvApi kiM na siMhAyate Druvam .. 137..
-084.13A: svAminADizWitaH SvApi kim na siMhAyate Druvam .. 137..
+084.13A: svAminA ADizWitaH SvA api kim na siMhAyate Druvam .. 137..
+; siMhAya behave like a lion. Druvam certainly.
+
+084.12-13E: Having put forth his army, a king should make it fight under his own inspection: for, does not even a dog act the lion, indeed, when led on by his master?
 
 084.14F: anantaraM te sarve durgadvAraM gatvA mahAhavaM kftavantaH .
 084.14A: anantaram te sarve durgadvAram gatvA mahAhavam kftavantaH .
+; Ahava battle.
 
 084.15F: aparedyuScitravarRo rAjA gfDramuvAca -- tAta .
-084.15A: aparedyuH citravarRaH rAjA gfDram uvAca -- tAta .
+084.15A: aparedyus citravarRaH rAjA gfDram uvAca -- tAta .
+; aparedyus on the following day. apara following. dyus dyu day
 
-084.16F: ! svapratijYAtamaDunA nirvAhaya .
-084.16A: ! svapratijYAtam aDunA nirvAhaya .
+084.14-15E: Then they all went forth to the castle-gate and fought a great battle. The next day king Chitravarna said to the Vulture -- Sir,
+
+084.16F: svapratijYAtamaDunA nirvAhaya .
+084.16A: svapratijYAtam aDunA nirvAhaya .
+; nirvAhaya nir-vah Causal imp. 2s. cause to succeed, accomplish.
 
 084.17F: gfDro brUte -- deva SfRu tAvat .
 084.17A: gfDraH brUte -- deva SfRu tAvat .
+; tAvat just, now
 
+084.16-17E: fulfil (lit. bear out) your promise now. The Vulture said -- My lord, just hear me.
+; 01-25-2022
 084.18F: akAlasahamatyalpaM mUrKavyasaninAyakam .
-084.18A: akAlasaham ati alpam mUrKavyasaninAyakam .
-084.18P: akAlasahaM dIrGakAlarakzaRAkzamam .
+084.18A: akAlasaham ati-alpam mUrKa-vyasani-nAyakam .
+084.18P: akAla-sahaM dIrGakAlarakzaRAkzamam .
+; saha enduring. (vyasana misfortune) vyasanin vicious.
 
 084.19F: aguptaM BIruyoDaM ca durgavyasanamucyate .. 138..
 084.19A: aguptam BIruyoDam ca durgavyasanam ucyate .. 138..
+; gupta protected. vyasana calamity. ucyate vac.
+
+084.18-19E: When it (a fortress) is incapable of holding out for a long time, or is very small, or is commanded by a foolish or vicious officer, or is not well protected, or is manned by timid soldiers, that is said to be the calamity of a fortress.
 
 084.20F: tat tAvad atra nAsti . upajApaScirAroDo'vaskandastIvrapOruzam .
-084.20A: tat tAvat atra na asti . upajApaH cirAroDaH avaskandaH tIvrapOruzam .
+084.20A: tat tAvat atra na asti . upajApaH cirAroDaH avaskandaH tIvra-pOruzam .
 084.20P: upajApaH -- BedaH .
+; upajApa treachery (Kale); act of rousing to rebellion (MW).
+; avaskanda assault. pOruza manly courage, heroism.
 084.20P+: cirAroDaH . dIrGakAlamavaroDaH .
 
 084.21F: durgasya laNGanopAyAScatvAraH kaTitA ime .. 139..
-084.21A: durgasya laNGanopAyAH catvAraH kaTitAH ime .. 139..
+084.21A: durgasya laNGana-upAyAH catvAraH kaTitAH ime .. 139..
+; laNGana jumping over, capture.  ime idam these
 084.21P: laNGanopAyAH grahaRopAyAH .
+
+084.20-21E: As to this, it does not exist here. Treachery, a prolonged siege, assault and daring valour (a desperate fight) these are declared as the four ways of capturing a fort.
 
 084.22F: atra ca yaTASakti kriyate yatnaH . karRe kaTayati evameva .
 084.22A: atra ca yaTASakti kriyate yatnaH . karRe kaTayati evam eva .
 
 084.23F: tato'nudita eva BAskare caturzvapi durgadvArezu pravftte yudDe
-084.23A: tataH anudita eva BAskare caturzu api durgadvArezu pravftte yudDe
+084.23A: tataH anudite eva BAs-kare caturzu api durgadvArezu pravftte yudDe
+; BAs-kara making light, sun.
 
-084.24F: durgAByantaragfhezvekadA kAkEragnirnikziptaH . tataH gfhItaM
-084.24A: durgAByantaragfhezu ekadA kAkEH agniH nikziptaH . tataH gfhItam
+084.24F: durgAByantaragfhezvekadA kAkEragnirnikziptaH . 
+084.24A: durga-aByantara-gfhezu ekadA kAkEH agniH nikziptaH . 
+; ekadA at once
 
-084.25F: gfhItaM durgam iti
-084.25A: gfhItam durgam iti
+084.22-24E: In this direction I will make an effort to the best of my ability. He whispers into his ear -- Thus, thus. Then, as the battle raged at (all) the four gates of the fort, even before the sun had risen, the crows set fire to the houses in the interior of the fort all at once.
+
+084.25F: tataH gfhItaM gfhItaM durgam iti
+084.25A: tataH gfhItam gfhItam durgam iti
 
 084.26F: kolAhalaM SrutvAnekagfhezu ca pradIptaM pAvakaM pratyakzeRAvalokya rAjahaMsasya
 084.26A: kolAhalam SrutvA anekagfhezu ca pradIptam pAvakam pratyakzeRa avalokya rAjahaMsasya
+; kolAhala uproar. pAvaka fire (pU to purify). pratyakzeRa visibly, actually
 
 084.27F: sEnikAstaTAnye durgavAsinaH satvaraM hradaM pravizwAH . yataH .
 084.27A: sEnikAH taTA anye durgavAsinaH satvaram hradam pravizwAH . yataH .
+; taTA so also. hrada pond, lake.
 
+084.25-27E: Thereafter, hearing the tumultuous cries -- 'The fort is taken, the fort is taken,' -- and seeing the fire actually spreading through several houses, the soldiers of the royal Swan, as well as the other residents of the fortress, quickly entered the pond. For,
+; 01-26-2022
 ; There is text preceding 'sumantritaM', but print is not readable.
 084.28F: sumantritaM suvikrAntaM suyudDaM supalAyitam .
 084.28A: sumantritam suvikrAntam suyudDam supalAyitam .
@@ -11537,69 +12112,97 @@ there so that we may know of their doings as well as their strength and weaknees
 084.29F: prAptakAle yaTASakti kuryAnna tu vicArayet .. 140..
 084.29A: prAptakAle yaTASakti kuryAt na tu vicArayet .. 140..
 
-; 'rAjA haMsaSca' print unclear
-084.30F: rAjA haMsaSca muKisvaBAvAn mandagatiH . sArasadvitIyaSca citravarRasya
-084.30A: rAjA haMsaH ca muKisvaBAvAn mandagatiH . sArasadvitIyaH ca citravarRasya
+084.28-29E: At the proper time and to the best of one's ability one should hold a good consultation, display good valour, fight bravely or effect an honourable (or, orderly) retreat, but should not (pause to think i.e., should not hesitate, but promptly act)
 
+; 'rAjA haMsaSca' print unclear
+084.30F: rAjA haMsaSca suKisvaBAvAn mandagatiH . sArasadvitIyaSca citravarRasya
+084.30A: rAjA haMsaH ca suKisvaBAvAt mandagatiH . sArasadvitIyaH ca citravarRasya
+; sArasa - proper name. dvitIya companion, accompanied by
 084.31F: senApatinA kukkuwenAgatya vezwitaH . hiraRyagarBaH sArasamAha --
 084.31A: senApatinA kukkuwena Agatya vezwitaH . hiraRyagarBaH sArasam Aha --
+; kukkuwa cock (rooster). vezwita surrounded
+; Agatya 'attacked' (Kale translation questionable).
 
-; 'kaTaM vyApAdayasi' changed but Kale print unclear
-084.32F: sArasa senApate mamAnuroDAdAtmAnaM taTAvAdayizyasi .
-084.32A: sArasa senApate mama anuroDAt AtmAnam taTA vAdayizyasi .
+084.30-31E: The royal Swan, who, being habituated to ease, was moving slowly, accompanied by Sarasa, was attacked by the Cock, Chitravarna's general, and surrounded. Hiranyagarbha said to Sarasa -- 
+
+; taTApAdayizyasi Kale print unclear (change to kaTaM vyApAdayizyasi)
+084.32F: sArasa senApate mamAnuroDAdAtmAnaM kaTaM vyApAdayizyasi .
+084.32A: sArasa senApate mama anuroDAt AtmAnam kaTaM vyApAdayizyasi .
+; pAdayizyasi ca. fut. 2s (Huet)
 084.32P: mamAnuroDAt -- madapekzayA .
-; Sampada: 'taTAvAdayizyasi' this sanDi doesn't seem correct.
 
 084.33F: gantuM tvaMaDunApi samarTaH . tadgatvA
 084.33A: gantum tvam aDunA api samarTaH . tat gatvA
 
 ; parirakza could be parikza in print, which is unclear
-084.34F: jalaM praviSyAtmAnaM parirakza . asmatputraM cUqAmaRinAmAnaM
-084.34A: jalam praviSya AtmAnam parirakza . asmat putram cUqAmaRinAmAnam
+084.34F: jalaM praviSyAtmAnaM parirakza . 
+084.34A: jalam praviSya AtmAnam parirakza . 
 
-084.35F: sarvajYasaMmatyA rAjAnaM karizyasi .
-084.35A: sarvajYasaMmatyA rAjAnam karizyasi .
+084.32-34E: General Sarasa, you should not destroy yourself out of regard for me. You can still make good your escape. Go, then, and save yourself by plunging into the water.
+; 01-27-2022
+084.35F: asmatputraM cUqAmaRinAmAnaM sarvajYasaMmatyA rAjAnaM karizyasi .
+084.35A: asmad-putram cUqAmaRi-nAmAnam sarvajYa-saMmatyA rAjAnam karizyasi .
+; saMmati sammati (MW) approval
+; nAmAnam m. 2s nAman (nAman is neuter, but here is masuline agree with rAjAnam)
 
-084.36F: sAraso brUte -- deva na vaktavyamevaM
-084.36A: sArasaH brUte -- deva na vaktavyamevam
+084.36F: sAraso brUte -- deva na vaktavyamevaM duHsahaM vacaH .
+084.36A: sArasaH brUte -- deva na vaktavyam evam duHsaham vacaH . 
+; duHsaha unbearable. vacaH n. 2s vacas.
 
-084.37F: duHsahaM vacaH . yAvaccandrArkO divi tizWatastAvadvijayatAM
-084.37A: duHsaham vacaH . yAvat candrArkO divi tizWataH tAvat vijayatAm
+084.35-36E: Make my son, Chudamani by name, king, with the consent of Sarvajna. Sarasa said -- My lord, please utter not such unbearable words.
 
-084.38F: devaH . ahaM deva durgADikArI manmAMsAsfgviliptena
-; mAMsAsfgviliptena = mad + (mAMsa + asfg) + viliptena'  : my (meat & blood) smeared.
-;  (acc. to MW, 'asfg' is compound form of 'asjf' (blood)).
-084.38A: devaH . aham deva durgADikArI manmAMsAsfgviliptena
-;Sampada: 'mAMsAsfg' this word seems unclear.
+084.37F: yAvaccandrArkO divi tizWatastAvadvijayatAM devaH .
+084.37A: yAvat candrArkO divi tizWataH tAvat vijayatAm devaH . 
+; arka sun.
 
+084.38F: ahaM deva durgADikArI manmAMsAsfgviliptena
+; mAMsa=asfgviliptena = (mAMsa + asfg) + viliptena': my (meat & blood) smeared.
+084.38A: aham deva durga-aDikArI mad-mAMsa-asfj-viliptena
+; 'asfg' compound form of 'asjf' (blood) (MW)
+; aDi-kArin superintendent. 
 084.39F: dvAravartmanA praviSatu SatruH . aparaM ca deva .
-084.39A: dvAravartmanA praviSatu SatruH . aparam ca deva .
+084.39A: dvAra-vartmanA praviSatu SatruH . aparam ca deva .
 
+084.37-39E: May Your Majesty be triumphant as long as the sun and moon endure in heaven. My lord, I am the commanding officer of the castle. So the enemy shall enter by the gate-way smeared with my flesh and blood. Moreover, my lord --
+; 
 085.01F: kzamI dAtA guRagrAhI svAmI duHKena laByate .
 085.01A: kzamI dAtA guRagrAhI svAmI duHKena laByate .
+; guRagrAhin appreciating merits.  duHKena with difficulty.
 
 085.02F: rAjAha -- satyamevEtat . kiMtu .
 085.02A: rAjA Aha -- satyam eva etat . kim tu .
 
+085.01-02E: A master who is forbearing, munificent and an appreciator of merits, is obtained with difficulty. The king observed -- This is true, indeed, but --
+
 085.03F: Sucirdakzo'nuraktaSca jAne Bftyo'pi durlaBaH .. 141..
-085.03A: SucirdakzaH anuraktaH ca jAne BftyaH api durlaBaH .. 141..
+085.03A: SuciH dakzaH anuraktaH ca jAne BftyaH api durlaBaH .. 141..
+; jAne jYA pre. 1s, I know.  anurakta attached
 085.03P: SuciH -- SudDAntaHkaraRaH apApabudDiH .
 
 085.04F: sAraso brUte -- anyacca deva SfRu .
 085.04A: sArasaH brUte -- anyat ca deva SfRu .
 
-085.05F: yadi samaramayAsya nAsti mftyor
-085.05A: yadi samaramapAsya na asti mftyoH
+085.03-04E: Even a servant who is honest, diligent and devoted (to his master) is, I think, difficult to be found. Sarasa said -- My lord, hear me again.
+
+085.05F: yadi samaramapAsya nAsti mftyor-
+085.05A: yadi samaram apAsya na asti mftyoH
+; samara meeting, conflict
 
 085.06F: Bayamiti yuktamito'nyataH prayAtum .
 085.06A: Bayam iti yuktam itaH anyataH prayAtum .
+; itas from here. yuktam properly. anyatas ind. elsewhere.
 
 085.07F: aTa maraRamavaSyameva jantoH
 085.07A: aTa maraRam avaSyam eva jantoH
+; jantu creature
 
-085.08F: kimiti muDA malinaM yaSaH kriyate .. 142..
-085.08A: kim iti muDA malinam yaSaH kriyate .. 142..
+085.08F: kimiti muDA malinaM yaSaH kriyeta .. 142..
+085.08A: kim iti muDA malinam yaSaH kriyeta .. 142..
+; muDA in vain. malina dirty, tarnished
+; 12/13 12/13  different meter
 
+085.05-08E: If after having avoided a fight there could be no fear of death, then it would be proper to go away from here : but if death be the inevitable lot of a creature, why should reputation be tarnished in vain?
+; 01-28-2022 
 085.09F: anyacca . Bave'sminpavanodBrAntavIciviBramaBaNgure .
 085.09A: anyat ca . Bave asmin pavanodBrAntavIciviBramaBaNgure .
 085.09P: pavana -- pavanena vAtyayA udBrAntA ye vIcayastaraNgAstezAM viBramaH BramaRaM tadvadBaMgure kzaRaviDvaMsini .
@@ -11687,7 +12290,7 @@ there so that we may know of their doings as well as their strength and weaknees
 
 086.02F: akzayAMllaBate lokAnyadi klEbyaM na gacCati .. 149..
 086.02A: akzayAn laBate lokAn yadi klEbyam na gacCati .. 149..
-086.02P: yadi klEbyaM <ab n="ityAdi">i</ab> -- yadi SOryeRa yudDaM karoti .
+086.02P: yadi klEbyaM i° -- yadi SOryeRa yudDaM karoti .
 
 086.03F: vigrahaH Sruto BavadBiH rAjaputrEruktam -- SrutvA suKino BUtA vayam .
 086.03A: vigrahaH SrutaH BavadBiH rAjaputrEH uktam -- SrutvA suKinaH BUtAH vayam .
@@ -11887,7 +12490,7 @@ there so that we may know of their doings as well as their strength and weaknees
 
 087.37F: AhAro dviguRaH strIRAM budDistAsAM caturguRA .
 087.37A: AhAraH dviguRaH strIRAm budDiH tAsAm caturguRA .
-087.37P: AhAra <ab n="ityAdi">i</ab> -- suhf. -- Slo. 117.
+087.37P: AhAra i° -- suhf. -- Slo. 117.
 
 087.38F: zaqguRo vyavasAyaSca kAmAScAzwaguRaH smftaH .. 8..
 087.38A: zaw guRaH vyavasAyaH ca kAmAH ca azwaguRaH smftaH .. 8..
@@ -12225,7 +12828,7 @@ there so that we may know of their doings as well as their strength and weaknees
 
 090.12F: upakArApakArO hi lakzyaM lakzaRametayoH .. 16..
 090.12A: upakArApakArO hi lakzyam lakzaRam etayoH .. 16..
-090.12P: upakArApakArO <ab n="ityAdi">i</ab> -- yataH upakArApakArO izwAnizwO etayoH mitrasya SatroSca lakzaRaM lakzyaM jYAtavyam .
+090.12P: upakArApakArO i° -- yataH upakArApakArO izwAnizwO etayoH mitrasya SatroSca lakzaRaM lakzyaM jYAtavyam .
 
 090.13F: matsyA UcuH -- Bo baka ko'tra rakzanopAyaH .
 090.13A: matsyAH UcuH -- Bo baka kaH atra rakzanopAyaH .
@@ -12266,14 +12869,14 @@ there so that we may know of their doings as well as their strength and weaknees
 
 090.24F: aparaM ca . aBiyukto yadA paSyenna kiMcid DitamAtmanaH .
 090.24A: aparam ca . aBiyuktaH yadA paSyet na kim cit Ditam AtmanaH .
-090.24P: aBiyuktaH ityA -- yadA prAjYaH paRqitaH aBiyuktaH SatruRAkrAntaH san <ab n="ityAdi">i</ab> .
+090.24P: aBiyuktaH ityA -- yadA prAjYaH paRqitaH aBiyuktaH SatruRAkrAntaH san i° .
 
 090.25F: yuDyamAnastadA prAjYo mriyate ripuRA saha .. 18..
 090.25A: yuDyamAnaH tadA prAjYaH mriyate ripuRA saha .. 18..
 
 090.26F: anyacca . yatrAyudDe Druvo nASo yudDe jIvitasaMSayaH .
 090.26A: anyat ca . yatra AyudDe DruvaH nASaH yudDe jIvitasaMSayaH .
-090.26P: yatrAyudDe <ab n="ityAdi">i</ab> -- gatapUrvoyaM . Slo. su.68 .
+090.26P: yatrAyudDe i° -- gatapUrvoyaM . Slo. su.68 .
 
 090.27F: taM kAlamekaM yudDasya pravadanti manIziRaH .. 19 ..
 090.27A: tam kAlam ekam yudDasya pravadanti manIziRaH .. 19 ..
@@ -12810,7 +13413,7 @@ there so that we may know of their doings as well as their strength and weaknees
 
 095.11F: saMtApayedyena samaM sutaptastaptena saMDAnamupEti taptaH .. 56..
 095.11A: saMtApayet yena samam sutaptaH taptena saMDAnam upEti taptaH .. 56..
-095.11P: yena -- yena <ab n="ityAdi">i</ab> SatruH samaM AtmatulyaM sutaptaH Bavet .
+095.11P: yena -- yena i° SatruH samaM AtmatulyaM sutaptaH Bavet .
 
 095.12F: rAjYA evamastu iti nigadya
 095.12A: rAjYA evam astu iti nigadya
@@ -13506,7 +14109,7 @@ there so that we may know of their doings as well as their strength and weaknees
 
 101.02F: parasyArTamanarTaM vA prakASayati no mahAn .. 97..
 101.02A: parasya arTam anarTam vA prakASayati naH mahAn .. 97..
-101.02P: parasya <ab n="ityAdi">i</ab> -- mahAn mahAmatiH paRqita ityarTaH . arTaM anarTaM ca izwAnizwaM parasya na prakASayati . anyasmE na kaTayati . yadvA cikIrzitaM parasya arTaM anarTaM vA na prakASayati . sarvaM suguptaM karotIti BAvaH .
+101.02P: parasya i° -- mahAn mahAmatiH paRqita ityarTaH . arTaM anarTaM ca izwAnizwaM parasya na prakASayati . anyasmE na kaTayati . yadvA cikIrzitaM parasya arTaM anarTaM vA na prakASayati . sarvaM suguptaM karotIti BAvaH .
 
 101.03F: aparaM ca . ekadA na vigfhRIyAdbahUnrAjABiGAtinaH .
 101.03A: aparaM ca . ekadA na vigfhRIyAt bahUn rAjABiGAtinaH .
