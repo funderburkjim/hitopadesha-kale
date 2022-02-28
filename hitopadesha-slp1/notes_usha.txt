@@ -1,0 +1,37 @@
+Usha has a Hindi version of hitopadesha.
+; Commentary- Abhinava-Raja-Lakshmi
+; Author- Guruprasada Shastri
+; With Hindi Translation
+
+In part 4 (sanDiH), she noticed a difference between Kale's version and
+the Hindi version for Shlokas 22-25
+; ---------------------------------
+; Kale
+yo hi DarmaM puraskftya hitvA BartuH priyApriye .
+apriyARyAha taTyAni tena rAjA sahAyavAn .. 22..
+
+yudDe vinASo Bavati kadAciduBayorapi .
+nahi saMSayitaM kuryAdityuvAca bfhaspatiH .. 23..
+
+suhfdbalaM taTA rAjyamAtmAnaM kIrtimeva ca .
+yuDi saMdehadolAsTaM ko hi kuryAdabAliSaH .. 24..
+
+saMDimicCetsamenApi saMdigDo vijayo yuDi .
+sundopasundAvanyonyaM nazwO tulyabalO na kim .. 25 ..
+
+; -----------------------------------------
+; Hindi version
+yo hi DarmaM puraskftya hitvA BartuH priyApriye .
+apriyARyAha paTyAni tena rAjA sahAyavAn .. 22..
+ note: paTyAni instead of taTyAni
+   paTya suitable;  taTya truth
+   
+suhfdbalaM taTA rAjyamAtmAnaM kIrtimeva ca .
+yuDi saMdehadolAsTaM ko hi kuryAdabAliSaH .. 23..
+
+saMDimicCetsamenApi saMdigDo vijayo yuDi .
+nahi saMSayitaM kuryAdityuvAca bfhaspatiH .. 24..
+
+yudDe vinASo Bavati kadAciduBayorapi .
+sundopasundAvanyonyaM nazwO tulyabalO na kim .. 25 ..
+
