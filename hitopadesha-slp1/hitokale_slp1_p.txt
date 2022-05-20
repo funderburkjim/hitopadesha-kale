@@ -66,14 +66,14 @@
 001.03F: sidDiH sADye satAmastu prasAdAt tasya DUrjaweH .
 001.03A: sidDiH sADye satAm astu prasAdAt tasya DUrjaweH .
 ; sidDi success; sADya an object to be accomplished;
-; sat good person; prasAda graciousness
+; sat good person; prasAda grace (graciousness)
 ; DUr in comp. for Dur; Dur burden, top; jawi twisted hair (dreadlocks?)
 ; DUrjawi N. of Rudra-Siva
 001.03P: DUH BAraBUtA jawA yasya asO DUrjawiH . tasya DUrjaweH prasAdAt satAM sADye aBimatavizaye sidDiH astu .
 
 001.04F: jAhnavIPenaleKeva yanmUrDni SaSinaH kalA .. 1..
 001.04A: jAhnavI-Pena-leKA iva yad-mUrDni SaSinaH kalA .. 1..
-; jahnu = gaNgA; jAhnavI daughter of jahnu; Pena foam; leKa scratch, drawing
+; jahnu ; jAhnavI daughter of jahnu (= gaNgA) ; Pena foam; leKa scratch, drawing
 ; SaSin containing a hare (= moon);
 ; kalA a small part, a digit or 1/16 of moon's diameter
 001.04P: jAhnavI-Pena-leKeva -- jahnoH apatyaM strI jAhnavI tasyA Penasya leKA .
@@ -83,8 +83,9 @@
 001.03-04E: May success attend the good in their undertakings (in the object they wish to accomplish) by the favour of that Dhurjati, on whose head there is a digit of the moon looking like a streak of the foam of the Ganges.
 
 001.05F: Sruto hitopadeSo'yaM pAwavaM saMskftoktizu .
-001.05A: SrutaH hitopadeSaH ayam pAwavam saMskftoktizu .
+001.05A: SrutaH hitopadeSaH ayam pAwavam saMskfta-uktizu .
 ; Sruta heard, studied; pAwava sharpness, cleverness
+; saMskft used as name of language by daRqin in daSakumAracarita (800 CE).
 001.05P: SrutaH samyagaDItaH ityarTaH .
 ;001.05PA: SrutaH samyak aDItaH iti arTaH .
 001.05P: pAwavaM -- pawoH BAvaH .
@@ -97,126 +98,175 @@
 001.06P: nItividyAm -- nItiSAstrajYAnam .
 
 001.05-06E: This Hitopadesa (the work inculcating salutary instruction) when studied (lit., carefully attended to) gives (the student) proficiency in elegant speeches, a variety of expression in every department and a knowledge of the conduct of human affairs.
- 
+;
+; 05-16-2022
+;
 001.07F: ajarAmaravat prAjYo vidyAmarTaM ca cintayet .
-001.07A: ajara-amaravat prAjYaH vidyAm arTam ca cintayet .
+001.07A: ajara-amara-vat prAjYaH vidyAm arTam ca cintayet .
+; a-jara ageless; amara immortal; prAjYa wise man
+; vidyA knowledge; arTa wealth
 001.07P: ajarAmaravat -- jarayA nizkrAntaH ajaraH , nAsti jarA yasya iti vA . na mriyate asO amaraH ca ajarAmaraH tena tulyam .
 
 001.08F: gfhIta iva keSezu mftyunA DarmamAcaret .. 3..
 001.08A: gfhItaH iva keSezu mftyunA Darmam Acaret .. 3..
+; Darma good works, duties; Acar to practice
 
 002.07-08E: A wise man should think of (acquiring) knowledge and money as though he were not subject to old age or death: but he should perform his religious duties as if Death had seized him by the hair.
 
 001.09F: sarvadravyezu vidyEva dravyamAhuranuttamam .
-001.09A: sarvadravyezu vidyA eva dravyam AhuH anuttamam .
+001.09A: sarvadravyezu vidyA eva dravyam AhuH an-uttamam .
+; dravya A thing, a possession, wealth;
+; anuttama unsurpassed (bahuvrihi)
 001.09P: anuttamam -- nAsti uttamam yasmAt .
 
 001.10F: ahAryatvAdanarGyatvAdakzayatvAcca sarvadA .. 4..
-001.10A: ahAryatvAt anarGyatvAt akzayatvAt ca sarvadA .. 4..
+001.10A: a-hArya-tvAt an-arGya-tvAt a-kzaya-tvAt ca sarvadA .. 4..
+; hArya to be taken away; a-hArya-tva (non-stealable-ness - cannot be stolen);
+; arGya price; an-arGya-tva pricelessness; sarvadA always
+; a-kzaya-tva non-decaying-ness
 001.10P: ahAryatvAt -- hartuM yogyaM SakyaM vA na BavatIti ahAryaM tasya BAvaH ahAryatvam . evam anarGyatvAdi .
 
 001.09-10E: Learning, of all things, (the wise) declare to be without a superior (the best of them all ), because of its incapability of being taken away, or valued or exhausted.
 
-; Muller has saMgamayati.  Either word plausible
+; Muller has saMgamayati. 
 001.11F: saMyojayati vidyEva nIcagApi naraM sarit .
 001.11A: saMyojayati vidyA eva nIcagA api naram sarit .
+; saMyuj to join; nIca ni (down) +aYc; nIca-ga going low; sarit river
+; implicit nIcagam
 001.11P: vidyA eva nIcagApi [satI] naraM durDarzaM nfpaM saMyojayati nIcagApi sarit durDarzaM samudramiva .
-
+;
+;
 ; Muller uses 'durDarzaM', which makes more sense; this text so changed.
 ; Kale also 'durDarzaM'
 001.12F: samudramiva durDarzaM nfpaM BAgyamataH param .. 5..
 001.12A: samudram iva durDarzam nfpam BAgyam ataH param .. 5..
+; samudra ocean; Dfz to be bold, to assail; dur-Darza inaccessible
+; BAgya good fortune; ataH thence; para highest.
 001.12P: durdarzamiti pAWaH . ataH nfpAtsamudrAcca paraM mahat BAgyaM ataHparaM narasya BAgyamiti vA .
 
 001.11-12E: Learning, although possessed by a low man, introduces him to the king who is (ordinarily) inapproachable, just as a river, although flowing through a low region, takes one to the inaccessible sea : (sources) from which floweth great fortune (or, the future rests with fortune).
 
+; 05-17-2022
+
 001.13F: vidyA dadAti vinayaM vinayAdyAti pAtratAm .
-001.13A: vidyA dadAti vinayam vinayAt yAti pAtratAm .
+001.13A: vidyA dadAti vinayam vinayAt yAti pAtra-tAm .
+; vinaya modesty; pAtra vessel, capability; pAtra-tA worthiness (competence), eligibility
 001.13P: vidyeti -- atra kAraRamAlAlaMkAraH .
 001.13P+: tallakzaRaM yaTA -- yaTottaraM cetpUrvasya pUrvasyArTasya hetutA . tadA kAraRamAlA syAt. kA . pra . (sAhi . da . 10.76)
 ; MW kAraRa-mAlA = 'a series or chain of causes' ref. sAhitya-dArpaRa
 
 001.14F: pAtratvAdDanamApnoti DanAdDarmaM tataH suKam .. 6..
 001.14A: pAtratvAt Danam Apnoti DanAt Darmam tataH suKam .. 6..
+; Darma religious merit;
 
 001.13-14E: Learning endows one with modesty ; from (having) modesty one passes on to (gets) worthiness ; being worthy one obtains riches ; from riches religious merit and from that happiness.
 
 001.15F: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
 001.15A: vidyA Sastrasya SAstrasya dve vidye pratipattaye .
+; Sastra weapon; SAstra scripture (?)
+; pattaye case 4s; prati-patti fame (ap90), action (?) 'conduce to glory'?
 001.15P: Sastrasya vidyA , SAstrasya vidyA , ete dve vidye pratipattaye kIrtaye BavataH .
 
 001.16F: AdyA hAsyAya vfdDatve dvitIyAdriyate sadA .. 7..
 ; Kale typo: ditIyA -> dvitIyA
-001.16A: AdyA hAsyAya vfdDatve dvitIyA Adriyate sadA .. 7..
+001.16A: AdyA hAsyAya vfdDatve dvitIyA A-driyate sadA .. 7..
+; AdyA Adi (f. 1s) first; dvitIya 2nd; A-df pres. pass. 3s to respect
 
 001.15-16E: The knowledge of arms and that of the Sastras - these two lores conduce to glory: but the former exposes one to ridicule in old age, while the latter is ever respected.
 
 001.17F: yannave BAjane lagnaH saMskAro nAnyaTA Bavet .
 001.17A: yad nave BAjane lagnaH saMskAraH na anyaTA Bavet .
+; yad as; nava new; BAjana vessel, pot; lagna attached (lag to adhere)
+; saMskAra impression (put together)
 001.17P: yaTA nave BAjane AmaBAjane ityarTaH .
+; Ama raw, unbaked
 ; pracyAvayitum, pramArzwum ? inf. of what?  causal infinitives of pracyu
 001.17P+: lagnaH saMskAraH anyaTA na Bavet svasTAnAtpracyAvayituM pramArzwuM vA na Sakyate
-
+;
+; 05-18-2022
+;
 001.18F: kaTAcCalena bAlAnAM nItistadiha kaTyate .. 8..
 001.18A: kaTAcCalena bAlAnAm nItiH tad iha kaTyate .. 8..
+; kaTA-Cala story-guise; nIti science of conduct; tad so
 001.18P: taTA bAlA api nItimaDyApitAScetsA tezAM cetasi dfQaM padaM kuryAditi hetoH sA kaTAmizeRa bAlAnAmiha kaTyate  .
 ;001.18PA: taTA bAlAH api nItim aDyApitAH cet sA tezAm cetasi dfQam padam kuryAt iti hetoH sA kaTAmizeRa bAlAnAm iha kaTyate .
 
 001.17-18E: As an impression made upon a raw (earthen or so) pot can undergo no change afterwards -- so (following the same principle) in this work the science of conduct (or policy) is taught to youths under the guise of stories.
 
 002.01F: mitralABaH suhfdBedo vigrahaH saMDireva ca .
-002.01A: mitralABaH suhfdBedaH vigrahaH saMDiH eva ca .
+002.01A: mitra-lABaH suhfdBedaH vigrahaH saMDiH eva ca .
+; mitra-lABa obtaining friend; suhfd-Beda separation (breaking);
+; vigraha separation, war; saMDi alliance, peace.
 
 002.02F: paYcatantrAttaTAnyasmAdgranTAdAkfzya liKyate .. 9..
 002.02A: paYcatantrAt taTA anyasmAt granTAt Akfzya liKyate .. 9..
-
+; granTa literary production; Akfz to extract (kfz to drag, plough)
+;
 002.01-02E:   [The subjects of] "The acquisition of friends", "The separation of friends", "Making war" and "Concluding peace" are written upon, extracts being made from Panchatantra and other works.
 
-002.03F: asti BAgIraTItIre pAwaliputranAmaDeyaM nagaram . tatra
-002.03A: asti BAgIraTItIre pAwaliputranAmaDeyam nagaram . tatra sarvasvAmiguRopetaH sudarSanaH
+002.03F: asti BAgIraTItIre pAwaliputranAmaDeyaM nagaram . tatra sarvasvAmiguRopetaH sudarSano
+002.03A: asti BAgIraTI-tIre pAwali-putra-nAmaDeyam nagaram . tatra sarva-(svAmi-guRa)-upetaH sudarSanaH
+; BAgIraTI name of a river, perhaps the Ganges; tIra a shore;
+; svAmi ruler, master; guRa attribute; upeta endowed with
+; su-darSana (proper name) easily seen, keen sighted
 002.03P: sarvasvAmi -- svAminaH guRAH svAmiguRAH . sarve ca te svAmiguRASca (karma) tEH upetaH .
 002.03P+: (tf. ta.) sudarSanaH -- SoBanaM darSanaM yasya (bahu.) .
 
 002.04F: nAma narapatirAsIt . sa BUpatirekadA kenApi pAWyamAnaM SlokadvayaM SuSrAva --
-002.04A: nAma narapatiH AsIt . saH BUpatiH ekadA kena api pAWyamAnam Slokadvayam SuSrAva --
+002.04A: nAma nara-patiH AsIt . saH BUpatiH ekadA kena api pAWyamAnam Sloka-dvayam SuSrAva --
+; nara-pati lord of men, king. BU-pati lord of earth;
+; pAWyamAna ca. ppr. ps. paW (Huet) being recited.
+; Sloka-dvaya a pair of shlokas (verses)
 
-002.03-04E: On the bank of the Bhagirathi there is a city named Pataliputra. In it there was a king, Sudarshana by name,{;hitoeng002.txt} endowed with all princely qualities. That king once heard a couple of Slokas (stanzas) chanted by some one ; (viz.)
+002.03-04E: On the bank of the Bhagirathi there is a city named Pataliputra. In it there was a king, Sudarshana by name, endowed with all princely qualities. That king once heard a couple of Slokas (stanzas) chanted by some one ; (viz.)
 
 002.05F: anekasaMSayocCedi parokzArTasya darSakam .
-002.05A: anekasaMSayocCedi parokzArTasya darSakam .
+002.05A: aneka-saMSaya-ucCedi parokza-arTasya darSakam .
+; aneka many; saMSaya doubt; ucCedin cutting off.
+; darSaka seeing;  para, away and akza ifc. for akzi, eye;
+; arTa thing, object;  parokza-arTa imperceptible object
 002.05P: anekasaM° -- aneke ca te saMSayAH tAn ucCettuM SIlamasya .
 002.05P+: parokzArTasya -- akzRoH paraH parokzaH tasya .
 
 002.06F: sarvasya locanaM SAstraM yasya nAstyanDa eva saH .. 10..
 002.06A: sarvasya locanam SAstram yasya na asti anDaH eva saH .. 10..
+; locana (loc to see) the eye; anDa blind
 
 002.05-06E: He who does not possess (a knowledge of) Sastra, the universal eye, which totally removes various doubts and discusses things hidden from view, is surely blind.
 
 002.07F: yOvanaM DanasampattiH praButvamavivekitA .
-002.07A: yOvanam DanasampattiH praButvam avivekitA .
+002.07A: yOvanam Dana-sampattiH praBu-tvam avivekitA .
+; yOvana youth; Dana-sampatti wealth attainment; praBu-tva powerful-ness;
+; vic to divide, discriminate; vivekin judicious;
+; vivekitA discrimination, a-vivekitA lack of discrimination
 002.07P: yOvaneti -- vayorUpaviBUtInAmekEkaM madakAraRam . iti samAnArTaH SlokAMSaH raGuvaMSe (sa. 17. Slo 13.)
 
 002.08F: ekEkamapyanarTAya kim yatra catuzwayam .. 11..
 002.08A: ekEkam api anarTAya kim yatra catuzwayam .. 11..
-
+; eka-eka one by one; an-arTa worthless object, misfortune; yatra where
+; catuzwaya group of four
 002.07-08E: Youth, abundance of wealth, sovereignty and inconsiderateness are the source of calamity even singly; what then, where all these four are combined !
 
 002.09F: ityAkarRyAtmanaH putrARAmanaDigataSAstrARAM nityamunmArgagAminAM
-002.09A: iti AkarRya AtmanaH putrARAm anaDigataSAstrARAm nityam unmArgagAminAM
+002.09A: iti AkarRya AtmanaH putrARAm an-aDigata-SAstrARAm nityam unmArga-gAminAM
+; aDigata studied; unmArga wrong-path
 002.09P: anaDigata -- anaDigatAni anaDItAni SAstrARi yEH .
 002.09P+: unmArgagAminAM -- udgataH mArgaH unmArgaH tena gantuM SIlaM yezAM .
 
 002.10F: SAstrAnanuzWAnenodvignamanAH sa rAjA cintayAmAsa .
-002.10A: SAstrAnanuzWAnena udvignamanAH saH rAjA cintayAmAsa .
+002.10A: SAstra-an-anuzWAnena udvigna-manAH saH rAjA cintayAmAsa .
+; anuzWAna practice; vij to shake, udvigna-manas whose mind was 'shaken' 
 002.10P: SAstrAnanuzWAnena -- SAstrasya ananuzWAnaM SAstrAjYollaMGanaM tena svEravartanena iti yAvat .
 
 002.09-10E: On hearing this, the king, who was distracted at heart, on account of the non-attendance to (the commands of the) Sastras of his sons who had no knowledge of the Sastras and who always followed the wrong path, thought to himself:
 
 002.11F: ko'rTaH putreRa jAtena yo na vidvAn na DArmikaH .
 002.11A: kaH arTaH putreRa jAtena yaH na vidvAn na DArmikaH .
-
+; arTa purpose; jAta born;
+; vidvAn wise (nom. s. m. of vidvas (in Huet declension as 'part'?))
 002.12F: kARena cakzuzA kiMvA cakzuHpIqEva kevalam .. 12..
-002.12A: kARena cakzuzA kim vA cakzuHpIqA eva kevalam .. 12..
+002.12A: kARena cakzuzA kim vA cakzuH-pIqA eva kevalam .. 12..
+; kARa blind;  cakzus eye; pIqA pain (pIq to squeeze, to hurt)
 
 002.11-12E: What is the good of (what benefit can accrue from) having a son who is neither learned nor pious (dutiful); (for) what is the use of an eye that is blind? It simply causes occular pain.
 
