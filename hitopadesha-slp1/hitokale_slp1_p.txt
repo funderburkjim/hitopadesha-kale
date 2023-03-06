@@ -2016,7 +2016,7 @@
 011.13A: kim ca . mAMsa-mUtra-purIza-asTiH nirmite asmin kalevare .
 ; mAMsa flesh; mUtra urine; purIza feces; asTi bone;
 ; nir-mita constructed (nir-mA, mA to measure);
-kalevara the body (kala semen);
+;kalevara the body (kala semen);
 ; Is 'asTiH' nom. sing? Normally, asTi is nom. singular neuter. Why asTiH?
 011.13P: kalevare SarIre .
 
@@ -2322,6 +2322,7 @@ kalevara the body (kala semen);
 
 012.35F: mfgo brUte -- jambuko'yam . asmatsaKyamicCannAgataH .
 012.35A: mfgaH brUte -- jambukaH ayam . asmad-saKyam icCan AgataH .
+; saKya n. friendship
 
 012.36F: kako brute -- mitra akasmAdAgantunA saha mEtrI na yuktA . taTA coktam --
 012.36A: kakaH brute -- mitra akasmAt AgantunA saha mEtrI na yuktA . taTA ca uktam --
@@ -2453,7 +2454,7 @@ kalevara the body (kala semen);
 013.16F: jAtimAtreRa kiM kaScidDanyate pUjyate kvacit .
 013.16A: jAti-mAtreRa kim kaH-cid hanyate pUjyate kva cid .
 ; jAti caste, mAtra ifc. merely
-jAti birth, caste; pUj to honor (worship); kva cid any where
+; jAti birth, caste; pUj to honor (worship); kva cid any where
 
 013.17F: vyavahAraM parijYAya vaDyaH pUjyo'TavA Bavet .. 58..
 013.17A: vyava-hAram pari-jYAya vaDyaH pUjyaH aTavA Bavet .. 58..
@@ -2472,7 +2473,7 @@ jAti birth, caste; pUj to honor (worship); kva cid any where
 013.20F: brahmacArI cAndrAyaRavratamAcaraMstizWAmi .
 013.20A: brahmacArI cAndrAyaRa-vratam Acaran tizWAmi .
 ; brahmacArin observing chastity;
-cAndrAyaRa-vrata moon-vow (a fasting regimen);  A-car to practice
+; cAndrAyaRa-vrata moon-vow (a fasting regimen);  A-car to practice
 013.20P: cAndrAyaRavratam -- candrasya ayanaM iva ayanaM yasmin .
 013.20P+: etallakzaRamuktaM vasizWena -- mAsasya kfzRapakzAdO grAsAnadyAccaturdaSa . grAsopacayaBojI syAtpakzaSezaM samApayet . atrEva gAyetsAmAni api vA vyAhftIrjapet . eza cAndrAyaRo mAsaH pavitramfzisaMstutaH . anAdizwezu sarvezu prAyaScittaM viDIyate . ekEkaM varDayetpiRqaM Sukle kfzRe ca hrAsayet . amAvAsyAM na BuYjIta evaM cAndrAyaRo viDiH . ekEkaM hrAsayet piRqaM kfzRe Sukle ca varDayet . upaspfSaMstrizavaRametaccAndrAyaRaM smftam . iti manuSca (11.216) .
 
@@ -2982,7 +2983,7 @@ cAndrAyaRa-vrata moon-vow (a fasting regimen);  A-car to practice
 016.01A: parokze kArya-hantAram pratyakze priya-vAdinam .
 ; parokza beyond the range of sight, parokze secretly
 ; kArya objective (to be done), hantAram 2s. of hantf (killer);
-pratyakza present before the eyes, pratyakze publicly
+; pratyakza present before the eyes, pratyakze publicly
 
 016.02F: varjayettAdfSaM mitraM vizakumBaM payomuKam .. 78..
 016.02A: varjayet tAdfSam mitram viza-kumBam payomuKam .. 78..
@@ -3046,7 +3047,7 @@ pratyakza present before the eyes, pratyakze publicly
 016.11A: aTavA sTitiH iyam durjanAnAm .
 ; sTiti situation, state
 016.11P: sTitiH -- svaBAvaH vartanakramo vA .
-22
+
 016.11-11E: Or rather, such is the settled course of conduct of the wicked.
 
 ; 4-line shloka  (a wicked man's modus operandi) not anuzWuB
@@ -3097,7 +3098,7 @@ pratyakza present before the eyes, pratyakze publicly
 ; mfta-vat ind. as if dead; saMdfS to look like;
 ; pAda feet (leg of inanimate object); stabDa rigid
 
-le016.18-20E: Then at dawn, the crow observed the owner of the field coming towards the place, stick in hand. On seeing him the crow said -- Friend deer, feign yourself dead, fill your belly with wind and so remain, with your legs stiffened.
+016.18-20E: Then at dawn, the crow observed the owner of the field coming towards the place, stick in hand. On seeing him the crow said -- Friend deer, feign yourself dead, fill your belly with wind and so remain, with your legs stiffened.
 
 016.21F: yadAhaM SabdaM karomi tadA tvamutTAya satvaraM palAyizyase .
 016.21A: yadA aham Sabdam karomi tadA tvam utTAya satvaram palAyizyase .
@@ -4126,7 +4127,6 @@ le016.18-20E: Then at dawn, the crow observed the owner of the field coming towa
 
 021.22-23E: And so it is said -- When fate is extremely adverse, and exertions and valour have been of no avail, where, except in a wilderness, can a highminded man, reduced to poverty, find relief?
 
-; jim start
 021.24F: anyacca . manasvI mriyate kAmaM kArpaRyaM na tu gacCati	.
 021.24A: anyat ca . manasvI mriyate kAmam kArpaRyam na tu gacCati	.
 ; kAmam ind. surely; kArpaRya poverty (kfpaRa pitiable, poor)
@@ -4185,14 +4185,14 @@ le016.18-20E: Then at dawn, the crow observed the owner of the field coming towa
 
 021.33F: nirviRRaH Sucameti Sokanihato budDyA parityajyate .
 021.33A: nir-viRRaH Sucam eti Soka-nihataH budDyA parityajyate .
-; nir-viRRa dejection; Suc sorrow; Soka sorrow, nihata struck down;
+; nir-viRRa dejection  (nir-vid); Suc sorrow; Soka sorrow, nihata struck down;
 ; pari-tyaj (passive) to be abandoned; budDi reason;
 021.33P: budDyA -- vivekaDiyA .
 
 021.34F: nirbudDiH kzayametyaho niDanatA sarvApadAmAspadaM .. 136 ..
 021.34A: nirbudDiH kzayam eti aho niDanatA sarva-ApadAm Aspadam .. 136 ..
 ; kzaya destruction; aho ind. alas! ; niDanatA poverty;
-Apad misfortune; Aspada abode (A + s + pad)
+; Apad misfortune; Aspada abode (A + s + pad)
 
 021.31-34E: From poverty a man comes to have shame : overwhelmed with shame he loses moral fortitude: with his moral fortitude lost he suffers contempt; being contemned he feels dejected: full of dejection he comes to sorrow; when overcome with sorrow he is forsaken by reason; with his reason gone, he passes on to destruction: Want of wealth, alas, is the abode of all misfortunes !!
 
@@ -4207,14 +4207,16 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 021.35-36E: Again. Better is silence observed than an untrue word spoken : better is impotency for men than intercourse with another's wife: 
 
+; non-anuzWuB
 022.01F: varaM prARatyAgo na ca piSunavAkyezvaBirucirvaraM
 022.01A: varam prARa-tyAgaH na ca piSuna-vAkyezu aBiruciH varam
-; piSUna cruel (piS to shape?); aBiruci delighting in (locative);
+; piSuna cruel (piS to be decomposed); aBiruci delighting in (locative);
 022.01P: piSunaH KalaH .
 
 022.02F: BikzASitvaM na ca paraDanAsvAdanasuKam .. 137 ..
 022.02A: BikzA-ASi-tvam na ca para-Dana-AsvAdana-suKam .. 137 ..
-; BikzASitva eating begged food; AsvAdana enjoying (svAd = svad to sweeten)
+; ASin eating; BikzASitva eating begged food;
+; AsvAdana enjoying (svAd = svad to sweeten)
 022.02P: BikzAASitvaM BEkzyeRa vfttiH .
 
 022.01-02E: Better to abandon life than to have a liking for the words of the wicked; better to live on alms than to have the happiness of enjoying another's wealth.
@@ -4234,7 +4236,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 022.06F: varaM prARatyAgo na punaraDamAnAmupagamaH .. 138 ..
 022.06A: varam prARa-tyAgaH na punar aDamAnAm upagamaH .. 138 ..
-; aDama lowest;
+; aDama low;
 
 022.03-06E: Better to have an empty cow-pen than a naughty ox; better to have a courtesan for wife than an immodest (ill-trained) woman of family; better a residence in a forest than in the city of a thoughtless king; better is the abandonment of life than approaching the base (with a request).
 
@@ -4245,8 +4247,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 022.08F: hariharakaTeva duritaM guRaSatamapyarTitA harati ..139 ..
 022.08A: hari-hara-kaTA iva duritam guRa-Satam api arTitA harati ..139 ..
-; hari vizRu, hara Siva, kaTA story (talk); dur-ita difficulty;
-; arTitA asking (Kale yAcYA = BikzA, begging)
+; hari vizRu, hara Siva, kaTA story (talk); dur-ita sin;
+; arTitA asking (begging)
 ; 
 022.08P: arTitA yAcYA .
 
@@ -4255,6 +4257,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 022.09F: iti vimfSya tatkimahaM parapiRqenAtmAnaM pozayAmi . 
 022.09A: iti vimfSya tat kim aham para-piRqena AtmAnam pozayAmi . 
 ; vi-mfS to touch (mentally); piRqa a ball, food;
+; pozayAmi ca. pr. ac. to nourish
+
 022.10F: kazwaM Bo . tadapi dvitIyaM mftyudvAram .
 022.10A: kazwam Bo . tad api dvitIyam mftyu-dvAram .
 ; kazwa n. misery; Bo ind. oh! ah!; dvitIya second
@@ -4268,7 +4272,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 022.12F: BojanaM ca parADInaM tisraH puMsAM viqaMbanAH .. 140 ..
 022.12A: Bojanam ca para-aDInam tisraH puMsAm viqaMbanAH .. 140 ..
-; aDIna dependant; tisraH f. plural tri; viqaMbanA disgrace
+; aDIna dependant; tisraH f. plural tri; viqaMbanA disgrace (qamb to push)
 
 022.11-12E: Superficial learning, sexual enjoyment obtained by payment, and dependence on others for one's bread - these three are humiliations to men.
 
@@ -4276,7 +4280,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 022.13F: rogI cirapravAsI parAnnaBojI parAvasaTaSAyI .
 022.13A: rogI cira-pravAsI para-anna-BojI para-avasaTa-SAyI .
 ; rogin sickness; pravAsin dwelling abroad; Bojin eating;
-; avasaTa house; SAyin resting (SI to lie down);
+; avasaTa house (= AvasaTa = vasaTa); SAyin resting (SI to lie down);
 
 022.14F: yajjIvati tanmaraRaM yanmaraRaM so'sya viSrAmaH .. 141 ..
 022.14A: yat jIvati tat maraRam yat maraRam saH asya viSrAmaH .. 141 ..
@@ -4319,7 +4323,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 022.21F: upAnadgUQapAdasya nanu carmAvfteva BUH .. 143 ..
 022.21A: upAnad-gUQa-pAdasya nanu carma-AvftA iva BUH .. 143 ..
-; upAnah shoe, gUQa covered (guh to hide); nanu ind. is it not?
+; upAnah shoe (nah to bind), gUQa covered (guh to hide); nanu ind. is it not?
 ; carma skin (leather), A-vfta covered
 022.21P: upAna -- upAnadByAM gUQO pAdO yasya .
 
@@ -4327,7 +4331,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 022.22F: aparaM ca . saMtozAmftatfptAnAM yatsuKaM SAntacetasAm .
 022.22A: aparaM ca . saMtoza-amfta-tfptAnAm yat suKam SAnta-cetasAm .
-; amfta nectar, tfpta satisfied; SAnta calm
+; saMtoza contentment; amfta nectar, tfpta satisfied; SAnta calm
 
 022.23F: kutastadDanalubDAnAmitaScetaSca DAvatAm .. 144 ..
 022.23A: kutaH tad Dana-lubDAnAm itaH ca itaH ca DAvatAm .. 144 ..
@@ -4343,7 +4347,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 022.25F: yenASAH pfzWataH kftvA nErASyamavalambitam .. 145 ..
 022.25A: yena ASAH pfzWataH kftvA nErASyam avalambitam .. 145 ..
 ; ASAH f2p: hopes; pfzWatas ind. behind, + kf = to forsake;
-; nErASya non-expectancy; avalambita depending upon ('has been resorted to' Kale)
+; nErASya non-expectancy (nirASA without desire)
+; avalambita depending upon ('has been resorted to' Kale)
 
 022.24-25E: Moreover. All has been studied, heard and put into practice by him, by whom, having cast behind all desires, contentment (lit. freedom from desire) has been resorted to.
 
@@ -4351,9 +4356,9 @@ Apad misfortune; Aspada abode (A + s + pad)
 022.26A: api ca . asevita-ISvara-dvAram adfzwa-viraha-vyaTam .
 ; a-sevita unserved; ISvara rich (AP90) (powerful);
 ; adfzwa unseen, not experienced; viraha separation (rah to separate)
-; vyaTa:  neuter at end of compound, for vyaTA = 'pain'
+; vyaTa:  neuter at end of compound, for vyaTA = 'pain' (vyaT to tremble)
 022.26P: asevite -- asevitAni ISvarARAM dvArARi yasmin .
-2
+
 022.27F: anuktaklIbavacanaM DanyaM kasyApi jIvanam .. 146 ..
 022.27A: anukta-klIba-vacanam Danyam kasya api jIvanam .. 146 ..
 ; klIba impotent, coward; Danya rich, fortunate;
@@ -4371,7 +4376,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 022.28-29E: For. Even a hundred Yojanas (800 miles) are no distances to him who is troubled (spurred on) by thirst; while he, who is content, has no regard even for a thing that is actually in his hand.
 
 022.30F: tadatrAvasTocitakAryaparicCedaH SreyAn .
-; avasTocitakAryaparicCedaH =? avasTA + ucita + kArya + paricCedaH =
+; avasTa-ucita-kArya-paricCedaH 
 ; 'determination of proper action in situation'
 022.30A: tad atra avasTA-ucita-kArya-paricCedaH SreyAn .
 ; avasTA situation, paricCeda judgment (cutting) ; Sreyas better; 
@@ -4383,8 +4388,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 ; not anuzwuB
 022.31F: ko Darmo BUtadayA kiM sOKyamarogitA jagati jantoH .
 022.31A: kaH DarmaH BUta-dayA kim sOKyam arogitA jagati jantoH .
-; dayA compassion; sOKya welfare; a-rogi-tA healthiness; jagat world;
-; jantu creature;
+; dayA compassion; sOKya welfare, happiness (suKa)
+; a-rogi-tA healthiness; jagat world; jantu creature
 
 022.32F: kaH snehaH sadBAvaH kiM pARqityaM paricCedaH .. 148 ..
 022.32A: kaH snehaH sadBAvaH kim pARqityam paricCedaH .. 148 ..
@@ -4399,6 +4404,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 023.02F: aparicCedakartFRAM vipadaH syuH pade pade .. 149 ..
 023.02A: aparicCeda-kartFRAm vipadaH syuH pade pade .. 149 ..
 ; kartf a doer; vipad misfortune; syuH optative 3rd pl. may be
+; pada step, pade pade at every step.
+
 023.01-02E: Similarly. When misfortunes assail (a man), wisdom lies in (quickly) coming to a decision; misfortunes at every step overtake those who cannot arrive at a decision.
 
 023.03F: taTAhi . tyajedekaM kulasyArTe grAmasyArTe kulaM tyajet .
@@ -4416,7 +4423,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 023.05F: aparaM ca . pAnIyaM vA nirAyAsaM svAdvannaM vA Bayottaram .
 023.05A: aparaM ca . pAnIyam vA nirAyAsam svAdu annam vA Baya-uttaram .
-; pAnIya to be drunk; nir-AyAsa easy; (yas to endeavor);
+; pAnIya to be drunk, a beverage; nir-AyAsa easy; (yas to endeavor, AyAsa effort);
 ; svAdu sweet; Baya-uttara fear-subsequent;
 023.05P: pAnIyaM kevalaM jalam .
 023.05P+: nirAyAsaM -- suKalaByam .
@@ -4424,7 +4431,7 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 023.06F: vicArya Kalu paSyAmi tatsuKaM yatra nirvftiH .. 151 ..
 023.06A: vicArya Kalu paSyAmi tad suKam yatra nirvftiH .. 151 ..
-; vicArya having examined; nir-vfti rest (without selecting?)
+; vicArya having examined; nir-vfti rest (without selecting, vf to choose)
 023.06P: suKaM -- suKakaram .
 
 023.05-06E: Again. Of the two -- water obtained with ease (lit. without trouble) and delicious food attended with fear, on consideration, I find, indeed, that to be conducive to happiness, wherein lies ease.
@@ -4434,20 +4441,21 @@ Apad misfortune; Aspada abode (A + s + pad)
 ; nirjana unpeopled; Agata arrived; 
 023.07-07E: Having thus reflected I came to a dreary forest. For,
 
-; 4-line shloka
+; 4-line shloka. not anuzWuB.
 023.08F: varaM vanaM vyAGragajendrasevitaM
 023.08A: varam vanam vyAGra-gajendra-sevitam
 ; varam ind. better; gaja-indra noble elephant; sevita inhabited
 
 023.09F: drumAlayaM pakvaPalAmbuBojanam .
 023.09A: druma-Alayam pakva-Pala-ambu-Bojanam .
-; druma tree, Alaya house [(ifc.) abode]; pakva ripe, ambu water, Bojana food
+; druma tree, Alaya house [(ifc.) abode] [A-lI to come close to]
+; pakva ripe, ambu water, Bojana food
 023.09P: drumAlayam druma eva AlayaH yasmin (vane) .
 023.09P+: pakva -- pakvAni PalAni ambu ca BojanaM yasmin .
 
 023.10F: tfRAni SayyA pariDAnavalkalaM
 023.10A: tfRAni SayyA pariDAna-valkalam
-; tfRa grass; SayyA bed; pariDAna-valkala garment-bark
+; tfRa grass; SayyA bed; pariDAna-valkala garment-bark (val to cover)
 023.10P: tfRAni i° -- yatra tfRAnyeva SayyA valkalameva pariDAnaM tAdfgvanaM varam .
 
 023.11F: na banDumaDye DanahInajIvanam .. 152 ..
@@ -4457,7 +4465,8 @@ Apad misfortune; Aspada abode (A + s + pad)
 023.08-11E: Better is a forest, haunted by tigers and lordly elephants, wherein the trees serve as a home, ripe fruits and water as food, grass as a bed and barks as garments, than a life without wealth among relatives.
 
 023.12F: yo'smatpuRyodayAdanena mitreRAhaM snehAnuvfttyAnugfhItaH . 
-023.12A: yaH asmat-puRya-udayAt anena mitreRa aham sneha-anuvfttyA anugfhItaH . 
+023.12A: yaH asmat-puRya-udayAt anena mitreRa aham sneha-anuvfttyA anugfhItaH .
+; asmat 5 pl. 'our' (Kale 'my' singular?)
 ; puRya religious merit, udaya rising (Kale manifestation);
 ; anu-vftti courtesy (following); anugfhIta received
 
@@ -4467,10 +4476,10 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 023.12-13E: Then by the manifestation of the fruit of my religious merit, I was favoured with friendly intercourse by this friend. And now, by a further continuation of merit, I have got your company, which is heaven itself.
 
-; Kale typo?: Patle -> Pale (2 fruits)
-023.14F: yataH -- saMsAravizavfkzasya dve eva rasavaPale .
-023.14A: yataH -- saMsAra-viza-vfkzasya dve eva rasava-Pale .
-; rasava? not in MW. rasa = 'juice', rasavat juicy
+
+023.14F: yataH -- saMsAravizavfkzasya dve eva rasavatPale .
+023.14A: yataH -- saMsAra-viza-vfkzasya dve eva rasavat-Pale .
+; rasa = 'juice', rasavat juicy
 ; 
 023.15F: kAvyAmftarasAsvAdaH saMgamaH sujanEH saha .. 153 ..
 023.15A: kAvya-amfta-rasa-AsvAdaH saMgamaH sujanEH saha .. 153 ..
@@ -4511,11 +4520,12 @@ Apad misfortune; Aspada abode (A + s + pad)
 024.01F: yuzmABiratisaMcayaH kftaH . tasyAyaM dozaH . SfRu .
 024.01A: yuzmABiH atisaMcayaH kftaH . tasya ayam dozaH . SfRu .
 ; ati-saMcaya excessive accumulation; doza fault
+
 024.01-01E: You laid up too large a hoard; and this ill consequence was the result of that. Hear,
 
 024.02F: upArjitAnAM vittAnAM tyAga eva hi rakzaRaM .
 024.02A: upArjitAnAm vittAnAm tyAgaH eva hi rakzaRam .
-; upa-arjita acquired; vitta wealth; rakzaRa protection
+; upa-arjita acquired (arj to acquire); vitta wealth; rakzaRa protection
 
 024.03F: taqAgodarasaMsTAnAM parivAha ivAmBasAm .. 155 ..
 024.03A: taqAga-udara-saMsTAnAm pari-vAhaH iva amBasAm .. 155 ..
@@ -4534,14 +4544,16 @@ Apad misfortune; Aspada abode (A + s + pad)
 
 024.05F: tadaDonilayaM gantuM cakre panTAnamagrataH .. 156 ..
 024.05A: tad aDas-nilayam gantum cakre panTAnam agrataH .. 156 ..
-; nilaya abode; agratas first, before; gantum gam inf. to go;
-; cakre prf. kf; panTAnam acc. paTin path; 
+; nilaya abode; gantum gam inf. to go;
+; cakre prf. kf; panTAnam acc. paTin path;
+; agratas first, before
+
 024.04-05E: Moreover, Since a miser buries his wealth, deeper and deeper in the earth, he makes a passage for it, beforehand, to go to its nether abode (to disappear in the bowels of the earth).
 
 024.06F: anyacca . nijasOKyaM nirunDAno yo DanArjanamicCati .
 024.06A: anyat ca . nija-sOKyam nirunDAnaH yaH Dana-arjanam icCati .
 ; nija = sva, sOKya welfare, happiness; 
-runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
+; runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; Kale typo? padArTa -> parArTa
 ;  Kale translates 'padArTaBAravAhI' as 'bearing burdens for others'
 ;  so it must be 'parArTaBAravAhI'
@@ -4555,7 +4567,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 024.08F: aparaM ca . dAnopaBogahInena Danena Danino yadi .
 024.08A: aparam ca . dAna-upaBoga-hInena Danena DaninaH yadi .
-; Danin rich;
+; dAna charity, upaBoga enjoyment; Danin rich;
+
 024.09F: BavAmaH kiM na tenEva Danena Danino vayam .. 158 ..
 024.09A: BavAmaH kim na tena eva Danena DaninaH vayam .. 158 ..
 ; BavAmaH we become
@@ -4569,7 +4582,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 024.11F: asyedamiti saMbanDo hAnO duHKena gamyate .. 159 ..
 024.11A: asya idam iti saMbanDaH hAnO duHKena gamyate .. 159 ..
-; sambanDa binding together?; hAni loss;
+; sambanDa connection; hAni loss;
 ; DIFFICULT SYNTAX
 024.11P: gamyate jYAyate . yadvA saMbanDaH duHKena gamyate yuktaH Bavati ityarTaH .
 
@@ -4579,7 +4592,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 024.12F: dAnaM priyavAksahitaM jYAnamagarvaM kzamAnvitaM SOryam .
 024.12A: dAnam priya-vAk-sahitam jYAnam agarvam kzamA-anvitam SOryam .
 ; sahita accompanied by; a-garva without pride; kzamA patience;
-; SOrya heroism; 
+; SOrya heroism;
+
 024.13F: vittaM tyAganiyuktaM durlaBametaccatuzwayaM loke .. 160 ..
 024.13A: vittam tyAga-niyuktam durlaBam etat catuzwayam loke .. 160 ..
 ; tyAga charity (leaving), niyukta used for (loc.)
@@ -4597,7 +4611,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 024.16F: tAvAhatuH -- kaTametat . manTaraH kaTayati .
 024.16A: tO AhatuH -- kaTam etat . manTaraH kaTayati .
-
+; tO = ?
 024.14-16E: It is also said. A hoard should always be made, but not too great a one; Lo ! The jackal that was in the habit of hoarding was killed by a bow.
 
 024.17F: .. kaTA 6 ..
@@ -4637,29 +4651,33 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 024.18-22E: Then the hunter placed the deer on the ground and wounded the boar with an arrow. The boar too, having set up a deep and dreadful cry (or, a cry as terrible as the thunder of clouds ) struck the hunter in the groin, upon which he fell down like a tree struck down. For,
 
 ; Usha: typo SasteaM -> SastraM
-024.23F: jalamagnirvizaM SasteaM kzud vyADiH patanaM gireH .
-024.23A: jalam agniH vizam Sastram kzud vyADiH patanam gireH .
-; vyADi disease; patana falling;
+024.23F: jalamagnirvizaM SastraM kzud vyADiH patanaM gireH .
+024.23A: jalam agniH vizam Sastram kzud-vyADiH patanam gireH .
+; kzuD hunger, kzud=kzuD in cpd. ?; vyADi disease; patana falling
 
 024.24F: nimittaM kiMcid AsAdya dehI prARErvimucyate .. 162..
 024.24A: nimittam kim cid AsAdya dehI prAREH vimucyate .. 162..
-; nimitta cause; AsAdya having encountered; dehin living creature (dih to anoint); 
+; nimitta cause; AsAdya A-sad causal (to cause to sit down) to meet with
+; dehin living creature (dih to anoint); 
 ; vi-mucyate passive is abandoned
 
 024.23-24E: Having met with some cause, such as water, fire, poison, a weapon, hunger (starvation), a disease, or a fall from a mountain, a creature loses his life.
 
 024.25F: aTa tayoH pAdAsPAlanena ekaH sarpo'pi mftaH . aTAnantaraM dIrGarAvo nAma jambukaH
 024.25A: aTa tayoH pAda-AsPAlanena ekaH sarpaH api mftaH . aTa anantaram dIrGarAvaH nAma jambukaH
-; pAda foot, AsPAlana rubbing, trampling; dIrGa-rAva 'long-howl' (proper name)
-; jambuka jackal
+; tayoH (dual) of them (their). [Who? vyADaH SUkaraSca ]
+; pAda foot, AsPAlana rubbing, trampling
+; dIrGa-rAva 'long-howl' (proper name) ; jambuka jackal
 024.25P: pAdAsPAlanena pAdAGAtena , pAdAvamardanena vA .
+; avamarda , mfd to trample
 
 024.26F: pariBramannAhArArTI tAnmftAnmfgavyADasarpaSUkarAnapaSyat . acintayacca --
 024.26A: pariBraman AhAra-arTI tAn mftAn mfga-vyADa-sarpa-SUkarAn apaSyat . acintayat ca --
 
 024.27F: aho adya mahadBojyaM me samupasTitam . aTavA .
 024.27A: aho adya mahat Bojyam me samupasTitam . aTavA .
-; adya today; Bojya meal, feast; me asmad 4s or 6s; samupasTita approached
+; adya today; Bojya meal, feast (to be enjoyed)
+; me asmad 4s or 6s; samupasTita approached
 
 024.25-27E: Now by the tramplings of their feet a serpent too was killed. After this a jackal, Dirgharava, by name, who was wandering in quest of prey, found the deer, the hunter, the serpent and the boar, dead there; upon which he said to himself--Oh, here have I come across a good feast. Or rather,
 
@@ -4669,7 +4687,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 024.29F: suKAnyapi taTA manye dEvamatrAtiricyate .. 163..
 024.29A: suKAni api taTA manye dEvam atra atiricyate .. 163..
-; manye I think (man); dEva fate; atiric to be superior (ric to empty)
+; manye I think (man); dEva n. fate; atiric to be superior (ric to empty)
 024.29P: dEvamatrA -- suKaduHKAdidAne sarvatra dEvameva praBavati .
 
 024.28-29E: Just as unthought-of misfortunes befall men, so do blessings also: I think, therefore, that fate has an upper hand in these things.
@@ -4681,7 +4699,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 025.02F: mAsamekaM naro yAti dvO mAsO mfgaSUkarO .
 025.02A: mAsam ekam naraH yAti dvO mAsO mfga-SUkarO .
-; mfga deer, Sukara boar; 
+; mfga deer, Sukara boar;
+
 025.03F: ahirekaM dinaM yAti adya Bakzyo DanurguRaH .. 164..
 025.03A: ahiH ekam dinam yAti adya BakzyaH Danur-guRaH .. 164..
 ; ahi snake; Bakzya food; Danus bow, guRa string;
@@ -4712,7 +4731,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 025.09F: kiM ca . yad dadAsi viSizweByo yaccASnAsi dine dine .
 025.09A: kim ca . yad dadAsi viSizweByaH yad ca aSnAsi dine dine .
-; viSizwa distinguished; 
+; viSizwa distinguished;
+
 025.10F: tatte vittamahaM manye SezaM kasyApi rakzasi .. 166..
 025.10A: tad te vittam aham manye Sezam kasya api rakzasi .. 166..
 ; Seza remainder; rakz prserve; kasya api 'for someone'
@@ -4721,7 +4741,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 025.11F: yAtu . kimidAnImatikrAntopavarRanena . yataH .
 025.11A: yAtu . kim idAnIm atikrAnta-upavarRanena . yataH .
-; atikrAnta gone, upavarRana description
+; atikrAnta gone n. the past, upavarRana description
 025.11-11E: Let this pass. What is the use, now, of describing the past? For,
 
 025.12F: nAprApyamaBivAYCanti nazwaM necCanti Socitum .
@@ -4737,7 +4757,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 025.12-13E: Men of wise minds do not wish for what is unattainable, do not lament over what is lost, and do not lose courage even in adversities.
 
 025.14F: tat saKe sarvadA tvayA sotsAhena Bavitavyam . yataH .
-025.14A: tat saKe sarvadA tvayA sa-utsAhena Bavitavyam . yataH .
+025.14A: tad saKe sarvadA tvayA sa-utsAhena Bavitavyam . yataH .
 ; utsAha effort, sotsAha persevering; 
 025.14-14E: Therefore, friend, you should always be hopeful. Because,
 
@@ -4775,6 +4795,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 025.19A: tad atra saKe daSA-atiSezeRa SAntiH karaRIyA . etad api atikazwam tvayA na mantavyam . yataH
 ; daSA condition, atiSeza remainder; SAnti reconciliation (peace); karaRIya to be done
 ; kazwa difficult; mantavya to be thought
+
 025.19-19E: Therefore, friend, you ought to be reconciled to this particular (changed) condition. And you should not consider this as very hard to do. For,
 
 025.20F: rAjA kulavaDUrviprA mantriRaSca payoDarAH .
@@ -4792,17 +4813,16 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 025.22A: iti vijYAya matimAn svasTAnam na parityajet .
 ; vijYAya having understood; matimat wise; sva-sTAna his place;
 
-025.22-22E: Knowing this a wise man should not leave his own place.
-
 025.23F: kApuruzavacanametat . yataH .
 025.23A: kApuruza-vacanam etat . yataH .
 ; kApuruza coward;
 
-025.23-23E: These are the words of cowardly persons. For,
+025.22-23E: Knowing this a wise man should not leave his own place. These are the words of cowardly persons. For,
 
 025.24F: sTAnamutsfjya gacCanti siMhAH satpuruzA gajAH .
 025.24A: sTAnam utsfjya gacCanti siMhAH satpuruzAH gajAH .
-; utsfj to leave; 
+; utsfj to leave;
+
 025.25F: tatrEva niDanaM yAnti kAkAH kApuruzA mfgAH .. 171 ..
 025.25A: tatra eva niDanam yAnti kAkAH kApuruzAH mfgAH .. 171 ..
 ; niDana death
@@ -4829,7 +4849,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; Kale typo? Cinati -> Cinatti (3s of Cid - to cut, drive off)
 ; Usha typo: ruDirEastfzRAM -> ruDirEstfzRAM
 ; dvipendra = dvipa+indra = 'lordly elephant' (Kale)
-; ruDira blood; tfzRA thirst;
+; ruDira blood (red); tfzRA thirst;
 025.29P: hata -- dvAByAM pibatIti dvipaH .
 025.29P+: dvipezvindraH -- iva dvipendraH . hataH yaH dvipendraH tasya ruDirEH .
 
@@ -4842,7 +4862,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 026.02F: sodyogaM naramAyAnti vivaSAH sarvasaMpadaH .. 173 ..
 026.02A: sa-udyogam naram AyAnti vi-vaSAH sarva-saMpadaH .. 173 ..
-; sa-udyoga with exertion; vivaSa spontaneous (without will); saMpad successl
+; sa-udyoga with exertion; vivaSa spontaneous (without will); saMpad success
 026.02P: vivaSAH paratantrAH .
 
 026.01-02E: Again. As frogs repair to a puddle or birds to a lake full (of water), so do all fortunes to an industrious man helplessly (being entirely at his disposal). 
@@ -4865,11 +4885,12 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 026.06F: SUraM kftajYaM dfQasOhfdaM ca lakzmIH svayaM yAti nivAsa-hetoH .. 175..
 026.06A: SUram kfta-jYam dfQa-sOhfdam ca lakzmIH svayam yAti nivAsa-hetoH .. 175..
-; SUra heroic; kfta-jYa knowing what is right;
+; SUra heroic; kfta-jYa grateful, correct in conduct;
 ; dfQa firm, sOhfda friend (friendship Kale); nivAsa residence, hetu cause (?) 
 
 026.05-06E: Again. The goddess of wealth goes, of her own Accord, for residence, to him who is endowed with energy, who is prompt in action, who knows the theory and practice of a thing, who is not addicted to vices, and who is brave, grateful and firm in friendship. 
 
+; 4-line Shloka
 026.07F: viSezataSca . vinApyarTErvIraH spfSati bahumAnonnatipadaM
 026.07A: viSezataH ca . vinA api arTEH vIraH spfSati bahumAna-unnati-padam
 ; viSezata especially; arTa wealth; spfS to touch (obtain);
@@ -4900,11 +4921,12 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 026.11F: DanavAn iti hi madaste kiM gataviBavo vizAdamupayAsi .
 026.11A: DanavAn iti hi madaH te kim gata-viBavaH vizAdam upayAsi .
-; Danavat rich; mada pride; viBava power; vizAda despair ; upa-yA to approach;
+; Danavat rich; mada pride; viBava power, wealth
+; vizAda despair ; upa-yA to approach;
 
 026.12F: karanihatakandukasamAH pAtotpAtA manuzyARAm .. 177..
 026.12A: kara-nihata-kanduka-samAH pAta-utpAtAH manuzyARAm .. 177..
-; kanduka a ball; kara hand; nihata struck; sama like;
+; kanduka a ball (skand to leap ?); kara hand; nihata struck; sama like;
 ; pAta falling, utpAta rising
 
 026.11-12E: Why should you be proud when you have wealth, and why should you be sorry when you have lost it? The ups and downs (in the life) of man are like (risings and fallings of) a ball struck with the hand.
@@ -4915,7 +4937,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; prIti fondness; nava new, sasya grain; yozit woman;
 
 026.14F: kiMcitkAlopaBogyAni yOvanAni DanAni ca .. 178 ..
-026.14A: kiMcid kAla-upaBogyAni yOvanAni DanAni ca .. 178 ..
+026.14A: kiMcid-kAla-upaBogyAni yOvanAni DanAni ca .. 178 ..
 ; kiMcid a little; kAla time; upaBogya to be enjoyed; yOvana youth;
 
 026.13-14E: Again. The shadow of clouds, the friendship of a wicked man, new corn, women, youth and wealth are to be enjoyed but for a short while.
@@ -4923,13 +4945,13 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 026.15F: vfttyarTaM nAticezwate sA hi DAtrEva nirmitA .
 026.15A: vftti-arTam na ati-cezwate sA hi DAtrA eva nirmitA .
 ; vftti livelihood, arTa purpose; cezw to exert one's self;
-; sA refers to vftti?; DAtf creator; nir-mA to provide;
+; sA refers to vftti?; DAtf creator (DAtrA 3s); nir-mA to provide;
 026.15P: vfttyarTaM -- jIvikAlABArTam .
 
 026.16F: garBAdutpatite jantO mAtuH prasravataH stanO .. 179..
 026.16A: garBAt utpatite jantO mAtuH prasravataH stanO .. 179..
-; garBa womb; ut-patita risen; 
-; jantu creature; stanO du. stana breast; prasravataH 6s, pra-sru to flow forth;
+; garBa womb; ut-patita risen;  mAtuH 6s; jantu creature (jantO 7s);
+; stanO du. stana breast; prasravataH 6s, pra-sru to flow forth;
 
 026.15-16E: One should not work too hard for livelihood : for that is provided by the creator: so soon as a creature is born, the breasts of the mother overflow with milk.
 
@@ -4943,6 +4965,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; mayUra peacock; citrita variegated; viDA to provide;
 
 026.17-18E: Moreover, friend. He who made the swans white, the parrots green, and the peacocks of a varied colour, will provide for your sustenance.
+; Biblical passage Matthew 6:25
+; Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? 26Look at the birds of the air: They do not sow or reap or gather into barns—and yet your heavenly Father feeds them. Are you not much more valuable than they?
 
 026.19F: aparaM ca . satAM rahasyaM SfRu mitra .
 026.19A: aparam ca . satAm rahasyam SfRu mitra .
@@ -4953,6 +4977,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 026.20A: janayanti arjane duHKam tApayanti vi-pattizu .
 ; jan to generate; arj to procure; tap (causal) to make warm, to cause pain;
 ; vipatti adversity;
+
 026.21F: mohayanti ca saMpattO kaTamarTAH suKAvahAH .. 181..
 026.21A: mohayanti ca saMpattO kaTam arTAH suKa-AvahAH .. 181..
 ; muh (causal) to stupefy; saMpatti prosperity; Avaha bringing;
@@ -4962,7 +4987,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 026.22F: aparaM ca . DarmArTaM yasya vittehA varaM tasya nirIhatA .
 026.22A: aparam ca . Darma-arTam yasya vittehA varam tasya nirIhatA .
-; Darma-arTa virtue-purpose; vittehA desire of wealth; Ih to desire;
+; Darma-arTa virtue-purpose (m. accus. what is it the object of?)
+; vittehA desire of wealth; Ih to desire;
 ; varam better; nir-IhatA absence of desire;
 026.22P: vittehA -- dravyatfzRA .
 026.22P+: nirIhatA -- hatA tfzRABAvaH .
@@ -4977,7 +5003,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 026.24F: yataH . yaTA hyAmizamAkASe pakziBiH SvApadErBuvi .
 026.24A: yataH . yaTA hi Amizam AkASe pakziBiH SvApadEH Buvi .
-; Amiza flesh, prey; AkASa sky; SvApada beast;
+; Amiza flesh, prey (neut.) ; AkASa sky; SvApada beast;
 
 026.25F: Bakzyate salile nakrEstaTA sarvatra vittavAn .. 183..
 026.25A: Bakzyate salile nakrEH taTA sarvatra vittavAn .. 183..
@@ -5002,11 +5028,13 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 027.01F: taTA hi . janmani kleSabahule kiM nu duHKamataH param .
 027.01A: taTA hi . janmani kleSa-bahule kim nu duHKam atas param .
 ; janman birth, life; kleSa pain; bahula much; kim nu what indeed?
-; atas than this; para more 
+; atas than this; para more
+
 027.02F: icCAsampadyato nAsti yaccecCA na nivartate .. 185..
 027.02A: icCA-sampat yataH na asti yad ca icCA na nivartate .. 185..
-; icCA wish, sampad prosperity; nivft turn back
-; yatas and yad grammar?
+; icCA wish, sampad prosperity 
+; nivft turn back
+; yatas and yad grammar?  yad ca 'and yet'
 027.02P: icCAsampat yAvatI icCA tAvatI sampat .
 
 027.01-02E: Similarly. In life which abounds in troubles what misery can be greater than this, that wealth is not obtained according to desire and yet desire does not turn back?
@@ -5017,7 +5045,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 027.03-03E: Hear me again, brother.
 
 027.04F: DanaM tAvad asulaBaM labDaM kfcCreRa rakzyate .
-027.04A: Danam tAvat asulaBam labDam kfcCreRa pAlyate .
+027.04A: Danam tAvat asulaBam labDam kfcCreRa rakzyate .
 ; tAvat  first; a-su-laBa not easily obtained; kfcCra difficulty;
 ; pAl (passive) is protected; 
 
@@ -5032,6 +5060,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 027.07F: tasyASce prasaro datto dAsyaM ca Sirasi sTitam .. 187..
 027.07A: tasyAH ced prasaraH dattaH dAsyam ca Sirasi sTitam .. 187..
+; tasyAH 6 fem. (refer tfzRA)
 ; ced and;  prasara going forth; datta given; dAsya servitude;
 ; Siras head, sTita standing, situated (Sirasi sTita 'immediate result' - Kale)
 027.07P: prasaraH -- avakASaH .
@@ -5064,7 +5093,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 027.12F: parityAgASca niHsaNgA Bavanti hi mahAtmanAm .. 189..
 027.12A: parityAgAH ca niHsaNgAH Bavanti hi mahAtmanAm .. 189..
-; parityAga abandoning ('gift' Kale); niHsaNga non-attachment;
+; parityAga abandoning ('gift'); niHsaNga non-attachment;
 027.12P: parityAgAH dAnAni . 'tyAgo dAne ca varjane' iti medinI .
 027.12P+: niHsaNgAH -- PalApekzArahitAH .
 027.12P++: 'dAtavyamiti yaddAnaM dIyate'nupakAriRe' iti BagavaduktatvAt .
@@ -5074,16 +5103,19 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 027.13F: iti SrutvA laGupatanako brUte -- Danyo'si manTara sarvadA SlAGyaguRo'si . yataH .
 027.13A: iti SrutvA laGupatanakaH brUte -- DanyaH asi manTara sarvadA SlAGya-guRaH asi . yataH .
 ;  Danya blessed (bestowing wealth); SlAGya to be praised;
+
 027.13-13E: Having listened to all this, Laghupatanaka said -- Blessed are you, Manthara; your virtues are laudable in every way. Because,
 
 027.14F: santa eva satAM nityamApadudDaraRakzamAH .
 027.14A: santaH eva satAm nityam Apad-udDaraRa-kzamAH .
-; santa  the good, santaH = nom. pl. m. of participle 'sat' of 'as' (Huet)
+; santa  the good, santaH = nom. pl. m. of participle 'sat' of 'as' (to be) (Huet)
+; eva only
 ; Apad misfortune; udDaraRa ud-hf to take up, raise; kzama able (patient);
 
 027.15F: gajAnAM paNkamagnAnAM gajA eva DuraMDarAH .. 190..
 027.15A: gajAnAm paNka-magnAnAm gajAH eva DuraM-DarAH .. 190..
-; paNka mud; magna plunged, immersed; Duram-Dara beast of burden;
+; paNka mud; magna plunged, immersed (majj to sink)
+; Duram-Dara beast of burden (Dura yoke, burden Df, Dara bearing)
 
 027.15P: DuraMDarAH DuraM DArayantIti . gajodDaraRaBAraM nirvoQuM kzamAH ityarTaH .
 
@@ -5092,13 +5124,14 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 027.16F: SlAGyaH sa eko Buvi mAnavAnAM sa uttamaH satpuruzaH sa DanyaH .
 027.16A: SlAGyaH saH ekaH Buvi mAnavAnAm saH uttamaH satpuruzaH saH DanyaH .
 ; sat-puruza good many
+
 027.17F: yasyArTino vA SaraRAgatA vA nASAviBaNgAdvimuKAH prayAnti .. 191..
 027.17A: yasya arTinaH vA SaraRa-AgatAH vA na ASA-viBaNgAt vimuKAH prayAnti .. 191..
 ; arTin supplicant; SaraRa shelter; ASA hope; viBaNga obstruction;
 ; vimuKa with face averted; pra-yA to depart
 027.17P: yasyArTinaH -- atra kAlidAsaH -- kzudrepi nUnaM SaraRaM prapanne mamatvamuccEH SirasAM satIva .
 
-027.16-17E: He alone on earth, of all men, is worthy of praise, he is the best, he is a good man and he is blessed, from whom supplicants  or persons seeking protection go not away with faces turned back through disappointment (lit. frustration of hopes).
+027.16-17E: He alone on earth, of all men, is worthy of praise, he is the best, he is a good man and he is blessed, from whom supplicants or persons seeking protection go not away with faces turned back through disappointment (lit. frustration of hopes).
 
 027.18F: tadevaM te svecCAhAravihAraM kurvARAH saMtuzwAH suKaM nivasanti.
 027.18A: tad evam te svecCA-AhAra-vihAram kurvARAH saMtuzwAH suKam nivasanti.
@@ -5117,7 +5150,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 027.20F: tatpaScAdAyAntaM BayahetumAlokya manTaro jalaM pravizwaH . mUzikaSca vivaraM gataH .
 027.20A: tad-paScAt AyAntam Baya-hetum Alokya manTaraH jalam pravizwaH . mUzikaH ca vivaram gataH .
 ; A-yA to come, AyAnta coming (grammar ?)
-; Baya fear, hetu cause (frightening one); manTara name of the turtle;
+; Baya fear, hetu cause (frightening one); Alok to perceive
+; manTara name of the turtle;
 027.20P: Bayahetum -- Bayasya hetuM kAraRaM vyADAdikam .
 
 027.19-20E: Now on one occasion, a deer, Chitranga by name, frightened by some one, came and joined them. Thereupon, apprehending that the person who had caused the fright might be coming after the deer, Manthara entered the water, the mouse went in a hole 
@@ -5140,7 +5174,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 027.24F: vanamidaM sanATIkriyatAm . citrANgo brUte -- lubDakatrAsito'haM BavatAM SaraRamAgataH . 
 027.24A: vanam idam sanATI-kriyatAm . citrANgaH brUte -- lubDaka-trAsitaH aham BavatAm SaraRam AgataH . 
-; sanATI-kf to protect; lubDaka hunter;
+; sanATI-kf to protect; lubDaka hunter
+; (sa-nATa with master, protector [nAT to ask, to have power]
 
 027.23-24E: Manthara said -- Good, O deer, you are welcome. You are at liberty to enjoy provisions such as water and the like. Do you favour the forest with your residence here (lit., let the forest have a master by your residence here). Chitranga said, I who was alarmed by the hunters have come to you for protection.
 
@@ -5188,8 +5223,11 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; 
 028.01F: asti kaliNgavizaye rukmANgado nAma nfpatiH . sa ca digvijayavyApArakrameRAgatya
 028.01A: asti kaliNga-vizaye rukma-aNgadaH nAma nfpatiH . saH ca dig-vijaya-vyApAra-krameRa Agatya
-; kaliNga a country; rukma bright, gold; aNgada arm bracelet, rukmAngada name
-; dig diS region; vijaya conquest; vyApAra to be occupied with; krama step
+; kaliNga a country; rukma bright, gold (ruc to shine)
+; aNgada arm bracelet, rukmAngada name
+; dig diS region, quarter; vijaya conquest
+; vyApAra employment (pf pfRoti to be busy, only as A-pf)
+; krama step, course
 028.01P: vizaye deSe
 
 028.02F: candraBAgAnadItIre samAveSitakawako vartate . prAtaSca tenAtrAgatya karpUrasaraHsamIpe
@@ -5214,8 +5252,9 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 028.05F: jalASayAntaraM gacCAmi . kAkamfgAvapyuktavantO -- evamastu . 
 028.05A: jalASayAntaram gacCAmi . kAkamfgO api uktavantO -- evam astu . 
 028.05P: jala-ASaya-antaram -- anyo jalASayaH jalASayAntaram . nityasamAsaH .
-; ASaya bed, abode; jalASaya pool; antara another (ifc.); 
-28.04-05E: So having regard to the fact that our residence here to-morrow is beset with danger, do what the time demands. Hearing that the tortoise said in terror-I will make for another pool. The crow and the deer, too, said -- Let it be so. 
+; ASaya bed, abode (SI to lie down); jalASaya pool; antara another (ifc.);
+
+28.04-05E: So having regard to the fact that our residence here to-morrow is beset with danger, do what the time demands. Hearing that the tortoise said in terror - I will make for another pool. The crow and the deer, too, said -- Let it be so. 
 
 028.06F: tato hiraRyako vihasyAha -- jalASayAntare prApte manTarasya kuSalam . 
 028.06A: tatas hiraRyakaH vihasya Aha -- jalASayAntare prApte manTarasya kuSalam . 
@@ -5223,7 +5262,8 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 028.07F: sTale gacCataH kaH pratIkAraH . yataH .
 028.07A: sTale gacCataH kaH pratIkAraH . yataH .
-; sTala ground; pratIkAra counteraction (means of protection Kale);
+; sTala ground; gacCataH gen. sg.; 
+; pratIkAra counteraction (means of protection Kale);
 
 28.06-07E: Then Hiranyaka said smilingly -- It will be all well with Manthara when another lake is reached, but what means of protection has he while crawling along the ground ? For,
 
@@ -5234,6 +5274,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 028.09F: svaBUmiH SvApadAdInAM rAjYAM mantrI paraM balam .. 193..
 028.09A: svaBUmiH SvApada-AdInAm rAjYAm mantrI param balam .. 193..
 ; sva-BUmi one's own earth, ground; para best;
+; SvApada wild beast (dog foot)
 
 028.08-09E: Water is the greatest strength of aquatic animals, a fortress of those who habitually reside in fortresses, their own ground of beasts and other animals, and a minister of kings.
 
@@ -5246,7 +5287,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 028.11F: svayaM vIkzya yaTA vaDvAH pIqitaM kucakuqmalam .
 028.11A: svayam vIkzya yaTA vaDvAH pIqitam kuca-kuqmalam .
 ; vaDU wife (vaDvAH 6s); pIqita squeezed
-; kuca female breast kuqmala filled with buds
+; kuca female breast, kuqmala opening
 
 028.12F: vaRikputro'BavadduHKI tvaM taTEva Bavizyasi .. 194 ..
 028.12A: vaRik-putraH aBavat duHKI tvam taTA eva Bavizyasi .. 194 ..
@@ -5346,10 +5387,11 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 029.01F: aTa dUtIvacanaM SrutvA lAvaRyavatyuvAca -- ahaM pativratA kaTaMetasminnaDarme
 029.01A: aTa dUtI-vacanam SrutvA lAvaRyavatI uvAca -- aham pati-vratA kaTaM etasmin aDarme
-; dUtI messenger, vacana speech; pati-vrata husband-devoted; 
+; dUtI messenger, vacana speech; pati-vrata husband-devoted;
+
 029.02F: patilaNGane pravarte . yataH .
 029.02A: pati-laNGane pravarte . yataH .
-; laNGana stepping across; pravft to engage in;
+; laNGana stepping across (laNG to leap over cl. 1); pravft to engage in;
 
 029.01-02E: Now on hearing the words of the go-between Lavanyavati said -- I am devoted to my husband. How shall I then think of doing this irreligious deed of being faithless to my husband? For,
 
@@ -5369,7 +5411,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 029.05F: na sA BAryeti vaktavyA yasyAM BartA na tuzyati .
 029.05A: na sA BAryA iti vaktavyA yasyAm BartA na tuzyati .
-; vaktavya to be siad; Bartf husband;
+; vaktavya to be said; Bartf husband; yasyAm f. 7s yad;
 
 ; Usha typo 'sarvdevatAH' -> 'sarvadevatAH'
 029.06F: tuzwe Bartari nArIRAM saMtuzwAH sarvadevatAH .. 198 ..
@@ -5384,25 +5426,27 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 ; prARa-ISvaraH life-lord; a-vicArita without deliberation;
 
 029.08F: lAvaRyavatyuvAca -- DruvaM satyametat . tato dUtikayA gatvA tattatsarvaM tuNgabalasyAgre niveditaM . 
-029.08A: lAvaRyavatI uvAca -- Druvam satyam etat . tataH dUtikayA gatvA tat tat sarvam tuNga-balasya agre niveditam . 
-; Druvam certainly; dUtika messenger; nivedita made known;
+029.08A: lAvaRyavatI uvAca -- Druvam satyam etat . tataH dUtikayA gatvA tat tat sarvam tuNgabalasya agre niveditam . 
+; Druvam certainly (Dru Druvati to be fixed); dUtikA messenger
+; nivedita made known;
 ; agre in the presence of
 
 029.07-08E: Therefore, whatever the lord of my life orders me to do, I do without questioning (its propriety). The messenger asked -- Is this the truth? Lavanyavati replied -- Beyond doubt this is the truth. Then the messenger went back and reported all that to Tungabala.
 
 029.09F: tacCrutvA tuNgabalo'bravIt -- svAminAnIya samarpayitavyeti kaTametacCakyaM .
 029.09A: tad-SrutvA tuNgabalaH abravIt -- svAminA AnIya sam-arpayitavya iti kaTam etad Sakyam .
-; svAmin husbabd (master, lord); A-nI to bring; samarpayitavya to be delivered
+; svAmin husbabd (master, lord); A-nI to bring; samarpayitavyA to be delivered
 ; Sakya possible
 
 029.10F: kuwwanyAha -- upAyaH kriyatAm . taTA coktam --
 029.10A: kuwwanI Aha -- upAyaH kriyatAm . taTA ca uktam --
-; kuwwanI bawd (= sA dUtI)
+; kuwwanI bawd (= sA dUtI dUtikA); upAya effort, artifice
+
 029.09-10E: Having heard it Tungabala observed -- How can this be possible that the husband would bring her here and offer her to me? The go-between said -- Let a device be used. For it is said --
 
 029.11F: upAyena hi yacCakyaM na tacCakyaM parAkramEH .
 029.11A: upAyena hi yat Sakyam na tat Sakyam para-AkramEH .
-; upAya effort, artifice; parAkrama bold advance
+; parAkrama bold advance
 
 029.12F: SfgAlena hato hastI gacCatA paNkavartmanA .. 199 ..
 029.12A: SfgAlena hataH hastI gacCatA paNka-vartmanA .. 199 ..
@@ -5447,7 +5491,7 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 029.20F: sAzwAMgapAtaM praRamyovAca -- deva dfzwiprasAdaM kuru .
 029.20A: sa-azwa-ANga-pAtam praRamya uvAca -- deva dfzwi-prasAdam kuru .
-; sAzwANga a particular reverential pose; prasAda favor;
+; sAzwANga a particular reverential pose; dfzwi seeing, prasAda favor;
 029.20P: sAzwAMgapAtaM praRamya -- jAnuByAM ca taTA padmyAmurasA SirasA DiyA . SirasA vacasA dfzwyA praRAmozwANga IritaH .
 
 029.18-20E:  Then an old jackal from among them declared I will bring about his death by the power of my intellect. Then the wily fellow having gone to Karpuratilaka and bowed to him touching the ground with the eight parts of his body said -- My lord, favour me with a glance. 
@@ -5461,15 +5505,17 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 029.23F: jambuko'haM . sarvErvanavAsiBiH paSuBirmilitvA BavatsakASaM prasTApitaH . 
 029.23A: jambukaH aham . sarvEH vana-vAsiBiH paSuBiH militvA Bavat-sakASam prasTApitaH . 
-; jambuka jackal (jam to eat); mil to join, assemble; sakASa vicinity;
-; pra-sTA (causal) sent out
+; jambuka jackal (jam to eat); mil to join, assemble
+; sakASa having appearance, vicinity; sakASam ind. near
+; pra-sTA (causal) sent out; prasTApita modify 'aham'
 
 029.21-23E: The elephant asked -- Who art thou? Whence art thou come? He replied -- I am a jackal and sent to Your Honour's presence by all the inhabitants of the forest having assembled together (to say):--
 
 029.24F: yad vinA rAjYAvasTAtuM na yuktam tadatrAwavIrAjye'BizektuM
 029.24A: yad vinA rAjYA avasTAtum na yuktam tad atra awavI-rAjye aBizektum
 ; avasTA to remain; yukta suitable; awavI place to roam, forest;
-; aBizic to anoint
+; rAjya royal; aBizic to anoint
+
 029.25F: BavAn sarvasvAmiguRopeto nirUpitaH . yataH .
 029.25A: BavAn sarva-svAmi-guRa-upetaH nirUpitaH . yataH .
 ; upeta endowed with; ni-rUpita chosen
@@ -5478,14 +5524,14 @@ runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
 
 029.26F: yaH kulABijanAcArEratiSudDaH pratApavAn .
 029.26A: yaH kula-aBijana-AcArEH ati-SudDaH pratApavAn .
-; SudDa pure; kula family, aBijana ancestors, AcAra conduct;
-; pratApavat glorious, dignified;
+; kula family + aBijana ancestors + AcAra conduct; 
+; SudDa pure ; pratApavat glorious, dignified;
 029.26P: kuleti -- kulaM ca aBijanaSca AcAraSca tEH .
 
 029.27F: DArmiko nItikuSalaH sa svAmI yujyate Buvi .. 200..
 029.27A: DArmikaH nIti-kuSalaH saH svAmI yujyate Buvi .. 200..
 ; DArmika righteous; nIti leadership, kuSala skilled;
-svamin lord, king; yuj (passive) To be fit or right;
+; svamin lord, king; yuj (passive) To be fit or right;
 ; Buvi locative BU earth;
 
 029.26-27E: He, who is extremely pure as regards his family, nobility and conduct, is chivalrous, pious, and versed in politics, is worthy of being a king on earth.
@@ -5502,7 +5548,8 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 029.30F: anyacca . parjanya iva BUtAnAmADAraH pfTivIpatiH .
 029.30A: anyat ca . parjanyaH iva BUtAnAm ADAraH pfTivI-patiH .
-; parjanya rain-cloud or rain; ADAra support; pfTivI earth;
+; parjanya rain-cloud or rain (skd pfx to become wet)
+; ADAra support; pfTivI earth;
 
 029.31F: vikale'pi hi parjanye jIvyate na tu BUpatO .. 202..
 029.31A: vikale api hi parjanye jIvyate na tu BUpatO .. 202..
@@ -5518,7 +5565,6 @@ svamin lord, king; yuj (passive) To be fit or right;
 ; niyata restrained, vizaya region, vartin ifc. engaged in;
 ; MW niyatavizayavartin = "steadily abiding in one's own sphere"
 ; prAyaSas ind. generally; daRqa stick, punishment; yoga joining, use;
-
 029.32P: niyata -- paravaSe asmin jagati puruzaH prAyaSaH daRqayogAt niyatavizayavartI niyataH vizayaH niyatavizayaH tasmin vartate saH . svakarmakArI atyAcAramakurvan (dfSyate) .
 
 029.33F: jagati paravaSe'smindurlaBaH sADuvfttaH .
@@ -5570,9 +5616,9 @@ svamin lord, king; yuj (passive) To be fit or right;
 ; pucCaka tail; avalambana hanging on;
 
 030.09F: yanmadviDasya vacasi tvayA pratyayaH
-; madviDasya : mad-viDA in masculine declension
 030.09A: yad mad-viDasya vacasi tvayA pratyayaH
-; viDa ifc. kind; vacas voice, advice; pratyaya belief, trust; 
+; viDa ifc. kind; vacas voice, advice; pratyaya belief, trust;
+
 030.10F: kftastatad anuBUyatAmaSaraRaM duHKam . taTA coktam --
 030.10A: kftaH tasya tad anuBUyatAm aSaraRam duHKam . taTA ca uktam --
 ; anuBU to embrace, experience; aSaraRa without refuge;
@@ -5635,20 +5681,22 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 030.20F: navayuvatImAnIya samarpayati . paScAtpracCannaH sankimayaM karotIti nirUpayati .
 030.20A: nava-yuvatIm AnIya samarpayati . paScAt pracCannaH san kim ayam karoti iti nirUpayati .
-; pracCanna concealed; san =? prap of 'as'  (being); nirUp to examine;
+; pracCanna concealed (Cad to cover) ; san =? prap of 'as'  (being); nirUp to examine;
+; kim how?
 
 030.19-20E: I shall have to worship her in due form. Thereupon that Charudatta brought and presented a youthfal damsel as described and remaining concealed watched how he acted. 
 
 030.21F: sa ca tuNgabalastAM yuvatImaspfSanneva dUrAdvastrAlaMjAraganDacandanEH saMpUjya rakzakaM datvA prasTApayati . 
 030.21A: saH ca tuNgabalaH tAm yuvatIm aspfSan eva dUrAt vastra-alaMkAra-ganDa-candanEH saMpUjya rakzakam datvA prasTApayati . 
 ; spfSan nom. sing. spfSat touching; candana sandal (fragrant)
+; vastra cloth, clothes; 
 ; saMpUj to honor greatly; rakzaka a guard; prasTA (causal) to send away;
 
 030.21-21E: That Tungabala too, without touching the young lady, offered her worship from a distance with garments, ornaments and fragrant unguents and sent her away with a guard. 
 
 030.22F: aTa vaRikputreRa tad dfzwvopajAtaviSvAsena loBAkfzwamanasA svavaDUH
 030.22A: aTa vaRikputreRa tad dfzwvA upajAta-viSvAsena loBa-Akfzwa-manasA svavaDUH
-; upajAta produced; loBa desire, greed;
+; aTa now; upajAta produced; loBa desire, greed;
 
 030.23F: lAvaRyavatI samAnIya samarpitA . sa ca tuNgabalastAM hfdayapriyAM lAvaRyavatIM
 030.23A: lAvaRyavatI samAnIya samarpitA . saH ca tuNgabalaH tAm hfdaya-priyAm lAvaRyavatIm
@@ -5659,13 +5707,13 @@ svamin lord, king; yuj (passive) To be fit or right;
 030.24A: vijYAya saMBramam utTAya nirBaram AliNgya nimIlita-akzaH paryaNke tayA saha vilalAsa .
 ; vijYA to observed; saMBramam ind. hastily; nirBara 'without weight', excessive
 ; nimIl to close (eyes), akza eye; paryaNka bed, sofa;
-; lalAsa perfect las to play, vilas to play;
+; lalAsa perfect las to play, vi-las to play;
 
 030.22-24E: Now the young merchant, full of confidence at what he had seen, and his mind biased by avarice, brought his own wife Lavanyavati, and presented her. That Tungabala too, knowing that she was Lavanyavati, the darling of his heart, rose up in a hurry, embraced her firmly and with his eyes closed (in joy ) sported with her on a sofa. 
 
 030.25F: tadavalokya vaRikputraScitraliKita ivetikartavyatAmUQaH paraM vizAdamupagataH .
 030.25A: tad avalokya vaRikputraH citra-liKitaH iva iti kartavyatA mUQaH param vizAdam upagataH .
-; citra brightly colored, liKita drawn, citraliKita painted
+; citra brightly picture, liKita drawn, citraliKita painted
 ; kartavyatA possibility of being done;  param highest; vizAda despondency;
 
 030.26F: ato'haM bravImI -- svayaM vIkzya ityAdi .. taTA tvayApi Bavitavam iti .
@@ -5689,7 +5737,7 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 030.29F: snehAdanizwaM SaNkamAnA manTaramanugacCanti . 
 030.29A: snehAt anizwam SaNkamAnAH manTaram anugacCanti . 
-
+; anizwa calamity (not-wished)
 030.27-29E: Disregarding those words of friendly counsel, and distraught with great fear, Manthara left the pool and set out for another. They too, Hiranyaka and others, apprehensive of mishap through affection, followed him. 
 
 030.30F: tataH sTale gacCankenApi vyADena kAnanaM
@@ -5718,14 +5766,17 @@ svamin lord, king; yuj (passive) To be fit or right;
 030.27-34E: Then as he was crawling along the ground, Manthara was seen by a certain huntsman roaming about in the forest. On seeing him he picked him up, and fastened him to his bow, and troubled by thirst and hunger brought on by the fatigue of his wandering about, set out homeward. The deer, the crow and the mouse, plunged in extreme sorrow, followed him. Then Hiranyaka lamented --
 
 ; not anuzwuB
-030.35F: ekasya duHKasya na yAvanantaM gacCAmyahaM pAramivArRavasya .
+; Usha typo yAvanantaM -> yAvadantaM
+030.35F: ekasya duHKasya na yAvadantaM gacCAmyahaM pAramivArRavasya .
 030.35A: ekasya duHKasya na yAvat antam gacCAmi aham pAram iva arRavasya .
-; yAvat as soon as; anta end; pAra further shore; arRava a wave, sea; 
+; yAvat as soon as; anta end; pAra further shore (pf piparti to bring across)
+; arRava a wave, sea; 
 030.35P: arRavaH -- arRAMsi asya santi .
 
 030.36F: tAvad dvitIyaM samupasTitaM me CidrezvanarTA bahulIBavanti .. 205..
 030.36A: tAvat dvitIyam samupasTitam me Cidrezu anarTAH bahulI-Bavanti .. 205..
-; samupasTita approached; Cidra hole, weak point; an-arTa unfortunate;
+; samupasTita approached; me 6s
+;Cidra hole, weak point; an-arTa misfortune (unfortunate);
 ; bahula abundant; bahulI-BU to become widespread;
 030.36P: Cidrezviti -- ApadApadanubanDinIti BAvaH .
 
@@ -5750,15 +5801,17 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 
 031.04F: viSvAsastAdfSaH puMsAM yAdfNmitre svaBAvaje .. 207..
-031.04A: viSvAsaH tAdfSaH puMsAm yAdfNmitre sva-BAvaje .. 207..
-; tAdfs, yAdfS such a; sva-BAva-ja produced by natural disposition;
+031.04A: viSvAsaH tAdfSaH puMsAm yAdfS-mitre sva-BAvaje .. 207..
+; tAdfs, yAdfS such a; puMsAm 6p (of men)
+; sva-BAva-ja produced by natural disposition;
 
 031.03-04E: Men have not that confidence in a mother, wife, brother or son, which they have in a friend by natural disposition.
 
 031.05F: iti muhurvicintya -- aho durdEvam . yataH .
 031.05A: iti muhuH vicintya -- aho durdEvam . yataH .
 ; muhur repeatedly; durdEva bad-fate (MW bad luck)
-031.05-05E: Thinking (over the matter) thus again and again. -- 0 misfortune! For,
+
+031.05-05E: Thinking (over the matter) thus again and again. -- O misfortune! For,
 
 ; not anuzwuB
 031.06F: svakarmasaMtAnavicezwitAni kAlAntarAvartiSuBASuBAni .
@@ -5767,16 +5820,15 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 031.07F: ihEva dfzwAni mayEva tAni janmAntarARIva daSAntarARi .. 208..
 031.07A: iha eva dfzwAni mayA eva tAni janma-antarARi iva daSA-antarARi .. 208..
-; iha here (in this world);
-; janma-antara another birth; daSA end of life
+; iha here (in this world); janma-antara another birth; daSA end of life
 031.07P: janmAntarARIva dfzwAni upaBuktAni .
 
 031.06-07E: In this very life have I experienced those changes of condition, like so many births and rebirths, which are the results of a series of my own actions and which are good or bad and happening at stated periods of time.
 
 031.08F: aTavetTamevEtat . kAyaH saMnihitApAyaH saMpadaH padamApadAm .
 031.08A: aTavA itTam eva etat . kAyaH saMnihita-apAyaH saMpadaH padam ApadAm .
-; itTam ind. in this manner;  saMnihita near (deposited together);
-; apAya destruction (going away); saMpad success; pada abode; Apad misfortunes
+; itTam ind. in this manner;  saMnihita near (deposited together); kAya body;
+; apAya destruction (going away); saMpad success; pada abode; Apad misfortune
 031.08P: saMnihitApAyaH saMnihitAH apAyA yasya .
 
 031.09F: samAgamAH sApagamAH sarvamutpAdi BaNguram .. 209..
@@ -5790,7 +5842,7 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 031.10F: punarvimfSyAha -- SokArAtiBayatrARaM prItiviSramBaBAjanam .
 031.10A: punar vimfSya Aha -- Soka-arAti-Baya-trARam prIti-viSramBa-BAjanam .
-; vimfSya having deliberated; Soka sorrow, arAti enemy, trARa protection
+; vimfSya having deliberated; Soka sorrow, arAti enemy, (rA to give) trARa protection
 ; prIti pleasure; viSramBa confidence; BAjana repository (sharing);
 031.10P: SokArAti -- Soka evArAtiH tasmAdBayaM tasmAnnAyate tat .
 031.10P+: prItiviSramBa -- prItiH harzaH viSramBaH ca tayoH BAjanaM Aspadam .
@@ -5818,6 +5870,7 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 031.12-13E: Moreover. A friend, who is the elixir of joy to the eyes, the delight of the heart and the sharer of pleasure or pain with his friend, is hard to be found;
 
+; not anuzwuB
 031.14F: ye cAnye suhfdaH samfdDisamaye dravyABilAzAkulAs
 031.14A: ye ca anye suhfdaH samfdDi-samaye dravya-aBilAza-AkulAH
 ; suhfd good-hearted, a friend; samfdDi prosperity, samaya meeting;
@@ -5833,7 +5886,8 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 031.16F: iti bahu vilapya hiraRyakaScitrANgalaGupatanakAvAha -- yAvad ayaM
 031.16A: iti bahu vilapya hiraRyakaH citrANga-laGupatanakO Aha -- yAvat ayam
-; vilap to lament; 
+; vilap to lament;
+
 031.17F: vyADo vanAnna niHsarati tAvanmanTaraM mocayituM yatnaH kriyatAm .
 031.17A: vyADaH vanAt na niHsarati tAvat manTaram mocayitum yatnaH kriyatAm .
 
@@ -5855,7 +5909,7 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 031.21F: nUnamanena lubDakena tatra
 031.21A: nUnam anena lubDakena tatra
-; nUnam ind. now, at once;
+; nUnam ind. now, at once; lubDa hunter
 
 031.22F: kacCapaM parityajya mfgamAMsArTinA satvaraM gantavyam . tato'haM manTarasya
 031.22A: kacCapam parityajya mfga-mAMsa-arTinA satvaram gantavyam . tataH aham manTarasya
@@ -5868,10 +5922,12 @@ svamin lord, king; yuj (passive) To be fit or right;
 032.01F: saMnihite lubDake BavadByAM palAyitavyam . citrANgalaGupatanakAByAM SIGraM gatvA taTAnuzWite sati 
 032.01A: saMnihite lubDake BavadByAm palAyitavyam . citrANga-laGupatanakAByAm SIGram gatvA taTA anuzWite sati 
 ; saMnihita deposited near, near; SIGram quickly; palAya to flee;
-; anuzWita done; 
+; anuzWita done;
+
 032.02F: sa vyADaH SrAntaH pAnIyaM pItvA taroraDastAdupavizwaH
 032.02A: saH vyADaH SrAntaH pAnIyam pItvA taroH aDastAt upavizwaH
 ; SrAnta wearied; aDastAt ind. beneath;
+
 032.03F: taTAviDaM mfgamapaSyat . 
 032.03A: taTAviDam mfgam apaSyat . 
 ; taTA-viDa so arranged
@@ -5882,7 +5938,7 @@ svamin lord, king; yuj (passive) To be fit or right;
 ; manAH:  m1s of manas
 032.04A: tataH kartarikAm AdAya prahfzwa-manAH mfga-antikam calitaH . tatra antare
 ; kartarikA scissors (kft to cut); manAH nom. sg. manas;
-; antika ifc. in the presence of; antara interval,opportune time;
+; antika ifc. in the presence of; antara interval, opportune time;
 
 032.05F: hiraRyakenAgatya manTarasya banDanaM
 032.05A: hiraRyakena Agatya manTarasya banDanam
@@ -5894,7 +5950,8 @@ svamin lord, king; yuj (passive) To be fit or right;
 
 032.07F: sa mfga AsannaM taM vyADaM vilokyotTAya palAyitaH .
 032.07A: saH mfgaH Asannam tam vyADam vilokya utTAya palAyitaH .
-; Asanna near;
+; Asanna near (A-sad to sit, to approach);
+
 032.08F: pratyAvftya lubDako yAvattarutalamAyAti tAvat kUrmamapaSyanna
 032.08A: pratyAvftya lubDakaH yAvat taru-talam AyAti tAvat kUrmam apaSyat na
 ; pratyAvft to return (turn back)
@@ -5909,32 +5966,35 @@ svamin lord, king; yuj (passive) To be fit or right;
 032.10F: yo DruvARi parityajya aDruvARi nizevate .
 032.10A: yaH DruvARi parityajya aDruvARi nizevate .
 ; Druva fixed, unchangeable; nizev to pursue;
+
 032.11F: DruvARi tasya naSyanti aDruvaM nazwameva hi .. 212..
 032.11A: DruvARi tasya naSyanti aDruvam nazwam eva hi .. 212..
-; naS to be lost, to perish;
+; naS to be lost, to perish (naSyanti passive);
 
 032.10-11E: He who leaves certainties and pursues uncertainties, loses what is certain, while what is uncertain is already (or, certain to be) lost (to him).
 
 032.12F: tato'sO svakarmavaSAnnirASaH kawakaM pravizwaH .
 032.12A: tataH asO svakarma-vaSAt nirASaH kawakam pravizwaH .
-; vaSa influenced by (ifc.); nir-ASa without hope (ASA hope); 
+; vaSa influenced by (ifc.); nir-ASa without hope (ASA hope);
+; kawaka camp, dwelling  (also bracelet of gold!)
 032.12P: kawakaM -- senAniveSanam .
 
 032.13F: manTarAdayaSca sarve muktApadaH svasTAnaM gatvA yaTAsuKamAsTitAH ..
 032.13A: manTarAdayaH ca sarve mukta-ApadaH svasTAnam gatvA yaTA suKam AsTitAH ..
-; AsTita stayed
+; AsTita stayed (A-sTA)
 
 032.12-13E: So he returned to his place disappointed through his own (rash) act (fault). Manthara and others, being free from calamity, went to their abode and lived in happiness.
 
 032.14F: aTa rAjaputrEH sAnandamuktam --
 032.14A: aTa rAjaputrEH sAnandam uktam --
-; sAnandam ind. happily
+; rAjaputrAH  (the princes listening to Vishnusharma) ; sAnandam ind. happily
 032.14P: etena tasyA rAjaputrEraciraparigrahaH sUcitaH .
 
 032.15F: sarve SrutavantaH suKino vayam . sidDaM naH samIhitam .
 032.15A: sarve SrutavantaH suKinaH vayam . sidDam naH samIhitam .
 ; Srutavat having heard; sidDa success; naH gen. pl. asmad;
-samIhita longed for (Ih to endevor to obtain)
+; samIhita longed for (Ih to endevor to obtain)
+
 032.14-15E: Now the princes said joyfully -- We have heard all and become happy. Our desire has been gained. 
 
 032.16F: vizRuSarmovAca --
@@ -5942,12 +6002,13 @@ samIhita longed for (Ih to endevor to obtain)
 
 032.17F: etAvatA BavatAmaBilazitaM saMpannam . aparamapIdamastu
 032.17A: etAvatA BavatAm aBilazitam saMpannam . aparam api idam astu
-; etAvatA 3s. etAvat so far, so much. apara another, more; 
+; etAvatA 3s. etAvat so far, so much. 
 ; aBilaz to desire; saMpanna accomplished;
+; apara another, more;
 
 032.16-17E: Vishnusharma replied -- So far your desired object has been accomplished. Let there be this much more, too --
 
-; 4-line shloka
+; 4-line shloka (not anuzwuB)
 032.18F: mitraM prApnuta sajjanA janapadErlakzmIH samAlambatAM
 032.18A: mitram prApnuta sajjanAH janapadEH lakzmIH samAlambyatAm
 ; Apnuta Ap imperative 2 pl.; sajjanAH voc. pl. good people;
@@ -5956,7 +6017,7 @@ samIhita longed for (Ih to endevor to obtain)
 032.19F: BUpAlAH paripAlayantu vasuDAM SaSvatsvaDarme sTitAH .
 032.19A: BUpAlAH paripAlayantu vasuDAm SaSvat svaDarme sTitAH .
 ; BUpAla earth protector, king; vasuDA earth (producing wealth);
-; preverb 'pari-pAl' not in MW. to protect; 'pal' palAyate   flee
+; preverb 'pari-pAl', pAl pAlayati to protect
 ; SaSvat ind. always; sva-Darma one's own duty.
 032.19P: SaSvatsvaDarme sTitAH kadApi prajApAlanarUpasvaDarmAnna vyaBicarantaH .
 
@@ -5964,9 +6025,9 @@ samIhita longed for (Ih to endevor to obtain)
 
 032.20F: AstAM mAnasatuzwaye sukftinAM nItirnavoQeva vaH
 032.20A: AstAm mAnasa-tuzwaye sukftinAm nItiH navoQA iva vaH
-; AstAm ipv-2m As to sit; mAnasa belonging to manas
+; AstAm ipv-2m 3s of As to sit; mAnasa belonging to manas heart (mind)
 ; tuzwaye 4s tuzwi satisfaction; navoQA new wife.
-; sukftin doing good actions;
+; sukftin doing good actions; vaH yuzmad 2p/4p/6p
 032.20P: sukftinAM vaH .
 032.20P+: navoQeva acirapariRItA vaDUriva . strItvaM ca Dvanitam .
 
@@ -5983,6 +6044,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 032.23F: aTa rAjaputrA UcuH -- Arya mitralABaH
 032.23A: aTa rAjaputrAH UcuH -- Arya mitralABaH
+; Arya honorable man;
 032.23P: mitraM ityAdi BaratavAkyaM kAvyopasaMhAraM darSayati . taduktaM 'varadAnasya uktiryA sA kAvya upasaMhftiH . iti .
 032.23P+: iti hitopadeSe mitralABo nAma praTamaH kaTAsaMgrahaH samAptaH .
 
@@ -6003,7 +6065,7 @@ samIhita longed for (Ih to endevor to obtain)
 032.25-26E: Vishnusharma said -- Hear then "The Separation of Friends', of which this is the introductory sloka: --
 
 032.27F: varDamAno mahAsneho mfgendravfzayorvane .
-032.27A: varDamAnaH mahA-snehaH mfga-indravfzayoH vane .
+032.27A: varDamAnaH mahA-snehaH mfgendra-vfzayoH vane .
 ; mfgendra 'king of beasts, lion; vfza bull, indravfza
 
 032.28F: piSunenAtilubDena jambukena vinASitaH .. 1..
@@ -6024,13 +6086,14 @@ samIhita longed for (Ih to endevor to obtain)
 
 032.31F: asti dakziRApaTe suvarRavatI nAma nagarI . tatra varDamAno nAma vaRignivasati .
 032.31A: asti dakziRApaTe suvarRavatI nAma nagarI . tatra varDamAnaH nAma vaRik nivasati .
-; dakziRApaTa southern region; suvarRa-vat containing gold, proper name;
+; dakziRA-paTa southern region; suvarRa-vat containing gold, proper name;
 ; varDamAna growing, proper name of merchant;
 032.31P: dakziRApaTe -- dakziRadeSe .
 
 032.32F: tasya pracure'pi vitte'parAnbanDUn atisamfdDAnavalokya
 032.32A: tasya pracure api vitte aparAn banDUn atisamfdDAn avalokya
-; pracura much (cur to steal); apara other; ati-samfdDa very rich;
+; pracura much (cur to steal); vitta wealth;
+; apara other; ati-samfdDa very rich;
 
 032.33F: punararTavfdDiH karaRIyeti matirbaBUva . yataH .
 032.33A: punar arTa-vfdDiH karaRIyA iti matiH baBUva . yataH .
@@ -6039,7 +6102,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 032.34F: aDo'DaH paSyataH kasya mahimA nopacIyate .
 032.34A: aDaH aDaH paSyataH kasya mahimA na upacIyate .
-; aDas lower, below; paSyat seeing mahiman power; upaci to accumulate;
+; aDas lower, below; paSyat seeing; mahiman power; upaci to accumulate;
 
 032.34P: aDoDaH iti -- uccapadasTamapi AtmAnaM laGumeva manyamAnasya kasya mahimA na upacIyata varDate . sarvasyApi mAnasya kasya mahimA na upacIyata varDate . sarvasyApi upacIyata eva .
 
@@ -6059,7 +6122,7 @@ samIhita longed for (Ih to endevor to obtain)
 033.02F: SaSinastulyavaMSo'pi nirDanaH pariBUyate .. 3..
 033.02A: SaSinaH tulya-vaMSaH api nirDanaH pariBUyate .. 3..
 ; SaSin 'containing a hare', the moon; tulya comparable; vaMSa lineage;
-; nirDana without wealth; pariBU to despise;
+; nirDana without wealth; pariBU to defeat, despise;
 033.02P: SaSinaH vaMSasya iti SezaH .  
 
 033.01-02E: Moreover. A man who has abundant wealth, although he be a Brahmana-killer, is respected; while one, although claiming a pedigree as noble as that of the moon, is despised, if without wealth.
@@ -6067,15 +6130,16 @@ samIhita longed for (Ih to endevor to obtain)
 ; nor anuzwuB meter.
 033.03F: anyacca . avyavasAyinamalasaM dEvaparaM sAhasAcca parihIRam .
 033.03A: anyat ca . a-vyavasAyinam alasam dEvaparam sAhasAt ca parihIRam .
-; vyavasAyin industrious; alasa inactive, lazy; dEvapara trusting to fate;
-; sAhasa boldness; parihIRa deficient in (+ abl.) (hA jahAti to quit, hIRa kta
+; vyavasAyin industrious; a-lasa inactive, lazy (las to shine, play)
+; dEvapara trusting to fate (para ifc intent on);
+; sAhasa boldness; parihIRa deficient in (+ abl.) (hA jahAti to quit, hIRa kta)
 033.03P: avyavasAyinam -- vyavasAyaH asyAstIti vyavasAyI na vyavasAyI avyavasAyI taM anudyoginam . aTavA nacCIlye RiniH .
 033.03P+: dEvaparaM -- dEvaM paraM yasya dEvAvalambinamityarTaH .
 
 033.04F: pramadeva hi vfdDapatiM necCatyupagUhituM lakzmIH .. 4..
 033.04A: pramadA iva hi vfdDa-patim na icCati upagUhitum lakzmIH .. 4..
-; pramadA young woman ; vfdDa-pati old husband; upaguh to embrace (hide);
-; lakzmI goddess of wealth; 
+; pramadA young woman (pramada drunk); vfdDa-pati old husband
+; upaguh to embrace (guh to hide, cover); lakzmI goddess of wealth; 
 033.04P: pramadA prakfzwo mado'syA astIti taruRI .
 033.04P+: upagUhituM AliMgitum .
 
@@ -6085,7 +6149,7 @@ samIhita longed for (Ih to endevor to obtain)
 033.05F: kiM ca . AlasyaM strIsevA sarogatA janmaBUmivAtsalyam .
 033.05A: kim ca . Alasyam strI-sevA sa-roga-tA janma-BUmi-vAtsalyam .
 ; Alasya idleness; strI-sevA addiction to women; sarogatA sickliness;
-; janma-BUmi birth place; vAtsalya fondness;
+; janma-BUmi birth place; vAtsalya fondness esp. to offspring (vatsa calf);
 
 033.06F: saMtozo BIrutvaM zaq vyAGAtA mahattvasya .. 5..
 033.06A: saMtozaH BIru-tvam zaq vyAGAtAH mahat-tvasya .. 5..
@@ -6097,37 +6161,38 @@ samIhita longed for (Ih to endevor to obtain)
 033.07F: yataH . sampadA susTiraMmanyo Bavati svalpayApi yaH .
 033.07A: yataH . sampadA susTiram-manyaH Bavati svalpayA api yaH .
 ; susTira very firm; manya ifc. thinking one's self to be;
-; svalpa veru little;
+; svalpa veru little; 
+
 033.08F: kftakftyo viDirmanye na varDayati tasya tAm .. 6..
 033.08A: kftakftyaH viDiH manye na varDayati tasya tAm .. 6..
-;  kftakftya one who has done his duty; viDi fate; vfD to increase;
+; kftakftya one who has done his duty; viDi fate; vfD to cause to grow;
 
 033.07-08E: For. When a man considers himself as happily situated, even with little wealth, Fate, I think, having done its duty, does not increase that wealth of his.
 
 033.09F: aparaM ca . nirutsAhaM nirAnandaM nirvIryamarinandanam .
 033.09A: aparam ca . nirutsAham nirAnandam nirvIryam ari-nandanam .
-; utsAha power;  arinandana nand to rejoice;
+; utsAha power;  ari-nandana nand to rejoice;
 
 033.10F: mA sma sImantinI kAcijjanayetputramIdfSam .. 7..
 033.10A: mA sma sImantinI kA cid janayet putram IdfSam .. 7..
 ; sImantinI a woman (a pregnant woman wears the hair parted (siman))
-; sma indeed; 
+; sma indeed; janayet (Causal optative) to beget
 033.10P: sImantinI -- sImantaH keSaveSaH asyA asti iti .
 ; keSaveSa (MW keSaveza) tress of hair; (tress a long lock of a woman's hair)
 
 033.09-10E: Moreover. May not a woman bring forth such a son as is without energy, joy, and valour, and is a source of delight to his enemies.
 
+; usha change rakzet avekzayA -> rakzedavekzayA
 033.11F: taTA coktam . alabDaM cEva lipseta labDaM rakzet avekzayA .
-; lipseta: grammatical form ?  optative 3s of desiderative of 'laB' (desire to gain)
-033.11A: taTA ca uktam . alabDam ca eva lipseta labDam rakzet prayatnatas .
-; lipseta laB desiderative optative; prayatna-tas effortfully
+033.11A: taTA ca uktam . alabDam ca eva lipseta labDam rakzet rakzet avekzayA .
+; lipseta laB desiderative optative; avekzA seeing, attention
 033.11P: lipseta -- labDuM icCet .
 033.11P+: avekzayA -- vyayApavyayAdO samyakparyAlocanena .
 
 033.12F: rakzitaM varDayetsamyagvfdDaM tIrTezu nikzipet .. 8..
 033.12A: rakzitam varDayet samyak vfdDam tIrTezu nikzipet .. 8..
-; samyak ind. in the same direction, completely' 
-; change 'tIryezu' to 'tIrTezu' tIrTa = 'worthy person'
+; samyak ind. in the same direction, completely
+; tIrTa = 'worthy person'
 ; nikzip to throw down, bestow
 033.12P: <tIrTezu .... iti medinI>
 
@@ -6147,13 +6212,14 @@ samIhita longed for (Ih to endevor to obtain)
 
 033.15F: avarDamAnaScArTaH kAle svalpavyayo'pyaYjanavatkzayameti .
 033.15A: avarDamAnaH ca arTaH kAle svalpa-vyayaH api aYjanavat kzayam eti .
-; vyaya going away, loss; kzaya destruction;
+; vyaya going away, loss; kzaya destruction; eti pre 3s of 'i' to go;
 ; aYjana collyrium (black eyelash makeup)
 033.15P: aYjanavat -- aYjanaM yaTA svalpamapi upayujyamAnaM vyayameti taTA .
 
 033.16F: anupaBujyamAnaSca nizprayojana eva saH . taTA coktam --
 033.16A: anupaBujyamAnaH ca nizprayojanaH eva saH . taTA ca uktam --
-; upaBuj to enjoy; paryojana purpose;
+; upaBuj to enjoy; prayojana purpose;
+
 033.13-16E: Wealth, which is not increased, will be reduced to nothing in course of time, although used sparingly like collyrium; and if it be not enjoyed, it is simply useless. As it is said--
 
 ; 4-line shloka, not anuzwuB
@@ -6182,7 +6248,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 034.02F: avanDyaM divasaM kuryAddAnADyayanakarmasu .. 10 ..
 034.02A: avanDyam divasam kuryAt dAna-aDyayana-karmasu .. 10 ..
-; vanDya unfruitfal; divasa day; dAna giving, aDyayana study
+; a-vanDya not unfruitfal; divasa day; dAna giving, aDyayana study
 034.02P: avanDyam saPalam .
 034.02P+: dAnADyayanakarmasu -- dAnaM ca aDyayanaM ca karma vyavasAyaSca tezu . tEH iti yAvat . tftIyArTe saptamI . yadvA etezAM maDye ekena avanDyaM divasaM kuryAt .
 
@@ -6202,6 +6268,7 @@ samIhita longed for (Ih to endevor to obtain)
 034.05A: dAna-upaBoga-rahitAH divasAH yasya yAnti vE .
 ; rahita devoid of
 
+; usha 'Svasann api' ->'Svasannapi'
 034.06F: sa karmakAraBastreva Svasann api na jIvati .. 12 ..
 034.06A: saH karma-kAra-BastrA iva Svasan api na jIvati .. 12 ..
 ; karmakAra blacksmith; BastrA bellows; Svasan pre. part. Svas to breath;
@@ -6219,9 +6286,9 @@ samIhita longed for (Ih to endevor to obtain)
 
 034.08F: SakawaM nAnAviDadravyapUrRaM kftvA vARijyena gataH kASmIraM prati .
 034.08A: Sakawam nAnA-viDa-dravya-pUrRam kftvA vARijyena gataH kASmIraM prati .
+; Sakawa cart; nAnA ind. variously; viDa kind; dravya a thing;
 ; vARijya merchandise
 034.08P: vARijyena -- vARijyaM kartum . hetO tftIyA .
-; Sakawa cart; nAnA ind. variously; viDA portion; dravya a thing;
 ; 
 034.07-08E: Having thus reflected he yoked two bulls, Nandaka and Samjivaka to his cart, filled it with wares of different kinds, and started for Kashmir for the purpose of trade. For,
 
@@ -6251,7 +6318,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 034.14F: PalaM punastadevAsya yad viDermanasi sTitam .. 14..
 034.14A: Palam punar tad eva asya yad viDeH manasi sTitam .. 14..
-; viDi fate; sTita situated;
+; punar however; viDi fate; sTita situated;
 034.14P: viDeH : dEvasya .
 
 034.13-14E: Let a man versed in policy make an exertion one way or another, the fruit then (that he reaps) is that which providence has willed for him.
@@ -6267,6 +6334,7 @@ samIhita longed for (Ih to endevor to obtain)
 034.16F: tasmAdvismayamutsfjya sADye sidDirviDIyatAm .. 15..
 034.16A: tasmAt vismayam utsfjya sADye sidDiH viDIyatAm .. 15..
 ; sADya to be accomplished; viDA to be arranged (passive imperative)
+
 034.15-16E: Indecision, which is an obstruction to all actions, should, by all means, be abandoned; having, therefore, given up indecision, success should be attained in the object desired.
 
 034.17F: iti saMcintya saMjIvakaM tatra parityajya
@@ -6278,7 +6346,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 034.19F: vfzaBamekaM samAnIya Duri niyojya calitaH . tataH saMjIvako'pi
 034.19A: vfzaBam ekam samAnIya Duri niyojya calitaH . tataH saMjIvakaH api
-; samAnI to lead together, to bring;  
+; samAnI to lead together, to bring;
+
 034.20F: kaTaM kaTamapi Kuratraye BaraM kftvotTitaH . yataH .
 034.20A: kaTam kaTam api Kura-traye Baram kftvA utTitaH . yatas .
 ; kaTam kaTam api somehow; Kura hoof; 
@@ -6287,7 +6356,7 @@ samIhita longed for (Ih to endevor to obtain)
 034.17-20E: Having thus reflected and left Samjivaka there, Vardhamana himself went back to a town named Dharmapura, brought  another stout bull, fastened him to the yoke of the cart and journeyed on. Thereafter Samjivaka too, having supported his weight on three legs, rose up. For,
 
 034.21F: nimagnasya payorASO parvatAtpatitasya ca .
-034.21A: nimagnasya payorASO parvatAt patitasya ca .
+034.21A: nimagnasya payo-rASO parvatAt patitasya ca .
 ; payas-rASi ocean (milk/water, rASi a heap); parvata mountain
 
 034.22F: takzakeRApi dazwasya AyurmarmARi rakzati .. 16..
@@ -6305,7 +6374,8 @@ samIhita longed for (Ih to endevor to obtain)
 034.24F: kuSAgreRApi saMspfzwaH prAptakAlo na jIvati .. 17..
 034.24A: kuSa-agreRa api saMspfzwaH prApta-kAlaH na jIvati .. 17..
 ; kuSa kind of grass, agra point (blade); saMspfzwa touched;
-; prApta-kAla favorable time; 
+; prApta-kAla favorable time;
+
 034.23-24E: Although pierced with hundreds of arrows, a creature will not die out of his time (of death); but when his time has arrived he will not live when pierced even with a blade of the Kusa grass.
 
 ; 4-line shloka, not anuzwuB
@@ -6318,6 +6388,7 @@ samIhita longed for (Ih to endevor to obtain)
 034.27F: jIvatyanATo'pi vane visarjitaH
 034.27A: jIvati anATaH api vane visarjitaH
 ; nATa protector, lord; vi-sfj to leave (throw away)
+; vana forest [desert Kale]
 
 034.28F: kftaprayatno'pi gfhe na jIvati .. 18..
 034.28A: kfta-prayatnaH api gfhe na jIvati .. 18..
@@ -6330,7 +6401,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 034.30F: gacCatsu saMjIvakaH svecCAhAravihAraM kftvAraRyaM BrAmyan
 034.30A: gacCatsu saMjIvakaH svecCA-AhAra-vihAram kftvA araRyam BrAmyan
-; AhAra food; vihAra sport, play; 
+; AhAra food; vihAra sport, play;
+
 034.31F: hfzwapuzwANgo balavannanAda . tasminvane piNgalakanAmA siMhaH
 034.31A: hfzwa-puzwa-aNgaH balavat nanAda . tasmin vane piNgalakanAmA siMhaH
 ; hfzwa pleased; puzwa nourished, fat; aNga limb of body
@@ -6351,7 +6423,7 @@ samIhita longed for (Ih to endevor to obtain)
 034.34F: vikramArjitarAjyasya svayameva mfgendratA .. 19..
 034.34A: vikrama-arjita-rAjyasya svayam eva mfgendratA .. 19..
 ; vikrama courage; arjita acquired; mfgendratA animal-king-ness
-; svayam without trouble (oneself)
+; svayam self (Kale ? self-existent)
 
 034.33-34E: No coronation ceremony nor any other rite is performed upon the lion by the beasts: but the sovereignty over beasts of him who acquires a kingdom by his prowess is self-existent.
 
@@ -6371,8 +6443,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.03F: saMjIvakanarditamaSrAvi . tacCrutvA pAnIyamapItvA sacakitaH
 035.03A: saMjIvaka-narditam aSrAvi . tad SrutvA pAnIyam apItvA sa-cakitaH
-; nardita roar; ; aSrAvi aor[1] 3s from Sru (Huet);
-; sa-cakita startled (with trembling)
+; nardita roar; aSrAvi aor[1] 3s from Sru (Huet);
+; sa-cakita startled (with trembling) [cak to be contented, to repel,to shine]
 
 035.04F: parivftya svasTAnamAgatya kimidamityAlocayaMstUzRIM sTitaH .
 035.04A: parivftya svasTAnam Agatya kim idam iti Alocayan tUzRIm sTitaH .
@@ -6381,7 +6453,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.05F: sa ca taTAviDaH karawakadamanakAByAmasya mantriputrAByAM SfgAlAByAM
 035.05A: saH ca taTAviDaH karawaka-damanakAByAm asya mantri-putrAByAm SfgAlAByAm
-; karawaka (jackal) damanaka (taming), proper names
+; karawaka (crow), damanaka (taming), proper names
 ; mantrin counselor (of the lion); 
 035.06F: dfzwaH . taM taTAviDaM dfzwvA damanakaH karawakamAha -- 
 035.06A: dfzwaH . tam taTAviDam dfzwvA damanakaH karawakam Aha -- 
@@ -6393,7 +6465,8 @@ samIhita longed for (Ih to endevor to obtain)
 ; udaka-arTin whose object is water; mandam ind. slowly; 
 035.08F: mandamavatizWate .
 035.08A: mandam ava-tizWate .
-; ava-sTA to go away; 
+; ava-sTA to go away;
+
 035.09F: karawako brUte -- 
 035.09A: karawakaH brUte -- 
 
@@ -6412,7 +6485,8 @@ samIhita longed for (Ih to endevor to obtain)
 035.12F: vinAparADena ciramavaDIritAByAmAvAByAM mahadduHKamanuBUtam .
 ; itAByAm  from 'ita' = obtained?
 035.12A: vinA aparADena ciram avaDIritAByAm AvAByAm mahat duHKam anuBUtam .
-; aparADa offence; avaDIrita disrespected; 
+; aparADa offence; avaDIrita disrespected;
+
 035.01-12E: Friend Damanaka, he is not served at all according to our counsel (or, according to my advice he should not be served at all). If that is the case, what is the good of our observing his doings?  For, we, who have been long despised by this king without any fault of ours, have suffered great anguish.
 
 035.13F: sevayA DanamicCadBiH sevakEH paSya yatkftam .
@@ -6422,20 +6496,21 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.14F: svAtantryaM yacCarIrasya mUQEstadapi hAritam .. 20..
 035.14A: svAtantryam yad SarIrasya mUQEH tad api hAritam .. 20..
-; svAtantrya independence; SarIra body; mUQa fool; hArita caused to be taken;
+; svAtantrya independence; SarIra body; mUQa fool
+; hArita caused to be taken, relinquished;
 035.14P: kiM tadityAkAMkzAyAmAha -- svAtantryamiti . sevAM kftvA DanArjanaM kartumicCadBiH svAtantryahAnireva sampAditA na kopyanyorTaH iti BAvaH .
 
 035.13-14E: See what servants who wish to acquire wealth by means of service have done : those fools have allowed even the independence of their body to be lost!
 
 035.15F: aparaM ca . SItavAtAtapakleSAnsahante yAnparASritAH .
 035.15A: aparam ca . SItavAtAtapa-kleSAn sahante yAn parASritAH .
-; SIta-vAtA-tapa (cold, wind, heat), kleSa pain;
+; SIta-vAtA-tapa (cold, wind, heat), kleSa pain; sah to endure
 ; parASrita servant (Sri to depend on)
 035.15P: SIteti -- SItaM ca vAtaSca AtapaSca SItavAtAtapaM tasmAt kleSAH tAn .
 035.15P+: parASritAH parAn ASritAH sevakAH .
 
 035.16F: tadaMSenApi meDAvI tapastaptvA suKI Bavet .. 21..
-035.16A: tad aMSena api meDAvI tapas taptvA suKI Bavet .. 21..
+035.16A: tad-aMSena api meDAvI tapas taptvA suKI Bavet .. 21..
 ; aMSa share, portion; meDAvin wise man; tapas tap to undergo penance
 035.16P: tadaMSena SItavAtAtapakleSAMSena .
 035.16P+: meDAvI -- sArAsAravicAraRAkuSalaH . SItavAtAdikleSAH soQavyAScedvaraM te soQA mokzaprApakataporTamiti matvA tapaScareRa Sreyo labDvA suKI BavatIti BAvaH .
@@ -6445,13 +6520,13 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.17F: anyacca . etAvajjanmasAPalyaM yadanAyattavfttitA
 035.17A: anyat ca . etAvat janma-sAPalyam yad anAyatta-vfttitA
-; etAvat so much; janma birth, life; sAPalya fruitlessness;
-; anAyatta not controlled,independent ; vfttitA profession;
+; etAvat so much; janma birth, life; sAPalya fruitfulness (fr. sa-Pala)
+; an-Ayatta not controlled, independent ; vfttitA profession;
 035.17P: anAyattavfttitA -- AyattA parADInA vfttiH yasya sa AyattavfttiH sa na BavatIti anAyattavfttiH tasya BAvaH tattA svatantravfttitvam .
 
 035.18F: ye parADInatAM yAtAste vE jIvanti ke mftAH .. 22..
 035.18A: ye para-aDInatAm yAtAH te vE jIvanti ke mftAH .. 22..
-; aDIna resting on (aDi above, etc.), aDIna-tA subservience; para other
+; aDIna dependant (aDi-ina above master), aDIna-tA subservience; para other
 ; yAta gone; 
 035.18P: te vE ityAdi te vE jIvanti cet ke mftAH . te mftaprAyA iva ityarTaH . te vE ke jIvanti ke mftAH sarve mftA eva iti vA yojanIyam .
 
@@ -6471,7 +6546,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.21F: abuDErarTalABAya paRyastrIBiriva svayam .
 035.21A: abuDEH arTa-lABAya paRya-strIBiH iva svayam .
-; abuDa fool (unwise); lABa obtaining; paRya-strI courtesan (paR to purchase)
+; a-buDa fool (unwise); lABa obtaining; paRya-strI courtesan (paR to purchase)
 035.21P: paRyastrIBiH -- gaRikABiH .
 
 035.22F: AtmA saMskftya saMskftya paropakaraRIkftaH .. 24..
@@ -6488,7 +6563,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 035.24F: svAmino bahu manyante dfzwiM tAmapi sevakAH .. 25..
 035.24A: svAminaH bahu manyante dfzwim tAm api sevakAH .. 25..
-; dfzwi glance; sevaka servant; 
+; bahu ind. greatly; dfzwi glance; sevaka servant;
+
 035.23-24E: Again. Servants esteem highly even that glance of their master which is naturally unsteady and falls even on an impious person.
 
 ; not anuzwuB. 4-line shloka
@@ -6501,34 +6577,37 @@ samIhita longed for (Ih to endevor to obtain)
 035.25P+: pravacanapawurvAkpawu syAcced vAtulaH vAtAvizwo vA jalpakaH vAcAlo veti gfhyate .
 
 035.26F: kzAntyA BIruryadi na sahate prAyaSo nABijAtaH .
-035.26A: kzAntyA BIruH yadi na sahate prAyaSas na aBijAtaH .
-; kzAnti patience; BIru timid; sah to prevail, bear; prAyaSas generally;
-; aBijAta born (well-born Kale); 
+035.26A: kzAntyAH BIruH yadi na sahate prAyaSas na aBijAtaH .
+; kzAnti patience; BIru timid; sah to satisfy, bear [Kale 'bear tamely']
+; prAyaSas generally; aBijAta born (well-born Kale); 
 035.26P: aBijAtaH kulInaH .
 
 035.25-26E: Another consideration is this. If he (a servant) is silent, he is considered to be) stupid; if clever in talking, crazy-headed or garrulous; if forbearing, timid, if he does not bear tamely, mostly he is (set down as) not well-born; 
 
 036.01F: DfzwaH pArSve vasati niyataM dUrataScApragalBaH
 036.01A: DfzwaH pArSve vasati niyatam dUratas ca apragalBaH
-; Dfzwa bold (Dfz to attack); pArSva side; vas to stay; niyatam ind. always
+; Dfzwa bold (Dfz to attack); pArSva side
+; vas to stay; niyatam ind. always
 ; dUratas from afar; galB to be bold, apragalBa not bold;
 036.01P: apragalBaH -- BIruH .
 
 036.02F: sevADarmaH paramagahano yoginAmapyagamyaH .. 26..
 036.02A: sevA-DarmaH parama-gahanaH yoginAm api agamyaH .. 26..
 ; sevA-Darma service-duty; parama greatest, gahana deep, mysterious;
-; agamya not to be approached, incomprehensible;
+; a-gamya not to be approached, incomprehensible;
 
 032.01-02E: if he stands by the side (of his master), he is audacious; but if he stands at a distance, he is not bold: the duties of servitude are extremely abstruse - not to be known even by sages having mystic powers.
 
 ; not anuzwuB
 036.03F: viSezataSca . praRamatyunnatihetorjIvitahetorvimuYcati prARAn .
 036.03A: viSezataH ca . praRamati unnati-hetoH jIvita-hetoH vimuYcati prARAn .
-; praRam to bow down; unnati rising; hetu cause,
+; praRam to bow down; unnati rising; hetu cause, hetoH case 6;
+; jIvita livelihood
 036.03P: praRamati i° -- unnatiM uccEH padamicCantaH praRamanti sA praRatireva uccatvaviGAtinI .
 
 036.04F: duHKIyati suKahetoH ko mUQaH sevakAdanyaH .. 27..
 036.04A: duHKIyati suKahetoH kaH mUQaH sevakAt anyaH .. 27..
+; X anya (X ablative) = other than X
 036.04P: jIvikArTe kadAcitprARErapi viyujyante . suKaM lipsantaH kleSaBAjo BavantItyaho mOQyaM sevAvfttInAmiti nizkarzaH .
 
 036.03-04E: He bends down that he should rise, sacrifices life that he should live, and exposes himself to misery that he should be happy--who else is a fool than a servant?
@@ -6541,13 +6620,15 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.06F: kaTaM nAma na sevyante yatnataH parameSvarAH .
 036.06A: kaTam nAma na sevyante yatnatas parama-ISvarAH .
-; nAma ind. indeed; yatnatas with effort; parameSvara highest lord
+; nAma ind. indeed; sevyante passive;yatnatas with effort
+; parameSvara highest lord
 036.06P: parameSvarAH -- nfpAlAH .
 
 036.07F: acireREva ye tuzwAH pUrayanti manoraTAn .. 28..
 036.07A: acireRa eva ye tuzwAH pUrayanti manoraTAn .. 28..
-; a-cira brief; tuzwa pleased; pUrayanti causal pf. to fill;
+; a-cira brief; tuzwa pleased; pUrayanti causal pf, to fill;
 ; manas-raTa (raTa #2 joy), wish;
+
 036.06-07E: How are great kings not to be served with effort (diligence), who, when pleased, grant desires in a short time? (i.e. they must be served by all means).
 
 036.08F: anyacca paSya . kutaH sevAvihInAnAM cAmarodDUtasaMpadaH .
@@ -6568,11 +6649,12 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.10F: karawako brUte -- taTApi kimanenAsmAkaM vyApAreRa .
 036.10A: karawakaH brUte -- taTA api kim anena asmAkam vyApAreRa .
-; vyApAra occupation (vy-A-pf, pf pfRoti to be busy);
+; vyApAra employment (vy-A-pf, pf priyate to be busy);
 
 036.11F: yato'vyApArezu vyApAraH sarvaTA pariharaRIyaH . paSya .
 036.11A: yataH avyApArezu vyApAraH sarvaTA pari-haraRIyaH . paSya .
 ; avyApAra not one's own business; pariharaRIya to be avoided;
+
 036.10-11E: Karataka replied -- Still what have we to do with this affair? For, one should by all means avoid meddling with affairs with which one has nothing to do. See,
 
 036.12F: avyApArezu vyApAraM yo naraH kartumicCati .
@@ -6599,7 +6681,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.17F: asti magaDadeSe DarmAraRyasaMnihitavasuDAyAM
 036.17A: asti magaDadeSe Darma-araRya-saMnihita-vasuDAyAm
-; magaDa region in easter India; Darma-araRya 'grove of religion';
+; magaDa region in eastern India; Darma-araRya 'grove of religion';
 ; saMnihita near (deposited); vasuDA the earth, 'a place'.
 
 036.18F: SuBadattanAmnA kAyasTena vihAraH kartumArabDaH . 
@@ -6612,7 +6694,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.19F: tatra karapatradAryamAREkastamBasya kiyaddUrasPAwitasya
 036.19A: tatra kara-patra-dAryamARa-ekastamBasya kiyat dUra-sPAwitasya
-; kara-pattra a saw; dAryamARa splitting (middle act. part. of causal of dF);
+; kara-pattra a saw (hand-leaf)
+; dAryamARa splitting (middle act. part. of causal of dF);
 ; stamBa post; dUra distance; sPAwita cleft, torn;
 
 036.19P: karapatra -- karapatreRa krakacena dAryamAnaScAsO ekastamBaSca tasya .
@@ -6621,16 +6704,17 @@ samIhita longed for (Ih to endevor to obtain)
 036.20F: kAzWa-KaRqa-dvaya-maDye kIlakaM niDAya sUtra-DAreRa Dftam .
 036.20A: kAzWaKaRqadvayamaDye kIlakam niDAya sUtraDAreRa Dftam . 
 ; kAzWa piece of wood, timber; KaRqa broken; dvaya  two; maDya middle;
-; kIlaka = wedge; sUtraDAra = carpenter; Dfta supported;
+; kIlaka = wedge; sUtraDAra = carpenter; Dfta supported, held, placed;
 036.20P: sUtraDAreRa -- sTapitinA tvazwrA .
 
 036.19-20E: A carpenter had put a wedge between the two split-up parts of a beam which was being cut with a saw and which was cleft to some length. 
 
 036.21F: tatra balavAnvAnarayUTaH krIqannAgataH . eko vAnaraH kAlaprerita
-; kAlaprerita = kAla + prerita = death sent
 036.21A: tatra balavAn vAnara-yUTaH krIqan AgataH . ekaH vAnaraH kAla-preritaH
 ; balavat powerful; vAnara monkey; yUTa herd, multitude;
-; kAla death (time); prerita urged (pra+Ir to arise);
+; kAla death (time); prerita urged (pra+Ir to arise) 
+; kAla-prerita = [urged by death Kale]
+
 036.22F: iva taM kIlakaM hastAByAM DftvopavizwaH .
 036.22A: iva tam kIlakam hastAByAm DftvA upavizwaH .
 ; hasta hand; DftvA having held (Df); upavizwa sat
@@ -6642,16 +6726,15 @@ samIhita longed for (Ih to endevor to obtain)
 036.21-23E: A troop of apes came there prancing about. One of the apes, as if urged by Death, caught hold of the wedge with his hands and sat there, while his lower parts hanging down entered the split between the two pieces of the wood. 
 
 036.24F: anantaraM sa ca sahajacapalatayA mahatA prayatnena
-; jacapalatA = ja + capalatA = born fickleness
 036.24A: anantaram sa ca sahaja-capalatayA mahatA prayatnena
+; saha-ja innate (with-born); trembling-ness ('mischievous spirit' Kale)
 ; anantaram ind. without interval, at once; sahaja produced together, innate;
 ; capala-tA fickleness; prayatna great effort; 
 
 036.25F: taM kIlakamAkfzwavAn . Akfzwe ca kIlake cUrRitARqadvayaH paYcatvaM gataH . 
-; AkfzwavAn = ? perfect active participle: Akfzwavat.
-; cUrRitARqadvayaH = ?  + 
 036.25A: tam kIlakam AkfzwavAn . Akfzwe ca kIlake cUrRita-aRqa-dvayaH paYcatvam gataH .
-; Akfzwa-vat pulled; cUrRita smashed; aRqa-dvaya egg-pair, testicles
+; AkfzwavAn = ? perfect active participle:,  pulled;
+; cUrRita smashed; aRqa-dvaya egg-pair, testicles
 036.25P: paYcatvaM gataH mftaH .
 
 036.24-25E: Then through the mischievous spirit natural to his species, he drew out the wedge with great effort. As soon as the wedge was pulled out, those parts were squeezed and he perished. 
@@ -6666,7 +6749,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.28F: taTApi svAmicezwAnirUpaRaM sevakenAvaSyaM karaRIyam .
 036.28A: taTA api svAmi-cezwAni rUpaRam sevakena avaSyam karaRIyam .
-; svAmi-cezwa master's behavior; rUpaRa investigation; avaSyam ind. certainly
+; svAmi-cezwa master's behavior; rUpaRa investigation; a-vaSyam ind. certainly
+
 036.27-28E: Damanaka said - Still a servant ought to watch the actions of his master. 
 
 036.29F: karawako brUte --
@@ -6684,12 +6768,14 @@ samIhita longed for (Ih to endevor to obtain)
 
 036.30-31E: Karataka replied -- Let the prime minister who has charge of all affairs do it. For, a servant must, under no circumstances, interfere with (lit, sit in discussion over) another's business. See,
 
-036.32F: parADikAracarcA yaH kuryAt svAmihitecCayA .
-036.32A: parADikAra-carcA yaH kuryAt svAmi-hita-icCayA .
-; icCA desire; hita benefit; 
+; Usha  carcA -> carcAM  (typo)
+036.32F: parADikAracarcAM yaH kuryAt svAmihitecCayA .
+036.32A: parADikAra-carcAm yaH kuryAt svAmi-hita-icCayA .
+; icCA desire; hita benefit;
+
 036.33F: sa vizIdati cItkArAdgardaBastAqito yaTA .. 31..
 036.33A: saH vizIdati cIt-kArAt gardaBaH tAqitaH yaTA .. 31..
-; vizad to sink down, to despair; cItkAra cry of elephant, donkey; braying
+; vizad to sink down, to despair; cItkAra cry of elephant, donkey, braying
 ; gardaBa donkey; tAqita struck
 036.33P: vizIdati vizAdaM KedaM prApnoti .
 
@@ -6727,7 +6813,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.05F: tasya prANgaRe gardaBo badDastizWati . kukkuraScopavizwo'sti .
 037.05A: tasya prANgaRe gardaBaH badDaH tizWati kukkuraH ca upavizwaH asti .
-; prANgaRa pra-aNgaRa yard; kukkura dog
+; prANgaRa pra-aNgaRa yard (aNg to go) ; kukkura dog
+
 037.04-05E: Thereafter a robber got in with the object of stealing the things in the house. In his court-yard there were a donkey tied down and a dog sitting. 
 
 037.06F: aTa gardaBaH SvAnamAha -- saKe . BavatastAvadayaM vyApAraH .
@@ -6737,6 +6824,7 @@ samIhita longed for (Ih to endevor to obtain)
 037.07F: tatkimiti tvamuccEH SabdaM kftvA svAminaM na jAgarayasi .
 037.07A: tad kim iti tvam uccEH Sabdam kftvA svAminam na jAgarayasi .
 ; kim iti why?; jAgarayasi to wake up (jAgf causal, present 2s).
+
 037.06-07E: Now the ass said to the dog -- Friend, this is properly your office. Why don't you then rouse the master by barking aloud? 
 
 037.08F: kukkuro brUte --
@@ -6761,18 +6849,21 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.12F: yato vinA viDuradarSanaM svAmina upajIvizu mandAdarA Bavanti .
 037.12A: yataH vinA viDura-darSanam svAminaH upajIvizu mandAdarAH Bavanti .
-; viDura hostile; upajIvin dependent (servant); 
+; viDura hostile, viDura-darSana sight of danger; upajIvin dependent (servant); 
 037.12P: viDuradarSanaM -- Apad -- saMkawa -- darSanam .
+
 037.13F: gardaBo brUte -- SfRu re barbara .
 037.13A: gardaBaH brUte -- SfRu re barbara .
+; re ind. vocative particle of contempt
 037.13P: barbara -- nIca , dasyo .
 
 037.12-13E: For, unless some danger is in sight masters care but little for their servants.  The donkey replied -- Hear me, barbarian.
 
 ; shloka 32 is on 14 and 16.
 037.14F: yAcate kAryakAle yaH sa kiMBftyaH sa kiMsuhft .
-037.14A: yAcate kAryakAle yaH saH kim BftyaH saH kim suhft .
-; yAc to ask, beg; kAryakAla time for action; 
+037.14A: yAcate kAryakAle yaH saH kim-BftyaH saH kim-suhft .
+; yAc to ask, beg; kAryakAla time for action;
+; kim-BftyaH bad servant
 037.14P: kAryakAle -- upasTite kArye .
 037.14P+: sa kiM BftyaH iti vA padacCedaH . sa nEva Bftya ityarTaH .
 037.14P+: evaM sa kiM suhfd sa kiM praBurityatra yojyam .
@@ -6788,7 +6879,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.17F: yataH . ASritAnAM BftO svAmisevAyAM Darmasevane .
 037.17A: yataH . ASritAnAm BftO svAmi-sevAyAm Darma-sevane .
-; ASrita a dependant; Bfti supporting; sevA service;
+; ASrita a dependant; Bfti supporting, nourishing; sevA service;
 ; Darma religious observance; sevana service, worship; 
 037.17P: BftO pozaRe .
 037.17P+: Darmasevane -- DarmAcaraRe .
@@ -6806,7 +6897,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.20F: pApIyAMstvaM yadvipattO svAmikAryopekzAM karozi . 
 037.20A: pApIyAn tvam yad vipattO svAmi-kArya-upekzAm karozi . 
-; pApIyAn : m1s pApIyas villain; yad since; vipatti misfortune;
+; pApIyAn : m1s pApIyas wicked; yad since; vipatti misfortune;
 ; upekzA disregard;
 
 037.21F: Bavatu tAvat . yaTA svAmI jAgarizyati tanmayA kartavyam . yataH .
@@ -6816,7 +6907,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.22F: pfzWataH sevayedarkaM jaWareRa hutASanam .
 037.22A: pfzWatas sevayet arkam jaWareRa huta-aSanam .
-; pfzWatas behind the back; arka sun; jaWara stomach;
+; pfzWatas behind the back; sev to enjoy, to server; arka sun; jaWara stomach;
 ; huta oblation, aSana eating; hutASana fire; 
 037.22P: pfzWataH i° -- sUryAtapaM pfzWe gfhRIyAt .
 
@@ -6848,14 +6939,15 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.28F: paSUnAmanvezaRamevAsmanniyogaH . svaniyogacarcA kriyatAm . (vimfSya . )
 037.28A: paSUnAm anvezaRam eva asmat-niyogaH . sva-niyoga-carcA kriyatAm . (vimfSya . )
-; paSu animal; anvezaRa seeking for; vimfSya having deliberated;
+; paSu animal; anvezaRa seeking for; niyoga authority, duty (= aDikAra)
+; vimfSya having deliberated;
 
 037.29F: kiMtvadya tayA carcayA
 037.29A: kim tu adya tayA carcayA
 
 037.30F: na prayojanam . yata AvayorBakzitaSezAhAraH pracuro'sti .
 037.30A: na prayojanam . yatas AvayoH Bakzita-Seza-AhAraH pracuraH asti .
-; prayojana need; Bakzita eaten; Seza portion; pracura much;
+; prayojana need; Bakzita eaten; Seza portion; pracura much (cur to steal);
 ; Bakzita-Seza-AhAra "food yet left after what was eaten" samAsa vigraha?
 
 037.27-30E: Hence I say -- He who interferes with another's business &c. See -- Our office is just to look for game. Let us attend to that. (After reflecting). --  But we are not concerned with that to-day. For there is plenty of food yet left after what was eaten by us. 
@@ -6879,7 +6971,7 @@ samIhita longed for (Ih to endevor to obtain)
 037.34F: nfpasaMSraya izyate buDErjaWaraM ko na biBarti kevalam .. 35..
 037.34A: nfpa-saMSrayaH izyate buDEH jaWaram kaH na biBarti kevalam .. 35..
 ; saMSraya refuge; izyate passive iz to desire; buDa wise man;
-; biBarti Bf (present) to fill (stomach);
+; biBarti Bf (present) to fill; jaWara belly;
 
 037.33-34E: The service of kings is desired by the wise that they should be able to do good to their friends and evil to their enemies; (or else) who does not merely fill the belly?
 
@@ -6894,7 +6986,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 037.37F: api ca . yasmin jIvati jIvanti bahavaH sa tu jIvatu .
 037.37A: api ca . yasmin jIvati jIvanti bahavaH saH tu jIvatu .
-; jIvati loc. sg. jIvat; tu ind. pray!
+; jIvati loc. sg. jIvat participle living; tu ind. pray!
 
 037.38F: kAko'pi kiM na kurute caYcvA svodarapUraRam .. 37..
 037.38A: kAkaH api kim na kurute caYcvA sva-udara-pUraRam .. 37..
@@ -6910,24 +7002,25 @@ samIhita longed for (Ih to endevor to obtain)
 
 038.02F: ko'pi lakzEH kftI ko'pi lakzErapi na laByate .. 38..
 038.02A: kaH api lakzEH kftI kaH api lakzEH api na laByate .. 38..
-; lakz a lac, 100,000; kftin one who acts; 
+; lakz a lac, 100,000; kftin one who acts;
+
 038.01-02E: Lo! Some man becomes a servant for five puranas (a kind of inferior coin), another is satisfied with lacs, while another is not to be had even for lacs.
 
 038.03F: anyacca . manuzyajAtO tulyAyAM Bftyatvamatigarhitam .
 038.03A: anyat ca . manuzya-jAtO tulyAyAm Bftya-tvam ati-garhitam .
-; garhita despised; manuzya-jAti mankind (man-born); tulya equal;
+; manuzya-jAti mankind (man-born); tulya equal; garhita despised;
 
 038.04F: praTamo yo na tannApi sa kiM jIvatsu gaRyate .. 39..
 038.04A: praTamaH yaH na tad na api saH kim jIvatsu gaRyate .. 39..
 ; gaR to count;
-; saH kim jIvatsu gaRyate = is he to be counted among the living ?
-; praTamaH yaH na tad na api = who is not first even in that (service) syntax?
+; tad there, in that case (refer Bftyatvam(
 
 038.03-04E: Again. When mankind is all equal, a state of servitude is much to be despised: but is he to be counted among the living who is not first even in that (service)?
 
 038.05F: taTA coktaM . vAjivAraRalohAnAM kAzWapAzARavAsasAm .
 038.05A: taTA ca uktam . vAji-vAraRa-lohAnAm kAzWa-pAzARa-vAsasAm .
-; loha metal (red copper); pAzARa a stone; vAsas cloth, garment;
+; vAjin swift, horse; vAraRa elephant; loha metal (red)
+; pAzARa a stone; vAsas cloth, garment;
 038.05P: vAjivAraRa -- vAjI vAjinaH Bidyate yaTA BAravAhI GowakaH sAMyugInAdaSvavarAt . vAraRaH hastI .
 038.05P+: lohaSabdotra DAtusAmAnye loho lohAdyaTA kAlAyasamapi lohaH suvarRamapi lohaH . evamanyatra .
 
@@ -6937,6 +7030,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 038.05-06E: And in connexion with this, it is said-- Great is the difference between horses, elephants and metals; between kinds of wood, stones, and garments; and between women, men and water (i.e. between horse and horse &c.)
 
+; 4-line shloka, not anuzwuB
 038.07F: taTA hi . svalpasnAyuvasAvaSezamalinaM nirmAMsamapyasTikaM
 038.07A: taTA hi . svalpa-snAyu-vasA-avaSeza-malinam nir-mAMsam api asTikam
 ; svalpa ;  little; snAyu sinew; vasA fat; avaSeza remains; malina dirty;
@@ -6953,16 +7047,15 @@ samIhita longed for (Ih to endevor to obtain)
 
 038.07-08E: So also. A dog, having obtained a piece of even a fleshless bone soiled with the remnant of a few sinews and marrow, is quite delighted: it does not, however, satisfy his hunger.
 
-; not anuzwuB
 038.09F: siMho jambukamaNkamAgatamapi tyaktvA nihanti dvipaM
 038.09A: siMhaH jambukam aNkam Agatam api tyaktvA nihanti dvipam
-; aNka lap (side); nihan to strike; dvipa elephant (twice drinking); 
+; aNka lap (side); nihan to strike (hanti 3s); dvipa elephant (twice drinking);
+
 038.09P: aNkamAgataM -- utsaNgaprAptam . tyaktvA tucCatvabudDyA ityarTaH .
 
 038.10F: sarvaH kfcCragato'pi vAYCati janaH sattvAnurUpaM Palam .. 41..
 038.10A: sarvaH kfcCra-gataH api vAYCati janaH sattva-anurUpam Palam .. 41..
-; kfcCra difficulty; vAYC to desire; sattva-anurUpa accoring to nature;
-
+; kfcCra difficulty; vAYC to desire; sattva-anurUpa according to nature;
 038.10P: kfcCragataH ApadgataH .
 038.10P+: sattvAnurUpaM -- sattvaM svaBavaH balaM vA . 'sattvaM 038.10P++: guRe piSAcAdO bale dravyasvaBAvayoH' iti medinI .
 
@@ -6971,9 +7064,10 @@ samIhita longed for (Ih to endevor to obtain)
 038.11F: aparaM ca . sevyasevakayorantaraM paSya .
 038.11A: aparam ca . sevya-sevakayoH antaram paSya .
 ; sevya to be served; sevaka servant; antara difference;
+
 038.11-11E: Moreover, mark the difference between one deserving to be served and (one fit to be) a servant.
 
-;
+; 4-line shloka
 038.12F: lANgUlacAlanamaDaScaraRAvapAtaM
 038.12A: lANgUla-cAlanam aDaH caraRa-avapAtam
 ; lANgUla tail; cAlana wagging; aDas down; caraRa foot; avapAta falling
@@ -6985,13 +7079,13 @@ samIhita longed for (Ih to endevor to obtain)
 
 038.14F: SvA piRqadasya kurute gajapuNgavastu
 038.14A: SvA piRqadasya kurute gaja-puNgavaH tu
-; piRqada = master (piRqa = ball); gaja elephant; puMgava bull;
+; piRqa ball, clump of food, piRqa-da ; gaja elephant; puMgava bull;
 038.14P: gajapuNgavaH -- gajaSreSWaH .
 038.14P+: puNgavAdiSabdAstatpuruzottarapade SrezWArTavAcakA Bavanti . tadukatamamarasiMhena -- 'syuruttarapade vyAGrapuNgavarzaBakuYjarAH . siMhaSArdUlanAgAdyAH puMsi SrezWArTagocarAH' iti .
 
 038.15F: DIraM vilokayati cAwuSatESca BuNkte .. 42..
 038.15A: DIram vilokayati cAwu-SatEH ca BuNkte .. 42..
-; DIram = steadily; cAwu pleasing words; Buj to eat;
+; DIra steady, DIram steadily; cAwu pleasing words; Buj to eat;
 
 038.15P: DIraM -- gamBIraM yaTA taTeti kriyAviSezaRam .
 038.15P+: cAwuSatEH priyavAkSatEH prArTitaH .
@@ -7003,35 +7097,36 @@ samIhita longed for (Ih to endevor to obtain)
 038.16F: kiM ca . yajjIvyate kzaRamapi praTitaM manuzyEr
 038.16A: kim ca . yad jIvyate kzaRam api praTitam manuzyEH
 ;  praTita celebrated ( praT to spread, extend) (praTitam gloriously Kale)
-038.16P: yaditi -- yad jIvitaM vijYAnaM viSizwaM jYAnam AnvIkzikyAdInAmiti yAvat .
+038.16P: yaditi -- yad jIvitaM vijYAna M viSizwaM jYAnam AnvIkzikyAdInAmiti yAvat .
 
 038.17F: vijYAnavikramayaSoBiraBajyamAnam .
 038.17A: vijYAna-vikrama-yaSoBiH aBajyamAnam .
-; vijYAna knowlege; vikrama courage; yaSas fame; a-Bajya 
+; vijYAna knowlege; vikrama courage; yaSas fame; 
 ; a-BajyamAnam  (BaYj passive - to break) unbreaking (MW: not being detached) (Kale invariably).
 ;  
 038.17P: ca vikramaH parAkramaSca yaSaH kIrtiSca tEH aBajyamAnamaviyuktaM ata eva praTitaM viKyAtaM sat kzaRamapi jIvyate .
 
 038.18F: tannAma jIvitamiha pravadanti tajjYAH
 038.18A: tad nAma jIvitam iha pravadanti tajjYAH
-; nAma ind. indeed; tajjYa one who knows; 
+; nAma ind. indeed; tajjYa one who knows it; 
 038.18P: iha asmin jagati .
 038.18P+: tajjYAH etadrahasyaM jAnantaH paRqitA ityarTaH .
 038.18P++: tannAma jIvitaM pravadanti . nAma prakASye'Byupagame vA . 'nAma kope'Byupagame vismaye smaraRe'pi ca . saMBAvyakutsAprAkASyavikalpezvapi dfSyate ' iti medinI .
 
 038.19F: kAko'pi jIvati cirAya baliM ca BuNkte .. 43..
 038.19A: kAkaH api jIvati cirAya balim ca BuNkte .. 43..
-; bali offering, oblation;
+; bali offering, oblation; cirAya ind. for a long time (cira dative_
 
 038.16-19E: Again. Those who know it (i. e. what life is) call that, indeed, life which is gloriously lived by men although for a moment, and which is invariably attended with knowledge, exploit and fame: (otherwise) a crow also lives for a long time and eats an oblation.
 
 ; 4-line shloka, non-anuzwuB
 039.01F: paraM ca . yo nAtmaje na ca gurO na ca Bftyavarge
 039.01A: param ca . yaH na Atmaje na ca gurO na ca Bftya-varge
-; varga group; Atma-ja son (born from self); 
+; Atma-ja son (born from self); varga group
+
 039.02F: dIne dayAM na kurute na ca banDu-varge .
 039.02A: dIne dayAm na kurute na ca banDuvarge .
-; dIna a poor person; dayA pity
+; dIna a poor person (dI dIyate to decay); dayA pity
 
 039.03F: kiM tasya jIvitaPalena manuzyaloke
 039.03A: kim tasya jIvita-Palena manuzya-loke
@@ -7058,7 +7153,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 039.07F: udaraBaraRamAtrakevalecCoH
 039.07A: udara-BaraRa-mAtra-kevala-icCoH
-; BaraRa bearing, maintaining; mAtra measure; mAtra-kevala 'only'; icCu : wishing
+; BaraRa bearing, maintaining; mAtra measure; mAtra-kevala 'only'
+; icCu : wishing
 039.07P: udara -- udarasya BaraRaM eva udaraBaraRamAtraM tadeva kevalaM icCatIti tasya.
 
 039.08F: puruzapaSoSca paSoSca ko viSezaH .. 45..
@@ -7073,7 +7169,7 @@ samIhita longed for (Ih to endevor to obtain)
 
 039.10F: AvAM tAvadapraDAnO . tadApyAvayoH kimanayA vicAraRayA .
 039.10A: AvAm tAvat apraDAnO . tadA api AvayoH kim anayA vicAraRayA .
-; praDAna chief person; vicAraRA examination
+; tAvat really [?]; praDAna chief person; vicAraRA examination
 
 039.09-10E: Karataka said--As for us, we are subordinates. This being the case, why should we busy ourselves with this matter? 
 
@@ -7088,9 +7184,11 @@ samIhita longed for (Ih to endevor to obtain)
 
 039.11-12E: Damanaka replied -- In what space of time (i.e. in a short time if they have the ability) do ministers become principal or subordinate ? For,
 
+; 4-verse shloka
 039.13F: na kasyacitkaScidiha svaBAvAd
 039.13A: na kasya cid kaH cid iha svaBAvAt
-; svaBAva own state; 
+; svaBAva own state;
+
 039.14F: BavatyudAro'BimataH Kalo vA .
 039.14A: Bavati udAraH aBimataH KalaH vA .
 ; udAra generous; aBimata beloved; Kala wicked
@@ -7111,18 +7209,18 @@ samIhita longed for (Ih to endevor to obtain)
 
 039.18F: nipAtyate kzaRenADastaTAtmA guRadozayoH .. 47..
 039.18A: nipAtyate kzaRena aDas taTA AtmA guRa-dozayoH .. 47..
-; pAtyate Causal passive pat to fall; guRa virtue; doza sin
+; pAtyate Causal passive pat to fall; guRa virtue; doza sin (dozatoH 7d)
 
 039.17-18E: Also. Just as a stone is raised to the top of a hill with great efforts but hurled down in a moment, so is the soul led to virtue or vice.
 
-; not anuzwuB
 039.19F: yAtyaDo'DaH vrajatyuccErnaraH svEreva karmaBiH .
 039.19A: yAti aDaH aDaH vrajati uccEH naraH svEH eva karmaBiH .
 ; vraj to move; eccEH high;
 
 039.20F: kUpasya KanitA yadvat prAkArasyeva kArakaH .. 48..
 039.20A: kUpasya KanitA yadvat prAkArasya iva kArakaH .. 48..
-; kUpa well; Kanitf digger; prAkAra fence, wall; kAraka doer (builder);
+; kUpa well; Kanitf digger; yadvat as [MW]
+; prAkAra fence, wall; kAraka doer (builder);
 
 039.19-20E: It is by his actions that a man sinks lower and lower, or rises up like the digger of a well or the builder of a wall.
 
@@ -7132,7 +7230,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 039.22F: karawako brUte -- aTa BavAnkiM bravIti .
 039.22A: karawakaH brUte -- aTa BavAn kim bravIti .
-; bravIti brU present; 
+; bravIti brU present 3s
+; 
 039.23F: sa Aha -- ayaM tAvatsvAmI
 039.23A: saH Aha -- ayam tAvat svAmI
 
@@ -7153,7 +7252,7 @@ samIhita longed for (Ih to endevor to obtain)
 ; nAga = elephant (Kale)
 ; udita = ordered (Kale)
 039.26A: udIritaH arTaH paSunA api gfhyate hayAH ca nAgAH ca vahanti ca uditAH .
-; udIrita said; arTa thing; haya horse; nAga elephant (or snake); udita said;
+; udIrita said (ud-Ir to rise); arTa thing; haya horse; nAga elephant (or snake); udita said;
 039.26P: udIrita iti udIritaH vAcA vyaktIkftaH .
 039.26P+: gfhyate jYAyate . deSitAH AjYaptAH .
 
@@ -7189,7 +7288,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 040.02F: prajYAbalenAhamenaM svAminamAtmIyaM karizyAmi . yataH .
 040.02A: prajYA-balena aham enam svAminam AtmIyam karizyAmi . yataH .
-; prajYA knowledge; bala power; AtmIya one's own
+; prajYA knowledge; bala power; AtmIya one's own (himself?)
+
 040.01-02E: Therefore, on this occasion of fear, I will win over this lord by the force of my intellect. For,
 
 040.03F: prastAvasadfSaM vAkyaM sadBAvasadfSaM priyam .
@@ -7218,40 +7318,45 @@ samIhita longed for (Ih to endevor to obtain)
 040.07A: AtmAnam manyate prItam BUpAlasya saH durmatiH .. 52..
 ; prIta beloved; BUpAla king (earth-protector); durmati wrong-minded, fool;
 
-040.06-07E: He is a fool who enters (into royal presence) withont being called, speaks much without being asked, and considers himself a favourite of the king.
+040.06-07E: He is a fool who enters (into royal presence) without being called, speaks much without being asked, and considers himself a favourite of the king.
 
 040.08F: damanako brUte -- Badra kaTamahaM sevAnaBijYaH . paSya .
-040.08A: damanakaH brUte -- Badra kaTam aham sevAnaBijYaH . paSya .
+040.08A: damanakaH brUte -- Badra kaTam aham sevA-anaBijYaH . paSya .
 
 040.08-08E: Damanaka said--Friend, how can I be ignorant of serving?
 
 040.09F: kimapyasti svaBAvena sundaraM vApyasundaram .
 040.09A: kim api asti svaBAvena sundaram vA api asundaram .
-; sundara beautiful, charming;
+; kim api something;  sundara beautiful, charming;
 
 040.10F: yadeva rocate yasmE Bavettattasya sundaram .. 53..
 040.10A: yad eva rocate yasmE Bavet tad tasya sundaram .. 53..
 ; ruc to please (with dative);
+
 040.09-10E: Is there anything by nature charming or not charming? Whatever a man likes is charming to him. 
 
 040.11F: yataH . yasya yasya hi yo BAvastena tena hi taM naram .
 040.11A: yataH . yasya yasya hi yaH BAvaH tena tena hi tad naram .
-; BAva condition, feeling; 
+; BAva condition, feeling;
+
 040.12F: anupraviSya meDAvI kzipramAtmavaSaM nayet .. 54..
 040.12A: anupraviSya meDAvI kzipram AtmavaSam nayet .. 54..
 ; anupraviS to enter, to adapt oneself to (object tad); meDAvin a learned man;
 ; Atma-vaSa one's will
+
 040.11-12E: For. Whatever a man's (thought or) feeling be, having ministered to that, a talented man should quickly win him over.
 
 040.13F: anyacca . ko'tretyahamiti brUyAt samyag AdeSayeti ca .
 040.13A: anyat ca . kaH atra iti aham iti brUyAt samyak AdeSaya iti ca .
-; deSaya causal imperitive diS; samyak truly, rightly; AdiS to comman; 
+; deSaya causal imperative diS; samyak truly, rightly; AdiS to command;
+
 040.14F: AjYAmavitaTAM kuryAdyaTASakti mahIpateH .. 55..
 040.14A: AjYAm avitaTAm kuryAt yaTA-Sakti mahIpateH .. 55..
-; AjYA command; avitaTa not untrue; mahIpati earth-lord, king;
-
+; AjYA command; avitaTa not false, true [Does Kale translate?]
+; mahIpati earth-lord, king;
 040.14P: avitaTAm -- saPalAM kuryAt pAlayet .
 ; pAlayet causal of pA (to protect) (Huet)
+
 040.13-14E: When asked 'who is here' a servant should say 'I; please command'; and he should execute the king's command to the best of his ability.
 
 040.15F: aparaM ca . alpecCurDftimAn prAjYaSCAyevAnugataH sadA .
@@ -7267,10 +7372,12 @@ samIhita longed for (Ih to endevor to obtain)
 
 040.15-16E: Moreover. He, who is modest in his desires, patient, wise, always in attendance like a shadow and would not hesitate when ordered (to do a thing), should dwell in a king's palace.
 
+; Kale error ? avagamyate (active voice, object tvAm)
 040.17F: karawako brUte -- kadAcittvAmanavasarapraveSAdavagamyate svAmI .
 040.17A: karawakaH brUte -- kadA cid tvAm anavasara-praveSAt avagamyate svAmI .
-; an-avasara avasara favorable; praveSa entrance
+; an-avasara (avasara favorable, occasion); praveSa entrance
 ; avagam to descend, vist (Kale disregard ?)
+; gamyate pre-p 3s gam : has object tvAm ?
 
 040.18F: sobravIt -- astvevam .
 040.18A: saH abravIt -- astu evam .
@@ -7288,7 +7395,8 @@ samIhita longed for (Ih to endevor to obtain)
 
 040.21F: kErajIrRaBayAdBrAtarBojanaM parihIyate .. 57..
 040.21A: kEH ajIrRa-BayAt BrAtar Bojanam parihIyate .. 57..
-; jIrRa digested (old); Bojana the act of eating; pari-hA to quit
+; jIrRa digested (old) a-jIrRa indigestion
+; Bojana the act of eating; pari-hA to quit
 
 040.20-21E: Not beginning a thing through fear of fault (or, of an ill consequence) is the sign of a coward; who, brother, leaves off taking food for fear of indigestion?
 
@@ -7308,22 +7416,26 @@ samIhita longed for (Ih to endevor to obtain)
 ; not anuzwuB
 040.24F: prAyeRa BUmipatayaH pramadA latASca
 040.24A: prAyeRa BUmipatayaH pramadAH latAH ca
-; prAyeRa as a general rule; pramada a young handsome woman; latA creeper (plant)
+; prAyeRa as a general rule (prAya going forth, prominent)
+; pramadA  young handsome woman; latA creeper (plant)
 040.24P: pramadAH prakfzwaH madaH yAsAM tAH taruRyaH .
 040.24P+: dUrAt sevake dUrasTepi .
 
 040.25F: yaH pArSvato vasati taM parivezwayanti .. 58..
 040.25A: yaH pArSvataH vasati tam parivezwayanti .. 58..
-; pArSvatas by the side, near; pari-vezw (Causal) surround
+; pArSvatas by the side, near
+; pari-vezw (Causal) to embrace (vezw to wind round)
 040.22-25E:  as a general rule, kings, young women and creepers cling to (lit. twine round) him who is near them.
 
 040.26F: karawako brUte -- aTa tatra gatvA kiM vakzyati BavAn .
 040.26A: karawakaH brUte -- aTa tatra gatvA kim vakzyati BavAn .
-; aTa now; 
+; aTa now;
+
 040.27F: sa Aha -- SfRu . kimanurakto virakto vA mayi svAmIti jYAsyAmi tAvat .
 040.27A: sa Aha -- SfRu . kim anuraktaH viraktaH vA mayi svAmI iti jYAsyAmi tAvat .
 ; anurakta pleased (reddened); virakta displeased; mayi locative asmad;
-; jYAsyAmi future jYA
+; jYAsyAmi future jYA; tAvat first
+
 040.28F: karawako brUte -- kiM tajjYAnalakzaRam .
 040.28A: karawakaH brUte -- kim tad-jYAna-lakzaRam .
 
@@ -7335,7 +7447,7 @@ samIhita longed for (Ih to endevor to obtain)
 041.01F: dUrAd avekzaRaM hAsaH saMpraSnezvAdaro BfSam .
 041.01A: dUrAt avekzaRam hAsaH saMpraSnezu AdaraH BfSam .
 ; avekzaRa looking at; hAsa a smile; saMpraSna inquiry; Adara respect;
-; BfSam ind. much; 11
+; BfSam ind. much; 
 041.01P: saMpraSnezu -- kuSalapraSnezu .
 
 041.02F: parokze'pi guRaSlAGA smaraRaM priyavastuzu .. 59..
@@ -7348,21 +7460,21 @@ samIhita longed for (Ih to endevor to obtain)
 
 041.03F: asevake cAnuraktirdAnaM sapriyaBAzaRam .
 041.03A: asevake ca anuraktiH dAnam sa-priya-BAzaRam .
-; a-sevaka not serving; anurakti attachment; dAna gift; 
+; a-sevaka not serving; anurakti attachment, affection; dAna gift; 
 041.03P: asevake -- sevAmanukurvARe .
 ; kurvARa acting as a servant
 
 041.04F: surakteSvaracihnAni doze'pi guRasaMgrahaH .. 60..
 041.04A: surakta-ISvara-cihnAni doze api guRa-saMgrahaH .. 60..
 ; surakta well-colored; ISvara master; cihna sign, indication;
-; saMgraha
-041.04P: surakteSvara -- suraktasya prakfzwAnurAgavataH ISvarasya nfpasya cinhAni liNgAni .
+; saMgraha holding together; 
+041.04P: surakteSvara -- suraktasya prakfzwAnurAgavataH ISvarasya nfpasya cihnAni liNgAni .
 
 041.03-04E:  Attachment even when one does not serve, making a donation with sweet words and noting one's merits even when one is at fault -- these are the signs of a lord well-attached.
 
 041.05F: anyacca . kAlayApanamASAnAM varDanaM PalaKaRqanam .
 041.05A: anyat ca . kAla-yApanam ASAnAm varDanam Pala-KaRqanam .
-; kAla time; yApana causing to go away, delay; varDana increasing;
+; kAla time; yApana causing to go away; varDana increasing;
 ; KaRqana breaking, disappointing (KaRq to break)
 041.05P: kAlayApanam -- aBimatamanoraTapUraRe kAlakzepaH .
 041.05P+: PalaKaRqanam -- Pale visaMvAdaH ASAPalavinASo vA .
@@ -7375,22 +7487,23 @@ samIhita longed for (Ih to endevor to obtain)
 
 041.07F: etajjYAtvA yaTAyaM mamAyatto Bavizyati taTA vakzyAmi . yataH .
 041.07A: etad jYAtvA yaTA ayam mama AyattaH Bavizyati taTA vakzyAmi . yataH .
-; Ayatta dependence; 
+; Ayatta dependence;
+
 041.07-07E: Laying all this to heart I will speak in such a way as to bring him under my power. For,
 
-; not anuzwuB.
+; not anuzwuB.  Very unsure of translation.
 041.08F: apAyasaMdarSanajAM vipattimupAyasaMdarSanajAM ca sidDim .
 041.08A: apAya-saMdarSana-jAm vipattim upAya-saMdarSana-jAm ca sidDim
 ; apAya misfortune (going away); saMdarSana looking; vipatti failure;
-; upAya expedient
+; upAya expedient (going near)
 041.08P: apAyeti -- meDAvino nItiviDiprayuktAmityatra anIti nIti iti padacCedaH .
 
 041.09F: meDAvino nItiviDiprayuktAM puraH sPurantImiva darSayanti .. 62..
 041.09A: meDAvinaH nIti-viDi-prayuktAm puraH sPurantIm iva darSayanti .. 62..
 ; meDAvin learned man; nIti policy; viDi method; prayukta suitable (yoked);
-; puras before; sPurantIm trembling (f1s of prap of 'sPur');
+; puras before; sPurantIm trembling (f1s of prap of 'sPur' throb, rise forth);
 ;  puraH-sPurat opening before any one (MW)
-; darSayanti dfS causal to show;
+; darSayanti dfS cause to see (to show);
 041.09P: meDAvinaH nItiSAstranipuRAH anItiviDIprayuktAM nItiSAstrAnanuzWAnajanitAM apAyasaMdarSanajAM apAyAnAM anizWAnAM saMdarSanAt AvirBAvAt utpannAM ca vipattiM kAryanASaM nItiviDiprayuktAM nayaviDAnena janitAM upAyasamyakparyAlocanotTAM ca sidDiM aBimatasaPalatAM prasPurantIM agre prAdurBavantImiva darSayanti . yATAtaTyavarRanenetyarTaH .
 
 041.08-09E: Wise men give us a vivid picture of failure to result from impediments foreseen and a bad use of policy and success resulting from a judicious use of the expedients and the proper employment of policy.
@@ -7399,11 +7512,13 @@ samIhita longed for (Ih to endevor to obtain)
 041.10F: karawako brUte -- taTApyaprApte prastAve na vaktumarhasi . yataH .
 041.10A: karawakaH brUte -- taTA api aprApte prastAve na vaktum arhasi . yataH .
 ; aprApta not obtained; prastAva occasion
+
 041.10-10E: Karataka observed -- Still you should not speak until you find a proper opportunity. For,
 
 041.11F: aprAptakAlavacanaM bfhaspatirapi bruvan .
 041.11A: aprAptakAla-vacanam bfhaspatiH api bruvan .
 ; aprApta-kAla inoppportune; bfhaspati lord of prayer;
+; bruvan speaking (pres. part. brU)
 
 041.12F: prApnuyAd budDyavajYAnamapamAnaM ca SASvatam .. 63..
 041.12A: prApnuyAt budDi-avajYAnam apamAnam ca SASvatam .. 63..
@@ -7417,7 +7532,7 @@ samIhita longed for (Ih to endevor to obtain)
 041.13A: damanakaH brUte -- mitra
 
 041.14F: mA BEzIH . nAhamaprAptAvasaraM vacanaM vadizyAmi . yataH .
-041.14A: mA BEzIH . na aham aprApta-avasaram vacanam vadizyAmi . yataH .
+041.14A: mA BEzIH . na aham a-prApta-avasaram vacanam vadizyAmi . yataH .
 ; BEzIH  Aorist? Huet {inj. [4] ac. sg. 2} BI to be afraid;
 ; avasara occasion; 
 041.13-14E: Damanaka said -- Friend, be not afraid. I shall not speak unseasonably. For,
@@ -7440,9 +7555,11 @@ samIhita longed for (Ih to endevor to obtain)
 041.17F: yadi ca prAptAvasaropi mantro mayA
 041.17A: yadi ca prApta-avasaraH api mantraH mayA
 ; prApta proper, obtained; mantra counsel;
+
 041.18F: na vaktavyastadA mantritvameva mamAnupapannam . yataH .
 041.18A: na vaktavyaH tadA mantritvam eva mama anupapannam . yataH .
-; mantritva office of a minister (counsellor); an-upa-panna not suitable;
+; mantritva office of a minister (counsellor)
+; an-upa-panna not suitable (panna [pad kta] fallen
 
 041.17-18E: And if I were not to give my counsel when there has been an occasion for it, a minister's post would ill become me. For,
 
@@ -7453,7 +7570,7 @@ samIhita longed for (Ih to endevor to obtain)
 ; praSasyate : passive pra-SaMs (is praised)
 ; sadBiH sat good person,good (pr. part. of sat);
 
-g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
+041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 041.20A: saH guRaH tena guRinA rakzyaH saMvarDanIyaH ca .. 65..
 ; guRa quality; guRin (one) endowed with good qualities;
 ; rakzya to be protected; saMvarDanIya to be strengthened
@@ -7462,7 +7579,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 041.21F: tad Badra anujAnIhi mAm . gacCAmi .
 041.21A: tad Badra anujAnIhi mAm . gacCAmi .
-; jAnIhi jYA imperative; anujYA to permit;
+; jAnIhi jYA imperative 2 sing.; anujYA to permit;
 
 041.22F: karawako brUte --
 041.22A: karawakaH brUte --
@@ -7500,6 +7617,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 041.28A: prayojanam asti taTA api prAptakAlam anujIvinA sAMniDyam avaSyam
 ; prayojana occasion; taTApi nevertheless; prAptakAlam ind. at the right time;
 ; anujIvin follower; sAMniDya presence; iti thus
+
 041.29F: kartavyamityAgato'smi . kiM ca .
 041.29A: kartavyam iti AgataH asmi . kim ca .
 
@@ -7508,14 +7626,15 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 ; not anuzwuB
 042.01F: dantasya nirGarzaRakena rAjankarRasya kaRqUyanakena vApi .
 042.01A: dantasya nirGarzaRakena rAjan karRasya kaRqUyanakena vA api .
-; nirGarzaRaka rubbing; kaRqUyana scratching; 
+; nirGarzaRaka rubbing (Gfz to rub)
+; kaRqUyana scratching (kaRqU itching, scratching;
 042.01P: dantasya dantAnAm . jAtO ekacavanam .
 042.01P+: nirGarzaRakena -- mArjanaviDAyakena .
 
 042.02F: tfRena kAryaM BavatISvarARAM kimaNgavAkpARimatA nareRa .. 66..
-042.02A: tfRena kAryam Bavati ISvarARAm kim aNgavAkpARimatA nareRa .. 66..
+042.02A: tfRena kAryam Bavati ISvarARAm kimaNga-vAk-pARi-matA nareRa .. 66..
 ; kArya need (+ case3); ISvara master, king; pARimat possessed of hands;
-; aNga mind; vAc speech; pARi hand(s)
+; kim-aNga how much more (or less); vAc speech; pARi hand(s)
 042.02P: ISvarARAM praBURAM kAryaM prayojanaM Bavati .
 042.02P+: kimaNga kimu vaktavyaM vAkpARimatA nareRa tadBavediti . aNgavAkpARimatetyekaM vA padam .
 
@@ -7524,7 +7643,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 042.03F: yadyapi cireRAvaDIritasya dEvapAdErme
 042.03A: yadi api cireRa avaDIritasya dEvapAdEH me
 ; yadi api even if; avaDIrita disrespected;
-; dEvapAda (=? devapAda) noble lord;
+; dEvapAda (not in MW) noble lord;
 
 042.04F: budDinASaH SaNkyate tad api na SaNkanIyam . yataH .
 042.04A: budDi-nASaH SaNkyate tad api na SaNkanIyam . yataH .
@@ -7534,11 +7653,12 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 042.05F: maRirluWati pAdezu kAcaH Sirasi DAryate .
 042.05A: maRiH luWati pAdezu kAcaH Sirasi DAryate .
-; luW to roll; DAryate passive causal Df to bear;
+; luW to roll; kAca glass; DAryate passive causal Df to bear;
 
+; kAcO -> kAco ?
 042.06F: yaTEvAste taTEvAstAM kAcaH kAcO maRirmaRiH .. 67..
 042.06A: yaTA eva Aste taTA eva AstAm kAcaH kAcO maRiH maRiH .. 67..
-; Aste present 3s As to sit; astAm = ipv of As 
+; Aste present 3s As to sit; astAm = ipv of As (3s)
 ; kAcO dual (why?)
 
 042.05-06E: If a gem rolls on the feet and a piece of glass is worn on the head -- let that be as it is -- a piece of glass is glass and a gem a gem.
@@ -7546,16 +7666,18 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 ; not anuzwub
 042.07F: anyacca . kadarTitasyApi ca DEryavftterbudDervinASo na hi SaNkanIyaH .
 042.07A: anyat ca . kadarTitasya api ca DErya-vftteH budDeH vinASaH na hi SaNkanIyaH .
-; kadarTita  : despised 'what purpose?'; DErya firmness;
-; DEryavftti steady conduct; SaNkanIya to be suspected
+; kad-arTita  : despised 'what purpose?' [Kale oppressed]
+; DErya firmness (DIra firm); DErya-vftti steady conduct
+; SaNkanIya to be suspected
 042.07P: kadarTitasya -- avamAnitasya aniduHKitasya vA .
 042.07P+: DErya -- DEryeRa DErye vA vfttirasya .
 
 042.08F: aDaHkftasyApi tanUnapAto nADaH SiKA yAti kadAcideva .. 68..
 042.08A: aDaH-kftasya api tanUnapAtaH na aDaH SiKA yAti kadA cid eva .. 68..
-; aDaHkfta cast down; tanU self (like a pronoun); napAt son;
-; tanUnapAt name of sacred fire; SiKA a (pointed) flame (topknot);
-; SiKA = flame
+; aDaHkfta cast down; 
+; tanUnapAt name of sacred fire [tanUnapa ghee, ad to eat]
+; tanu (body), Una (deficiency), pa protect 
+; SiKA a (pointed) flame (topknot);
 042.08P: tanUnapAtaH agneH .
 042.08P+: tanuM svaSarIraM na pAtayani tanUnapaM GftAdi attIti vA tanUnapAt .
 
@@ -7575,8 +7697,8 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 042.10P+: vartate vyavaharati .
 
 042.11F: tadodyamasamarTAnAmutsAhaH parihIyate .. 69..
-042.11A: tadA udyamasamarTAnAm utsAhaH parihIyate .. 69..
-; udyama exertion; samarTa to be capable; utsAha power;
+042.11A: tadA udyama-samarTAnAm utsAhaH parihIyate .. 69..
+; udyama exertion; samarTa qualified (capable Kale); utsAha power;
 ; pari-hA to leave;
 042.11P: samaM -- tulyam .
 
@@ -7593,11 +7715,12 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 042.14F: yataH . sTAna eva niyojyante BftyAScABaraRAni ca .
 042.14A: yataH . sTAne eva niyojyante BftyAH ca ABaraRAni ca .
-; sTAna position
+; sTAna position; ABaraRa ornament
 
 042.15F: na hi cUqAmaRiH pAde nUpuraM mUrDni DAryate .. 71..
 ; cUqA (=? SiKA) crest; nUpura: ornament for feet
 042.15A: na hi cUqAmaRiH pAde nUpuram  mUrDni DAryate .. 71..
+; nUpura foot ornament (nU to praise)
 042.15P: nUpuraM -- maYjIraH caraRABaraRaviSezaH .
 
 042.14-15E: Since. Servants and ornaments ought to be set on their proper places : for, a crest-jewel is not worn on the foot or a foot-ornament on the head.
@@ -7634,8 +7757,9 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 042.20F: paSya . budDimAnanurakto'yamayaM SUra ito Bayam .
 042.20A: paSya . budDimAn anuraktaH ayam ayam SUraH itaH Bayam .
-; budDimat wise man; anurakta attached; SUra strong, valiant; Baya danger
-; itas from this;
+; budDimat wise man; anurakta loyal (attached); SUra strong, valiant
+; itas from this; Baya danger
+
 042.21F: iti BftyavicArajYo BftyErApUryate nfpaH .. 74..
 042.21A: iti Bftya-vicAra-jYaH BftyEH ApUryate nfpaH .. 74..
 ; vicAra discrimination; ApUryate (passive A-pF) is filled;
@@ -7644,7 +7768,8 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 042.22F: taTA hi . aSvaH SastraM SAstraM vIRA vARI naraSca nArI ca .
 042.22A: taTA hi . aSvaH Sastram SAstram vIRA vARI naraH ca nArI ca .
-; vIRA Indian lute; vARI speech (sound); 
+; vIRA Indian lute; vARI speech (vaR to sound);
+
 042.23F: puruzaviSezaM prApya hi Bavanti yogyA ayogyASca .. 75..
 042.23A: puruza-viSezam prApya hi Bavanti yogyAH ayogyAH ca .. 75..
 ; puruza person, viSeza particular; prAp to reach; yogya useful; 
@@ -7705,7 +7830,8 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 043.05F: kiM ca . bAlAdapi gfhItavyaM yuktamuktaM manIziBiH .
 043.05A: kim ca . bAlAt api gfhItavyam yuktam uktam manIziBiH .
 ; bAla boy; gfhItavya to be accepted from (abl.); yukta proper (well-joined);
-; manIzin wise (man); 
+; manIzin wise (man);
+
 043.06F: raveravizaye kiM na pradIpasya prakASanam .. 79..
 043.06A: raveH a-vizaye kim na pradIpasya prakASanam .. 79..
 ; ravi the sun; avizaya out of reach; pradIpa lamp; prakASana giving light;
@@ -7755,7 +7881,8 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 043.15F: SfRu . samprati vanamidamapUrvasattvADizWitamato'smAkaM
 ; sattva: beast (Kale)
 043.15A: SfRu . samprati vanam idam apUrva-sattva-aDizWitam ataH asmAkam
-; apUrva unprecedented; sattva living being (beast) aDizWita inhabited;
+; apUrva unprecedented (not before)
+; sattva living being (beast); aDizWita inhabited;
 043.15P: apUrvasattvADizWitam -- apUrveRa adfzwapUrveRa prARinASritam .
 
 ; Usha: Sruto mayApi -> SrutastvayApi
@@ -7772,7 +7899,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 043.18F: damanako brUte -- deva asti tAvadayaM mahAnBayahetuH . 
 043.18A: damanakaH brUte -- deva asti tAvat ayam mahAn BayahetuH . 
-
+; tAvat indeed
 ; Sabdo'syABir -> Sabdo'smABir
 043.19F: sa Sabdo'smABirapyAkarRitaH . kiM tu sa kiMmantrI 
 043.19A: saH SabdaH asmABiH api AkarRitaH . kim tu saH kim-mantrI 
@@ -7786,24 +7913,29 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 043.21F: asmin kAryasaMdehe BftyAnAmupayoga eva jYAtavyaH . yataH .
 043.21A: asmin kAryasaMdehe BftyAnAm upayogaH eva jYAtavyaH . yataH .
-; saMdeha doubt; upayoga a use; jYAtavya to be known.
+; saMdeha doubt - kAryasaMdeha 'uncertainty about a work' [MW]);
+; upayoga a use; jYAtavya to be known.
 043.21P: kAryasaMdehe kartavyaniScaye .
+; niScaya investigation
 
 043.07-21E:  Damanaka replied -- My lord, this is, indeed, a great cause for fear. We too have heard the sound. But he is a bad minister who first counsels the quitting of land and then a fight. At this crisis when it is difficult to know what steps to take, the use of servants alone is to be known. For,
 
 043.22F: banDustrIBftyavargasya budDeH sattvasya cAtmanaH .
 043.22A: banDu-strI-Bftya-vargasya budDeH sattvasya ca AtmanaH .
-; strI wife; sattva strength of character;
+; strI woman, wife; sattva strength of character; varga class; 
 043.22P: banDustrIBftyavargasya AtmanaSca budDeH sattvasya balasya ca sAratAm .
 
 043.23F: ApannikazapAzARe naro jAnAti sAratAm .. 80..
 043.23A: Apad-nikaza-pAzARe naraH jAnAti sAratAm .. 80..
-; nikazapAzARa the touchstone (gold testing); sAra-tA firmness
+; nikaza-pAzARa the touchstone [nikaz to scratch, pAzARa stone, p
+; sAra-tA firmness
+
 043.22-23E: A man knows (tests) on the touch-stone of adversity the strength of his relatives, wife and servants, as also of his intellect and mental calibre.
 
 043.24F: siMho brUte -- Badra mahatI SaNkA mAM bADate .
 043.24A: siMhaH brUte -- Badra mahatI SaNkA mAm bADate .
 ; bAD to harass
+
 043.25F: damanakaH punarAha . (svagatam --) anyaTA rAjyasuKaM parityajya
 043.25A: damanakaH punar Aha . (svagatam --) anyaTA rAjya-suKam parityajya
 ; svagatam adv. to one's self;
@@ -7819,15 +7951,14 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 043.27A: deva yAvad aham jIvAmi tAvad Bayam na kartavyam . kiM tu
 
 043.28F: karawakAdayo'pyASvAsyantAM yasmAdApatpratIkArakAle durlaBaH
-; ASvAsyantAm ipv-cp 3p ASvas: cause to take breath; encourage
 043.28A: karawaka-AdayaH api ASvAsyantAm yasmAt Apat-pratIkAra-kAle durlaBaH
 ; A-SvAsyantAm causal imperative passive 3rd pl. A-Svas to encourage;
-; yasmAt because; pratIkAra opposition (= pratikAra); 
+; yasmAt because, since; pratIkAra opposition (= pratikAra); 
 043.28P: ASvAsyantAm -- ASApradAnena tezAM protsAhanaM kriyatAmityarTaH .
 
 043.29F: puruzasamavAyaH .
 043.29A: puruza-samavAyaH .
-; samavAya coming together; 
+; sam-avAya coming together; 
 043.29P: puruzasamavAyaH -- puruzasamUhaH .
 
 043.27-29E: My lord, as long as I am alive, Your Majesty should have no fear. But Karataka and others should also be encouraged (by marks of royal favour), since it is difficult to have a united body of men at the time of overcoming a calamity.
@@ -7835,70 +7966,85 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 
 043.30F: tatastO damanakakarawakO rAjYA sarvasvenApi pUjitO BayapratIkAraM
 043.30A: tataH tO damanaka-karawakO rAjYA sarvasvena api pUjitO Baya-pratIkAram
-
+; sarva-sva everything
 043.31F: pratijYAya calitO . karawako gacCandamanakamAha -- saKe kiM
 043.31A: pratijYAya calitO . karawakaH gacCan damanakam Aha -- saKe kim
-; pratijYA to promise; calita departed; 
+; pratijYA to promise; calita departed;
+
 043.32F: SakyapratIkAro BayaheturaSakyapratIkAro veti na jYAtvA
-043.32A: SakyapratIkAraH BayahetuH aSakyapratIkAraH vA iti na jYAtvA
+043.32A: Sakya-pratIkAraH BayahetuH aSakyapratIkAraH vA iti na jYAtvA
+; Sakya possible (Sak to be able)
 043.32P: SakyapratIkAraH -- SakyaH sADyaH pratIkAraH prativiDAnaM nirAkaraRaM .
 
 043.33F: BayopaSamaM
-043.33A: BayopaSamam
+043.33A: Baya-upaSamam
+; Sam to be calm; 
 043.33P: BayopaSamaM -- BItiSAntim .
 
 043.34F: pratijYAya kaTamayaM mahAprasAdo gfhItaH . yato'nupakurvARo
 043.34A: pratijYAya kaTam ayam mahAprasAdaH gfhItaH . yataH anupakurvARaH
+; kurvARa doing, upa-kf to bring near, assist;
 043.34P: anupakurvARaH -- upakAramakurvan . upakArakaraRAtprAgiti yAvat .
 
 043.35F: na kasyApyupAyanaM gfhRIyAdviSezato rAjYaH . paSya .
-043.35A: na kasya api upAyanam gfhRIyAt viSezataH rAjYaH . paSya .
+043.35A: na kasya api upAyanam gfhRIyAt viSezatas rAjYaH . paSya .
+; upAyana means, expedient [reward Kale]; 
 
 043.30-35E: Then Damanaka and Karataka, on whom every honour was bestowed by the king, set out having promised to ward off the danger. On the way Karatake said to Damanaka -- Friend, without ascertaining whether the cause of fear is possible to be averted or not, why did you accept this great favour having undertaken the removal of the fear? For unless one has done a service one should not accept a reward from anybody, especially from a king. Observe,
 
 043.36F: yasya prasAde padmAste vijayaSca parAkrame .
-; padmAste = ? padmA Aste : padmA sits  (padmA = SrI = Wealth).
-043.36A: yasya prasAde padmAste vijayaH ca parAkrame .
+043.36A: yasya prasAde padmA Aste vijayaH ca parAkrame .
+; prasAda clearness, kindness, favor; padmA = SrI = Wealth.
+; vijaya victory; parAkrama power
 
 043.37F: mftyuSca vasati kroDe sarvatejomayo hi saH .. 81..
-043.37A: mftyuH ca vasati kroDe sarvatejomayaH hi saH .. 81..
+043.37A: mftyuH ca vasati kroDe sarva-tejo-mayaH hi saH .. 81..
 043.37P: sarvatejomaya -- sarvatejaHsamazwiGawita ityarTaH .
+; tejas splendor (tij to be sharp;
 
 043.36-37E: On his (king's) favour depends wealth, on his exploit victory and on his anger death: for he represents all splendours (energies).
 
 043.38F: taTA hi . bAlo'pi nAvamantavyo manuzya iti BUmipaH .
-043.38A: taTA hi . bAlaH api nAvamantavyaH manuzyaH iti BUmipaH .
+043.38A: taTA hi . bAlaH api na avamantavyaH manuzyaH iti BUmipaH .
 
 043.39F: mahatI devatA hyezA nararUpeRa tizWati .. 82..
 043.39A: mahatI devatA hi ezA nararUpeRa tizWati .. 82..
+; devatA deity
 
 043.38-39E: So also. A king although a boy, should not be despised because he is a man; for he is a mighty deity existing in a human form.
 
 044.01F: damanako vihasyAha -- mitra
-044.01A: damanakaH vihasya Aha -- mitra
+044.01A: damanakaH vihasyaH Aha -- mitra
+; sandhi? vihasyaH + Aha -> vihasyAha
 
 044.02F: tUzRImAsyatAm . jYAtaM mayA BayakAraRam . balIvardanarditaM
-; balIvarda (not in MW) bull + nardita (bellow)
+044.02A: tUzRIm AsyatAm . jYAtam mayA BayakAraRam . balI-varda-narditam
+; tUzRIm silently; AsyatAm ipv-p 3s; 
+; balIvarda (MW entry balivarda) bull or ox; nardita (bellow)
 ; mw balivarda = bull
-044.02A: tUzRIm AsyatAm . jYAtam mayA BayakAraRam . balIvardanarditam
 
 044.03F: tat . vfzaBAScAsmAkamapi BakzyAH . kiM punaH siMhasya .
 044.03A: tat . vfzaBAH ca asmAkam api BakzyAH . kim punaH siMhasya .
+
+044.01-03E: Damanaka smiled and said -- Friend, rest quiet (easy). I have known the cause of fear. That was the bellowing of a bull. Bulls form even our food, how much so of the lion then?
 
 044.04F: karawako brUte --
 044.04A: karawakaH brUte --
 
 044.05F: yadyevaM tadA svAmitrAsastatrEva kiM nApanItaH .
-044.05A: yadi evam tadA svAmitrAsaH tatra eva kim na apanItaH .
+044.05A: yadi evam tadA svAmi-trAsaH tatra eva kim na apanItaH .
+; trAsa fear (tras trasati to tremble); apa-nI led away from
+; tatra eva 'there and then' (Kale) ?
 
 044.06F: damanako brUte -- yadi svAmitrAsastatrEva
 044.06A: damanakaH brUte -- yadi svAmitrAsaH tatra eva
 
 044.07F: mucyate tadA kaTamayaM mahAprasAdalABaH syAt . aparaM ca .
-044.07A: mucyate tadA kaTam ayam mahAprasAdalABaH syAt . aparam ca .
+044.07A: mucyate tadA kaTam ayam mahA-prasAda-lABaH syAt . aparam ca .
 
-044.01-07E: Damanaka smiled and said -- Friend, rest quiet (easy). I have known the cause of fear. That was the bellowing of a bull. Bulls form even our food, how much so of the lion then? Karataka observed: If so, why was the fear of the lord not removed just there and then? Damanaka replied -- Had I relieved the king's fear just there, do you think that we could have received this great favour? Also,
+044.04-07E: Karataka observed: If so, why was the fear of the lord not removed just there and then? Damanaka replied -- Had I relieved the king's fear just there, do you think that we could have received this great favour? Also,
 
+; jim start
 044.08F: nirapekzo na kartavyo BftyEH svAmI kadAcana .
 044.08A: nirapekzaH na kartavyaH BftyEH svAmI kadAcana .
 044.08P: nirapekzaH svasevAnirapekzaH .
@@ -8189,7 +8335,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 045.35F: GaRwAM gfhItvA nagaramAgatA sarvajanapUjyABavat . ato'haM
 045.35A: GaRwAm gfhItvA nagaram AgatA sarvajanapUjyA aBavat . ataH aham
 
-045:34-35E: Thereupon, the monkeys, having left off the bell busied themselves with the fruit. The procuress, too, having taken the bell, returned to the city and became an object of respect to all.
+045.34-35E: Thereupon, the monkeys, having left off the bell busied themselves with the fruit. The procuress, too, having taken the bell, returned to the city and became an object of respect to all.
 
 045.36F: bravImi -- SabdamAtrAnna BetavyamityAdi .. tataH saMjIvaka AnIya
 045.36A: bravImi -- SabdamAtrAt na Betavyam ityAdi .. tataH saMjIvakaH AnIya
@@ -8786,7 +8932,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 050.07F: me nAsikAnena CinnetyuktvA DarmADikArisamIpamenamAnItavatI .
 050.07A: me nAsikA anena Cinneti uktvA DarmADikAri samIpam enam AnItavatI .
 
-050.04-07E:Then in the morning when this barber asked her for the razor-case, she gave him one razor only. Thereupon, this barber, going into a passion as the whole case was not handed over to him threw the razor from some distance into the house. Upon this setting up a cry of pain and saying 'Without any provocation he has cut off my nose' she brought him to the officer of justice.
+050.04-07E: Then in the morning when this barber asked her for the razor-case, she gave him one razor only. Thereupon, this barber, going into a passion as the whole case was not handed over to him threw the razor from some distance into the house. Upon this setting up a cry of pain and saying 'Without any provocation he has cut off my nose' she brought him to the officer of justice.
 
 050.08F: sA ca gopI tena gopena punaH
 050.08A: sA ca gopI tena gopena punaH
@@ -9252,7 +9398,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 053.05F: kalyARavacanaM brUyAdapfzwo'pi hito naraH .. 122..
 053.05A: kalyARavacanam brUyAt apfzwaH api hitaH naraH .. 122..
 
-053:04-05E: A well-meaning man should give his wholesome counsel even unasked, in the case of a calamity, when a man swerves from the right path, or when the time of taking action is passing away.
+053.04-05E: A well-meaning man should give his wholesome counsel even unasked, in the case of a calamity, when a man swerves from the right path, or when the time of taking action is passing away.
 
 053.06F: anyacca . Bogasya BAjanaM rAjA mantrI kAryasya BAjanam .
 053.06A: anyat ca . Bogasya BAjanam rAjA mantrI kAryasya BAjanam .
@@ -9385,8 +9531,7 @@ g041.20F: sa guRastena guRinA rakzyaH saMvarDanIyaSca .. 65..
 054.08F: yadyapyevaM taTApi saMjIvakena saha mama mahAnsnehaH . paSya .
 054.08A: yadi api evam taTA api saMjIvakena saha mama mahAn snehaH . paSya .
 
-054.07-08E: 
-The lion observed reflecting -- Dear Damanaka, although such is the case, still great is the affection that I have for Samjivaka. Behold!
+054.07-08E: The lion observed reflecting -- Dear Damanaka, although such is the case, still great is the affection that I have for Samjivaka. Behold!
 
 054.09F: kurvannapi vyalIkAni yaH priyaH priya eva saH .
 054.09A: kurvan api vyalIkAni yaH priyaH priyaH eva saH .
@@ -9465,8 +9610,7 @@ The lion observed reflecting -- Dear Damanaka, although such is the case, still 
 ; svedana-aByaYjana-upAya  
 ; SvapucCam  n. nom. s.
 
-054.24-26E: Damanaka observed -- Sire,
-A wicked man, even though served every day, reverts to his natural disposition, like a dog's tail resuming (its natural) bent, notwithstanding such remedies as causing sweat (by fumigation) and rubbing it with unguents (for making it straight).
+054.24-26E: Damanaka observed -- Sire, A wicked man, even though served every day, reverts to his natural disposition, like a dog's tail resuming (its natural) bent, notwithstanding such remedies as causing sweat (by fumigation) and rubbing it with unguents (for making it straight).
 
 054.27F: aparaM ca . svedito marditaScEva rajjuBiH parivezwitaH .
 054.27A: aparam ca . sveditaH marditaH ca eva rajjuBiH parivezwitaH .
@@ -9665,8 +9809,7 @@ A wicked man, even though served every day, reverts to his natural disposition, 
 056.12F: damanakaH kaTayati --
 056.12A: damanakaH kaTayati --
 
-056.10-12E: Behold how an insignificant bird like a tittibha (a lap-wing) overpowered the sea.
-The lion asked how it was. Damanaka related --
+056.10-12E: Behold how an insignificant bird like a tittibha (a lap-wing) overpowered the sea. The lion asked how it was. Damanaka related --
 
 056.13F: .. kaTA 9 ..
 056.13A: .. kaTA 9 ..
@@ -9887,8 +10030,7 @@ The lion asked how it was. Damanaka related --
 057.29F: BavAn asmadIyapratyayAdAgataH . mayA paralokArTinAvaSyaM tava hitam AKyeyam . 
 057.29A: BavAn asmadIyapratyayAt AgataH . mayA paralokArTinA avaSyam tava hitam AKyeyam . 
 
-057.28-29E: Damanaka said with (a show of) great secrecy -- 
-Although I must not betray the king's secret, yet you have come here through confidence in us; and I, as desiring the next world, must necessarily tell you what concerns your welfare.
+057.28-29E: Damanaka said with (a show of) great secrecy -- Although I must not betray the king's secret, yet you have come here through confidence in us; and I, as desiring the next world, must necessarily tell you what concerns your welfare.
 
 ;057.30F: hitamAKyeyam . SfRu . ayaM svAmI tavopari vikftabudDI
 ;057.30A: hitam AKyeyam . SfRu . ayam svAmI tava upari vikftabudDI
@@ -9945,8 +10087,7 @@ Although I must not betray the king's secret, yet you have come here through con
 058.07F: ArADyamAno nfpatiH prayatnAnna tozamAyAti kimatra citram .
 058.07A: ArADyamAnaH nfpatiH prayatnAt na tozam AyAti kim atra citram .
 
-058.06-07E: After reflection; he says -- Alas! What is this that has come to pass ! For,
-A king, though served with assiduity, may not be pleased; where is the wonder in this?
+058.06-07E: After reflection; he says -- Alas! What is this that has come to pass ! For, A king, though served with assiduity, may not be pleased; where is the wonder in this?
 
 058.08F: ayaM tvapUrvapratimAviSezo yaH sevyamAno riputAmupEti .. 156..
 058.08A: ayam tu apUrvapratimAviSezaH yaH sevyamAnaH riputAm upEti .. 156..
@@ -10210,8 +10351,7 @@ A king, though served with assiduity, may not be pleased; where is the wonder in
 060.09F: karawakasamIpaM gataH . karawakenoktam -- kiM nizpannam . damanakenoktam --
 060.09A: karawakasamIpam gataH . karawakena uktam -- kim nizpannam . damanakena uktam --
 
-060.08-09E: ut all this must be done with the strictest privacy; otherwise, not you, not I (i. e., it will be all over with us both). Having said these things Damanaka went to Karataka.
-Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
+060.08-09E: ut all this must be done with the strictest privacy; otherwise, not you, not I (i. e., it will be all over with us both). Having said these things Damanaka went to Karataka. Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 
 060.10F: nizpanno'sAvanyonyaBedaH . karawako brUte -- ko'tra saMdehaH . yataH .
 060.10A: nizpannaH asO anyonyaBedaH . karawakaH brUte -- kaH atra saMdehaH . yataH .
@@ -10235,7 +10375,7 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 060.14A: kim nAma KalasaMsargaH kurute na ASrayASavat .. 173 ..
 060.14P: ASrayASavat -- ASrayaM ADAraM ASnAti BasmasAtkarotIti ASrayASaH agniH tena tulyam .
 
-060.12-134: Who does not become proud on account of wealth, and who is not clever in doing an evil deed? Moreover, A wealthy man is led into vice by artful men for self-aggrandizement: what mischief does not the company of villains do, like fire?
+060.12-14E: Who does not become proud on account of wealth, and who is not clever in doing an evil deed? Moreover, A wealthy man is led into vice by artful men for self-aggrandizement: what mischief does not the company of villains do, like fire?
 
 060.15F: tato damanakaH piNgalakasamIpAM gatvA deva samAgato'sO pApASayaH . tatsajjIBUya
 060.15A: tataH damanakaH piNgalakasamIpAm gatvA deva samAgataH asO pApASayaH . tat sajjIBUya
@@ -10733,8 +10873,7 @@ Karataka asked him -- What is the outcome (of your efforts)? Damanaka replied --
 063.30F: pracCAdyAraRyakasamIpe sasyakzetre vimuktaH .
 063.30A: pracCAdya araRyakasamIpe sasyakzetre vimuktaH . 
 
-063.28-30E: There lived, in Hastinapura, a washerman, Vilasa by name.
-His ass had become feeble on account of carrying burdens too heavy for him and was almost at the point of death. Thereapon the washerman, having wrapped him up in a tiger's skin, let him loose in a corn-field near a forest.
+063.28-30E: There lived, in Hastinapura, a washerman, Vilasa by name. His ass had become feeble on account of carrying burdens too heavy for him and was almost at the point of death. Thereapon the washerman, having wrapped him up in a tiger's skin, let him loose in a corn-field near a forest.
 
 063.31F: tato dUrAt tamavalokya vyAGrabudDyA kzetrapatayaH satvaraM palAyante .
 063.31A: tataH dUrAt tam avalokya vyAGrabudDyA kzetrapatayaH satvaram palAyante .
@@ -10752,8 +10891,7 @@ His ass had become feeble on account of carrying burdens too heavy for him and w
 064.02P: DanuHkARqaM -- DanurbARam .
 064.02P+: AnatakAyena -- AnataH kAyaH yasya tena .
 
-064.01-02E: 
-Then, one day, one of the men setting guard over the corn having protected his body with a dusky blanket and got a bow and arrow ready, remained waiting in a corner with his body bent down (in a bent posture).
+064.01-02E: Then, one day, one of the men setting guard over the corn having protected his body with a dusky blanket and got a bow and arrow ready, remained waiting in a corner with his body bent down (in a bent posture).
 
 064.03F: taM ca dUrAd dfzwvA gardaBaH puzwANgo yaTezwasasyaBakzaRajAtabalo
 064.03A: tam ca dUrAt dfzwvA gardaBaH puzwANgaH yaTezwasasyaBakzaRajAtabalaH
@@ -10924,8 +11062,7 @@ Then, one day, one of the men setting guard over the corn having protected his b
 065.02F: taTAnuzWite yUTanATa uvAca -- kastvam . kutaH samAyAtaH .
 065.02A: taTA anuzWite yUTanATaH uvAca -- kaH tvam . kutaH samAyAtaH .
 
-065.01-02E: I shall, therefore, mount the top of the hill and address the
-leader of the herd. That being done, the leader of the herd asked him -- Who are you and where have you come from?
+065.01-02E: I shall, therefore, mount the top of the hill and address the leader of the herd. That being done, the leader of the herd asked him -- Who are you and where have you come from?
 
 065.03F: sa brUte --
 065.03A: sa brUte --
@@ -11588,8 +11725,7 @@ leader of the herd. That being done, the leader of the herd asked him -- Who are
 069.09A: yAtu . tataH tat anuzWAnam balAbalam ca jAnImaH . taTA hi .
 069.09P: anuzWAnaM vyavasAyam .
 
-069.08-09E: Chakravaka -- My lord, let our spy first go
-there so that we may know of their doings as well as their strength and weaknees. For,
+069.08-09E: Chakravaka -- My lord, let our spy first go there so that we may know of their doings as well as their strength and weaknees. For,
 
 069.10F: BavetsvapararAzwrARAM kAryAkAryAvalokane .
 069.10A: Bavet svapararAzwrARAm kAryAkAryAvalokane .
@@ -12609,7 +12745,7 @@ there so that we may know of their doings as well as their strength and weaknees
 076.14P: antaH prakopanaM -- gfhakaliH .
 076.14P+: aBiyoktuH -- sTirAtmanaH . tftIyArTe zazWI .
 076.14P++: DIracetasA aBiyoktfSatrugfhe antarBedaH prakftivyAkopo vA kAryaH .
-cd
+
 076.13-14E: Having entered into a league with the heir-apparent or the principal minister (of the enemy), [* Or, one should cause internal discord (in the camps of) an invader who is &c.] an invader who is steady of purpose, should cause internal dissentions (in his enemy's camps).
 
 076.15F: krUraM mitraM raRe cApi BaNgaM dattvABiGAtayet .
@@ -14275,8 +14411,7 @@ cd
 086.22A: AtmanaH karmadozAn tu na eva jAnAti apaRqitaH .. 3..
 086.22P: apaRqitaH naraH vizamAM kazwAM daSAmavasTAM prApya iti yojyam .
 
-086.20-22E: The minister said -- This also is said --
-Being reduced to an adverse state a man blames his fate; but the fool never knows (that it was the result of) his own faults in actions.
+086.20-22E: The minister said -- This also is said -- Being reduced to an adverse state a man blames his fate; but the fool never knows (that it was the result of) his own faults in actions.
 
 086.23F: aparaM ca . suhfdAM hitakAmAnAM yo vAkyaM nABinandati .
 086.23A: aparam ca . suhfdAm hitakAmAnAm yaH vAkyam na aBinandati .
@@ -14296,7 +14431,8 @@ Being reduced to an adverse state a man blames his fate; but the fool never know
 087.01F: .. kaTA 1 ..
 087.01A: .. kaTA 1 ..
 
-087.01-01: FABLE I.
+087.01-01E: FABLE I.
+
 087.02F: asti magaDadeSe PullotpalABiDAnaM saraH . tatra ciraM
 087.02A: asti magaDadeSe PullotpalABiDAnam saras . tatra ciram
 ; Pulla opened; utpala (blue) lotus
@@ -14736,7 +14872,7 @@ Being reduced to an adverse state a man blames his fate; but the fool never know
 089.03A: karpUradvIparAjye aBizicyatAm . taTA ca uktam --
 ; sic to pour out; aBizic to appoint; dvIpa island
 
-089.01-03E :The spy said -- When, having effected the burning of the castle, Meghavarna went away, Chitravarna being pleased said -- Let this Meghavarna be installed king of this Karpuradvipa. For it is said --
+089.01-03E: The spy said -- When, having effected the burning of the castle, Meghavarna went away, Chitravarna being pleased said -- Let this Meghavarna be installed king of this Karpuradvipa. For it is said --
 
 089.04F: kftakftyasya Bftyasya kftaM nEva praRASayet .
 089.04A: kftakftyasya Bftyasya kftam na eva praRASayet .
@@ -14881,9 +15017,9 @@ Being reduced to an adverse state a man blames his fate; but the fool never know
 
 089.32F: aparaM ca . sukaramidamiti na mantavyam . SfRu .
 089.32A: aparam ca . sukaram idam iti na mantavyam . SfRu .
-; man 
-089.31-32E: Hence I say, a mean man having obtained an exalted post &c.
-Moreover, you should not think that this is easy to do. Listen --
+; man
+
+089.31-32E: Hence I say, a mean man having obtained an exalted post &c. Moreover, you should not think that this is easy to do. Listen --
 
 089.33F: BakzayitvA bahUnmatsyAnuttamADamamaDyamAn .
 089.33A: BakzayitvA bahUn matsyAn uttama-aDama-maDyamAn .
@@ -15337,13 +15473,13 @@ Moreover, you should not think that this is easy to do. Listen --
 
 092.08F: anantaraM tayoH samaDizWitayA sarasvatyA tAvanyad
 092.08A: anantaram tayoH samaDizWitayA sarasvatyA tO anyat
-anantaram immediately after;  tayoH loc. dual m. 
-samaDizWita standing at the highest place, smitten (ap90)
+; anantaram immediately after;  tayoH loc. dual m. 
+; samaDizWita standing at the highest place, smitten (ap90)
 092.08P: sarasvatyA hetunA .
 
 092.09F: vaktukAmAvanyadaBihitavantO . yadyAvayorBavAnparituzwastadA
 092.09A: vaktu-kAmO anyat aBihitavantO . yadi AvayoH BavAn parituzwaH tadA
-vaktu in comp. for inf. vaktum;  aBihitavat said
+; vaktu in comp. for inf. vaktum;  aBihitavat said
 
 092.10F: svapriyAM pArvatIM parameSvaro dadAtu .
 092.10A: svapriyAm pArvatIm parameSvaraH dadAtu .
@@ -15850,7 +15986,7 @@ vaktu in comp. for inf. vaktum;  aBihitavat said
 
 094.25F: karmaRAmAramBopAyaH puruzadravyasampat .
 094.25A: karmaRAm AramBa-upAyaH puruza-dravya-sampat .
-AramBa beginning; upAya means; sampad provided with; 
+; AramBa beginning; upAya means; sampad provided with; 
 094.25P: AramBopAyaH -- AramBasya samyaksADanam .
 ; samyak complete
 094.25P+: puruzadravyasampat -- puruzARAM dravyARAM DanaDAnyAdikAnAM ca sampat prAcuryam .
@@ -15869,8 +16005,7 @@ AramBa beginning; upAya means; sampad provided with;
 ; mantra counsel; sAman (sAntv) appeasing, calming; dAna giving;
 ; Beda breaking, dissension; daRqa stick, attack, chastisement (punishment)
 
-094.27-27E: these are the five parts of (the results to be attained by) counsel.
- Conciliation (the use of pacific means), giving gifts, discord (sowing seeds of dissension) and chastisement, -- these are the four means.
+094.27-27E: these are the five parts of (the results to be attained by) counsel. Conciliation (the use of pacific means), giving gifts, discord (sowing seeds of dissension) and chastisement, -- these are the four means.
  
 094.28F: utsAhaSaktirmantraSaktiH praBuSaktiSceti Saktitrayam .
 094.28A: utsAha-SaktiH mantra-SaktiH praBu-SaktiH ca iti Saktitrayam .
@@ -16126,7 +16261,6 @@ AramBa beginning; upAya means; sampad provided with;
 095.44P: dolAyamAnamatiH -- saMSayagrastabudDiH .
 
 095.43-44E: On hearing that the Brahmana took off the goat from his shoulder, placed it on the ground and having examined it again and again, replaced it on his shoulder and set off, but with a wavering mind. For,
-[Page 96]
 
 ; 03-14-2022
 
@@ -16745,7 +16879,7 @@ AramBa beginning; upAya means; sampad provided with;
 098.28F: AyurAdAya martyAnAM taTA rAtryahanI sadA .. 81..
 098.28A: AyuH AdAya martyAnAm taTA rAtrI-ahanI sadA .. 81..
 ; AyuH (n. 2 sing.) life; AdA to take, take away;
-martya mortal ; rAtryahanI (dual n. nominative case) night and day
+; martya mortal ; rAtryahanI (dual n. nominative case) night and day
 098.28P: rAtryahanI -- dinayAminyO . nivartete iti SezaH .
 ; yAminI night; vartete (pre-1m 3d vft).
 ; iti śeṣaḥ, ‘so it was left to be supplied’, a phrase commonly used by Comm. in supplying any words necessary to elucidate the text)
@@ -16842,8 +16976,7 @@ martya mortal ; rAtryahanI (dual n. nominative case) night and day
 099.11A: SokaH dinezu gacCatsu varDatAm apayAti kim .. 87..
 ; varDatAm imperative 3s vfD  OR 6p of pres. part. of vfD
 
-099.10-11E: If ignorance is not the cause, but separation is the cause,
-of sorrow, then as days pass on, it ought to increase: how does it abate?
+099.10-11E: If ignorance is not the cause, but separation is the cause, of sorrow, then as days pass on, it ought to increase: how does it abate?
 
 099.12F: tadBadrAtmAnamanusaMDehi . SokacarcAM parihara . yataH .
 099.12A: tad Badra AtmAnam anusaMDehi . Soka-carcAM parihara . yataH .
@@ -17026,8 +17159,7 @@ of sorrow, then as days pass on, it ought to increase: how does it abate?
 100.18A: jAlapAda-nAmnaH agre tat kaTitam .
 ; agre in the presence of, before.
 
-100.17-18E: So, owing to the Brahmana's curse, I lie here to carry the frogs.
-Now that frog went to the king of frogs, Jalapada by name, and informed him of that.
+100.17-18E: So, owing to the Brahmana's curse, I lie here to carry the frogs. Now that frog went to the king of frogs, Jalapada by name, and informed him of that.
 
 ; 04-05-2022
 
@@ -17457,8 +17589,7 @@ Now that frog went to the king of frogs, Jalapada by name, and informed him of t
 102.17A: saMDiM kartum mahAmantrI gfDraH asmad-samIpam AgacCati .
 ; Agam to come
 
-102.16-17E: Now the crane, employed as a spy, came and said to Hiranyagarbha --
-The great minister, Vulture, is coming to us to conclude a treaty.
+102.16-17E: Now the crane, employed as a spy, came and said to Hiranyagarbha -- The great minister, Vulture, is coming to us to conclude a treaty.
 
 102.18F: rAjahaMso brUte -- mantrin punaH saMbanDinA kenacidatrAgantavyam .
 102.18A: rAjahaMsaH brUte -- mantrin punar saMbanDinA kenacit atra Agantavyam .
@@ -17469,7 +17600,7 @@ The great minister, Vulture, is coming to us to conclude a treaty.
 102.19F: sarvajYo vihasyAha -- deva na SaNkAspadametat . yato'sO mahASayo dUradarSI . 
 102.19A: sarvajYaH vihasya Aha -- deva na SaNkA-Aspadam etat . yataH asO mahA-ASayaH dUradarSI . 
 ; SaNkA doubt; Aspadam place; (A+pada)
-mahASaya respectable person;'great receptacle' = ocean)
+; mahASaya respectable person;'great receptacle' = ocean)
 
 102.18-19E: The royal Swan said -- Minister, some partisan (of the enemy) might be coming here. Sarvajna, smiling, observed My lord, there is no room for suspicion in this case. For this personage is the magnanimous Duradarsi.
 ;
@@ -18061,7 +18192,7 @@ mahASaya respectable person;'great receptacle' = ocean)
 105.21F: santaH santu nirApadaH sukftinAM kIrtiSciraM varDatAm .
 105.21A: santaH santu nirApadaH sukftinAm kIrtiH ciraM varDatAm .
 ; santaH sat good people; sukftin one who does good;
-kIrti fame; ciram for a long time; 
+; kIrti fame; ciram for a long time; 
 105.22F: nItirvAravilAsinIva satataM vakzaHsTale saMsTitA
 105.22A: nItiH vAravilAsinI iva satataM vakzaH-sTale saMsTitA
 ; vAra day, vilAsin coquettish; vAravilAsinI courtezan

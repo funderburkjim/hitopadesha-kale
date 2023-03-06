@@ -7,7 +7,7 @@
   004.26  Vishnusharma offers to instruct sudarSana's sons
   005.02  King sudarSana appoints Vishnusharma to instruct his sons.
   005.11  End of prastAvikA (introduction)
-* 005.12 Book 1 mitralABa
+* 005.12 Book 1 mitralABa obtaining friends
   Visnusharma introduces story kAka-kUrma-AdInAm
 ** 005.18-19 kAka-kUrma-mfga-AKu story begins
     005.23 laGupatanaH vAyasaH notices vyADaH (hunter)
@@ -33,6 +33,7 @@
 ** 019.19 begin kaTA 5 (vIRAkarRena kaTitA)
 ** 020.28 samAptA kaTA paYcamA
 ** 024.17 begin kaTA 6 (manTareRa kaTitA)
+   DanuzA jambukaH hataH. 
 ** 025.06 end kaTA 6. manTaro vaditum pravartate .
 ** 028.14 begin kaTA 7 (hiraRyakena kaTitA)
 ** 029.14 begin kaTA 8 (kuwwanyA kaTitA)
@@ -41,7 +42,7 @@
 ** 032.14-16 princes speak with Vishnusharma.
 * Book 2: Separation of friends
 ** 032.22: suhfdBedaH
-** 032.31: begin story of lion and bull, told by vishnusharma
+** 032.27: begin story of lion and bull, told by vishnusharma
 ** 036.16: kaTA 1 The monkey and the wedge. told by karakawa.
 ** 036.25: kaTA 1 end
 ** 037.01: kaTA 2 (donkey beaten for braying). told by karakawa
