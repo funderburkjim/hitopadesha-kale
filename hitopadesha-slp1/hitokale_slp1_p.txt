@@ -2580,9 +2580,10 @@
 014.05F: gfDro'vadat -- mArjAro hi mAMsaruciH . 
 014.05A: gfDraH avadat -- mArjAraH hi mAMsa-ruciH . 
 ; ruci liking
+
 014.06F: pakziSAvakAScAtra nivasanti . tenAhamevaM bravImi .
 014.06A: pakzi-SAvakAH ca atra nivasanti . tena aham evam bravImi .
-
+; Svi to swell, grow. 
 014.05-06E:  The vulture said –- The cat is fond of flesh; and the young of birds live here: therefore, I say so.
 
 ; mArjAreRa uktam
@@ -2591,7 +2592,7 @@
 ; "To touch, or tug at one or both ears, is a visible sign of repentance in South Asian cultures."
 
 014.08F: mayA DarmaSAstraM SrutvA vItarAgeRedaM duzkaraM vratam cAndrAyaRam aDyavasitam . 
-014.08A: mayA Darma-SAstram SrutvA vIta-rAgena idam duzkaram vrataM cAndrAyaRam aDya-vasitam .
+014.08A: mayA Darma-SAstram SrutvA vIta-rAgena idam duzkaram vrataM cAndrAyaRam aDy-ava-sitam .
 ; vIta gone, rAga passion; duz-kara hard to do; vrata vow;
 ; cAndrAyaRa moon;
 ; ava-sita finished (verb 'so' to finish); aDy-avasita attempted (AP90)
@@ -2613,7 +2614,6 @@
 014.09-10E: Although the religious texts disagree with one another (in other respects) they are quite at one in this that abstinence from killing is the highest religious duty. For,
 
 ;
-; start usha
 014.11F: sarvahiMsAnivfttA ye narAH sarvasahASca ye .
 014.11A: sarva-hiMsA-nivfttAH ye narAH sarva-sahAH ca ye .
 ; ni-vftta turned against; saha enduring
@@ -2647,17 +2647,18 @@
 ;  kzaRika momentary; vi-much (passive) is freed from (deprived of)
 
 014.15-16E: Moreover. When one eats the flesh of another, mark the difference between the two -- the one enjoys momentary pleasure; while the other loses his life. 
-
+; part  past paste 
+; start usha
 014.17F: api ca . martavyamiti yadduHKaM puruzasyopajAyate .
 014.17A: api ca . martavyam iti yad duHKam puruzasya upajAyate .
 ; martavya liable to die; upajan to originate;
-
+; na
 014.18F: Sakyate nAnumAnena pareRa parivarRitum .. 68..
 014.18A: Sakyate na anumAnena pareRa parivarRitum .. 68..
 ; Sakyate passive is possible; anumAna inferring, guess (anu-mA); 
 ; varR to paint, depict; parivarR not in mw: pari + varR = (Kale) describe 
 
-014.17-18E: Besides, The agony that a man suffers, at the thought that he has to die, cannot be described by another by guessing. Hear me again,
+014.17-18E: Besides, The agony that a man suffers, at the thought that he has to die, cannot be described by another by guessing.
 
 014.19F: SfRu punaH . svacCandavanajAtena SAkenApi prapUryate .
 014.19A: SfRu punaH . sva-cCanda-vana-jAtena SAkena api prapUryate .
@@ -2670,11 +2671,11 @@
 ; dagDa burnt, distressed; udara belly; pAtaka 'that which causes to fall', sin
 014.20P: dagDaM tucCamudaraM tasya .
 
-014.19-20E: Who will commit great sin for this accursed belly when it can be filled with herbs growing spontaneously in the forest?
+014.19-20E: Hear me again. Who will commit great sin for this accursed belly when it can be filled with herbs growing spontaneously in the forest?
 
 014.21F: evaM viSvAsya sa mArjArastarukoware sTitaH . tato dinezu gacCatsu
-; viSvAsya  ind. past. participle of Causal of viSvas (cf. Huet)
 014.21A: evam viSvAsya saH mArjAraH taru-koware sTitaH . tataH dinezu gacCatsu
+; viSvAsya  ind. past. participle of Causal of viSvas (cf. Huet)
 ; viSvAsya having caused to trust; kowara hollow
 
 014.22F: pakziSAvakAn Akramya kowaramAnIya pratyahaM KAdati .
@@ -2693,7 +2694,7 @@
 014.24F: jijYAsA samArabDA . tat parijYAya mArjAraH kowarAnniHsftya bahiH palAyitaH . 
 014.24A: jijYAsA samArabDA . tat parijYAya mArjAraH kowarAt niHsftya bahiH palAyitaH .
 ; jijYAsA desire of knowing, investigation; sam-A-rabDa begun; 
-; parijYA to notice;  palAyita fled
+; parijYA to notice; bahis ind. out, forth; palAyita fled
 014.24P: pIqitEH jijYAsA jYAtumicCA anvezaRA .
 
 014.23-24E: (Now) an inquiry was set on foot by those birds whose young nestlings were eaten and who being sorrow-stricken were lamenting. On perceiving this, the cat slipped out of the hollow and escaped.
@@ -2741,7 +2742,7 @@
 ; Since DIH is f. 1s, Why not SlAGyA (f.) instead of SlAGyaH (m.) ?
 
 014.33F: nirastapAdape deSe eraRqo'pi drumAyate .. 70..
-014.33A: nirastapAdape deSe eraRqaH api drumAyate .. 70..
+014.33A: nirasta-pAdape deSe eraRqaH api drumAyate .. 70..
 ; nirasta thrown off, destroyed, pAda-pa: tree (foot-drinker)
 ; eraRqa castor-oil plant; druma tree, drumAya to pass for a tree
 014.33P: nir-astAH pAdapA vfkzA yasmAttasmin .
@@ -2772,7 +2773,7 @@
 ; anena 3s. of idam (this); uttarottara more and more, reply on reply
 015.04P: uttarottareRa vAkkalahena .
 ; kalaha quarrel
-
+ 
 015.05F: sarvErekatra viSramBAlApEH suKiBiH sTIyatAm . yataH .
 015.05A: sarvEH ekatra viSramBa-AlApEH suKiBiH sTIyatAm . yataH .
 ; ekatra in one place; viSramBa trust, AlApa speaking;
@@ -8044,13 +8045,15 @@
 
 044.04-07E: Karataka observed: If so, why was the fear of the lord not removed just there and then? Damanaka replied -- Had I relieved the king's fear just there, do you think that we could have received this great favour? Also,
 
-; jim start
 044.08F: nirapekzo na kartavyo BftyEH svAmI kadAcana .
 044.08A: nirapekzaH na kartavyaH BftyEH svAmI kadAcana .
+; nirapekza indifferent
 044.08P: nirapekzaH svasevAnirapekzaH .
 
 044.09F: nirapekzaM praBuM kftvA BftyaH syAddaDikarRavat .. 83..
-044.09A: nirapekzam praBum kftvA BftyaH syAt daDikarRavat .. 83..
+044.09A: nirapekzam praBum kftvA BftyaH syAt daDikarRa-vat .. 83..
+; praBu  = svAmI (master); daDi-karRa milk-ear, proper name.
+044.08-09E: The master should never be rendered free from need (of their services) by servants: for having made the master free from need, a servant may fare like Dadhikarna.
 
 044.10F: karawakaH pfcCati -- kaTametat .
 044.10A: karawakaH pfcCati -- kaTam etat .
@@ -8061,62 +8064,75 @@
 044.12F: .. kaTA 3 ..
 044.12A: .. kaTA 3 ..
 
-044.08-12E: The master should never be rendered free from need (of their services) by servants: for having made the master free from need, a servant may fare like Dadhikarna. Karataka asked how it was. Damanaka related :
+044.10-12E:  Karataka asked how it was. Damanaka related Fable 3
 
 044.13F: astyuttarapaTe'rbudaSiKaranAmni parvate
-044.13A: asti uttarapaTe arbudaSiKaranAmni parvate
+044.13A: asti uttarapaTe arbuda-SiKara-nAmni parvate
+; uttara-paTa norther way; arbuda-SiKara proper name of mountain
 
 044.14F: mahAvikramo nAma siMhaH . asya parvatakandaramaDiSayAnasya
-044.14A: mahAvikramaH nAma siMhaH . asya parvatakandaram aDiSayAnasya
+044.14A: mahAvikramaH nAma siMhaH . asya parvata-kandaram aDiSayAnasya
+; vikrama fierce; kandara cave; SayAna sleeping
 044.14P: parvatakandaramaDiSayAnasya -- 'aDiSINsyAsAM karma' iti dvitIyA .
 
 044.15F: kesarAgraM kaScinmUzikaH pratyahaM Cinatti . tataH kesarAgraM
 044.15A: kesarAgram kaH cid mUzikaH pratyaham Cinatti . tataH kesarAgram
 044.15P: kesarAgraM CawAgram .
+; CawA a mass; kesara-agra mane-tip
 
 044.16F: lUnaM dfzwvA kupito vivarAntargataM mUzikamalaBamAno'cintayat --
-044.16A: lUnam dfzwvA kupitaH vivarAntargatam mUzikam alaBamAnaH acintayat --
-
+044.16A: lUnam dfzwvA kupitaH vivarAntar-gatam mUzikam alaBamAnaH acintayat --
+; lU to cut; vivara-antar hole-inside alaBamAna not gaining
 044.13-16E: On the mountain called Arbudasikhara in the northern region lived a lion, Mahavikrama by name. A certain mouse gnawed the tips of his mane as he slept in his mountain-den. Then seeing the points of his mane bitten off he got angry, but not being able to catch the mouse that was in his hole, he meditated --
 
 044.17F: kzudraSatrurBavedyastu vikramAnnEva laByate .
-044.17A: kzudraSatruH Bavet yaH tu vikramAt na eva laByate .
+044.17A: kzudra-SatruH Bavet yaH tu vikramAt na eva laByate .
+; kzudra-Satru tiny enemy
 
 044.18F: tamAhantuM puraskAryaH sadfSastasya sEnikaH .. 84..
 044.18A: tam Ahantum puraskAryaH sadfSaH tasya sEnikaH .. 84..
+; sEnika army-man; puras-kArya to be 'done' before, to be appointed;
 
 044.17-18E: When an enemy is insignificant and cannot be overcome by valour, a warrior of his rank should be set forth to kill him.
 
 044.19F: ityAlocya tena grAmaM gatvA viSvAsaM kftvA
 044.19A: iti Alocya tena grAmam gatvA viSvAsam kftvA
+; viSvAsa-kf  to 'do' (secure) confidence;
 
 044.20F: daDikarRanAmA biqAlo yatnenAnIya mAMsAhAraM dattvA svakandare
 044.20A: daDikarRanAmA biqAlaH yatnena AnIya mAMsAhAram dattvA svakandare
 
 044.21F: sTApitaH . anantaraM tadBayAnmUziko'pi bilAnna niHsarati .
-044.21A: sTApitaH . anantaram tad BayAt mUzikaH api bilAt na niHsarati .
+044.21A: sTApitaH . anantaram tad-BayAt mUzikaH api bilAt na niHsarati .
+; bila hole;
 
 044.19-21E: Having thus reflected he went to a village and having brought a cat, named Dadhikarna, with effort, after securing his confidence, placed him in his den, feeding him on flesh. Thereafter the mouse did not come out of his hole through fear of the cat.
 
 044.22F: tenAsO siMho'kzatakesaraH suKaM svapiti . mUzikaSabdaM yadA yadA SfRoti
-044.22A: tena asO siMhaH akzatakesaraH suKam svapiti . mUzikaSabdam yadA yadA SfRoti
+044.22A: tena asO siMhaH a-kzata-kesaraH suKam svapiti . mUzika-Sabdam yadA yadA SfRoti
+; kzata wounded (cut)
 044.22P: akzatakesaraH akzataH alUnaH kesaro yasya .
 
 044.23F: tadA tadA saviSezaM mAMsAhAradAnena taM biqAlaM saMvarDayati . aTEkadA sa mUzikaH
 044.23A: tadA tadA saviSezam mAMsAhAradAnena tam biqAlam saMvarDayati . aTa ekadA saH mUzikaH
+; saMvfD to satisfy
 044.23P: saviSezam -- samaDikam .
 
-044.24F: kzuDApIqito bahiH saMcaranbiqAlena prApto vyApAditaSca . anantaraM sa siMho yadA
-044.24A: kzuDA pIqitaH bahiH saMcaran biqAlena prAptaH vyApAditaH ca . anantaram sa siMhaH yadA
+044.24F: kzuDApIqito bahiH saMcaranbiqAlena prApto vyApAditaSca . 
+044.24A: kzuDA-pIqitaH bahiH saMcaran biqAlena prAptaH vyApAditaH ca . 
+; kzuDA hunger, pIqita oppressed (pIq to squeeze); vyApAdita kipped
 
 044.22-24E: and the lion slept comfortably, his mane not being bitten. Whenever he heard the noise of the mouse he fed the cat with flesh with greater attention. Once the mouse, as he moved out being oppressed with hunger, was caught by the cat and killed.
 
-044.25F: kadAcidapi tasya mUzikasya SabdaM vivarAnna SuSrAva tadopayogABAvAdbiqAlasya
+044.25F: kadAcidapi tasya mUzikasya SabdaM vivarAnna SuSrAva tadopayogABAvAdbiqAlasya anantaraM sa siMho yadA
 ; upayogABAvAt = upayoga + aBAvAt:  from absence of use
-044.25A: kadA cid api tasya mUzikasya Sabdam vivarAt na SuSrAva tadA upayogABAvAt biqAlasya
+044.25A: kadA cid api tasya mUzikasya Sabdam vivarAt na SuSrAva tadA upayoga-aBAvAt biqAlasya anantaram sa siMhaH yadA
+; upayoga use - aBAva non-existence
 
 044.26F: apyAhAradAne mandAdaro baBUva . tato'sAvAhAravirahAddurbalo daDikarno'vasano
-044.26A: api AhAradAne mandAdaraH baBUva . tataH asO AhAravirahAt durbalaH daDikarnaH avasannaH
+044.26A: api AhAradAne mandAdaraH baBUva . tataH asO AhAra-virahAt durbalaH daDikarnaH avasannaH
+; viraha ifc. lacking; dur-bala weak
+; ava-sanna sunk down (sad to sit) [Kale ended]
 044.26P: avasanno baBUva BUtaH .
 
 044.27F: baBUva . ato'haM bravImi -- nirapekzo na kartavyaH ityAdi .
@@ -8125,40 +8141,49 @@
 044.25-27E: After that the lion did not hear the sound of the mouse at any time and took little care to feed the cat, as he was no longer useful to him. Then that Dadhikarna, wasting away for want of food, died. Hence my observation –- The master should not be made &c.
 
 044.28F: tato damanakakarawakO saMjIvakasamIpaM gatO . tatra karawakastarutale sAwopamupavizwaH .
-044.28A: tataH damanakakarawakO saMjIvakasamIpam gatO . tatra karawakaH tarutale sAwopam upavizwaH .
+044.28A: tataH damanaka-karawakO saMjIvaka-samIpam gatO . tatra karawakaH tarutale sAwopam upavizwaH .
+; sAwpopam proud (sa + Awopa)
 
 044.29F: damanakaH saMjIvakasamIpaM gatvA'bravIt -- are vfzaBa eza rAjyA piNgalakenAraRyarakzArTaM
-044.29A: damanakaH saMjIvakasamIpam gatvA abravIt -- are vfzaBa ezaH rAjyA piNgalakena araRyarakzArTam
+044.29A: damanakaH saMjIvaka-samIpam gatvA abravIt -- are vfzaBa ezaH rAjyA piNgalakena araRya-rakzArTam
+; rakzArTam for sake of protection; 
+044.30F: niyuktaH senApatiH karawakaH samAjYApayati -- satvaramAgacCa . 
+044.30A: niyuktaH senApatiH karawakaH samAjYApayati -- satvaram AgacCa . 
+; niyukta appointed; samAjYA causal to order, command
 
-044.30F: niyuktaH senApatiH karawakaH samAjYApayati -- satvaramAgacCa . no cedasmAd
-044.30A: niyuktaH senApatiH karawakaH samAjYApayati -- satvaram AgacCa . no ced asmAt
+044.28-30E: Then Damanaka and Karataka went to Samjivaka. Of the two Karataka sat under a tree in a dignified manner. Damanaka went forward to Samjivaka and said -- O bull, this general Karataka here, appointed to keep guard over the forest by king Pingalaka, orders you -- Come here at once.
 
-044.28-30E: Then Damanaka and Karataka went to Samjivaka. Of the two Karataka sat under a tree in a dignified manner. Damanaka went forward to Samjivaka and said -- O bull, this general Karataka here, appointed to keep guard over the forest by king Pingalaka, orders you -- Come here at once;
-
-044.31F: araRyAddUramapasara . anyaTA te virudDaM PalaM Bavizyati . na jAne krudDaH svAmI kiM
+044.31F: no cedasmAd araRyAddUramapasara . anyaTA te virudDaM PalaM Bavizyati . 
 ; jAne pre-9m 1s jYA
-044.31A: araRyAt dUram apasara . anyaTA te virudDam Palam Bavizyati . na jAne krudDaH svAmI kim
+044.31A: no ced asmAt araRyAt dUram apasara . anyaTA te virudDam Palam Bavizyati . 
+; no ced if not; virudDa precarious (ruD to obstruct)
 044.31P: virudDamanizwam .
 
-044.32F: viDAsyati .
-044.32A: viDAsyati .
+044.32F: na jAne krudDaH svAmI kiM viDAsyati .
+044.32A: na jAne krudDaH svAmI kim viDAsyati .
+; viDA to do
 
-044.31-32E:  or, retire to a distance from this wood: else the consequence will be disastrous (adverse) to you. I don't kuow what our royal master, if angry, will do.
+044.31-32E:  or, retire to a distance from this wood: else the consequence will be disastrous (adverse) to you. I don't know what our royal master, if angry, will do.
 
 044.33F: tato deSavyavahArAnaBijYaH saMjIvakaH saBayamupasftya
-044.33A: tataH deSavyavahArAn aBijYaH saMjIvakaH saBayam upasftya
+044.33A: tataH deSa-vyavahAra-anaBijYaH saMjIvakaH saBayam upasftya
+; vyavahAra conduct, custom; anaBijYa not knowing;
 
 044.34F: sAzwANgapAtaM karawakaM praRatavAn . taTA coktam  --
 044.34A: sAzwANgapAtam karawakam praRatavAn . taTA ca uktam --
+; praRatavat bowing
 
 044.33-34E: Then Samjivaka, ignorant of the ways and manners of the country, advanced with fear and made a profound bow to Karataka. For it is said,
 
 044.35F: matireva balAd garIyasI yadaBAve kariRAmiyaM daSA .
 044.35A: matiH eva balAd garIyasI yad aBAve kariRAm iyam daSA .
+; yad for; karin 'having a trunk', elephant
 044.35P: kariRAmiyaM daSA -- dfSyamAnA daSA . satyAmapi SaktO manuzyADInatA ityarTaH .
 
 044.36F: iti GozayatIva qiRqimaH kariRo hastipakAhataH kvaRan .. 85..
-044.36A: iti Gozayati iva qiRqimaH kariRaH hastipakAhataH kvaRan .. 85..
+044.36A: iti Gozayati iva qiRqimaH kariRaH hastipaka-AhataH kvaRan .. 85..
+; qiRqima a drum, great noise; hastipaka elephant keeper; Ahata struck
+; kvaR to sound
 044.36P: qiRqimo vAdyaBedaH .
 044.36P+: hastipaka - hastyArohaH .
 044.36P++: kariRaH karipfzwasTaH iti yAvat .
@@ -8168,6 +8193,7 @@
 044.37F: aTa saMjIvakaH
 044.37A: aTa saMjIvakaH
 
+; jim start
 044.38F: sASaNkamAha -- senApate kiM mayA kartavyam tadaBiDIyatAm .
 ; aBiDIyatAm ipv-p 3s aBI-DI  (to be considered)
 044.38A: sASaNkam Aha -- senApate kim mayA kartavyam tad aBiDIyatAm .
@@ -14645,8 +14671,8 @@
 088.03-05E: Then in the morning Pratyutpannamati, being caught in the net, feigned himself dead and so remained. Thereafter being removed from the net he jumped to the utmost of his power and entered deep water. While Yadbhavishya being caught by the fishermen was killed.
 
 ; 02-09-2021
-
-088.06F: ato'haM bravImi -- anAgataviDAtA ityAdi .. tadyaTAhamanyadhradamadya
+; 'yad hrad' space added for iast transliteration invertibility.
+088.06F: ato'haM bravImi -- anAgataviDAtA ityAdi .. tadyaTAhamanyad hradamadya
 088.06A: ataH aham bravImi -- anAgataviDAtA ityAdi .. tat yaTA aham anyat hradam adya
 
 088.07F: prApnomi taTA kriyatAm . haMsAvAhatuH -- 
