@@ -15,7 +15,8 @@ def convert(line,tranin,iline):
  m = re.search(r'^([0-9.-]+)([A-Z+]+): (.*)$',line)
  if not m:
   print('convert Format ERROR line %s\n%s' % (iline+1,line))
-  exit(1)
+  # exit(1)
+  return line
  a = m.group(1)
  cat = m.group(2)
  t = m.group(3)

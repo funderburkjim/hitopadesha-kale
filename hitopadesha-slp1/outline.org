@@ -19,15 +19,16 @@
     012.05 end of story
 ** 012.06 laGupatanakanAmA kAkaH hiraRyakam Aha
 ** 012.19 kaTA 2: SfgAla-mfga-kAkAH (hiraRyakena kaTitA)
-** 012.42 kaTA 3 : mArjAragfDrO (laGupatanakena kaTitA)
-   kAkaH SfgAlam vacati
+** 012.42 kaTA 3 : mArjAragfDrO (subudDinA kaTitA)
+   jaradgavanAmA gfDraH
+   dIrGakarRanAmA mArjAraH
 ** 014.28 end of kaTA 3
    kakaSfgAlO vivadataH
    SfgAlaH sasyakzetram mfgAya kaTayati.
    pASe mfgo badDaH 
    kAkena mfgo rakzitaH
    SfgAlo hataH
-   016.30  
+   016.30  end of kaTA 2
    vAyasaH mUzikaH ca mUzikam drazwum gacCataH
 ** 019.06 begin kaTA 4 (hiraRyakena kaTitA)
 ** 019.19 begin kaTA 5 (vIRAkarRena kaTitA)
@@ -46,4 +47,7 @@
 ** 036.16: kaTA 1 The monkey and the wedge. told by karakawa.
 ** 036.25: kaTA 1 end
 ** 037.01: kaTA 2 (donkey beaten for braying). told by karakawa
+** and here is another section
+***  another subsection
+
 ** 037.27: kaTA 2 end
