@@ -3419,7 +3419,6 @@
 
 018.01-02E: Again.  Divulging a secret, begging, hard-heartedness, fickleness of mind, anger, faithlessness and gambling -- these are the faults in a friend.
 
-; typo usha : दूषणपि -> दूषणमपि 
 018.03F: अनेन वचनक्रमेण तदेकदूषणमपि त्वयि न लक्ष्यते । यतः ।
 018.03A: अनेन वचन-क्रमेण तद् एक-दूषणम अपि त्वयि न लक्ष्यते । यतः ।
 ; vacana-krama speech-step; lakz to mark
@@ -4256,28 +4255,30 @@
 022.01-02E: Better to abandon life than to have a liking for the words of the wicked; better to live on alms than to have the happiness of enjoying another's wealth.
 
 ; 4-line shloka
-; start usha उषा 
 022.03F: वरं शून्या शाला न च खलु वरं दुष्टवृषभो
 022.03A: वरम् शून्या शाला न च खलु वरम् दुष्ट-वृषभः
 ; SUnya empty; SAlA stable (house); Kalu ind. indeed; duzwa bad, vfzaBa bull (ox)
 
 022.04F: वरं वेश्या पत्नी न पुनरविनीता कुलवधूः ।
 022.04A: वरम् वेश्या पत्नी न पुनर् अ-विनीता कुल-वधूः ।
-; veSyA courtezan; avinItA immodest; kula family, vaDU young wife;
-
+; veSyA courtezan ; avinItA immodest; kula family, vaDU young wife;
+; 3 kinds of patnI (Darma-patnI, arTa-patnI, kAma-patnI) saha-gamanam, satI
+; 
 022.05F: वरं वासोऽरण्ये न पुनरविवेकाधिपपुरे
 022.05A: वरम् वासः अरण्ये न पुनर् अविवेक-अधिप-पुरे
 ; aviveka undiscriminating, aDipa ruler
 
 022.06F: वरं प्राणत्यागो न पुनरधमानामुपगमः ॥ १३८ ॥
 022.06A: वरम् प्राण-त्यागः न पुनर् अधमानाम् उपगमः ॥ १३८ ॥
-; aDama low;
+; aDama low; kft-suffix (gamaH) takes 6th case (aDamAnAm) in place of 2nd case
 
 022.03-06E: Better to have an empty cow-pen than a naughty ox; better to have a courtesan for wife than an immodest (ill-trained) woman of family; better a residence in a forest than in the city of a thoughtless king; better is the abandonment of life than approaching the base (with a request).
 
+; आर्या meter
 022.07F: अपि च । सेवेव मानमखिलं ज्योत्स्नेव तमो जरेव लावण्यम् ।
 022.07A: अपि च । सेवा इव मानम् अखिलम् ज्योत्स्ना इव तमः जरा इव लावण्यम् ।
-; sevA service; mAna arrogance; a-Kila without a gap, complete;
+; sevA service; mAna arrogance
+; Kila empty; a-Kila without a gap, complete;
 ; jyotsnA moonlight
 ; jarA old age; lAvaRya beauty (lavaRa salt, tasteful, beautiful)
 
@@ -4302,17 +4303,22 @@
 
 022.11F: पल्लवग्राहि पाण्डित्यं क्रयक्रीतं च मैथुनम् ।
 022.11A: पल्लव-ग्राहि पाण्डित्यम् क्रय-क्रीतम् च मैथुनम् ।
-; pallava shoot (plant), grAhin taking, pallava-grAhi superficial;
-; pARqitya scholarship; kraya buying, krIta bought; 
+; pallava shoot (plant), grAhin taking, pallava-grAhi superficial
+; pallava pad (foot), lU (to cut or break), ap (affix) [wilson]
+; skd shows from root 'pal' (to go)
+; pARqitya scholarship;
+; kraya buying, krIta bought
+; krayakrIta bought [usha] bought by buying (contrast bought by barter)
 022.11P: पल्लवग्राहि पल्लवं ग्रहीतुं शीलमस्य अल्पं , अनर्थकं वा ।
 
 022.12F: भोजनं च पराधीनं तिस्रः पुंसां विडंबनाः ॥ १४० ॥
 022.12A: भोजनम् च पर-अधीनम् तिस्रः पुंसाम् विडंबनाः ॥ १४० ॥
-; aDIna dependant; tisraH f. plural tri; viqaMbanA disgrace (qamb to push)
+; aDIna dependent; para-aDIna subject to another's will
+; tisraH f. plural tri; viqaMbanA disgrace (qamb to push)
 
 022.11-12E: Superficial learning, sexual enjoyment obtained by payment, and dependence on others for one's bread - these three are humiliations to men.
 
-; not anuzwup meter
+; not anuzwup meter  
 022.13F: रोगी चिरप्रवासी परान्नभोजी परावसथशायी ।
 022.13A: रोगी चिर-प्रवासी पर-अन्न-भोजी पर-अवसथ-शायी ।
 ; rogin sickness; pravAsin dwelling abroad; Bojin eating;
@@ -4325,10 +4331,9 @@
 
 022.13-14E: A sick man, one in long exile, one eating another's food, and one sleeping (living) in the house of another:  the life which such a man lives is as good as death, while death is rest to him.
 
-; Usha ityalocyApi -> ityAlocyApi (typo)
 022.15F: इत्यालोच्यापि लोभात्पुनरप्यर्थं ग्रहीतुं ग्रहमकरवम् । तथा चोक्तम् ।
 022.15A: इति आलोच्य अपि लोभात् पुनर् अपि अर्थम् ग्रहीतुम् ग्रहम् अकरवम् । तथा च उक्तम् ।
-; graham kf: 'to decide' (Kale); 
+; graham kf: 'to decide' ; 
 022.15-15E: Although I considered thus, yet, from avarice, I made up my mind to hoard wealth. For it is said,
 
 022.16F: लोभेन बुद्धिश्चलति लोभो जनयते तृषाम् ।
@@ -4337,13 +4342,13 @@
 
 022.17F: तृषार्तो दुःखमाप्नोति परत्रेह च मानवः ॥ १४२ ॥
 022.17A: तृषार्तः दुःखम् आप्नोति परत्र इह च मानवः ॥ १४२ ॥
-; tfzA-Arta (one) afflicted by thirst); paratra hereafter;
+; tfzA-Arta (one) afflicted by thirst); paratra hereafter (world after death before next birth);
 
 022.16-17E: Judgment is led astray (warped) by avarice; avarice begets desire; and a man troubled by desire meets with misery both here and hereafter.
 
 022.18F: ततोऽहं मन्दं मन्दमुपसर्पस्तेन वीणाकर्णेन जर्जरवंशखण्डेन ताडितोऽचिन्तयम् --
 022.18A: ततस् अहम् मन्दम् मन्दम् उपसर्पः तेन वीणाकर्णेन जर्जर-वंश-खण्डेन ताडितः अचिन्तयम् --
-; mandam slowly; 
+; mandam slowly; jarjara decrepit, broken
 022.18P: जर्जरः जीर्ण श्वासौ वंशखण्डश्च तेन ।
 
 022.19F: लुब्धो ह्यसंतुष्टो नियतमात्मद्रोही भवति । तथा च ।
@@ -4373,9 +4378,9 @@
 022.23A: कुतः तद् धन-लुब्धानाम् इतः च इतः च धावताम् ॥ १४४ ॥
 ; itaScetaSca here and there
 ; DAvat pres. part. active DAv to run
+
 022.22-23E: Again. How can that happiness, which is enjoyed by the tranquil-minded, who are satisfied with the nectar of contentment, be theirs, who, attracted by the (lust of) wealth, run here and there?
 
-; Usha: typo tenADitaM -> tenADItaM
 022.24F: किं च । तेनाधीतं श्रुतं तेन तेन सर्वमनुष्ठितम् ।
 022.24A: किं च । तेन अधीतम् श्रुतम् तेन तेन सर्वम् अनुष्ठितम् ।
 ; aDIta studied; anuzWita followed;
@@ -4412,7 +4417,7 @@
 022.28-29E: For. Even a hundred Yojanas (800 miles) are no distances to him who is troubled (spurred on) by thirst; while he, who is content, has no regard even for a thing that is actually in his hand.
 
 022.30F: तदत्रावस्थोचितकार्यपरिच्छेदः श्रेयान् ।
-; avasTa-ucita-kArya-paricCedaH 
+; avasTA-ucita-kArya-paricCedaH 
 ; 'determination of proper action in situation'
 022.30A: तद् अत्र अवस्था-उचित-कार्य-परिच्छेदः श्रेयान् ।
 ; avasTA situation, paricCeda judgment (cutting) ; Sreyas better; 
@@ -4421,7 +4426,7 @@
 
 022.30-30E: It will be advisable, therefore, to decide what to do under the present circumstances.
 
-; not anuzwuB
+; not anuzwuB, AryA
 022.31F: को धर्मो भूतदया किं सौख्यमरोगिता जगति जन्तोः ।
 022.31A: कः धर्मः भूत-दया किम् सौख्यम् अरोगिता जगति जन्तोः ।
 ; dayA compassion; sOKya welfare, happiness (suKa)
@@ -4431,11 +4436,11 @@
 022.32A: कः स्नेहः सद्भावः किम् पाण्डित्यम् परिच्छेदः ॥ १४८ ॥
 ; sneha affection; sadBAva goodness; pARqitya wisdom (Kale)
 
-022.31-32E: What is a man's (true) duty in this world? Compassion to creatures. What is (real) happiness? Health (lit. freedom from disease). What is affection? Good feeling. And what is wisdom? Decision. 
+022.31-32E: What is a man's (true) duty in this world? Compassion to creatures. What is (real) happiness? Health (lit. freedom from disease). What is affection? Good feeling. And what is wisdom? Decision .
 
 023.01F: तथा च । परिच्छेदो हि पाण्डित्यं यदापन्ना विपत्तयः ।
 023.01A: तथा च । परिच्छेदः हि पाण्डित्यम् यदा आपन्नाः विपत्तयः ।
-; Apanna entered; vipatti misfortune;
+; Apanna have come; vipatti misfortune;
 
 023.02F: अपरिच्छेदकर्तॄणां विपदः स्युः पदे पदे ॥ १४९ ॥
 023.02A: अपरिच्छेद-कर्तॄणाम् विपदः स्युः पदे पदे ॥ १४९ ॥
@@ -4467,7 +4472,8 @@
 
 023.06F: विचार्य खलु पश्यामि तत्सुखं यत्र निर्वृतिः ॥ १५१ ॥
 023.06A: विचार्य खलु पश्यामि तद् सुखम् यत्र निर्वृतिः ॥ १५१ ॥
-; vicArya having examined; nir-vfti rest (without selecting, vf to choose)
+; vicArya having examined
+; nir-vfti rest (Final emancipation from existence, WIL) (affirmative particle (WIL), vf to choose)
 023.06P: सुखं -- सुखकरम् ।
 
 023.05-06E: Again. Of the two -- water obtained with ease (lit. without trouble) and delicious food attended with fear, on consideration, I find, indeed, that to be conducive to happiness, wherein lies ease.
@@ -4485,6 +4491,7 @@
 023.09F: द्रुमालयं पक्वफलाम्बुभोजनम् ।
 023.09A: द्रुम-आलयम् पक्व-फल-अम्बु-भोजनम् ।
 ; druma tree, Alaya house [(ifc.) abode] [A-lI to come close to]
+; abode under a tree.
 ; pakva ripe, ambu water, Bojana food
 023.09P: द्रुमालयम् द्रुम एव आलयः यस्मिन् (वने) ।
 023.09P+: पक्व -- पक्वानि फलानि अम्बु च भोजनं यस्मिन् ।
@@ -4507,11 +4514,10 @@
 ; anu-vftti courtesy (following); anugfhIta received
 
 023.13F: अधुना च पुण्यपरम्परभवदाश्रयः स्वर्ग एव मया प्राप्तः । 
-023.13A: अधुना च पुण्य-परम्पर-भवता आश्रयः स्वर्गः एव मया प्राप्तः । 
+023.13A: अधुना च पुण्य-परम्पर-भवद्‍-आश्रयः स्वर्गः एव मया प्राप्तः । 
 ; parampara one following the other; ASraya refuge; svarga heaven;
 
 023.12-13E: Then by the manifestation of the fruit of my religious merit, I was favoured with friendly intercourse by this friend. And now, by a further continuation of merit, I have got your company, which is heaven itself.
-
 
 023.14F: यतः -- संसारविषवृक्षस्य द्वे एव रसवत्फले ।
 023.14A: यतः -- संसार-विष-वृक्षस्य द्वे एव रसवत्-फले ।
@@ -4548,7 +4554,7 @@
 023.20F: पश्चात्तापयुतो जरापरिगतः शोकाग्निना दह्यते ॥ १५४ ॥
 023.20A: पश्चात्ताप-युतः जरा-परिगतः शोक-अग्निना दह्यते ॥ १५४ ॥
 ; paScAt-tApa = 'after-pain' = regret; yuta joined with;
-; jarA old age, parigata surrounded, enclosed; Soka sorrow
+; jarA old age, parigata surrounded, enclosed, ; Soka sorrow
 023.20P: जरापरिगतः जरयाभिभूतः सन् ।
 
 023.16-20E: Manthara said . Riches are comparable to (as unsteady as) the dust of the feet; youth flies away with the rapidity of a mountain river; life is as fleeting as a rolling drop of water, and existence as evanascent as foam. (such being the case) he, who, with his judgment deprived, does not perform his religious duties, which unfasten the bolt of the gate of heaven, being overtaken by old age and full of contrition, is burnt by the fire of sorrow.
@@ -4565,10 +4571,10 @@
 
 024.03F: तडागोदरसंस्थानां परिवाह इवाम्भसाम् ॥ १५५ ॥
 024.03A: तडाग-उदर-संस्थानाम् परि-वाहः इव अम्भसाम् ॥ १५५ ॥
-; taqAga tank, pool; udara stomach, saMsTa contained in;
-; amBas water; parivAha water outlet; 
+; taqAga tank, pool; udara cavity (stomach) , saMsTa contained in;
+; amBas water; parivAha overflow (water outlet); 
 024.03P: तडागोदर -- तडागस्य उदरे संस्था येषां तेषाम् ।
-024.03P+: पूरोत्पीडे तडागस्य परीवाहः प्रतिक्रिया । इति उत्तररामचरिते भवबूतिः ।
+024.03P+: पूरोत्पीडे तडागस्य परीवाहः प्रतिक्रिया । इति उत्तररामचरिते भवभूतिः ।
 024.03P++: आत्मनो द्रव्यं भूमिसात्कर्तुमिच्छन् यां गर्तां कृपणः खनति सा एव तेन तस्याधोगमनार्थं मार्गः क्रियते इति भावः ।
 
 024.02-03E: To spend in charity is just to save the money that is acquired, as an outlet is, in the case of water stored up in the bowels of a tank, (the only way to preserve it in a good condition). 
@@ -4590,10 +4596,10 @@
 024.06A: अन्यत् च । निज-सौख्यम् निरुन्धानः यः धन-अर्जनम् इच्छति ।
 ; nija = sva, sOKya welfare, happiness; 
 ; runD = ruD to obstruct, nirunDAna obstructing; arj to acquire
+
 ; Kale typo? padArTa -> parArTa
 ;  Kale translates 'padArTaBAravAhI' as 'bearing burdens for others'
 ;  so it must be 'parArTaBAravAhI'
-
 024.07F: परार्थभारवाहीव क्लेशस्यैव हि भाजनम् ॥ १५७ ॥
 024.07A: पर-अर्थ-भार-वाही इव क्लेशस्य एव हि भाजनम् ॥ १५७ ॥
 ; BAra burden ; kleSa affliction ; BAjana 'partaker of'; 
@@ -4612,19 +4618,20 @@
 
 024.10F: अन्यच्च । असंभोगेन सामान्यं कृपणस्य धनं परैः ।
 024.10A: अन्यत् च । असंभोगेन सामान्यम् कृपणस्य धनम् परैः ।
-; samBoga (complete) enjoyment; sAmAnya common; kfpaRa miser (pitiable);
-
+; samBoga (complete) enjoyment;
+॑; sAmAnya common (instr. with and without सह, or comp.); kfpaRa miser (pitiable);
+; here, iti = 'thus'
 024.10P: असंभोगेन -- असंभोगाद्धेतोः ।
 
 024.11F: अस्येदमिति संबन्धो हानौ दुःखेन गम्यते ॥ १५९ ॥
 024.11A: अस्य इदम् इति संबन्धः हानौ दुःखेन गम्यते ॥ १५९ ॥
 ; sambanDa connection; hAni loss;
-; DIFFICULT SYNTAX
+; gamyate 'to be understood or mean' (MW)
 024.11P: गम्यते ज्ञायते । यद्वा संबन्धः दुःखेन गम्यते युक्तः भवति इत्यर्थः ।
 
 024.10-11E: Also. A miser's wealth, inasmuch as it is not used, is the common property of others; the fact that it belonged to him is known by the sorrow caused when it is lost.
 
-; non anuzwuB
+; non anuzwuB, आर्यावृत्ति
 024.12F: दानं प्रियवाक्सहितं ज्ञानमगर्वं क्षमान्वितं शौर्यम् ।
 024.12A: दानम् प्रिय-वाक्-सहितम् ज्ञानम् अगर्वम् क्षमा-अन्वितम् शौर्यम् ।
 ; sahita accompanied by; a-garva without pride; kzamA patience;
@@ -4632,7 +4639,7 @@
 
 024.13F: वित्तं त्यागनियुक्तं दुर्लभमेतच्चतुष्टयं लोके ॥ १६० ॥
 024.13A: वित्तम् त्याग-नियुक्तम् दुर्लभम् एतत् चतुष्टयम् लोके ॥ १६० ॥
-; tyAga charity (leaving), niyukta used for (loc.)
+; tyAga charity (leaving), niyukta used for (ifc. or loc.)
 024.13P: त्यागनियुक्तम् -- त्यागे नियुक्तम् ।
 
 024.12-13E: A gift accompanied with sweet words, knowledge without vanity, courage attended by forbearance, and wealth spent in charity: these four are rare in this world.
@@ -4644,11 +4651,16 @@
 024.15F: पश्य संचयशीलोऽसौ धनुषा जम्बुको हतः ॥ १६१ ॥
 024.15A: पश्य संचय-शीलः असौ धनुषा जम्बुकः हतः ॥ १६१ ॥
 ; SIla character; asO pron. that;
+; This shloka introduces the next story.
+
+024.14-15E: It is also said. A hoard should always be made, but not too great a one; Lo ! The jackal that was in the habit of hoarding was killed by a bow.
+; hoard has negative connotations in English, so 'accumulation' might be better.
 
 024.16F: तावाहतुः -- कथमेतत् । मन्थरः कथयति ।
 024.16A: तौ आहतुः -- कथम् एतत् । मन्थरः कथयति ।
-; tO = ?
-024.14-16E: It is also said. A hoard should always be made, but not too great a one; Lo ! The jackal that was in the habit of hoarding was killed by a bow.
+; tO = hiranyaka and laghupatanaka
+
+024.15-16E: Those two said -- How is that? Manthara tells.
 
 024.17F: ॥ कथा ६ ॥
 024.17A: ॥ कथा ६ ॥
@@ -4658,7 +4670,10 @@
 024.18F: आसीत् कल्याणकटकवास्तव्यो भैरवो नाम व्याधः । स चैकदा मृगमन्विष्यन् विन्ध्याटवीम्
 024.18A: आसीत् कल्याण-कटक-वास्तव्यः भैरवः नाम व्याधः । सः च एकदा मृगम् अन्विष्यन् विन्ध्य-अटवीम्
 ; kalyARa blessed (kal to count, etc.), name of a province;
-; kawaka valley (province) (gold bracelet); vAstavya dwelling
+; kawaka valley (province) (gold bracelet);
+; kalyARakawaka royal city
+; vAstavya : tavya often = 'to be done' (so drazwavya to be seen);
+;  but here, it has an active sense:  one who dwells
 ; BErava frightful (proper name);
 ; vinDya name of low range of hills; awavI 'place to roam in', forest
 ; anviz to seek after;
@@ -4675,9 +4690,9 @@
 024.20A: ततस् तेन मृगम् भूमौ निधाय शूकरः शरेण हतः ।
 ; Sara arrow
 
-024.21F:  शूकरेणापि घनघोरगर्जनं कृत्वा
+024.21F: शूकरेणापि घनघोरगर्जनं कृत्वा
 024.21A: शूकरेण अपि घन-घोर-गर्जनम् कृत्वा
-; Gana deep (han killer), garjana rumbling (thunder)
+; Gana deep (han killer), garjana (sound of a wild boar is grunt, squeal, growl) rumbling (thunder)
 024.21P: घन -- घनानामिव घोरगर्जनम् ।
 
 024.22F: स व्याधो मुष्कदेशे हतः संश्छिन्नद्रुम इव भूमौ निपपात । यतः ।
@@ -4686,13 +4701,12 @@
 
 024.18-22E: Then the hunter placed the deer on the ground and wounded the boar with an arrow. The boar too, having set up a deep and dreadful cry (or, a cry as terrible as the thunder of clouds ) struck the hunter in the groin, upon which he fell down like a tree struck down. For,
 
-; Usha: typo SasteaM -> SastraM
 024.23F: जलमग्निर्विषं शस्त्रं क्षुद् व्याधिः पतनं गिरेः ।
 024.23A: जलम् अग्निः विषम् शस्त्रम् क्षुद्-व्याधिः पतनम् गिरेः ।
 ; kzuD hunger, kzud=kzuD in cpd. ?; vyADi disease; patana falling
 
-024.24F: निमित्तं किंचिद् आसाद्य देही प्राणैर्विमुच्यते ॥ १६२॥
-024.24A: निमित्तम् किम् चिद् आसाद्य देही प्राणैः विमुच्यते ॥ १६२॥
+024.24F: निमित्तं किंचिदासाद्य देही प्राणैर्विमुच्यते ॥ १६२॥
+024.24A: निमित्तम् किंचिद् आसाद्य देही प्राणैः विमुच्यते ॥ १६२॥
 ; nimitta cause; AsAdya A-sad causal (to cause to sit down) to meet with
 ; dehin living creature (dih to anoint); 
 ; vi-mucyate passive is abandoned
@@ -4709,6 +4723,7 @@
 
 024.26F: परिभ्रमन्नाहारार्थी तान्मृतान्मृगव्याधसर्पशूकरानपश्यत् । अचिन्तयच्च --
 024.26A: परिभ्रमन् आहार-अर्थी तान् मृतान् मृग-व्याध-सर्प-शूकरान् अपश्यत् । अचिन्तयत् च --
+; sandhi न म ण followed by स्वर is doubled.
 
 024.27F: अहो अद्य महद्भोज्यं मे समुपस्थितम् । अथवा ।
 024.27A: अहो अद्य महत् भोज्यम् मे समुपस्थितम् । अथवा ।
@@ -4723,7 +4738,10 @@
 
 024.29F: सुखान्यपि तथा मन्ये दैवमत्रातिरिच्यते ॥ १६३॥
 024.29A: सुखानि अपि तथा मन्ये दैवम् अत्र अतिरिच्यते ॥ १६३॥
-; manye I think (man); dEva n. fate; atiric to be superior (ric to empty)
+; manye I think (man); dEva n. fate; atiric to be superior (ric to empty);
+; सुख pleasures
+; अश्वात् रथः अतिरिच्यते ।
+
 024.29P: दैवमत्रा -- सुखदुःखादिदाने सर्वत्र दैवमेव प्रभवति ।
 
 024.28-29E: Just as unthought-of misfortunes befall men, so do blessings also: I think, therefore, that fate has an upper hand in these things.
@@ -4739,17 +4757,20 @@
 
 025.03F: अहिरेकं दिनं याति अद्य भक्ष्यो धनुर्गुणः ॥ १६४॥
 025.03A: अहिः एकम् दिनम् याति अद्य भक्ष्यः धनुर्-गुणः ॥ १६४॥
-; ahi snake; Bakzya food; Danus bow, guRa string;
+; ahi snake; Bakzya to be eaten; Danus bow, guRa string;
 
 025.02-03E: The man will last for a month, and the deer and the boar for two more: the serpent will serve me (as food for) a day while the bow-string should be eaten to-day.
 
 025.04F: ततः प्रथमबुभुक्षायामिदं निःस्वादु कोदण्डलग्नं स्नायुबन्धनं खादामि । इत्युक्त्वा
 025.04A: ततः प्रथम-बुभुक्षायाम् इदम् निःस्वादु कोदण्ड-लग्नम् स्नायु-बन्धनम् खादामि । इति उक्त्वा
 ; buBukzA desire to eat; niH-svAdu un-sweet (tasteless);
-; kodaRqa bow, lagna adhering to; snAyu sinew, banDana cord;
+; kodaRqa bow (ku kavate to sound), lagna adhering to; snAyu sinew, banDana cord;
 
 025.05F: तथाकृते सति छिन्ने स्नायुबन्धन उत्पतितेन धनुषा हृदि निर्भिन्नः स दीर्घरावः
-025.05A: तथाकृते सति छिन्ने स्नायु-बन्धनः उत्पतितेन धनुषा हृदि निर्भिन्नः सः दीर्घरावः
+025.05A: तथाकृते सति छिन्ने स्नायु-बन्धने उत्पतितेन धनुषा हृदि निर्भिन्नः सः दीर्घरावः
+; dhane + ut ->[sandhi] dhanay + ut ->[non-sandhi] dhana ut
+; [e o E O] + vowel -> [ay av Ay Av] + vowel -> [non-sandhi] [a a? A? A?] vowel
+
 ; taTAkfta thus done; utpatita sprung up; hfd heart; nirBinna pierced; 
 025.06F: पञ्चत्वं गतः । अतोऽहं ब्रवीमि कर्तव्यः संचयो नित्यमित्यादि । तथा च ।
 025.06A: पञ्चत्वम् गतः । अतः अहम् ब्रवीमि कर्तव्यः संचयः नित्यम् इत्यादि । तथा च ।
@@ -4762,13 +4783,14 @@
 
 025.08F: अन्ये मृतस्य क्रीडन्ति दारैरपि धनैरपि ॥ १६५॥
 025.08A: अन्ये मृतस्य क्रीडन्ति दारैः अपि धनैः अपि ॥ १६५॥
-; anye others (plural); dAra pl. wife; 
+; anye others (plural); dAra pl. wife;
+; विशेषणं  A word which particularizes, qualifies, or defines another, an adjective, attribute, epithet 
 025.07-08E: That which a wealthy man gives away or enjoys is his wealth; when he dies, others play with his wife and riches.
 
-025.09F: किं च । यद् ददासि विशिष्टेभ्यो यच्चाश्नासि दिने दिने ।
+025.09F: किं च । यद्ददासि विशिष्टेभ्यो यच्चाश्नासि दिने दिने ।
 025.09A: किम् च । यद् ददासि विशिष्टेभ्यः यद् च अश्नासि दिने दिने ।
 ; viSizwa distinguished;
-
+; दिने दिने every day, day in day;  यदा यदा whenever; यः यः whoever
 025.10F: तत्ते वित्तमहं मन्ये शेषं कस्यापि रक्षसि ॥ १६६॥
 025.10A: तद् ते वित्तम् अहम् मन्ये शेषम् कस्य अपि रक्षसि ॥ १६६॥
 ; Seza remainder; rakz prserve; kasya api 'for someone'
@@ -4778,12 +4800,18 @@
 025.11F: यातु । किमिदानीमतिक्रान्तोपवर्णनेन । यतः ।
 025.11A: यातु । किम् इदानीम् अतिक्रान्त-उपवर्णनेन । यतः ।
 ; atikrAnta gone n. the past, upavarRana description
+; p.p.p of 'go' roots can be active participles
+; kim + anena = what by this? = what is the use of this?
+
 025.11-11E: Let this pass. What is the use, now, of describing the past? For,
 
 025.12F: नाप्राप्यमभिवाञ्छन्ति नष्टं नेच्छन्ति शोचितुम् ।
 025.12A: न अप्राप्यम् अभिवाञ्छन्ति नष्टम् न इच्छन्ति शोचितुम् ।
 ; a-prApya unobtainable; aBivAYC to desire; nazwa lost; iz to desire;
 ; Suc to mourn for (to suffer); 
+; शुच् is intransitive (अकर्मक)*;  इच्छन्ति शोचितुम् is transitive (सकर्मक)
+; *ref DhatuKosha-Krishnacharya-BrihadRupavali-1924
+; (GOOGLE SHEETS 'dhatu patha final' HAS the transitiveness of Suc.
 
 025.13F: आपत्स्वपि न मुह्यन्ति नराः पण्डितबुद्धयः ॥ १६७॥
 025.13A: आपत्सु अपि न मुह्यन्ति नराः पण्डित-बुद्धयः ॥ १६७॥
@@ -4797,7 +4825,7 @@
 ; utsAha effort, sotsAha persevering; 
 025.14-14E: Therefore, friend, you should always be hopeful. Because,
 
-; non-anuzwuB
+; non-anuzwuB (उपजातिवृत्ति ?)
 025.15F: शास्त्राण्यधीत्यापि भवन्ति मूर्खा यस्तु क्रियावान् पुरुषः स विद्वान् ।
 025.15A: शास्त्राणि अधीत्य अपि भवन्ति मूर्खाः यः तु क्रियावान् पुरुषः सः विद्वान् ।
 ; aDItya having studied; kriyavat who performs an action; 
@@ -4824,8 +4852,8 @@
 ; anDa blind; hasta hand, tala palm, sTita situated; pradIpa lamp;
 ; prakAS (causal) to make visible; arTa object (thing)
 025.18P: अर्थं वस्तु ।
-
-025.17-18E: Moreover. The knowledge of theory does not do the least good to one who shrinks from a determined exertion (or perseveranoe): does a lamp, in this world, reveal a thing to a blind man although it be placed on the palm of his hand ?
+; in 168 and 169, the figure of speech is called अर्थान्तरन्यास (an अलंकार decoration)
+025.17-18E: Moreover. The knowledge of theory does not do the least good to one who shrinks from a determined exertion (or perseverance): does a lamp, in this world, reveal a thing to a blind man although it be placed on the palm of his hand ?
 
 025.19F: तदत्र सखे दशातिशेषेण शान्तिः करणीया । एतदप्यतिकष्टं त्वया न मन्तव्यम् । यतः
 025.19A: तद् अत्र सखे दशा-अतिशेषेण शान्तिः करणीया । एतद् अपि अतिकष्टम् त्वया न मन्तव्यम् । यतः
@@ -4851,7 +4879,7 @@
 
 025.23F: कापुरुषवचनमेतत् । यतः ।
 025.23A: कापुरुष-वचनम् एतत् । यतः ।
-; kApuruza coward;
+; kApuruza coward; (see kupuruza)
 
 025.22-23E: Knowing this a wise man should not leave his own place. These are the words of cowardly persons. For,
 
@@ -4867,12 +4895,13 @@
 ; 4-line shloka
 025.26F: को वीरस्य मनस्विनः स्वविषयः को वा विदेशस्तथा
 025.26A: कः वीरस्य मनस्विनः स्व-विषयः कः वा विदेशः तथा
-; manasvin wise; vizaya country; vi-deSa foreign country;
+; manasvin high-minded; who has a healthy ego (wise); vizaya country; vi-deSa foreign country;
 025.26P: मनस्विनः प्रशस्तं मनः अस्यास्तीति मनस्वी । ऽअस्मायामेधास्रजो विनिःऽ इति मतुबर्थे विनिः ।
 
 025.27F: यं देशं श्रयते तमेव कुरुते बाहुप्रतापार्जितम् ।
 025.27A: यम् देशम् श्रयते तम् एव कुरुते बाहु-प्रताप-अर्जितम् ।
 ; Sri to resort to; bAhu arm, pratApa power, arjita acquired
+; kurute rather than karoti: (a) for sake of himself (vIra), (b) Candas
 
 025.28F: यद्दंष्ट्रानखलाङ्गुलप्रहरणः सिंहो वनं गाहते
 025.28A: यद् दंष्ट्रा-नख-लाङ्गुल-प्रहरणः सिंहः वनम् गाहते
@@ -4882,10 +4911,11 @@
 
 025.29F: तस्मिन्नेव हतद्विपेन्द्ररुधिरैस्तृष्णां छिनत्त्यात्मना ॥ १७२ ॥
 025.29A: तस्मिन् एव हत-द्विप-इन्द्र-रुधिरैः तृष्णाम् छिनत्ति आत्मना ॥ १७२ ॥
-; Kale typo? Cinati -> Cinatti (3s of Cid - to cut, drive off)
-; Usha typo: ruDirEastfzRAM -> ruDirEstfzRAM
 ; dvipendra = dvipa+indra = 'lordly elephant' (Kale)
 ; ruDira blood (red); tfzRA thirst;
+; उपमा चन्द्र इव मुखम् ।  उपमा अलंकार kind
+;This shloka an example of अर्थान्तरन्यासोलंकारः ।
+
 025.29P: हत -- द्वाभ्यां पिबतीति द्विपः ।
 025.29P+: द्विपेष्विन्द्रः -- इव द्विपेन्द्रः । हतः यः द्विपेन्द्रः तस्य रुधिरैः ।
 
@@ -4898,6 +4928,7 @@
 
 026.02F: सोद्योगं नरमायान्ति विवशाः सर्वसंपदः ॥ १७३ ॥
 026.02A: स-उद्योगम् नरम् आयान्ति वि-वशाः सर्व-संपदः ॥ १७३ ॥
+; एतद् उपमालंकारस्योदाहरणम् ।
 ; sa-udyoga with exertion; vivaSa spontaneous (without will); saMpad success
 026.02P: विवशाः परतन्त्राः ।
 
@@ -4914,19 +4945,19 @@
 
 026.05F: अन्यच्च । उत्साहसंपन्नमदीर्घसूत्रं क्रियाविधिज्ञं व्यसनेष्वसक्तम् ।
 026.05A: अन्यत् च । उत्साह-संपन्नम् अदीर्घ-सूत्रम् क्रिया-विधिज्ञम् व्यसनेषु असक्तम् ।
-; utsAha effort; adIrGa-sUtra quick (short-thread);
-; kriyA religious action, viDi-jYa rule-knowing; vyasana vice (misfortune);
+; utsAha effort (zeal to act); adIrGa-sUtra quick (short-thread);
+; kriyA religious action, viDi-jYa rule-knowing; vyasana vice (addiction) (misfortune);
 ; asakta non-attachment (non-addiction Kale)
 026.05P: क्रियाविधिज्ञं -- क्रिया च विधिः शास्त्राज्ञा च क्रियाविधी तौ जानीते इति तम् ।
 
-026.06F: शूरं कृतज्ञं दृढसौहृदं च लक्ष्मीः स्वयं याति निवास-हेतोः ॥ १७५॥
+026.06F: शूरं कृतज्ञं दृढसौहृदं च लक्ष्मीः स्वयं याति निवासहेतोः ॥ १७५॥
 026.06A: शूरम् कृत-ज्ञम् दृढ-सौहृदम् च लक्ष्मीः स्वयम् याति निवास-हेतोः ॥ १७५॥
-; SUra heroic; kfta-jYa grateful, correct in conduct;
+; SUra heroic; kfta-jYa grateful (one who knows (and is greatful) for what has been done; लक्ष्मी prosperity in all its forms (ref. poet माघः)
 ; dfQa firm, sOhfda friend (friendship Kale); nivAsa residence, hetu cause (?) 
 
 026.05-06E: Again. The goddess of wealth goes, of her own Accord, for residence, to him who is endowed with energy, who is prompt in action, who knows the theory and practice of a thing, who is not addicted to vices, and who is brave, grateful and firm in friendship. 
 
-; 4-line Shloka
+; 4-line Shloka शिखरिणीवृत्तिः ( शिवमहिम्नस्तोत्र uses this)
 026.07F: विशेषतश्च । विनाप्यर्थैर्वीरः स्पृशति बहुमानोन्नतिपदं
 026.07A: विशेषतः च । विना अपि अर्थैः वीरः स्पृशति बहुमान-उन्नति-पदम्
 ; viSezata especially; arTa wealth; spfS to touch (obtain);
@@ -4957,7 +4988,7 @@
 
 026.11F: धनवान् इति हि मदस्ते किं गतविभवो विषादमुपयासि ।
 026.11A: धनवान् इति हि मदः ते किम् गत-विभवः विषादम् उपयासि ।
-; Danavat rich; mada pride; viBava power, wealth
+; Danavat rich; mada pride; viBava power, wealth; किम् why?
 ; vizAda despair ; upa-yA to approach;
 
 026.12F: करनिहतकन्दुकसमाः पातोत्पाता मनुष्याणाम् ॥ १७७॥
@@ -4966,28 +4997,28 @@
 ; pAta falling, utpAta rising
 
 026.11-12E: Why should you be proud when you have wealth, and why should you be sorry when you have lost it? The ups and downs (in the life) of man are like (risings and fallings of) a ball struck with the hand.
-; 
+; महाप्राण aspirated , अल्पप्राण non-aspirated 
 026.13F: अपरं च । अभ्रच्छाया खलप्रीतिर्नवसस्यानि योषितः ।
 026.13A: अपरम् च । अभ्र-च्छाया खल-प्रीतिः नव-सस्यानि योषितः ।
 ; aBra cloud, CAyA shade (Co to cut off); Kala low, mischievous;
-; prIti fondness; nava new, sasya grain; yozit woman;
+; prIti fondness; nava new, sasya grain; yozit girl, maiden;
 
 026.14F: किंचित्कालोपभोग्यानि यौवनानि धनानि च ॥ १७८ ॥
 026.14A: किंचिद्-काल-उपभोग्यानि यौवनानि धनानि च ॥ १७८ ॥
-; kiMcid a little; kAla time; upaBogya to be enjoyed; yOvana youth;
+; kiMcid ind. a little; kAla time; upaBogya to be enjoyed; yOvana youth;
 
 026.13-14E: Again. The shadow of clouds, the friendship of a wicked man, new corn, women, youth and wealth are to be enjoyed but for a short while.
 
-026.15F: वृत्त्यर्थं नातिचेष्टते सा हि धात्रैव निर्मिता ।
-026.15A: वृत्ति-अर्थम् न अति-चेष्टते सा हि धात्रा एव निर्मिता ।
+026.15F: वृत्त्यर्थं नातिचेष्टेत सा हि धात्रैव निर्मिता ।
+026.15A: वृत्ति-अर्थम् न अति-चेष्टेत सा हि धात्रा एव निर्मिता ।
 ; vftti livelihood, arTa purpose; cezw to exert one's self;
-; sA refers to vftti?; DAtf creator (DAtrA 3s); nir-mA to provide;
+; sA refers to vftti?; DAtf creator (DAtrA 3s); nir-mA to provide;निर्मिता built
 026.15P: वृत्त्यर्थं -- जीविकालाभार्थम् ।
 
 026.16F: गर्भादुत्पतिते जन्तौ मातुः प्रस्रवतः स्तनौ ॥ १७९॥
 026.16A: गर्भात् उत्पतिते जन्तौ मातुः प्रस्रवतः स्तनौ ॥ १७९॥
 ; garBa womb; ut-patita risen;  mAtuH 6s; jantu creature (jantO 7s);
-; stanO du. stana breast; prasravataH 6s, pra-sru to flow forth;
+; stanO du. stana breast; prasravataH sru pre 3d, pra-sru to flow forth;
 
 026.15-16E: One should not work too hard for livelihood : for that is provided by the creator: so soon as a creature is born, the breasts of the mother overflow with milk.
 
@@ -5002,7 +5033,7 @@
 
 026.17-18E: Moreover, friend. He who made the swans white, the parrots green, and the peacocks of a varied colour, will provide for your sustenance.
 ; Biblical passage Matthew 6:25
-; Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? 26Look at the birds of the air: They do not sow or reap or gather into barns—and yet your heavenly Father feeds them. Are you not much more valuable than they?
+; Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air: They do not sow or reap or gather into barns—and yet your heavenly Father feeds them. Are you not much more valuable than they?
 
 026.19F: अपरं च । सतां रहस्यं शृणु मित्र ।
 026.19A: अपरम् च । सताम् रहस्यम् शृणु मित्र ।
@@ -5017,7 +5048,7 @@
 026.21F: मोहयन्ति च संपत्तौ कथमर्थाः सुखावहाः ॥ १८१॥
 026.21A: मोहयन्ति च संपत्तौ कथम् अर्थाः सुख-आवहाः ॥ १८१॥
 ; muh (causal) to stupefy; saMpatti prosperity; Avaha bringing;
-; kaTam how?; arTAH riches;
+; kaTam how?; arTAH riches [plural indicates abundance]
 
 026.20-21E: How can riches be conducive to happiness, since they cause trouble in their acquisition, give pain in adversity (by their want) and stupefy the mind in prosperity? 
 
@@ -5040,6 +5071,7 @@
 026.24F: यतः । यथा ह्यामिषमाकाशे पक्षिभिः श्वापदैर्भुवि ।
 026.24A: यतः । यथा हि आमिषम् आकाशे पक्षिभिः श्वापदैः भुवि ।
 ; Amiza flesh, prey (neut.) ; AkASa sky; SvApada beast;
+; Buvi BU f. sg. loc. the earth
 
 026.25F: भक्ष्यते सलिले नक्रैस्तथा सर्वत्र वित्तवान् ॥ १८३॥
 026.25A: भक्ष्यते सलिले नक्रैः तथा सर्वत्र वित्तवान् ॥ १८३॥
@@ -5083,7 +5115,7 @@
 027.04F: धनं तावद् असुलभं लब्धं कृच्छ्रेण रक्ष्यते ।
 027.04A: धनम् तावत् असुलभम् लब्धम् कृच्छ्रेण रक्ष्यते ।
 ; tAvat  first; a-su-laBa not easily obtained; kfcCra difficulty;
-; pAl (passive) is protected; 
+; रक्ष्यते (passive) is protected; 
 
 027.05F: लब्धनाशो यथा मृत्युस्तस्मादेतन्न चिन्तयेत् ॥ १८६॥
 027.05A: लब्ध-नाशः यथा मृत्युः तस्मात् एतद् न चिन्तयेत् ॥ १८६॥
@@ -5094,10 +5126,10 @@
 027.06F: तृष्णां चेह परित्यज्य को दरिद्रः क ईश्वरः ।
 027.06A: तृष्णाम् च इह परित्यज्य कः दरिद्रः कः ईश्वरः ।
 
-027.07F: तस्याश्चे प्रसरो दत्तो दास्यं च शिरसि स्थितम् ॥ १८७॥
+027.07F: तस्याश्चेत्प्रसरो दत्तो दास्यं च शिरसि स्थितम् ॥ १८७॥
 027.07A: तस्याः चेद् प्रसरः दत्तः दास्यम् च शिरसि स्थितम् ॥ १८७॥
 ; tasyAH 6 fem. (refer tfzRA)
-; ced and;  prasara going forth; datta given; dAsya servitude;
+; ced if;  prasara going forth (free scope expansion); datta given; dAsya servitude;
 ; Siras head, sTita standing, situated (Sirasi sTita 'immediate result' - Kale)
 027.07P: प्रसरः -- अवकाशः ।
 
@@ -5151,7 +5183,8 @@
 027.15F: गजानां पङ्कमग्नानां गजा एव धुरंधराः ॥ १९०॥
 027.15A: गजानाम् पङ्क-मग्नानाम् गजाः एव धुरं-धराः ॥ १९०॥
 ; paNka mud; magna plunged, immersed (majj to sink)
-; Duram-Dara beast of burden (Dura yoke, burden Df, Dara bearing)
+; Duram-Dara beast of burden 
+; धुर्व् धूर्व् वा  हिंसायाम् . re धुर yoke. There is a category of samAsa which keep case ending.
 
 027.15P: धुरंधराः धुरं धारयन्तीति । गजोद्धरणभारं निर्वोढुं क्षमाः इत्यर्थः ।
 
@@ -5180,7 +5213,7 @@
 027.19A: अथ कदा चिद् चित्राङ्गनामा मृगः केन अपि त्रासितः तत्र आगत्य मिलितः । ततः
 ; citra-aNga speckled limb (proper name);
 ; trAsi-tas, trAsin fearful (tras to fear, causal to frighten)
-; nAmA grammatical form ?
+; nAmA grammatical form m. nom. sg.
 ; milita come together, met;
 
 027.20F: तत्पश्चादायान्तं भयहेतुमालोक्य मन्थरो जलं प्रविष्टः । मूषिकश्च विवरं गतः ।
@@ -5204,20 +5237,21 @@
 027.21-22E: The crow flew up and perched on the top of a tree. Then Laghupatanaka, looking to a great distance, found that no one that would cause fright was coming. Then in pursuance of his words all of them again joined company and sat just there. 
 
 027.23F: मन्थरेणोक्तं -- भद्रम् । मृग स्वागतम् । स्वेच्छयोदकाद्याहारोऽनुभूयताम् । अत्रावस्थानेन
-027.23A: मन्थरेण उक्तम् -- भद्रम् । मृग स्वागतम् । स्वेच्छया उदकादि आहारः अनुभूयताम् । अत्र अवस्थानेन
-; Badram ind. good. su-Agatam n. welcome; udaka water; anuBU to attain;
+027.23A: मन्थरेण उक्तम् -- भद्रम् । मृग स्वागतम् । स्वेच्छया उदकादि-आहारः अनुभूयताम् । अत्र अवस्थानेन
+; Badram ind. good. su-Agatam n. welcome; udaka water; anuBU to attain (3s ipv-p);
 ; avasTAna residing
 
 027.24F: वनमिदं सनाथीक्रियताम् । चित्राङ्गो ब्रूते -- लुब्धकत्रासितोऽहं भवतां शरणमागतः । 
 027.24A: वनम् इदम् सनाथी-क्रियताम् । चित्राङ्गः ब्रूते -- लुब्धक-त्रासितः अहम् भवताम् शरणम् आगतः । 
-; sanATI-kf to protect; lubDaka hunter
-; (sa-nATa with master, protector [nAT to ask, to have power]
+; sanATI-kf to protect (च्वि प्रत्ययः also भू); lubDaka hunter
+; अदूरम् दूरम् करोतु इति  दूरीकरोतु  । दुरितम् दूरीकरोतु 
+; (sa-nATa with master, protector [nAT to ask, to have power])
 
 027.23-24E: Manthara said -- Good, O deer, you are welcome. You are at liberty to enjoy provisions such as water and the like. Do you favour the forest with your residence here (lit., let the forest have a master by your residence here). Chitranga said, I who was alarmed by the hunters have come to you for protection.
 
 027.25F: भवद्भिः सह सख्यमिच्छामि । हिरण्यकोऽवदत् -- मित्र तत्तावदस्माभिः
 027.25A: भवद्भिः सह सख्यम् इच्छामि । हिरण्यकः अवदत् -- मित्र तत् तावत् अस्माभिः
-
+; तावत् as for;
 027.26F: सहायत्नेन निष्पन्नमेव भवतः । यतः ।
 027.26A: सह अयत्नेन निष्पन्नम् एव भवतः । यतः ।
 ; ayatna without effort; nizpanna arisen, completed;
@@ -5235,10 +5269,11 @@
 ; rakzita protected; vyasana misfortune;
 
 027.27-28E: A friend is known to be of four kinds, viz. -- by whole blood, by family connexion, an hereditary friend and one delivered from misfortunes.
+; (Usha) born of own body, with whom we make relations, by lineage
 
-027.29F: तद् अत्र भवता स्वगृहनिर्विशेषं स्थीयताम् । तच्छ्रुत्वा मृगः सानन्दो भूत्वा
+027.29F: तदत्र भवता स्वगृहनिर्विशेषं स्थीयताम् । तच्छ्रुत्वा मृगः सानन्दो भूत्वा
 027.29A: तद् अत्र भवता स्व-गृह-निर्विशेषम् स्थीयताम् । तद् श्रुत्वा मृगः सानन्दः भूत्वा
-; nirviSeza without disctinction, the same as;
+; nirviSeza without distinction, the same as;
 ; sAnanda joyful;
 027.29P: स्वगृहनिर्विशेषं स्वगृहात् निर्गतः विशेषः यस्मिन्कर्मणि तद्यथा तथा ।
 
@@ -5250,6 +5285,7 @@
 
 027.31F: अथ मन्थरेणोक्तम् -- सखे मृग एतस्मिन्निर्जने वने केन त्रासितोऽसि । 
 027.31A: अथ मन्थरेण उक्तम् -- सखे मृग एतस्मिन् निर्जने वने केन त्रासितः असि । 
+;  केन त्रासितः असि   by whom ARE you made afraid ?
 
 027.32F: कदाचित्किं व्याधाः संचरन्ति । मृगेणोक्तम् ।
 027.32A: कदा चिद् किम् व्याधाः संचरन्ति । मृगेण उक्तम् ।
@@ -5259,13 +5295,14 @@
 ; 
 028.01F: अस्ति कलिङ्गविषये रुक्माङ्गदो नाम नृपतिः । स च दिग्विजयव्यापारक्रमेणागत्य
 028.01A: अस्ति कलिङ्ग-विषये रुक्म-अङ्गदः नाम नृपतिः । सः च दिग्-विजय-व्यापार-क्रमेण आगत्य
-; kaliNga a country; rukma bright, gold (ruc to shine)
+; kaliNga a country (Coromandel coast); rukma bright, gold (ruc to shine)
 ; aNgada arm bracelet, rukmAngada name
 ; dig diS region, quarter; vijaya conquest
 ; vyApAra employment (pf pfRoti to be busy, only as A-pf)
-; krama step, course
+; krama step, course : in the course of his business of conquering the quarters
 028.01P: विषये देशे
 
+;  Usha start
 028.02F: चन्द्रभागानदीतीरे समावेशितकटको वर्तते । प्रातश्च तेनात्रागत्य कर्पूरसरःसमीपे
 028.02A: चन्द्र-भागा-नदी-तीरे समावेशित-कटकः वर्तते । प्रातर् च तेन अत्र आगत्य कर्पूर-सरः समीपे
 ; candraBAgA name of river; samAveSita made to enter together; kawaka royal camp
