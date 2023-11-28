@@ -226,9 +226,29 @@ Video-20231010_010149-Meeting Recording.mp4  lines= 034.13-034.16 ; shlokas= 14,
 Video-20231012_010551-Meeting Recording.mp4  lines= 034.17-034.24 ; shlokas= 16,17
 Video-20231013_003307-Meeting Recording.mp4  Refer usha_alternate_numbers.txt 
 Video-20231013_005637-Meeting Recording.mp4  lines= 034.25-034.28 ; shlokas= 18
-Video-20231016_010047-Meeting Recording.mp4  lines= 034.29-035.96 ; shlokas= 19
+Video-20231016_010047-Meeting Recording.mp4  lines= 034.29-035.06 ; shlokas= 19
+; STOP adjusting the date in the filename of the mp4 file !
+Video-20231018_010516-Meeting Recording.mp4  lines= 035.07-035-12; shlokas= NONE
+Video-20231019_010038-Meeting Recording.mp4  lines= 035.13-035.18; shlokas= 20,21,22 (23*)
+Video-20231020_004946-Meeting Recording.mp4  lines= 035.19-035.24; shlokas= 23,24,25 (26*)
+Video-20231025_010936-Meeting Recording.mp4  lines= 035.25-036.04; shlokas= 26,27
+Video-20231026_010012-Meeting Recording.mp4  lines= 036.05-036.16; shlokas= 28,29,30
+Video-20231031_005836-Meeting Recording.mp4  lines= 036.17-036.27; shlokas= NONE
+Video-20231102_010557-Meeting Recording.mp4  lines= 036.28-037.08; shlokas= 31
+Video-20231103_005419-Meeting Recording.mp4  lines= 037.09-037.16; shlokas= 32
+Video-20231108_010247-Meeting Recording.mp4  lines= 037.17-037.27; shlokas= 33,34
+Video-20231109_010457-Meeting Recording.mp4  lines= 037.28-037.36; shlokas= 35,36
+Video-20231110_010519-Meeting Recording.mp4  lines= 037.37-038.04; snlokas= 37,38,39
+Video-20231111_010020-Meeting Recording.mp4  lines= 038.05-038.10; shlokas= 40,41; त्यक्त्वा निहन्ति द्विपम् 20:00 ff
+Video-20231114_011247-Meeting Recording.mp4  lines= 038.11-038.19; shlokas= 42,43
+Video-20231116_010918-Meeting Recording.mp4  lines= 039.01-039.08; shlokas= 44,45
+Video-20231117_010719-Meeting Recording.mp4  lines= 039.09-039.18; shlokas= 46,47
+Video-20231118_010627-Meeting Recording.mp4  lines= 039.19-039.27; shlokas= 48,49
+Video-20231121_010402-Meeting Recording.mp4  lines= 039.26-039.29; shlokas= 49,50
+Video-20231122_010144-Meeting Recording.mp4  lines= 040.01-040.08; shlokas= 51,52
 
 
 windows powershell - list all mp4 filenames
 cd E:\UzaSanskritClass\
 dir *.mp4 > _mp4filenames.txt
+\(038...F:\)\|\(039...F:\)

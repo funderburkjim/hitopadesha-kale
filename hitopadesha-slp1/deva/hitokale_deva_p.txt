@@ -409,7 +409,7 @@
 003.05A: अनभ्यासे विषम् विद्या अजीर्णे भोजनम् विषम् ।
 ; aByAsa repeated practice; a-jIrRa not old, undigested ; Bojana food;
 
-; Uza corrections: vfdDasy -> vfdDasya
+; Usha corrections: vfdDasy -> vfdDasya
 003.06F: विषं सभा दरिद्रस्य वृद्धस्य तरुणी विषम् ॥ २२ ॥
 003.06A: विषं सभा दरिद्रस्य वृद्धस्य तरुणी विषम् ॥ २२ ॥
 ; saBA assembly; daridra poor, a beggar; taruRI young woman
@@ -6557,7 +6557,6 @@
 
 035.05-06E: He was observed in that condition by two jackals, named Karataka and Damanaka, the sons of his minister. Seeing him in that situation, Damanaka said to Karataka -- 
 
-; Usha start.
 035.07F: सखे करटक किमित्ययमुदकार्थी स्वामी पानीयमपीत्वा सचकितो मन्दं
 035.07A: सखे करटक किम् इति अयम् उदक-अर्थी स्वामी पानीयम् अपीत्वा सचकितः मन्दम्
 ; udaka-arTin whose object is water
@@ -6610,7 +6609,10 @@
 
 035.16F: तदंशेनापि मेधावी तपस्तप्त्वा सुखी भवेत् ॥ २१॥
 035.16A: तद्-अंशेन अपि मेधावी तपस् तप्त्वा सुखी भवेत् ॥ २१॥
-; aMSa share, portion; meDAvin wise man; tapas tap to undergo penance
+; aMSa share, portion; meDAvin intelligent person - medhas brain(wise man)
+; tapas tap to undergo penance
+॑; An intelligent person may become happy after having practiced austerities
+;  with a small portion.
 035.16P: तदंशेन शीतवातातपक्लेशांशेन ।
 035.16P+: मेधावी -- सारासारविचारणाकुशलः । शीतवातादिक्लेशाः सोढव्याश्चेद्वरं ते सोढा मोक्षप्रापकतपोर्थमिति मत्वा तपश्चरेण श्रेयो लब्ध्वा सुखी भवतीति भावः ।
 035.16P++: सेवायामङ्गीकृतायां तु सदैव क्लेशसहनमावश्यकं । तपश्चरेण च यावत्सिद्धि । इति तदंशत्वम् ।
@@ -6638,8 +6640,8 @@
 ; ehi imperative 2nd sing. of e = A+i = come; mOna silence; samAcar to practice
 035.19P: समाचर -- स्वीकुरु ।
 
-035.20F: एवमाशाग्रहग्रस्तैः क्रीडन्ति धनिनोऽर्थिभिः ॥ २३
-035.20A: एवम् आशा-ग्रह-ग्रस्तैः क्रीडन्ति धनिनः अर्थिभिः ॥ २३
+035.20F: एवमाशाग्रहग्रस्तैः क्रीडन्ति धनिनोऽर्थिभिः ॥ २३ ॥
+035.20A: एवम् आशा-ग्रह-ग्रस्तैः क्रीडन्ति धनिनः अर्थिभिः ॥ २३ ॥
 ; ASA wish, hope; graha grasping; a kind of evil spirit
 ; grasta swallowed, seized; arTin petitioner;
 035.20P: आशाग्रहग्रस्तैः -- आशा एव ग्रहः उपरागादिः तेन ग्रस्तैः ।
@@ -6671,7 +6673,7 @@
 
 ; not anuzwuB. 4-line shloka
 035.25F: अपरं च । मौनान् मूर्खः प्रवचनपटुर्वातुलो जल्पको वा
-; bAtulo -> vAtulo
+
 035.25A: अपरम् च । मौनात् मूर्खः प्रवचन-पटुः वातुलः जल्पकः वा
 ; pravacana speaking; pawu clever; mUrKa fool; vAtula windy, crazy;
 ; jalpaka talkative (jalp to chatter);
@@ -6684,7 +6686,7 @@
 ; prAyaSas generally; aBijAta born (well-born Kale); 
 035.26P: अभिजातः कुलीनः ।
 
-035.25-26E: Another consideration is this. If he (a servant) is silent, he is considered to be) stupid; if clever in talking, crazy-headed or garrulous; if forbearing, timid, if he does not bear tamely, mostly he is (set down as) not well-born; 
+035.25-26E: Another consideration is this. If he (a servant) is silent, he (is considered to be) stupid; if clever in talking, crazy-headed or garrulous; if forbearing, timid, if he does not bear tamely, mostly he is (set down as) not well-born; 
 
 036.01F: धृष्टः पार्श्वे वसति नियतं दूरतश्चाप्रगल्भः
 036.01A: धृष्टः पार्श्वे वसति नियतम् दूरतस् च अप्रगल्भः
@@ -6700,10 +6702,10 @@
 
 032.01-02E: if he stands by the side (of his master), he is audacious; but if he stands at a distance, he is not bold: the duties of servitude are extremely abstruse - not to be known even by sages having mystic powers.
 
-; not anuzwuB
+; not anuzwuB; आर्या
 036.03F: विशेषतश्च । प्रणमत्युन्नतिहेतोर्जीवितहेतोर्विमुञ्चति प्राणान् ।
 036.03A: विशेषतः च । प्रणमति उन्नति-हेतोः जीवित-हेतोः विमुञ्चति प्राणान् ।
-; praRam to bow down; unnati rising; hetu cause, hetoH case 6;
+; praRam to bow down; unnati rising; hetu cause, hetoH case 5,6;
 ; jIvita livelihood
 036.03P: प्रणमति इ° -- उन्नतिं उच्चैः पदमिच्छन्तः प्रणमन्ति सा प्रणतिरेव उच्चत्वविघातिनी ।
 
@@ -6728,7 +6730,7 @@
 
 036.07F: अचिरेणैव ये तुष्टाः पूरयन्ति मनोरथान् ॥ २८॥
 036.07A: अचिरेण एव ये तुष्टाः पूरयन्ति मनोरथान् ॥ २८॥
-; a-cira brief; tuzwa pleased; pUrayanti causal pf, to fill;
+; a-cira brief; tuzwa pleased; pUrayanti causal pF, to fill;
 ; manas-raTa (raTa #2 joy), wish;
 
 036.06-07E: How are great kings not to be served with effort (diligence), who, when pleased, grant desires in a short time? (i.e. they must be served by all means).
@@ -6740,7 +6742,10 @@
 036.08P: चामरोद्धूतसम्पदः चामराणि उद्धूतानि यासु तादृशः सम्पदः ।
 
 036.09F: उद्दण्डधवलच्छत्रं वाजिवारणवाहिनी ॥ २९॥
-; cCatra  : why the extra 'c'?  MW spells with two t's: Cattra
+; DavalacCatra  : why the extra 'c'?  Grammar: add t before C, the change to c.
+; P. 6.1.71 ह्रस्वस्य पिति कृति तुक्  6.1.73  छे च  (also 1.1.46)
+; MW spells with two t's: Cattra
+;
 036.09A: उद्दण्ड-धवल-च्छत्रम् वाजि-वारण-वाहिनी ॥ २९॥
 ; uddaRqa raised staff; Davala white; Cattra umbrella;
 ; vAjin horse (swift); vAraRa elephant; vAhinI an army, a host (bunch of);
@@ -6795,19 +6800,19 @@
 036.17-18E: In a place near the holy forest in the country of Magadha, a certain man of the writer class, Subhadatta by name, was having a convent built. 
 
 036.19F: तत्र करपत्रदार्यमाणैकस्तम्भस्य कियद्दूरस्फाटितस्य
-036.19A: तत्र कर-पत्र-दार्यमाण-एकस्तम्भस्य कियत् दूर-स्फाटितस्य
+036.19A: तत्र कर-क़्पत्र-दार्यमाण-एकस्तम्भस्य कियत् दूर-स्फाटितस्य
 ; kara-pattra a saw (hand-leaf)
 ; dAryamARa splitting (middle act. part. of causal of dF);
-; stamBa post; dUra distance; sPAwita cleft, torn;
+; stamBa post; dUra distance; sPAwita split open, cleft, torn;
 
 036.19P: करपत्र -- करपत्रेण क्रकचेन दार्यमानश्चासौ एकस्तम्भश्च तस्य ।
 036.19P+: स्फाटितस्य -- पाटितस्य कृत्तस्य ।
 
-036.20F: काष्ठ-खण्ड-द्वय-मध्ये कीलकं निधाय सूत्र-धारेण धृतम् ।
-036.20A: काष्ठखण्डद्वयमध्ये कीलकम् निधाय सूत्रधारेण धृतम् । 
+036.20F: काष्ठखण्डद्वयमध्ये कीलकम् निधाय सूत्रधारेण धृतम् । 
+036.20A: काष्ठ-खण्ड-द्वय-मध्ये कीलकं निधाय सूत्र-धारेण धृतम् ।
 ; kAzWa piece of wood, timber; KaRqa broken; dvaya  two; maDya middle;
 ; kIlaka = wedge; sUtraDAra = carpenter; Dfta supported, held, placed;
-036.20P: सूत्रधारेण -- स्थपितिना त्वष्ट्रा ।
+036.20P: सूत्रधारेण -- स्थपतिना त्वष्ट्रा ।
 
 036.19-20E: A carpenter had put a wedge between the two split-up parts of a beam which was being cut with a saw and which was cleft to some length. 
 
@@ -6829,14 +6834,15 @@
 
 036.24F: अनन्तरं स च सहजचपलतया महता प्रयत्नेन
 036.24A: अनन्तरम् स च सहज-चपलतया महता प्रयत्नेन
-; saha-ja innate (with-born); trembling-ness ('mischievous spirit' Kale)
+; saha-ja innate (with-born); 
 ; anantaram ind. without interval, at once; sahaja produced together, innate;
-; capala-tA fickleness; prayatna great effort; 
+; capala-tA fickleness trembling-ness ('mischievous spirit' Kale)
+; prayatna great effort; 
 
 036.25F: तं कीलकमाकृष्टवान् । आकृष्टे च कीलके चूर्णिताण्डद्वयः पञ्चत्वं गतः । 
 036.25A: तम् कीलकम् आकृष्टवान् । आकृष्टे च कीलके चूर्णित-अण्ड-द्वयः पञ्चत्वम् गतः ।
 ; AkfzwavAn = ? perfect active participle:,  pulled;
-; cUrRita smashed; aRqa-dvaya egg-pair, testicles
+; cUrRita smashed (pulverized); aRqa-dvaya egg-pair, testicles
 036.25P: पञ्चत्वं गतः मृतः ।
 
 036.24-25E: Then through the mischievous spirit natural to his species, he drew out the wedge with great effort. As soon as the wedge was pulled out, those parts were squeezed and he perished. 
@@ -6870,7 +6876,6 @@
 
 036.30-31E: Karataka replied -- Let the prime minister who has charge of all affairs do it. For, a servant must, under no circumstances, interfere with (lit, sit in discussion over) another's business. See,
 
-; Usha  carcA -> carcAM  (typo)
 036.32F: पराधिकारचर्चां यः कुर्यात् स्वामिहितेच्छया ।
 036.32A: पराधिकार-चर्चाम् यः कुर्यात् स्वामि-हित-इच्छया ।
 ; icCA desire; hita benefit;
@@ -6897,7 +6902,7 @@
 
 037.02F: अस्ति वाराणस्यां कर्पूरपटको नाम रजकः ।
 037.02A: अस्ति वाराणस्याम् कर्पूर-पटकः नाम रजकः ।
-; vArARasI city of Benares; karpUra camphor, pawa cloth;
+; vArARasI city of Benares; karpUra camphor, pawa cloth; pawaka cotton-cloth, a camp
 ; rajaka washerman (rajas dust);
 037.02P: रजकः -- निर्णेजकः ।
 
@@ -6934,7 +6939,7 @@
 
 037.09F: भद्र मम नियोगस्य चर्चा त्वया न कर्तव्या । त्वमेव किं न
 037.09A: भद्र मम नियोगस्य चर्चा त्वया न कर्तव्या । त्वम् एव किम् न
-; niyoga authority, business; 
+; niyoga authority, business; चर्चा 
 037.09P: नियोगस्य -- अधिकारस्य ।
 037.09P+: चर्चा -- विचारणा ।
 
@@ -6945,13 +6950,13 @@
 
 037.11F: निर्वृतो ममोपयोगं न जानाति । तेनाधुनापि ममाहारदाने मन्दादरः ।
 037.11A: निर्वृतः मम उपयोगम् न जानाति । तेन अधुना अपि मम आहार-दाने मन्दादरः ।
-; nirvfta satisfied; upayoga employment, use; manda-Adara careless, slow-respect;
+; nirvfta satisfied; upayoga employment, use; manda-Adara careless slow-respect;
 
-013.08-11E: The dog replied -- Friend, you should not meddle with my business. Don't you yourself know that I guard his house day and night? Since he has been happy for a long time he does not know of what use I am to him and takes but scanty care to feed me. 
+037.08-11E: The dog replied -- Friend, you should not meddle with my business. Don't you yourself know that I guard his house day and night? Since he has been happy for a long time he does not know of what use I am to him and takes but scanty care to feed me. 
 
 037.12F: यतो विना विधुरदर्शनं स्वामिन उपजीविषु मन्दादरा भवन्ति ।
 037.12A: यतः विना विधुर-दर्शनम् स्वामिनः उपजीविषु मन्दादराः भवन्ति ।
-; viDura hostile, viDura-darSana sight of danger; upajIvin dependent (servant); 
+; viDura adversity, viDura-darSana calamity-seeing; upajIvin dependent (servant); 
 037.12P: विधुरदर्शनं -- आपद् -- संकट -- दर्शनम् ।
 
 037.13F: गर्दभो ब्रूते -- शृणु रे बर्बर ।
@@ -6975,7 +6980,7 @@
 
 037.16F: भृत्यान् सम्भाषयेद्यस्तु कार्यकाले स किंप्रभुः ॥ ३२॥
 037.16A: भृत्यान् सम्भाषयेत् यः तु कार्यकाले सः किम् प्रभुः ॥ ३२॥
-; samBAz (caus.) to converse with; praBu master (powerful);
+; samBAz (caus. opt.) to converse with; praBu master (powerful);
 
 037.14-16E: He is bad servant and a bad friend (or, is he a servant? is he a friend?) who asks for reward at the time of action (in the hour of need). The dog replied -- He is a bad master (or, is he a master?) who speaks sweetly to his servants at the time of need.
 
@@ -7009,7 +7014,7 @@
 
 037.22F: पृष्ठतः सेवयेदर्कं जठरेण हुताशनम् ।
 037.22A: पृष्ठतस् सेवयेत् अर्कम् जठरेण हुत-अशनम् ।
-; pfzWatas behind the back; sev to enjoy, to server; arka sun; jaWara stomach;
+; pfzWatas behind the back; sev to enjoy, to serve; arka sun; jaWara stomach;
 ; huta oblation, aSana eating; hutASana fire; 
 037.22P: पृष्ठतः इ° -- सूर्यातपं पृष्ठे गृह्णीयात् ।
 
@@ -7032,7 +7037,7 @@
 
 037.26F: गर्दभं लगुडेन ताडयामास ।
 037.26A: गर्दभम् लगुडेन ताडयाम् आस ।
-; taq to beat;
+; लगुड A club,stick ; taq to beat;
 
 037.24-26E: With these words, he brayed aloud. Then the washerman, roused by that braying, and angry that his slumbers should have been disturbed, got up and belaboured the donkey with a stick.
 
@@ -7049,7 +7054,7 @@
 
 037.30F: न प्रयोजनम् । यत आवयोर्भक्षितशेषाहारः प्रचुरोऽस्ति ।
 037.30A: न प्रयोजनम् । यतस् आवयोः भक्षित-शेष-आहारः प्रचुरः अस्ति ।
-; prayojana need; Bakzita eaten; Seza portion; pracura much (cur to steal);
+; prayojana use [concerned with]; Bakzita eaten; Seza portion; pracura much (cur to steal);
 ; Bakzita-Seza-AhAra "food yet left after what was eaten" samAsa vigraha?
 
 037.27-30E: Hence I say -- He who interferes with another's business &c. See -- Our office is just to look for game. Let us attend to that. (After reflecting). --  But we are not concerned with that to-day. For there is plenty of food yet left after what was eaten by us. 
@@ -7079,11 +7084,13 @@
 
 037.35F: जीविते यस्य जीवन्ति विप्रा मित्राणि बान्धवाः ।
 037.35A: जीविते यस्य जीवन्ति विप्राः मित्राणि बान्धवाः ।
+; OR (usha) यस्मिन् जीवति जीवन्ति ... the life where there is support for brahamans, etc.
 ; jIvita living; vipra Brahamana;
 
 037.36F: सफलं जीवितं तस्य आत्मार्थे को न जीवति ॥ ३६॥
 037.36A: सफलम् जीवितम् तस्य आत्म-अर्थे कः न जीवति ॥ ३६॥
-; Atman self, arTa for sake of;
+; Atman self; arTa purpose,  x-arTe for sake of x [MW];
+
 037.35-36E: Fruitful is the life of him, who living, Brahmaņas, friends, and relations live; for, who does not live for his own self?
 
 037.37F: अपि च । यस्मिन् जीवति जीवन्ति बहवः स तु जीवतु ।
@@ -7104,7 +7111,7 @@
 
 038.02F: कोऽपि लक्षैः कृती कोऽपि लक्षैरपि न लभ्यते ॥ ३८॥
 038.02A: कः अपि लक्षैः कृती कः अपि लक्षैः अपि न लभ्यते ॥ ३८॥
-; lakz a lac, 100,000; kftin one who acts;
+; lakz a lac, 100,000; kftin one who has done his work, satisfied, etc.;
 
 038.01-02E: Lo! Some man becomes a servant for five puranas (a kind of inferior coin), another is satisfied with lacs, while another is not to be had even for lacs.
 
@@ -7112,10 +7119,10 @@
 038.03A: अन्यत् च । मनुष्य-जातौ तुल्यायाम् भृत्य-त्वम् अति-गर्हितम् ।
 ; manuzya-jAti mankind (man-born); tulya equal; garhita despised;
 
-038.04F: प्रथमो यो न तन्नापि स किं जीवत्सु गण्यते ॥ ३९॥
-038.04A: प्रथमः यः न तद् न अपि सः किम् जीवत्सु गण्यते ॥ ३९॥
+038.04F: प्रथमो यो न तत्रापि स किं जीवत्सु गण्यते ॥ ३९॥
+038.04A: प्रथमः यः न तत्र अपि सः किम् जीवत्सु गण्यते ॥ ३९॥
 ; gaR to count;
-; tad there, in that case (refer Bftyatvam(
+; tad there, in that case (refer Bftyatvam)
 
 038.03-04E: Again. When mankind is all equal, a state of servitude is much to be despised: but is he to be counted among the living who is not first even in that (service)?
 
@@ -7128,7 +7135,7 @@
 
 038.06F: नारीपुरुषतोयानामन्तरं महदन्तरम् ॥ ४०॥
 038.06A: नारी-पुरुष-तोयानाम् अन्तरम् महत् अन्तरम् ॥ ४०॥
-; nArI woman; toya water; antara difference;
+; nArI woman; toya water; antara difference of things, with gen.;
 
 038.05-06E: And in connexion with this, it is said-- Great is the difference between horses, elephants and metals; between kinds of wood, stones, and garments; and between women, men and water (i.e. between horse and horse &c.)
 
@@ -7144,7 +7151,7 @@
 
 038.08F: श्वा लब्ध्वा परितोषमेति न तु तत्तस्य क्षुधाशान्तये ।
 038.08A: श्वा लब्ध्वा परितोषम् एति न तु तत् तस्य क्षुधा शान्तये ।
-; paritoza satisfaction; kzuDA hunger; SAnti peace;
+; paritoza satisfaction; kzuDA hunger; SAnti peace SAntaye dat. sg.
 038.08P: क्षुधाशान्तये क्षुधानिवृत्त्यर्थम् ।
 
 038.07-08E: So also. A dog, having obtained a piece of even a fleshless bone soiled with the remnant of a few sinews and marrow, is quite delighted: it does not, however, satisfy his hunger.
@@ -7157,19 +7164,21 @@
 
 038.10F: सर्वः कृच्छ्रगतोऽपि वाञ्छति जनः सत्त्वानुरूपं फलम् ॥ ४१॥
 038.10A: सर्वः कृच्छ्र-गतः अपि वाञ्छति जनः सत्त्व-अनुरूपम् फलम् ॥ ४१॥
-; kfcCra difficulty; vAYC to desire; sattva-anurUpa according to nature;
+; kfcCra difficulty; vAYC to desire; sattva true essence, quality of goodness
+; X-anurUpa following the form of X, according to X;
 038.10P: कृच्छ्रगतः आपद्गतः ।
-038.10P+: सत्त्वानुरूपं -- सत्त्वं स्वभवः बलं वा । ऽसत्त्वं ०३८।१०फ्++: गुणे पिशाचादौ बले द्रव्यस्वभावयोःऽ इति मेदिनी ।
+038.10P+: सत्त्वानुरूपं -- सत्त्वं स्वभावः बलं वा । 
+038.10P++: ‘सत्त्वं गुणे पिशाचादौ बले द्रव्यस्वभावयोः’  इति मेदिनी ।
 
 038.09-10E: The lion, having discarded a jackal though come to his lap, kills an elephant: every man, although reduced to straits, desires a reward befitting his valour (or worth).
 
+; 4-line shloka
 038.11F: अपरं च । सेव्यसेवकयोरन्तरं पश्य ।
 038.11A: अपरम् च । सेव्य-सेवकयोः अन्तरम् पश्य ।
 ; sevya to be served; sevaka servant; antara difference;
 
 038.11-11E: Moreover, mark the difference between one deserving to be served and (one fit to be) a servant.
 
-; 4-line shloka
 038.12F: लाङ्गूलचालनमधश्चरणावपातं
 038.12A: लाङ्गूल-चालनम् अधः चरण-अवपातम्
 ; lANgUla tail; cAlana wagging; aDas down; caraRa foot; avapAta falling
@@ -7181,7 +7190,8 @@
 
 038.14F: श्वा पिण्डदस्य कुरुते गजपुङ्गवस्तु
 038.14A: श्वा पिण्डदस्य कुरुते गज-पुङ्गवः तु
-; piRqa ball, clump of food, piRqa-da ; gaja elephant; puMgava bull;
+; piRqa ball, clump of food, piRqa-da a patron
+; gaja elephant, puMgava bull, X-puMgava eminent X
 038.14P: गजपुङ्गवः -- गजश्रेश्ठः ।
 038.14P+: पुङ्गवादिशब्दास्तत्पुरुषोत्तरपदे श्रेष्ठार्थवाचका भवन्ति । तदुकतममरसिंहेन -- ऽस्युरुत्तरपदे व्याघ्रपुङ्गवर्षभकुञ्जराः । सिंहशार्दूलनागाद्याः पुंसि श्रेष्ठार्थगोचराःऽ इति ।
 
@@ -7204,7 +7214,8 @@
 038.17F: विज्ञानविक्रमयशोभिरभज्यमानम् ।
 038.17A: विज्ञान-विक्रम-यशोभिः अभज्यमानम् ।
 ; vijYAna knowlege; vikrama courage; yaSas fame; 
-; a-BajyamAnam  (BaYj passive - to break) unbreaking (MW: not being detached) (Kale invariably).
+; a-BajyamAnam  (BaYj passive - to break) unbreaking (MW: not being detached)
+; (Kale, invariably attended with + Instr.)
 ;  
 038.17P: च विक्रमः पराक्रमश्च यशः कीर्तिश्च तैः अभज्यमानमवियुक्तं अत एव प्रथितं विख्यातं सत् क्षणमपि जीव्यते ।
 
@@ -7217,7 +7228,7 @@
 
 038.19F: काकोऽपि जीवति चिराय बलिं च भुङ्क्ते ॥ ४३॥
 038.19A: काकः अपि जीवति चिराय बलिम् च भुङ्क्ते ॥ ४३॥
-; bali offering, oblation; cirAya ind. for a long time (cira dative_
+; bali offering, oblation; cirAya ind. for a long time (cira dative)
 
 038.16-19E: Again. Those who know it (i. e. what life is) call that, indeed, life which is gloriously lived by men although for a moment, and which is invariably attended with knowledge, exploit and fame: (otherwise) a crow also lives for a long time and eats an oblation.
 
@@ -7226,8 +7237,8 @@
 039.01A: परम् च । यः न आत्मजे न च गुरौ न च भृत्य-वर्गे
 ; Atma-ja son (born from self); varga group
 
-039.02F: दीने दयां न कुरुते न च बन्धु-वर्गे ।
-039.02A: दीने दयाम् न कुरुते न च बन्धुवर्गे ।
+039.02F: दीने दयां न कुरुते न च बन्धुवर्गे ।
+039.02A: दीने दयाम् न कुरुते न च बन्धु-वर्गे।
 ; dIna a poor person (dI dIyate to decay); dayA pity
 
 039.03F: किं तस्य जीवितफलेन मनुष्यलोके
@@ -7248,11 +7259,14 @@
 
 039.06F: श्रुतिसमयैर्बहुभिस्तिरस्कृतस्य ।
 039.06A: श्रुति-समयैः बहुभिः तिरस्-कृतस्य ।
-; Sruti sacred (heard) knowledge; samaya rule of conduct;
-; tiras-kfta disregarded;
-039.06P: श्रुतिसमयैः श्रुतिप्रतिपादिताचारैः । ऽसमयाः शपणाचारकालसिद्धान्तसंविदः ।ऽ इत्यमरः ।
-039.06P+: तिरस्कृतस्य तद्रहितस्य इति यावत् । शास्त्रमार्गाद् भ्रष्टस्य ।
+; Sruti sacred (heard) knowledge, esp. that from Veda;
+; samaya rule of conduct;
+; tiras-kfta disregarded;  (bereft of)
 
+039.06P: श्रुतिसमयैः श्रुतिप्रतिपादिताचारैः । ऽसमयाः शपणाचारकालसिद्धान्तसंविदः ।ऽ इत्यमरः 
+; प्रतिपादित given, bestowed; established; आचारः conduct
+039.06P+: तिरस्कृतस्य तद्रहितस्य इति यावत् । शास्त्रमार्गाद् भ्रष्टस्य ।
+; 'bereft of' explains case 3 of श्रुतिसमयैः
 039.07F: उदरभरणमात्रकेवलेच्छोः
 039.07A: उदर-भरण-मात्र-केवल-इच्छोः
 ; BaraRa bearing, maintaining; mAtra measure; mAtra-kevala 'only'
@@ -7265,7 +7279,7 @@
 039.08P: पुरुषपशोः पुरुषः पशुरिव तस्य ।
 
 039.05-08E: Also this-- What difference is there between a beast and a human beast whose intellect is void of the power of discriminating between good and bad, who sets at naught most of the rules of conduct enjoined by the sruti and whose only desire is to fill up his belly?
-
+; "who sets at naught most of the rules of conduct enjoined by the sruti; puzzling syntax
 039.09F: करटको ब्रूते --
 039.09A: करटकः ब्रूते --
 
@@ -7293,7 +7307,7 @@
 
 039.14F: भवत्युदारोऽभिमतः खलो वा ।
 039.14A: भवति उदारः अभिमतः खलः वा ।
-; udAra generous; aBimata beloved; Kala wicked
+; udAra 'gone up', high, generous; aBimata beloved; Kala wicked
 
 039.15F: लोके गुरुत्वं विपरीततां वा
 039.15A: लोके गुरुत्वम् विपरीतताम् वा
@@ -7302,7 +7316,8 @@
 
 039.16F: स्वचेष्टितान्येव नरं नयन्ति ॥ ४६॥
 039.16A: स्वचेष्टितानि एव नरम् नयन्ति ॥ ४६॥
-; cezwita action; 
+; cezwita action;
+
 039.13-16E: No one in this world is generous towards, beloved by or wicked to another: it is a man's own actions alone that lead him to greatness or to the reverse (i.e. man is the architect of his own fortune).
 
 039.17F: किं च । आरोप्यते शिला शैले यत्नेन महता यथा ।
@@ -7328,7 +7343,8 @@
 
 039.21F: तद्भद्र । स्वयत्नायत्तो ह्यात्मा सर्वस्य ।
 039.21A: तद् भद्र । स्वयत्न-आयत्तः हि आत्मा सर्वस्य ।
-; Ayatta dependent on (yam to restrain);
+; तद् thus; भद्र blessed (adj.), my good sir (mode of address)
+; Ayatta dependent on (yat to attempt);
 
 039.22F: करटको ब्रूते -- अथ भवान्किं ब्रवीति ।
 039.22A: करटकः ब्रूते -- अथ भवान् किम् ब्रवीति ।
@@ -7350,32 +7366,35 @@
 
 ; not anuzwuB
 039.26F: उदीरितोऽर्थः पशुनापि गृह्यते हयाश्च नागाश्च वहन्ति चोदिताः ।
-; 
-; nAga = elephant (Kale)
-; udita = ordered (Kale)
+; nAga = elephant (Kale) a kind of paSu
+; चोदित  चुद् urge or drive on
 039.26A: उदीरितः अर्थः पशुना अपि गृह्यते हयाः च नागाः च वहन्ति च उदिताः ।
-; udIrita said (ud-Ir to rise); arTa thing; haya horse; nAga elephant (or snake); udita said;
+; udIrita said, uttered (ud-Ir to rise); arTa thing; haya horse; nAga elephant (or snake);
 039.26P: उदीरित इति उदीरितः वाचा व्यक्तीकृतः ।
 039.26P+: गृह्यते ज्ञायते । देशिताः आज्ञप्ताः ।
+; देशित told, ordered; आज्ञप्त ordered
 
 039.27F: अनुक्तमप्यूहति पण्डितो जनः परेङ्गितज्ञानफला हि बुद्धयः ॥ ४९॥
 039.27A: अनुक्तम् अपि ऊहति पण्डितः जनः पर-इङ्गित-ज्ञान-फलाः हि बुद्धयः ॥ ४९॥
-; anukta unsaid; Uh to comprehend; para other; iNgita intention;
-; budDi intellect, 'talent'
-039.27P: अनुरक्तः सानुरागः स्निग्धो वा ।
+; anukta unsaid; Uh to guess, comprehend; para other; iNgita intention;
+; budDi intellect, 'talent' [ purpose, design] OR good minds (Usha)
+039.27P: अनुरक्तः सानुरागः स्निग्धो वा ।   ??? [not found on p. 39]
 039.27P+: विरक्तः -- निरनुरागो असंतुष्टः ।
 039.27P: ऊहति तर्कयति अनुमिमीते ।
-039.27P+: परेङ्गित -- परेषां इङ्गितस्य ज्ञानं एवं फलं यासाम् ।
+; ऊह् to observe, guess, infer ; तर्क् to guess;  अनुमा to infer, guess;
+039.27P+: परेङ्गित॰ -- परेषां इङ्गितस्य ज्ञानं एवं फलं यासाम् ।
 039.27P++: इङ्गितं -- हृद्गतः भावः । ऽ इङ्गितं हृद्गतो भावो बहिराकार आकृतिः ऽ । इति सज्जनः ।
-
+; हृद्गत seated in the mind; 
 039.26-27E: When a thing is expressed in words, even a brute can understand it; even horses and elephants bear (loads) when ordered; a clever man comprehends a meaning although not expressed: for, talent has for its fruit the knowledge of the inward thoughts of others.
 
 039.28F: आकारैरिङ्गितैर्गत्या चेष्टया भाषणेन च ।
 039.28A: आकारैः इङ्गितैः गत्या चेष्टया भाषणेन च ।
 ; AkAra form, facial expression; gati gait; cezwA gesture; BAzaRa speech
 039.28P: आकारैः इ° -- भ्रुकुटीमुखरागादिः आकारः ।
+; भ्रुकुटी भ्रूकुटी curve of eyebrow, frown
+; मुखराग face color;
 039.28P+: इङ्गितं -- अभिप्रायानुरूपा चेष्टा । म। स्मृ। अ। ८ श्लो। २६ ।
-
+; अभिप्राय aim, purpose; अनुरूप following the form (of)
 039.29F: नेत्रवक्त्रविकारेण लक्ष्यतेऽन्तर्गतं मनः ॥ ५०॥
 039.29A: नेत्र-वक्त्र-विकारेण लक्ष्यते अन्तर्-गतम् मनस् ॥ ५०॥
 ; netra eye; vaktra voice; vikAra alteration; 
@@ -7399,12 +7418,12 @@
 ; sadfSa similar, proper; vAkya speech; sadBAva quality of goodness;
 ; priya pleasing (modify vAkya?)
 040.03P: प्रस्तावसदृशम् -- अवसरोचितं , प्रस्तुतविषयानुरूपम् ।
-040.03P+: सद्भावसदृशम् -- सन् शोभनः भावः अभिप्रायः तस्य अनुरूपम् । भावः स्वभावः अभिप्रायो वा । ऽभावः सत्तास्वभावाभिप्रायचेष्टात्मजन्मसुऽ । इत्यमरमेदिन्यौ ।
+040.03P+: सद्भावसदृशम् -- सन् शोभनः भावः अभिप्रायः तस्य अनुरूपम् । भावः स्वभावः अभिप्रायो वा । ‘ भावः सत्तास्वभावाभिप्रायचेष्टात्मजन्मसु ’ । इत्यमरमेदिन्यौ ।
 
 040.04F: आत्मशक्तिसमं कोपं यो जानाति स पण्डितः ॥ ५१॥
 040.04A: आत्म-शक्ति-समम् कोपम् यः जानाति सः पण्डितः ॥ ५१॥
 ; Atma self; Sakti power; sama equal;
-
+; jAnAti has, feel, ascertain etc. 
 040.03-04E: He is a wise man who knows how to address a speech suited to an occasion, or to act in a manner befitting one's good intention or to be angry in proportion to one's strength.
 
 040.05F: करटको ब्रूते -- सखे त्वं सेवानभिज्ञः । पश्य ।
@@ -7415,7 +7434,7 @@
 040.06F: अनाहूतो विशेद्यस्तु अपृष्टो बहु भाषते ।
 040.06A: अनाहूतः विशेत् यः तु अ-पृष्टः बहु भाषते ।
 ; anAhUta uncalled (hve to call); pfzwa asked;
-
+; विशेत् may enter. Note Usha:  optative/imperative often used interchangeably with present.
 040.07F: आत्मानं मन्यते प्रीतं भूपालस्य स दुर्मतिः ॥ ५२॥
 040.07A: आत्मानम् मन्यते प्रीतम् भूपालस्य सः दुर्मतिः ॥ ५२॥
 ; prIta beloved; BUpAla king (earth-protector); durmati wrong-minded, fool;
@@ -7427,6 +7446,7 @@
 
 040.08-08E: Damanaka said--Friend, how can I be ignorant of serving?
 
+; usha start
 040.09F: किमप्यस्ति स्वभावेन सुन्दरं वाप्यसुन्दरम् ।
 040.09A: किम् अपि अस्ति स्वभावेन सुन्दरम् वा अपि असुन्दरम् ।
 ; kim api something;  sundara beautiful, charming;
@@ -7448,13 +7468,15 @@
 
 040.11-12E: For. Whatever a man's (thought or) feeling be, having ministered to that, a talented man should quickly win him over.
 
-040.13F: अन्यच्च । कोऽत्रेत्यहमिति ब्रूयात् सम्यग् आदेशयेति च ।
+; Usha: सम्यग् आदेशयेति -> सम्यगादेशयेति
+040.13F: अन्यच्च । कोऽत्रेत्यहमिति ब्रूयात् सम्यगादेशयेति च ।
 040.13A: अन्यत् च । कः अत्र इति अहम् इति ब्रूयात् सम्यक् आदेशय इति च ।
-; deSaya causal imperative diS; samyak truly, rightly; AdiS to command;
+; deSaya causal imperative diS; AdiS to command;
+; samyak सम्यञ्च्  in the same direction,rightly, facing each other, ('please'? Kale)
 
 040.14F: आज्ञामवितथां कुर्याद्यथाशक्ति महीपतेः ॥ ५५॥
 040.14A: आज्ञाम् अवितथाम् कुर्यात् यथा-शक्ति महीपतेः ॥ ५५॥
-; AjYA command; avitaTa not false, true [Does Kale translate?]
+; AjYA command; avitaTa not false, true; (आज्ञाम्) अवितथा कृ  to fulfil (an order)
 ; mahIpati earth-lord, king;
 040.14P: अवितथाम् -- सफलां कुर्यात् पालयेत् ।
 ; pAlayet causal of pA (to protect) (Huet)
@@ -7466,20 +7488,20 @@
 ; alpa-icCu icCu wishing; Dftimat firm, steady; CAyA shade, shadow;
 
 040.16F: आदिष्टो न विकल्पेत स राजवसतौ वसेत् ॥ ५६॥
-040.16A: आदिष्टः न विकल्प-इतः सः राजवसतौ वसेत् ॥ ५६॥
-; Adizwa commanded; vikalpa hesitation; ita gone;
+040.16A: आदिष्टः न विकल्पेत सः राजवसतौ वसेत् ॥ ५६॥
+; Adizwa commanded; विकल्पेत 3s of optative of वि-कॢप् 
 ; rAjavasati royal residence; 
 040.16P: विकल्पेत -- संशय्य न कर्तव्याकर्तव्यं विचारयेत् ।
 040.16P+: राजवसतौ नृपप्रसादे ।
 
 040.15-16E: Moreover. He, who is modest in his desires, patient, wise, always in attendance like a shadow and would not hesitate when ordered (to do a thing), should dwell in a king's palace.
 
-; Kale error ? avagamyate (active voice, object tvAm)
-040.17F: करटको ब्रूते -- कदाचित्त्वामनवसरप्रवेशादवगम्यते स्वामी ।
-040.17A: करटकः ब्रूते -- कदा चिद् त्वाम् अनवसर-प्रवेशात् अवगम्यते स्वामी ।
+; Usha note:  गम्यते  -> मन्यते
+; (active voice, object tvAm)
+040.17F: करटको ब्रूते -- कदाचित्त्वामनवसरप्रवेशादवमन्यते स्वामी ।
+040.17A: करटकः ब्रूते -- कदा चिद् त्वाम् अनवसर-प्रवेशात् अवमन्यते स्वामी ।
 ; an-avasara (avasara favorable, occasion); praveSa entrance
-; avagam to descend, vist (Kale disregard ?)
-; gamyate pre-p 3s gam : has object tvAm ?
+; अवमन् to disregard, to make light of (~ disregard)
 
 040.18F: सोब्रवीत् -- अस्त्वेवम् ।
 040.18A: सः अब्रवीत् -- अस्तु एवम् ।
