@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+  <!--
+  (add-hook 'html-mode-hook
+        (lambda ()
+          (set (make-local-variable 'sgml-basic-offset) nil)))
+(setq js-indent-level 1)
+-->
+<head>
+<title>syllablesjs</title>
+  <script type="text/javascript" src="js/transcoder3.js"> </script>
+  <script type="text/javascript" src="js/transcoderJson2.js"> </script>
+</head>
+<body>
+
+  <h1>Syllables of a pada</h1>
+  <textarea id="intext" name="intext" rows="4" cols="50" placeholder="Enter a pAda in Devanagari"></textarea>
+  <div>
+    <button onclick="pada_analyze()">Analyze</button>
+  </div>
+  
+  <div id="output" name="output">
+ 
+  </div>
+
+  
+<script>
+
+  function get_syllables(text) {
+   const vowels_short_slp = new Set('aiufx'.split(''));
+   const vowels_long_slp = new Set('AIUFXeEoO'.split(''));
+   const vowels_slp = new Set('aiufxAIUFXeEoO'.split(''));
+   const consonants_slp = new Set('kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh'.split(''));
+   const visarga = 'H'
+   const space = ' '
+   const avagraha = "'"
+   const anusvara = 'M'
+   const laghu_code = '1'
+   const guru_code = '2'
+   let text1 = text.replace(/'/,'');  // avagraha
+   text1 = text1.replace('/ /',''); // space
+   let chars = text1.split('');
+   let nchars = text1.length;
+   let iclast = nchars - 1;  // index of last character
+   //console.log(chars);
+   let syllable = [];  // array
+   let syllables = []; // array returned
+   for(let ic = 0; ic < nchars; ic++) {
+    let c = chars[ic];
+    if (ic == iclast) {
+     cnext = null;
+    } else {
+     cnext = chars[ic + 1];
+    }
+    if (vowels_slp.has(c)) {
+     syllable.push(c);
+     if ((cnext == visarga) || (cnext == anusvara)) {
+      syllable.push(cnext);
+     }
+     syllables.push(syllable);
+     syllable = [];
+     continue;
+    } else if ((cnext == visarga) || (cnext == anusvara)) {
+     // handled by vowel
+    } else if (! consonants_slp.has(c)) {
+     // error condition
+    } else {
+     syllable.push(c);
+     if (ic == iclast) {
+      syllables.push(syllable);
+     }
+    }
+   }
+   // adjustment when last character is a consonant
+   let c = chars[iclast];
+   if (consonants_slp.has(c) && (syllables.length > 1)) {
+    let last_syl = syllables.pop() // remove and return last element
+    let penul_syl = syllables.pop();
+    let newlast = []; // copy of penul_syl
+    for(let i=0; i<penul_syl.length; i++) {
+     newlast.push(penul_syl[i]);
+    }
+    // add last_syl characters to end of newlast
+    for(let i=0; i < last_syl.length; i++) {
+     newlast.push(last_syl[i]);
+    }
+    syllables.push(newlast); // new last element of syllables
+   }
+   return syllables;
+  }
+  function get_syllable_weights(syllable_texts) {
+   const vowels_short_slp = new Set('aiufx'.split(''));
+   const vowels_long_slp = new Set('AIUFXeEoO'.split(''));
+   const vowels_slp = new Set('aiufxAIUFXeEoO'.split(''));
+   const consonants_slp = new Set('kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh'.split(''));
+   const visarga = 'H'
+   const space = ' '
+   const avagraha = "'"
+   const anusvara = 'M'
+   const laghu_code = '1'
+   const guru_code = '2'
+   let nsyllables = syllable_texts.length;
+   let weights = [];
+   let weight,s1,n1;
+   for(let idx = 0; idx < nsyllables; idx++) {
+    let syllable_text = syllable_texts[idx]; // array of characters
+    // get weight of syllable_text
+    let lastchar  = syllable_text.slice(-1)[0];
+    if ((lastchar == visarga) || (lastchar == anusvara)) {
+     weight = guru_code;
+    } else if (vowels_long_slp.has(lastchar)) {
+     weight = guru_code;
+    } else if ((idx + 1) == nsyllables) {
+     // last syllable
+     if (vowels_short_slp.has(lastchar)) {
+      weight = laghu_code;  
+     } else {
+      weight = guru_code;
+     }
+    } else if (vowels_short_slp.has(lastchar)) {
+     // we know this is not last syllable
+     // does next syllable start with a conjunct consonant?
+     s1 = syllable_texts[idx+1]; //next syllable
+     n1 = s1.length;
+     if (n1 < 2) {
+      // next syllable not long enough to containt conjunct cons
+      weight = laghu_code;  
+     } else if ((consonants_slp.has(s1[0])) && (consonants_slp.has(s1[1]))) {
+      // next syllable starts with conjunct consonant
+      weight = guru_code;
+     } else {
+      // next syllable does not start with conjunct consonant
+      weight = laghu_code;
+     }
+    }else {
+     // error condition
+    }
+    weights.push(weight);
+   }
+   return weights;
+  }
+ function pada_analyze() {
+  let textdeva = document.getElementById("intext").value;
+  let elt = document.getElementById("output");
+  let textslp = transcoder.processString(textdeva,'deva','slp1');
+  let syllables = get_syllables(textslp);
+  let weights = get_syllable_weights(syllables);
+  //
+  let syllable_texts = [];
+  let syllable_texts_deva = [];
+  let nsyllables = syllables.length;
+  for (let i = 0; i < nsyllables; i++) {
+   let s = syllables[i];
+   let s1 = s.join(''); // slp
+   syllable_texts.push(s1);
+   let s1deva = transcoder.processString(s1,'slp1','deva');
+   syllable_texts_deva.push(s1deva);
+  }
+  //console.log(syllable_texts);
+  /* ***********************  HTML **************/
+  const laghu_code = '1'
+  const guru_code = '2'
+  let colors = {'1':'blue', '2': 'rgb(255,51,204)'};
+  // प्रसह्य मणिमुद्धरेन्मकरवक्त्रदंष्ट्रान्तरात्
+  //console.log(colors);
+  let html = '';
+  html = html + '<table>';
+  html = html + '<tr>';
+  for (let i = 0; i < nsyllables; i++) {
+   let x = syllable_texts_deva[i];
+   let weight = weights[i];
+   let color = colors[weight];
+   html = html + `<td style="color:${color}; width:20px;">${x}</td>`;
+  }
+  html = html + '</tr>';
+  html = html + '<tr>';
+  for (let i = 0; i < nsyllables; i++) {
+   let x = weights[i];
+   let weight = weights[i];
+   let color = colors[weight];
+   html = html + `<td style="color:${color}; width:20px;">${x}</td>`;
+  }
+  html = html + '</tr>';
+  html = html + '</table>';
+  //let html = `<p style="color:red;">${textslp}</p>`;
+  elt.innerHTML = html;
+ }
+
+</script>
+
+</body>
+</html>

@@ -246,9 +246,39 @@ Video-20231117_010719-Meeting Recording.mp4  lines= 039.09-039.18; shlokas= 46,4
 Video-20231118_010627-Meeting Recording.mp4  lines= 039.19-039.27; shlokas= 48,49
 Video-20231121_010402-Meeting Recording.mp4  lines= 039.26-039.29; shlokas= 49,50
 Video-20231122_010144-Meeting Recording.mp4  lines= 040.01-040.08; shlokas= 51,52
+Video-20231128_010207-Meeting Recording.mp4  lines= 040.09-040.16; shlokas= 53,54,55,56
+Video-20231129_011326-Meeting Recording.mp4  lines= 040.15-040.19; उच्चारणविचारः pronunciation discussion
+Video-20231130_004859-Meeting Recording.mp4  lines= 040.20-040.29; shlokas= 57,58,59
+Video-20231201_010500-Meeting Recording.mp4  lines= 041.01-041.06; shlokas= 60,61
+Video-20231202_010522-Meeting Recording.mp4  Dhatu Discussion
+Video-20231221_010752-Meeting Recording.mp4  lines=041.07-041.12; shlokas= 62,63
+Video-20231222_010552-Meeting Recording.mp4  lines=041.13-041.20; shlokas = 64,65
+break in class
+Video-20240109_010343-Meeting Recording.mp4  lines=041.21-041.26;
+Video-20240110_002242-Meeting Recording.mp4  lines=041.27-042.02; shlokas = 66. गुरुः उच्चारणे connection lost
+Video-20240110_010652-Meeting Recording.mp4  lines=042.01-042.06; shlokas = 66,67 (resume)
+Video-20240111_010236-Meeting Recording.mp4  lines=042.07-042.11; shlokas = 68,69
+Video-20240113_010415-Meeting Recording.mp4  lines=042.12-042.17; shlokas = 70,71,72 tanana72
+Video-20240117_011354-Meeting Recording.mp4  lines=042.18-042.23; shlokas = 73,74,75
+Video-20240118_010452-Meeting Recording.mp4  lines=042.24-043.02; shlokas = 76,77
+Video-20240120_010138-Meeting Recording.mp4  chandas discussion - re shloka 77 begin chandas_notes.txt
+Video-20240124_010517-Meeting Recording.mp4  lines=043.03-043.09; shlokas = 78,79
+Video-20240126_010303-Meeting Recording.mp4  lines=043.10-043.17;
+Video-20240127_010257-Meeting Recording.mp4  lines=043.17-043.23; shlokas = 80
+Video-20240130_005927-Meeting Recording.mp4  lines=043.24-043.29;
+Video-20240131_005940-Meeting Recording.mp4  lines=043.30-043.39; shlokas = 81,82
+Video-20240201_004834-Meeting Recording.mp4  lines=044.01-044.12; shlokas = 83
+Video-20240203_010458-Meeting Recording.mp4  lines=044.13-044.27; shlokas = 84
+Video-20240206_004901-Meeting Recording.mp4  lines=044.28-044.36; shlokas = 85
+Video-20240209_004858-Meeting Recording.mp4  lines=044.35-045.01; shlokas = 85 (further discuss)
+Video-20240210_005856-Meeting Recording.mp4  lines=045.02-045.16; shlokas = 86,87,88
 
+emacs selection from hitokale_deva_p.txt
+\(042...F:\)\|\(043...F:\)\|\(044...F:\)\|\(045...F:\)
+\(043...F:\)\|\(044...F:\)\|\(045...F:\)
 
-windows powershell - list all mp4 filenames
-cd E:\UzaSanskritClass\
-dir *.mp4 > _mp4filenames.txt
-\(038...F:\)\|\(039...F:\)
+chandas_notes.txt
+Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
+
+At about time 8:12 of Bhagavadgita chanting, Chap 10, verse 30:
+prahlAda   pronounced pralhAda  (cf  brahma)

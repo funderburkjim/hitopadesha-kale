@@ -1,0 +1,107 @@
+72 tanana
+042.16F: कनकभूषणसंग्रहणोचितो   यदि मणिस्त्रपुणि प्रणिधीयते ।
+         कनकभू  षणसं  ग्रहणो  चितो   यदिमणिस्   त्रपुणिप्  रणिधी यते 
+         तननना   ननना  ननना  नना    तननना     ननना   ननना नना
+	 24 syllables, two groups of 12 syllables
+	 each 12-syllable group 4 parts: 4 3 3 2 (each ends in ना)
+	 
+exercise  42.26-43.02  shloka 77
+  analyze shloka by the Candas(?) approach
+  groups of hrasva/dirgha
+
+मन्दाक्रान्ता f. N. of a metre (like that of the Megha-dūta)
+  https://www.youtube.com/watch?v=fsSW9EvsOpo
+  https://en.wikipedia.org/wiki/Mandakranta_metre
+  A line in mandākrāntā has 17 syllables, divided into three sections,
+  each separated by a pause.
+  The first section consists of four long syllables,
+  the second of 5 short syllables and one long,
+  and the third a mixture of long and short alternating, in this pattern:
+  | – – – – | u u u u u – | – u – – u – x |
+  Based on this, shloka 77 is NOT mandAkrAnta
+As with other Sanskrit metres, the length of the final syllable is indifferent.
+
+शिखरिणी a kind of Atyaṣṭi metre
+ (four times ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ¯ ¯ ˘ ˘ ˘ ¯),
+ (four times न ना ना ना ना ना, न न न न न ना ना न न न ना),
+ This matches our pattern!
+
+Kale prosody:
+ divide lines into groups of 3 syllables (गणः)
+ म + + +   ज - + -
+ न - - -   र + - +
+ भ + - -   स - - +
+ य - + +   त् + + -
+ ल = short syllable at end of a line
+ ग = long  syllable at end of a line
+ 
+ शिखरिणी य म न स भ ल ग
+ 
+अवज्ञानाद्राज्ञो भवति मतिहीनः परिजनः
+ततस्तत्प्राधान्याद्भवति न समीपे बुधजनः ।
+बुधैस्त्यक्ते राज्ये न हि भवति नीतिर्गुणवती
+विपन्नायां नीतौ सकलमवशं सीदति जगत्
+
+https://www.youtube.com/watch?v=j5jOzgSpWrs&t=41s
+https://www.youtube.com/watch?v=JoVYJRpP15g&t=326s
+--- analysis 1: each line 17 = 4 2 3 4 4
+ तनानाना  नाना  ननन   नननाना  नननना
+
+ अवज्ञानाद् राज्ञो  भवति  मतिहीनः  परिजनः
+ ततस्तत्प्रा   धान्याद्   भवति    नसमीपे    बुधजनः
+ बुधैस्त्यक्ते   राज्ये   न हि भ   वति नीतिर्   गुणवती
+ विपन्नायां    नीतौ    सकल    मवशं सी    दति जगत्
+
+--- analysis 2: each line 17 = 3 3 3 3 3 2
+ तनाना   नानाना   ननन    ननना    नानन    नना [ य म न स भ ल ग !]
+
+ अवज्ञा     नाद्राज्ञो   भवति     मतिही     नः परि    जनः
+ ततस्तत्    प्राधान्याद्  भवति    न समी     पे बुध    जनः ।
+ बुधैस्त्यक्   ते राज्ये   न हि भ   वति नी   तिर्गुण  
+ विपन्ना    यां नीतौ    सकलम्   अवशं    सीदति    जगत्   (गत् ना)
+
+--- analysis ३: each line 17 = 4 2 7 4
+    तनानाना नाना  ननननननाना  नननना
+
+अवज्ञानाद्   राज्ञो |   भवति मतिहीनः      परिजनः |
+ततस्तत्प्रा   धान्याद् |  भवति न समीपे      बुधजनः |
+बुधैस्त्यक्ते   राज्ये  |  न हि भवति नीतिर्    गुणवती |
+विपन्नायां   नीतौ   |  सकलमवशं सी      दति जगत् |
+  
+x    x
+x1234x
+1:तनानानानानाननननननानानननना
+3:तनानानानानाननननननानानननना
+usha's chandas course
+yati natural resting point
+gaRa  maybe lesson 5 circle
+
+Lesson 3 श्लोकः
+सानुस्वारश्च दीर्घश्च
+विसर्गी च गुरुर्भवेत् ।
+वर्णः संयोगपूर्वश्च
+तथा पादान्तगोपि वा ॥ २ ॥
+
+(lesson 4)
+गण names for groups of 3 ॑ लघुगुरुत्रयविधा ॑
+म सर्वगुरु
+स अन्त्यगुरु
+ज मध्यगुरु
+भ आदिगुरु
+न सर्वलघु
+त अन्त्यलघु
+र मध्यलघु
+य आदिलघु
+ल लघु ग गुरु (last 2 syllables)
+
+A verse on गणs and छन्दस् 
+म्यरस्तजभ्नगैर्लान्तै-
+रेभिर्दशभिरक्षरैः ।
+समस्तं वाङ्मयं व्याप्तं
+त्रैलोक्यमिव विष्णुना ॥ ३ ॥
+
+Meaning:
+By the ten letters (as given above) the whole literature
+is occupied like the three worlds by Vishnu.
+
+cf. chandas_gana_circle.png
