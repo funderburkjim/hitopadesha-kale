@@ -1,0 +1,23 @@
+<046.01-04 START>
+046.01F: अथ कदाचित् तस्य सिंहस्य भ्राता स्तब्धकर्णनामा सिंहः समागतः ।
+046.02F: तस्यातिथ्यं कृत्वा समुपवेश्य पिङ्गलकस्तदाहाराय पशुं
+046.03F: हन्तुं चलितः । अत्रान्तरे
+046.04F: संजीवको वदति -- देव अद्य हतमृगाणां मांसानि क्व ।
+
+046.01A: अथ कदा चिद् तस्य सिंहस्य भ्राता स्तब्धकर्णनामा सिंहः समागतः ।
+046.02A: तस्य अतिथ्यम् कृत्वा समुपवेश्य पिङ्गलकः तदा आहाराय पशुम्
+046.03A: हन्तुम् चलितः । अत्र अन्तरे
+046.04A: संजीवकः वदति -- देव अद्य हतमृगाणाम् मांसानि क्व ।
+
+; स्तब्ध stopped, obstructed; स्तब्धकर्ण (N.) pricking up the ears; 
+; समागत come together, met 
+
+; आतिथ्य ; hospitality
+; सम्-उप-विश्  sit down together
+
+; चलित departed; पशु animal
+; अन्तरे amidst; अत्रान्तरे just then [Kale] 
+
+
+046.01-04E: Now, one day, the lion's brother, Stabdhakarna by name, came there (on a visit). Having received him hospitably and asked him to sit down, Pingalaka set out to hunt a beast to feed him with. Just then Samjivaka asked -- My lord, where is the flesh of the deer killed to-day?
+<046.01-04 END>
