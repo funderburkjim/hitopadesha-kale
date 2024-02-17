@@ -6,7 +6,7 @@
 ; Format is ###.##P: <slp1 text>
 ;  There may be more than one ###.##P line, if a given line of text has
 ;  comments on more than one word. For example, see line 001.04 below.
-; Also, use ###.##PE: <English translation of the prakASikA>
+; Also, use ###.##PE: <English translation of the prakASikA> [not present]
 ; ------------------------------------------------
 ; A convention of this file is that lines starting with semicolon are comments
 ; Begun approx. Apr 2016
@@ -68,7 +68,6 @@
 001.01A: ॥ हित-उपदेशः ॥
 ; hita good, useful; upadeSa advice
 001.01P: हितस्य उपदेशः: हितोपदेशः । हितश्चासौ उपदेशश्च इति वा । स एव लक्षणया तत्संज्ञः ग्रन्थः ।
-;001.01PA: hitasya upadeSaH: hitopadeSaH . hitaH ca asO upadeSaH ca iti vA . saH eva lakzaRayA tatsaMjYaH granTaH .
 
 001.02F: प्रस्ताविका
 001.02A: प्रस्ताविका
@@ -90,7 +89,6 @@
 ; SaSin containing a hare (= moon);
 ; kalA a small part, a digit or 1/16 of moon's diameter
 001.04P: जाह्नवी-फेन-लेखेव -- जह्नोः अपत्यं स्त्री जाह्नवी तस्या फेनस्य लेखा ।
-;001.04PA: jAhnavIPenaleKA iva -- jahnoH apatyam strI jAhnavI tasyAH Penasya leKA .
 001.04P: यन्मूर्ध्नि -- यस्य मूर्धा यन्मूर्धा तस्मिन् ।
 
 001.03-04E: May success attend the good in their undertakings (in the object they wish to accomplish) by the favour of that Dhurjati, on whose head there is a digit of the moon looking like a streak of the foam of the Ganges.
@@ -100,7 +98,6 @@
 ; Sruta heard, studied; pAwava sharpness, cleverness
 ; saMskft used as name of language by daRqin in daSakumAracarita (800 CE).
 001.05P: श्रुतः सम्यगधीतः इत्यर्थः ।
-;001.05PA: SrutaH samyak aDItaH iti arTaH .
 001.05P: पाटवं -- पटोः भावः ।
 
 001.06F: वाचां सर्वत्र वैचित्र्यं नीतिविद्यां ददाति च ॥ २॥
@@ -199,11 +196,8 @@
 001.18A: कथाच्छलेन बालानाम् नीतिः तद् इह कथ्यते ॥ ८॥
 ; kaTA-Cala story-guise; nIti science of conduct; tad so
 001.18P: तथा बाला अपि नीतिमध्यापिताश्चेत्सा तेषां चेतसि दृढं पदं कुर्यादिति हेतोः सा कथामिषेण बालानामिह कथ्यते  ।
-;001.18PA: taTA bAlAH api nItim aDyApitAH cet sA tezAm cetasi dfQam padam kuryAt iti hetoH sA kaTAmizeRa bAlAnAm iha kaTyate .
 
 001.17-18E: As an impression made upon a raw (earthen or so) pot can undergo no change afterwards -- so (following the same principle) in this work the science of conduct (or policy) is taught to youths under the guise of stories.
-;
-; 05-18-2022
 ;
 002.01F: मित्रलाभः सुहृद्भेदो विग्रहः संधिरेव च ।
 002.01A: मित्र-लाभः सुहृद्भेदः विग्रहः संधिः एव च ।
@@ -218,7 +212,7 @@
 
 002.03F: अस्ति भागीरथीतीरे पाटलिपुत्रनामधेयं नगरम् । तत्र सर्वस्वामिगुणोपेतः सुदर्शनो
 002.03A: अस्ति भागीरथी-तीरे पाटलि-पुत्र-नामधेयम् नगरम् । तत्र सर्व-(स्वामि-गुण)-उपेतः सुदर्शनः
-; BagIraTa 'have a glorious chariot' (vAlmiki rAmayaRa). In India there are several ramayanas!
+; BagIraTa 'have a glorious chariot' (vAlmiki rAmAyaRa). In India there are several ramayanas!
 ; pAwali (a red flower) is like a son to the place.
 ; BAgIraTI name of a river, perhaps the Ganges; tIra a shore;
 ; svAmi ruler, master; guRa attribute; upeta endowed with
@@ -3240,8 +3234,8 @@
 017.06P: सुश्लिष्टेन -- सुघटितेन ।
 
 017.07F: सुतप्तमपि पानीयं शमयत्येव पावकम् ॥ ८९॥
-; pada c has only 7 syllables ! 
 017.07A: सुतप्तम् अपि पानीयम् शमयति एव पावकम् ॥ ८९॥
+; pada 3 has only 7 syllables ! 
 ; tapta heated; pAnIya n. water (to be drunk);
 ; Samayati causal present Sam to calm
 ; pAvaka fire (pure)
@@ -5012,7 +5006,7 @@
 026.15F: वृत्त्यर्थं नातिचेष्टेत सा हि धात्रैव निर्मिता ।
 026.15A: वृत्ति-अर्थम् न अति-चेष्टेत सा हि धात्रा एव निर्मिता ।
 ; vftti livelihood, arTa purpose; cezw to exert one's self;
-; sA refers to vftti?; DAtf creator (DAtrA 3s); nir-mA to provide;निर्मिता built
+; sA refers to vftti; DAtf creator (DAtrA 3s); nir-mA to provide;निर्मिता built
 026.15P: वृत्त्यर्थं -- जीविकालाभार्थम् ।
 
 026.16F: गर्भादुत्पतिते जन्तौ मातुः प्रस्रवतः स्तनौ ॥ १७९॥
@@ -8482,12 +8476,12 @@
 045.20F: अस्ति श्रीपर्वतमध्ये ब्रह्मपुराख्यं नगरम् ।
 045.20A: अस्ति श्रीपर्वतमध्ये ब्रह्मपुराख्यम् नगरम् ।
 ; श्रीपर्वत N. of mountain
-; आख्य named - gram.? not in dictionaries
+; आख्य named - आख्या  समासान्ते
 
 045.21F: तच्छिखरप्रदेशे घण्टाकर्णो नाम राक्षसः प्रतिवसतीति
 045.21A: तच्छिखरप्रदेशे घण्टाकर्णः नाम राक्षसः प्रतिवसति इति
 ; tacCiKarapradeSe = tad + SiKara + pradeSe
-; प्रदेश region; घण्टा bell
+; शिखर summit, प्रदेश region; घण्टा bell
 
 045.22F: जनप्रवादः श्रूयते । एकदा घण्टामादाय पलायमानः कश्चिच्चौरो
 045.22A: जनप्रवादः श्रूयते । एकदा घण्टाम् आदाय पलायमानः कः चिद् चौरः
@@ -8511,44 +8505,50 @@
 
 045.26F: अनन्तरं घण्टाकर्णः कुपितो मनुष्यान्खादति घण्टां
 045.26A: अनन्तरम् घण्टाकर्णः कुपितः मनुष्यान् खादति घण्टाम्
+; अनन्तरम् thereafter
 
 045.27F: च वादयतीत्युक्त्वा सर्वे जना नगरात्पलायिताः । ततः करालया नाम
 045.27A: च वादयति इति उक्त्वा सर्वे जनाः नगरात् पलायिताः । ततः करालया नाम
+; कराला proper name. (f. opening wide, gaping, terrible)
 
 045.28F: कुट्टन्या विमृश्यानवसरोऽयं घण्टावादः । तत्किं मर्कटा
 045.28A: कुट्टन्या विमृश्य अनवसरः अयम् घण्टावादः । तत् किम् मर्कटाः
-; कराला proper name. (f. opening wide, gaping, terrible)
 ; विमृश् to touch, consider; अवसर descent (of water), opportunity;
 ; अनवसर inopportune; markawa = vAnara 
 045.28P: विमृश्येति -- अयं घण्टावादः अनवसरः न तु नियतवेलाभवः । तस्मात्किं मर्कटा घण्टाया वादकाः स्युरिति विचार्य तत्स्वयं च परिज्ञाय इत्यर्थः ।
 
 045.29F: घण्टां वादयन्तीति स्वयं विज्ञाय राजा विज्ञापितः -- देव
 045.29A: घण्टाम् वादयन्ति इति स्वयम् विज्ञाय राजा विज्ञापितः -- देव
-; विज्ञाय having ascertained; विज्ञापित requested
+; विज्ञाय having ascertained; विज्ञापित requested, respectively told
 
 046.26-29E: Thereupon, saying that Ghantakarna being angry devours men and rings the bell, all people fled from the city. Then a certain procuress, Karala by name, thinking--'this sound of the bell is out of time ; can it be that the monkeys ring the bell' -- and having ascertained for herself that it was so requested the king
 
 045.30F: यदि कियद्धनोपक्षयः क्रियते तदाहमेनं घण्टाकर्णं साधयामि ।
-045.30A: यदि कियद् धनोपक्षयः क्रियते तदा अहम् एनम् घण्टाकर्णम् साधयामि ।
+045.30A: यदि कियत् धन-उपक्षयः क्रियते तदा अहम् एनम् घण्टाकर्णम् साधयामि ।
+; कियत् how great?, some, a little; उपक्षयः waste, expenditure
+; साधयति साध् (causal) to accomplish, to subdue
 045.30P: साधयामि स्ववशं नेष्यामि हनिष्यामि वा ।
 
-045.31F: ततो राजा तस्यै धनं दत्तम् ।
-045.31A: ततः राजा तस्यै धनम् दत्तम् ।
+045.31F: ततो राज्ञा तस्यै धनं दत्तम् ।
+045.31A: ततः राज्ञा तस्यै धनम् दत्तम् ।
 
 045.30-31E: 'Sire, if a certain amount of money be spent, I will manage this Ghantakarna.' Then the king gave her wealth.
 
 045.32F: कुट्टन्या च मण्डलं कृत्वा तत्र गणेशादिपूजागौरवं दर्शयित्वा
 045.32A: कुट्टन्या च मण्डलम् कृत्वा तत्र गणेशादिपूजागौरवम् दर्शयित्वा
+; मण्डलम् Tantric circular design ?
 045.32P: मण्डलम् -- अभिचारसाधकं चक्रं मान्त्रिकप्रसिद्धम् ।
 045.32P+: गोमायुरुतानि -- गणपतिशाकिनीडाकिनीक्षेत्रपालप्रभृतिपूजाडम्बरम् ।
 
 045.33F: स्वयं वानरप्रियफलान्यादाय वनं प्रविश्य फलान्याकीर्णानि ।
 045.33A: स्वयम् वानरप्रियफलानि आदाय वनम् प्रविश्य फलानि आकीर्णानि ।
+; आकीर्ण scattered (आ-कॄ)
 
 045.32-33E: The procuress drew a magic circle, and after a great display of the worship of Ganesa and others, herself entered the forest taking with her such fruits as the monkeys like and scattered them.
 
 045.34F: ततो घण्टां परित्यज्य वानराः फलासक्ता बभूवुः । कुट्टनी च
 045.34A: ततः घण्टाम् परित्यज्य वानराः फलासक्ताः बभूवुः । कुट्टनी च
+; आसक्त strongly attached to, engaged in;
 
 045.35F: घण्टां गृहीत्वा नगरमागता सर्वजनपूज्याभवत् । अतोऽहं
 045.35A: घण्टाम् गृहीत्वा नगरम् आगता सर्वजनपूज्या अभवत् । अतः अहम्
@@ -8557,21 +8557,29 @@
 
 045.36F: ब्रवीमि -- शब्दमात्रान्न भेतव्यमित्यादि ॥ ततः संजीवक आनीय
 045.36A: ब्रवीमि -- शब्दमात्रात् न भेतव्यम् इत्यादि ॥ ततः संजीवकः आनीय
+; मात्र measure, the one thing and no more, just
 
-045.37F: दर्शनं कारित्ः । पश्चात्तत्रैव परमप्रीत्या निवसति ।
+045.37F: दर्शनं कारितः । पश्चात्तत्रैव परमप्रीत्या निवसति ।
 045.37A: दर्शनम् कारितः । पश्चात् तत्र एव परमप्रीत्या निवसति ।
+; कारित caused to be done (n. the causal form of a verb)
+; प्रीति f. joy, pleasure, liking, etc.
 
 045.36-37E: Therefore I say -- One should not be alarmed at the mere sound &c. Then, Samjivaka was brought and presented (to the lion). Afterwards he lived there in great joy.
 ; 
 046.01F: अथ कदाचित् तस्य सिंहस्य भ्राता स्तब्धकर्णनामा सिंहः समागतः ।
 046.01A: अथ कदा चिद् तस्य सिंहस्य भ्राता स्तब्धकर्णनामा सिंहः समागतः ।
+; स्तब्ध stopped, obstructed; स्तब्धकर्ण (N.) pricking up the ears; 
+; समागत come together, met 
 
 046.02F: तस्यातिथ्यं कृत्वा समुपवेश्य पिङ्गलकस्तदाहाराय पशुं
-; veSya is Causal from viS (enter). samupaveSya = ask (cause) to be seated
 046.02A: तस्य अतिथ्यम् कृत्वा समुपवेश्य पिङ्गलकः तदा आहाराय पशुम्
+; आतिथ्य ; hospitality
+; सम्-उप-विश्  sit down together
 
 046.03F: हन्तुं चलितः । अत्रान्तरे
 046.03A: हन्तुम् चलितः । अत्र अन्तरे
+; चलित departed; पशु animal
+; अन्तरे amidst; अत्रान्तरे just then [Kale] 
 
 046.04F: संजीवको वदति -- देव अद्य हतमृगाणां मांसानि क्व ।
 046.04A: संजीवकः वदति -- देव अद्य हतमृगाणाम् मांसानि क्व ।
@@ -8593,9 +8601,12 @@
 
 046.08F: संजीवको ब्रूते -- कथमेतावन् मांसं ताभ्यां खादितम् ।
 046.08A: संजीवकः ब्रूते -- कथम् एतावत् मांसम् ताभ्याम् खादितम् ।
+; कथम् how ; एतावत् so much; ताभ्याम् 3d tad (by those two)
 
 046.09F: राजाह -- खादितं व्ययितमवधीरितं च । प्रत्यहमेष क्रमः ।
 046.09A: राजा आह -- खादितम् व्ययितम् अवधीरितम् च । प्रत्यहम् एषः क्रमः ।
+; व्ययित व्यय् to expend, waste; अवधीर् to disregard, disrespect.
+; प्रत्यहम् every day; क्रमः step, way
 046.09P: व्ययितम् -- अन्येभ्यो दत्तम् ।
 046.09P+: अवधीरितम् -- अनवेक्षणेन अपध्वस्तम् ।
 
@@ -8603,23 +8614,29 @@
 
 046.10F: संजीवको ब्रूते -- कथं श्रीमद्देवपादानां अगोचरेणैव क्रियते ।
 046.10A: संजीवकः ब्रूते -- कथम् श्रीमद्देवपादानाम् अगोचरेण एव क्रियते ।
+; गो-चर pasture ground for cattle; range (of eye, etc.); अगोचर not within range
 046.10P: अगोचरेण -- अनिवेद्य । अनुज्ञामलब्ध्वा इति यावत् ।
 
 046.11F: राजाह -- मदीयागोचरेणैव क्रियते ।
-; madIyAgocara = madIya+agocara ('not in my cow field' = without my knowledge)
 046.11A: राजा आह -- मदीयागोचरेण एव क्रियते ।
+; madIyAgocara = madIya+agocara ('not in my cow field' = without my knowledge)
 
 046.12F: अथ संजीवको ब्रूते -- नैतदुचितम् । तथा चोक्तम् ।
 046.12A: अथ संजीवकः ब्रूते -- न एतद् उचितम् । तथा च उक्तम् ।
+; उचित proper, उच् to take pleasure in, to be suitable
 
 046.11-12E:   Samjivaka observed -- How is this done without the knowledge of Your Highness ? The king replied -- It is done quite without my knowledge. Samjivaka remarked -- This is not proper. For it is said --
 
 046.13F: नानिवेद्य प्रकुर्वीत भर्तुः किंचिदपि स्वयम् ।
-; prakurvIta = opt 3s of pra-kf
 046.13A: न अनिवेद्य प्रकुर्वीत भर्तुः किम् चिद् अपि स्वयम् ।
+; अनिवेद्य not having announced, unannouced
+; prakurvIta = opt 3s of प्रकृ to do, 
+; भर्तृ one who bears, master; भर्तुः ५ ६ वा;
 
 046.14F: कार्यमापत्प्रतीकारादन्यत्र जगतीपतेः ॥ ८९॥
 046.14A: कार्यम् आपत्प्रतीकारात् अन्यत्र जगतीपतेः ॥ ८९॥
+; आपद् misfortune; प्रतीकार = प्रतीकार, counteraction;
+; अन्यत्र elsewhere, otherwise, except; जगती earth
 046.14P: आपत्प्रतीकारं विपदां निवारणं विहाय अन्यत्र ।
 
 046.13-14E: One should not do any business on one's own responsibility without informing the master of it, except it be to ward off a calamity befalling the king.

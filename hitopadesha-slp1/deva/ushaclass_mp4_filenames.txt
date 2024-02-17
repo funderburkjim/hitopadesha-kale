@@ -272,10 +272,13 @@ Video-20240203_010458-Meeting Recording.mp4  lines=044.13-044.27; shlokas = 84
 Video-20240206_004901-Meeting Recording.mp4  lines=044.28-044.36; shlokas = 85
 Video-20240209_004858-Meeting Recording.mp4  lines=044.35-045.01; shlokas = 85 (further discuss)
 Video-20240210_005856-Meeting Recording.mp4  lines=045.02-045.16; shlokas = 86,87,88
+Video-20240214_011018-Meeting Recording.mp4  discuss https://samskrtam.info/hitopadesa.php
+Video-20240215_010302-Meeting Recording.mp4  lines=045.15-045.27; shlokas = 88
+Video-20240216_010104-Meeting Recording.mp4  lines=045.27-045.37
+
 
 emacs selection from hitokale_deva_p.txt
-\(042...F:\)\|\(043...F:\)\|\(044...F:\)\|\(045...F:\)
-\(043...F:\)\|\(044...F:\)\|\(045...F:\)
+\(044...F:\)\|\(045...F:\)\|\(046...F:\)\|\(047...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
