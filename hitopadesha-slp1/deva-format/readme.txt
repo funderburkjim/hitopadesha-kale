@@ -44,3 +44,8 @@ python remove_empty.py 03.txt 04.txt
 4701 empty lines removed
 13507 lines written to 04.txt
 --------------------------------------------------------
+; 05.txt  remove marked Jim, Sampada
+cp 04.txt 05.txt
+manual edit 05.txt
+
+--------------------------------------------------------
