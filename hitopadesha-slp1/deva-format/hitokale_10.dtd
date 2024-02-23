@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 02-18-2024, 02-21-2024 -->
+<!ELEMENT hitokale (section)*>
+<!ELEMENT section (group)*>
+<!ELEMENT group (F,A,P,C,E)>
+
+<!ELEMENT F (#PCDATA) >
+<!ELEMENT A (#PCDATA) >
+<!ELEMENT P (#PCDATA) >
+<!ELEMENT C (#PCDATA) >
+<!ELEMENT E (#PCDATA) >
+<!ATTLIST group ident CDATA #REQUIRED> <!-- page,idx1,idx2 -->
+<!ATTLIST group type CDATA #REQUIRED>  <!-- prose OR shloka n -->
+<!ATTLIST section n  CDATA #REQUIRED>  <!-- 0,1,2,3,4 string -->
+<!ATTLIST section title  CDATA #REQUIRED> 
+

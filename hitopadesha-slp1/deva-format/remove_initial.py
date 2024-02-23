@@ -1,5 +1,5 @@
 # coding=utf-8
-""" checkF.py
+""" remove_initial.py
 """
 from __future__ import print_function
 import sys, re,codecs
@@ -27,37 +27,34 @@ def write_recs(fileout,outrecs):
 
 regex_page_line = '^([0-9][0-9][0-9]\.[0-9][0-9])'
 regexF = r'%sF: ' % regex_page_line
-regexA = r'%sA: ' % regex_page_line
-def checkF(lines):
- newlines = []
- n = 0 # number of lines changes
- nf = 0
+
+
+def make_parts(lines):
+ lines1 = []
+ lines2 = []
+ flag = True  # line is in first part
+ n = 0 # number of lines removed 
  for iline,line in enumerate(lines):
-  if not re.search(regexF,line):
-   newlines.append(line)
-   continue
-  nf = nf + 1
-  # line is F-line
-  # is next line an A-line?
-  nextline = lines[iline+1]
-  if re.search(regexA,nextline):
-   newlines.append(line)
-   continue
-  # temporary mark this F-line 
-  newline = line + ' CHK'
-  newlines.append(newline)
-  n = n + 1
- print(nf,'F lines')
- print(n, 'next line not an A line')
- return newlines
+
+  if flag:
+   if re.search(regexF,line):
+    flag = False
+  if flag:
+   lines1.append(line)
+  else:
+   lines2.append(line)
+
+ return lines1,lines2
 
 if __name__=="__main__":
- filein = sys.argv[1]  # initial cdsl version pw.txt
- fileout = sys.argv[2]  # version of pw.txt with <e>N removed
- 
+ filein = sys.argv[1]  # 
+ fileout1 = sys.argv[2] # initial comments
+ fileout2 = sys.argv[3]  # everything but initial comments
  lines = read_lines(filein)
  print(len(lines),"lines read from",filein)
 
- newlines = checkF(lines)
- write_lines(fileout,newlines)
+ lines1,lines2 = make_parts(lines)
+ write_lines(fileout1,lines1)
+ write_lines(fileout2,lines2)
+ 
  

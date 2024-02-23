@@ -1,5 +1,5 @@
 # coding=utf-8
-""" checkF.py
+""" check_linetype.py
 """
 from __future__ import print_function
 import sys, re,codecs
@@ -28,36 +28,48 @@ def write_recs(fileout,outrecs):
 regex_page_line = '^([0-9][0-9][0-9]\.[0-9][0-9])'
 regexF = r'%sF: ' % regex_page_line
 regexA = r'%sA: ' % regex_page_line
-def checkF(lines):
- newlines = []
+regexP = r'%sP: ' % regex_page_line
+regexE = r'^([0-9][0-9][0-9])\.([0-9][0-9])-([0-9][0-9])E: '
+
+def get_linetype(line):
+ if line.startswith(';'):
+  kind = 'C'
+ elif re.search(regexF,line):
+  kind = 'F'
+ elif re.search(regexP,line):
+  kind = 'P'
+ elif re.search(regexA,line):
+  kind = 'A'
+ elif re.search(regexE,line):
+  kind = 'E'
+ else:
+  kind = None
+ return kind
+
+def check_linetype(lines):
+ newlines = []  
  n = 0 # number of lines changes
- nf = 0
+ prevtag = None
+ nerr = 0
  for iline,line in enumerate(lines):
-  if not re.search(regexF,line):
-   newlines.append(line)
-   continue
-  nf = nf + 1
-  # line is F-line
-  # is next line an A-line?
-  nextline = lines[iline+1]
-  if re.search(regexA,nextline):
-   newlines.append(line)
-   continue
-  # temporary mark this F-line 
-  newline = line + ' CHK'
+  kind = get_linetype(line)
+  if kind == None:
+   #print('checkC ERROR:',iline+1,line)
+   nerr = nerr + 1
+   newline = '? ' + line
+  else:
+   newline = line
   newlines.append(newline)
-  n = n + 1
- print(nf,'F lines')
- print(n, 'next line not an A line')
+ print(nerr,'unknown line types marked ')
  return newlines
 
 if __name__=="__main__":
- filein = sys.argv[1]  # initial cdsl version pw.txt
- fileout = sys.argv[2]  # version of pw.txt with <e>N removed
+ filein = sys.argv[1]  # 
+ fileout = sys.argv[2]  # error notes
  
  lines = read_lines(filein)
  print(len(lines),"lines read from",filein)
 
- newlines = checkF(lines)
+ newlines = check_linetype(lines)
  write_lines(fileout,newlines)
  
