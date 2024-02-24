@@ -275,7 +275,14 @@ Video-20240210_005856-Meeting Recording.mp4  lines=045.02-045.16; shlokas = 86,8
 Video-20240214_011018-Meeting Recording.mp4  discuss https://samskrtam.info/hitopadesa.php
 Video-20240215_010302-Meeting Recording.mp4  lines=045.15-045.27; shlokas = 88
 Video-20240216_010104-Meeting Recording.mp4  lines=045.27-045.37
+Video-20240217_005623-Meeting Recording.mp4  Discuss slp1 transcoding
+Video-20240224_002242-Meeting Recording.mp4  lines=046.01-046.03; also discuss अ आ in अत्रान्तरे
+Video-20240224_010959-Meeting Recording.mp4  lines=046.03-046.12;
 
+
+
+  https://github.com/sanskrit-lexicon/csl-websanlexicon/tree/master/v02/makotemplates/web/utilities  link accompanying previous video Video-20240217_005623-Meeting Recording.mp4
+Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 emacs selection from hitokale_deva_p.txt
 \(044...F:\)\|\(045...F:\)\|\(046...F:\)\|\(047...F:\)
