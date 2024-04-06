@@ -278,17 +278,38 @@ Video-20240216_010104-Meeting Recording.mp4  lines=045.27-045.37
 Video-20240217_005623-Meeting Recording.mp4  Discuss slp1 transcoding
 Video-20240224_002242-Meeting Recording.mp4  lines=046.01-046.03; also discuss अ आ in अत्रान्तरे
 Video-20240224_010959-Meeting Recording.mp4  lines=046.03-046.12;
+Video-20240227_010253-Meeting Recording.mp4  lines=046.13-046.14; shlokas = 89; discuss ';#' comments
+Video-20240228_004112-Meeting Recording.mp4  lines=046.15-046.18; shlokas = 90, 91
+Video-20240306_010711-Meeting Recording.mp4  lines=046.19-046.25; shlokas = 92,93,94
+Video-20240307_011303-Meeting Recording.mp4  lines=047.01-047.07; shlokas = 95,96
+Video-20240308_010714-Meeting Recording.mp4  lines=047.08-047.13; shlokas = 97,98,99
+Video-20240309_004528-Meeting Recording.mp4  lines=047.14-047.17; shlokas = 99,100,101
+Video-20240313_010614-Meeting Recording.mp4  lines=047.16-047.19; shlokas = 101,102
+Video-20240314_011351-Meeting Recording.mp4  lines=047.20-048.04; shlokas = 103,104,105
+Video-20240315_011203-Meeting Recording.mp4  lines=048.05-048.14; shlokas = 106,107
+Video-20240316_010529-Meeting Recording.mp4  lines=048.13-048.15; shlokas = 107,108 बहुव्रीहि adjectives
+Video-20240319_010449-Meeting Recording.mp4  lines=048.15-048.24; shlokas = 108
+Video-20240320_011220-Meeting Recording.mp4  lines=048.25-048.33; shlokas = 109
+Video-20240322_011119-Meeting Recording.mp4  lines=048.33-049.05;
+Video-20240328_010856-Meeting Recording.mp4  lines=049.06-049.12;
+Video-20240330_010154-Meeting Recording.mp4  lines=049.12-049.25;
+Video-20240402_010401-Meeting Recording.mp4  lines=049.24-050.01;
+Video-20240403_010242-Meeting Recording.mp4  lines=050.01-050.10;
+Video-20240404_010941-Meeting Recording.mp4  lines=050.11-050.16;
+Video-20240406_005506-Meeting Recording.mp4  lines=050.16-050.25; end स्वर्णरेखा कथा
 
-
-
+Usha, here is another typo: 050.14:   यवद  ->  यावद
+Usha, here is a second typo: 050.16:  यस्येद्र्शी -> यस्येदृशी   
+एकबाहुर्नरः  एकबाहुः नरः  one-armed man  (a character in the drama 'The fugitive' - tv series and movie)
   https://github.com/sanskrit-lexicon/csl-websanlexicon/tree/master/v02/makotemplates/web/utilities  link accompanying previous video Video-20240217_005623-Meeting Recording.mp4
 Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 emacs selection from hitokale_deva_p.txt
-\(044...F:\)\|\(045...F:\)\|\(046...F:\)\|\(047...F:\)
+\(048...F:\)\|\(049...F:\)\|\(050...F:\)\|\(051...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
 
 At about time 8:12 of Bhagavadgita chanting, Chap 10, verse 30:
 prahlAda   pronounced pralhAda  (cf  brahma)
+(setq nxml-child-indent nil)

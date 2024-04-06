@@ -1,5 +1,4 @@
 <hitokale>
-  <!-- (setq nxml-child-indent nil) -->
 <section n="0" title="प्रस्ताविका">
 <group ident="001,01,02" type="prose">
 <F>
@@ -14947,8 +14946,9 @@
 ; अनिवेद्य not having announced, unannouced
 ; prakurvIta = opt 3s of प्रकृ to do, 
 ; भर्तृ one who bears, master; भर्तुः ५ ६ वा;
-; आपद् misfortune; प्रतीकार = प्रतीकार, counteraction;
+; आपद् misfortune; प्रतीकार = प्रतिकार, counteraction;
 ; अन्यत्र elsewhere, otherwise, except; जगती earth
+;# प्रतीकारात्  आत् = तुम्  (Kale = to ward off) 
 </C>
 <E>
 046.13-14E: One should not do any business on one's own responsibility without informing the master of it, except it be to ward off a calamity befalling the king.
@@ -14971,6 +14971,11 @@
 </P>
 <C>
 ; kamaRqalUpamaH = kamaRqalu + upamaH  (like a gourd).
+; अमात्य 'companion (of a king)', minister; तनु thin;
+; नृपते voc. sg.; किंक्ष्ण MW = who says ‘what is a moment?’ i.e. a lazy fellow who does not value moments
+; मूर्ख fool
+; वराटक cowry (small coin) - (sea snail shell?)
+; किंवराटक MW = one who says ‘what is a cowrie?’ i.e. a spendthrift who does not value small coins
 </C>
 <E>
 046.15-16E: Moreover. A minister is like a gourd that gives out little and takes in much. A man who talks lightly* [* i. e., does not care for them and so wastes them,] of a moment remains a fool, O king, while one who talks lightly of a cowri remains a pauper.
@@ -14992,7 +14997,9 @@
 046.18P: ऽप्राणोपानः समानश्चोदानव्यानौ च वायवः ऽ। इति पञ्च प्राणाः । अत एव अयं शब्दः नित्यं बहुवचनः । एषां स्थानानि -- ऽहृदि प्राणो गुदेऽपानः समानो नाभिसंस्थितः । उदानः कण्ठदेशस्थो व्यानः सर्वशरीरगः ।ऽ
 </P>
 <C>
-; koza == koSa = treasury
+; काकिनी a small coin; सदा continuosly; प्रवृध् to increase
+; koza कोष = कोश = treasury; कोशवत् possessing treasures;
+; प्राणाः life (literally, breaths).
 </C>
 <E>
 046.17-18E: That minister is the best (for a king) who every day adds (at least) a kakini (to the treasury); for the treasury is the (real) life of a king, and not his own life so.
@@ -15013,6 +15020,11 @@
 046.19P: कुलाचारैः कुलधर्मैः पुरुषः सेव्यतां नैति । नरः धनैरेव सेव्यते इत्यर्थः ।
 </P>
 <C>
+; किम् न 'a stronger interrogative than किम् alone' [MW]
+; कुल family, आचार conduct, custom; कुलाचार the proper duty of a family
+; सेव्यता state of being honored
+; धन wealth, हीन deficient (हा to abandon, etc.)
+; किम् पुनर् how much more? less? [mw]
 </C>
 <E>
 046.19-20E: Again, a man does not attain a position of being served by reason of other family-observances (such as polite conduct etc. other than the possession of wealth); a man without wealth is abandoned even by his wife; how much more then by others ?
@@ -15021,14 +15033,17 @@
 
 <group ident="046,21,21" type="prose">
 <F>
-046.21F: एतच्च राज्ञे प्रधानं दूषणम् ।
+046.21F: एतच्च राज्ये प्रधानं दूषणम् ।
 </F>
 <A>
-046.21A: एतद् च राज्ञे प्रधानम् दूषणम् ।
+046.21A: एतद् च राज्ये प्रधानम् दूषणम् ।
 </A>
 <P>
 </P>
 <C>
+; 
+; राज्य kingdom
+; प्रधान chief thing; दूषण fault
 </C>
 <E>
 046.21-21E: And this is the cardinal defect in the administration of a state.
@@ -15050,7 +15065,12 @@
 046.23P: दूरसंस्थानं -- दूरे स्थितिः नृपस्य स्वराज्याद्वा शासनीयसंस्थानां वा ।
 </P>
 <C>
-; koza = koSa (in MW). cask, here treasury
+; अतिव्यय extreme spending;
+; अपेक्ष् to look about, regard; अनपेक्षा disregard
+; अर्ज् to procure, अर्जन ; अधर्मतस् in an 'un-dharmic' way
+; मोषण robbery; दूरसंस्थान residing at a distance;
+; व्यसन vice, fault;
+; व्यसनम् (singular) is referring to multiple (5) things - idiomatic
 </C>
 <E>
 046.22-23E: Over-expenditure, want of supervision, as also raising money by unfair means, plundering and distant situation -- these are the evils of the treasury.
@@ -15072,9 +15092,15 @@
 046.25P: वैश्रवणोपमः कुबेरतुल्यः ।
 </P>
 <C>
+; क्षिप्रम् quickly; आय arrival, income;
+; अनालोच्य not having considered; व्ययमान expending
+; वाञ्छ् to desire; स्ववाञ्छया according to one's desire;
+; क्षीयते pre-pa 3s क्षि ; परिक्षि pass. to waste away;
+; असौ that; धनिन् possessing wealth
+; वैश्रवण patronymic of कुबेर god of riches
 </C>
 <E>
-046.24-25E: For. A man of wealth, who spends his money at his will recklessly without looking to his income, is reduced to poverty although as rich as Kubera.
+046.24-25E: For. A man of wealth, who spends his money at his will recklessly without looking to his income, is reduced to poverty [although] as rich as Kubera.
 </E>
 </group>
 
@@ -15082,26 +15108,26 @@
 <F>
 047.01F: स्तब्धकर्णो ब्रूते -- शृणु भ्रातः चिराश्रितावेतौ
 047.02F: दमनककरटकौ संधिविग्रहकार्याधिकारिणौ च कदाचिदर्थाधिकारे न
-047.03F: नियोक्तव्यौ । अपरं च नियोगप्रस्तावेयात्केचिन्मया श्रुतं तत् कथ्यते ।
+047.03F: नियोक्तव्यौ । अपरं च नियोगप्रस्तावे यत्किंचिन्मया श्रुतं तत् कथ्यते ।
 </F>
 <A>
 047.01A: स्तब्धकर्णः ब्रूते -- शृणु भ्रातः चिराश्रितौ एतौ
 047.02A: दमनककरटकौ संधिविग्रहकार्याधिकारिणौ च कदा चिद् अर्थाधिकारे न
-047.03A: नियोक्तव्यौ । अपरम् च नियोगप्रस्तावेयात् के चिद्  मया श्रुतम् तत् कथ्यते ।
+047.03A: नियोक्तव्यौ । अपरम् च नियोगप्रस्तावे यत् किंचित् मया श्रुतम् तत् कथ्यते ।
 </A>
 <P>
 047.02P: अर्थाधिकारे कोषाध्यक्षतायाम् ।
 </P>
 <C>
 ; cirASrita = cira+ASrita (long-time servants)
-; saMDivigrahakAryADikAriRO = saMDi+vigraha+(kAryADikArin)
-; niyogaprastAveyAt? niyoga+prastAva +? iyAt   OR  (Since Ave at end of line)
-; niyogaprastAveyAtkecinmayA =? niyogaprastAve yAt ke cid mayA  (
-;  yAt = inasmuch as.  Why 'ke' = f1d of kim ?
-;   ke also 7s of 'ka' maybe can be 7s m. agreeing with prastAve
+; संधिविग्रह peace and war; अधिकारिन् an official
+; अर्थाधिकार office of treasury (अर्थ wealth)
+; नियोक्तव्य to be appointed; प्रस्ताव introduction, occasion
+; [इयात् optative 3s इ ] यात् ind. so far as
+; कथ्यते it is told
 </C>
 <E>
-047.01-03E: Stabdhakarna observed--Listen, brother. These two, Damanaka and Karataka, your servants of long standing, who are the ministers of war and peace, must not at all be appointed to supervise the treasury. I will also tell you what little I have heard on the subject of making appointments.
+047.01-03E: Stabdhakarna observed -- Listen, brother. These two, Damanaka and Karataka, your servants of long standing, who are the ministers of war and peace, must not at all be appointed to supervise the treasury. I will also tell you what little I have heard on the subject of making appointments.
 </E>
 </group>
 
@@ -15120,7 +15146,10 @@
 047.05P: कृच्छ्रेण -- कष्टेन ।
 </P>
 <C>
+; आश्रित servant; अधिकार authority, 
 ; praSasyate  pra-SaMs  (passive): proclaim
+; सिद्ध accomplished, gained; कृच्छ्र causing trouble or pain
+; दा यच्छति to give (replacement) ॑deliver up' [Kale]; 
 </C>
 <E>
 047.04-05E: A Brahmana, a Kshatriya and a relative should not preferably be appointed as treasury-officers. A Brahmana does not deliver up even under pressure the money though realized.
@@ -15141,7 +15170,11 @@
 047.07P: बन्धुः ज्ञातिभावतः एककुलजत्वादात्मनोपि सर्वस्मिन्स्वाम्यं मान्यमानः इति भावः ।
 </P>
 <C>
-; jYAtiBAvataH = jYAti+BAvatas  : in consequence of kinship
+; नियुक्त appointed, intrusted; द्रव्य substance, money
+; खड्ग sword ; ध्रुव fixed, immovable; ध्रुवम् ind. firmly;
+; दर्शयते causal दृश् to show; ग्रस् to devour
+; सर्वस्व the whole of one's property
+; jYAti+BAvatas  : in consequence of kinship
 ; Akramya : having seized
 </C>
 <E>
@@ -15163,6 +15196,10 @@
 047.09P: निरवग्रहः -- निरङ्कुशः निरर्गलः । स्वच्छन्दानुवर्ती इति यावत् ।
 </P>
 <C>
+; अपराध offence, mistake; राध् to succeed;
+; निःशङ्क without fear, careless; नियोगिन् official
+; सेवक servant; अवज्ञा to have a low opinion of
+; निरवग्रह unrestrained 
 </C>
 <E>
 047.08-09E: An officer who has been a servant of long standing is fearless even when he has committed a fault; and having despised his master will act freely (lit. without any restraint).
@@ -15183,6 +15220,10 @@
 047.11P: विलुम्पति -- ग्रसते, अपहरति ।
 </P>
 <C>
+; उपकर्तृ one who does a favor, a helper
+; अधिकारस्थ established in an office
+; स्वापराध one's own mistake; ध्वजी flag;
+; लुप् to break, seize; विलुप् to plunder
 </C>
 <E>
 047.10-11E: A benefactor (one who has done a service) when appointed to an office is regardless of his own offence and putting forward his obligation will appropriate the whole thing.
@@ -15203,8 +15244,8 @@
 </P>
 <C>
 ; rAjAyate : Nom. verb rAjAya : to act like a king
-; sapAMSukrIqitaH 'play-friend from childhood' (Kale)
-; pAMSu: sand
+; sapAMSukrIqitaH 'play-friend from childhood' (Kale), pAMSu: sand
+अवज्ञा contempt; परिचय familiarity with; ध्रुवम् firmly, surely
 </C>
 <E>
 047.12-13E: Since a play-friend from childhood, if appointed a minister, himself acts as a king, he is sure always to despise (his master) on account of his familiarity.
@@ -15228,8 +15269,12 @@
 047.15P: शकटारः -- नन्दराजसचिवः ।
 </P>
 <C>
+; अन्तर्दुष्ट internally bad; क्षम patient
+; आयुक्त joined with, m. a minister
+; अनर्थ worthless, dangerous (evil, bad)
+; किल ind. indeed
 ; sarvAnarTakaraH = sarva + anarTa+karaH   (doing all worthless )
-; dfzwAntAvatra -> dfzwAntO atra
+; dfzwAntAvatra -> dfzwAntO atra; दृष्टान्त example
 </C>
 <E>
 047.14-15E: He who is perverse in the mind but outwardly forbearing, verily brings on ruin of every kind: Sakuni and Sakatara, O king, will serve as instances of this.
@@ -15251,7 +15296,16 @@
 047.17P: ऋद्धिः -- धनसंपत्तिः ।
 </P>
 <C>
+; 
 ; sadAyatyAmasADyaH = sadA AyatyAm asADyaH
+; आयति the future (यम् to extend) [older language usage?];
+; असाध्य not to be completed, incurable [incorrigible Kale]
+; समृद्ध prosperous (accomplished, succeeded);
+; ऋध् to grow, increase, to prosper; etc. वृध् to increase
+; 'सर्व एव॑ = ॑ सर्वः एव ॑ (modify ऋद्धः)
+; सिद्ध accomplished, आदेश advice, command.
+; ऋद्धि abundance, prosperity;
+; विकारिन् changeable, changed for the worse
 </C>
 <E>
 047.16-17E: All ministers when grown great are incorrigible in the end. It is a saying of the Siddhas (sages, perfect seers) that abundance perverts the mind.
@@ -15275,6 +15329,10 @@
 047.19P: भोगः -- विषयभोगे अभिनिवेशः । नृपद्रव्यस्योपभोगो वा ।
 </P>
 <C>
+; प्राप्त acquired; अर्थ wealth; अग्रहण not holding [not keeping?]
+; द्रव्य money, परिवर्त revolving, exchange [Kale misappropriation]
+; अनुरोधन fullfilling wishes [Kale easy compliance]
+; उपेक्षा overlooking, negligence; भोग enjoyment
 </C>
 <E>
 047.18-19E: Not accepting the money coming to hand, misappropriation of money, easy compliance, neglect, want of judgment, absence of perception (taking a right view of things), and enjoyment (habit of luxury)--these are the faults in a minister.
@@ -15297,6 +15355,16 @@
 047.21P: कर्मविपर्ययः -- नियोगपरिवर्तनम् । राज्ञां उचितं कर्म इति शेषः ।
 </P>
 <C>
+; नियोगिन् appointed, an official
+; उपाय coming near, a means of success
+; राज्ञां 6 pl. राजन्; नित्य innate, continual
+; परीक्षण looking around, investigation
+; प्रतिपत्ति obtaining; प्रदानम् giving
+; प्रतिपत्तिप्रदान conferring promotion MW (HIT!)
+; विपर्यय reversed, change
+; कर्मविपर्यय mistake [Kale change of duties];
+; A meaning different from Kale seems possible:
+;  three behaviors of a counselor that kings should constantly review; these terms may be technical terms of अर्थशास्त्र 
 </C>
 <E>
 047.20-21E: Finding out means to seize the money (illegally) obtained by an officer, daily supervision (over the officers' work), bestowing honours (according to merit) and change of duties, -- this is the duty of kings.
@@ -15317,6 +15385,9 @@
 048.02P: दुष्टव्रणाः तेपि अपीडिता अमर्दिताः अन्तःसारं पूयादिकं न निष्कामयन्ति ।
 </P>
 <C>
+; आपीडित compressed, squeezed; वम् vomit; नियोगिन् official
+; उच्चैस् aloft, intensely ; अन्तःसार inner essence
+; व्रण wound, sore, flaw; दुष्टव्रण dull boil or sore 
 ; prAyaH = prAyas (ind.) mostly
 </C>
 <E>
@@ -15337,7 +15408,11 @@
 048.03P: वसुधाराः -- वसूनां धाराः सन्ति एषां छद्मापहतमहाधनाः नियोगिनः महीपतेः बाध्या महीपतिना पीडनीयाः । निगीर्णद्रव्योद्गिरणार्थमिति शेषः । बाध्या इत्यत्र रोध इति पाठे नियोगिनः रोधः वसुनः द्रव्यस्य धारा प्रवाह इति योजनीयम् ।
 </P>
 <C>
-; muhur = at every moment;  sakft = once only
+; muhur = at every moment; बाध्य harassed, suppressed
+; वसुधार  holding wealth or treasure, Hit.
+; sakft = once only
+; स्नानवस्त्र bathing dress, wet cloth; मुच् to release;
+; बहूदक having much water
 </C>
 <E>
 048.03-04E: A king should fine* [* Or, ought to fine officers who have misappropriated sums of money.] repeatedly (corrupt) officers large sums of money: for does the garment used at the time of bathing yield up (give out) much water when wrung out only once?
@@ -15349,7 +15424,7 @@
 048.05F: एतत्सर्वं यथावसरं ज्ञात्वा व्यवहर्तव्यम् ।
 048.06F: पिङ्गलको ब्रूते --
 048.07F: अस्ति तावद् एवम् । किंत्वेतौ सर्वथा न मम वचनकरौ ।
-048.08F: स्तब्धकर्णो ब्रूते -- एतत्सर्वथानुचितं सर्वथा । यतः ।
+048.08F: स्तब्धकर्णो ब्रूते -- एतत्सर्वथानुचितं । यतः ।
 </F>
 <A>
 048.05A: एतत् सर्वम् यथा अवसरम् ज्ञात्वा व्यवहर्तव्यम् ।
@@ -15360,6 +15435,9 @@
 <P>
 </P>
 <C>
+; अवसर rain, occasion; यथावसर according to opportunity
+; व्यवहर्तव्य to be done; एतौ these two
+; वचनकर doing as told, obedient
 </C>
 <E>
 048.05-08E: One should remember all this and act accordingly, as an emergency may arise. Pingalaka said -- It is just so. But these two never obey my order. Stabdhakarna observed –- This is not at all proper. For,
@@ -15379,6 +15457,10 @@
 048.10P: चित्रगतस्य -- आलेख्ये निवेशितस्य चित्रपटे लिखितस्य ।
 </P>
 <C>
+; आज्ञा command; भङ्ग breaking; कर doing, doer
+; क्षम् to be patient, put up with (acc.); सुत son
+; विशेष distinction; नु indeed
+; चित्र picture; चित्रगत drawn in a picture
 </C>
 <E>
 048.09-10E: A king should not forgive those who disobey orders, even though they be his sons: for (in that case) what difference can there be between such a king and one drawn in a picture?
@@ -15403,6 +15485,16 @@
 048.14P: प्रमत्तसचिवस्य -- प्रमत्ताः स्वकर्तव्यस्योपेक्षाकारिणः सचिवाः यस्य ।
 </P>
 <C>
+; स्तब्ध firmly fixed, stiff  ; यशस् beautiful appearance, fame
+; विषम uneven, unequal मैत्री friendship;
+; नश् to be lost, perish. इन्द्रिय faculty of sense;
+; अर्थ wealth, पर n. any chief matter or paramount object
+; विद्याफल fruit of learning
+; व्यसनिन् addicted to a vice;
+; कृपण [Kale miser]; सौख्य happiness;
+; सचि friendship, सचिव friend, counselor; नराधिप king
+; प्रमत्त careless, intoxicated, blundering.
+; प्रमत्तसचिव faulty-ministered ...  बहुव्रीहि compound as adjective
 </C>
 <E>
 048.11-14E: Moreover. The fame of one who is inactive comes to an end; so does the friendship of one of unsettled conduct; the family of one who has lost the vigour of his senses; the sense of duty of one intent on acquiring wealth; the fruit of the learning of one who is addicted to vices; the happiness of a miser, and the sovereignty of one whose ministers are careless.
@@ -15412,16 +15504,20 @@
 <group ident="048,15,16" type="shloka 2,108">
 <F>
 048.15F: विशेषतश्च । तस्करेभ्यो नियुक्तेभ्यः शत्रुभ्यो नृपवल्लभात् ।
-048.16F: नृपतिर्निजलोभाच्च प्रजा रक्षेत्पितेव हि ॥ २,१०८॥
+048.16F: नृपतिर्निजलोभाच्च प्रजां रक्षेत्पितेव हि ॥ २,१०८॥
 </F>
 <A>
-048.15A: विशेषतः च । तस्करेभ्यः नियुक्तेभ्यः शत्रुभ्यः नृपवल्लभात् ।
-048.16A: नृपतिः निजलोभात् च प्रजाः रक्षेत् पिता इव हि ॥ २,१०८॥
+048.15A: विशेषतः च । तस्करेभ्यो नियुक्तेभ्यः शत्रुभ्यो नृपवल्लभात् ।
+048.16A: नृपतिः निजलोभात् च प्रजां रक्षेत् पिता इव हि ॥ २,१०८॥
 </A>
 <P>
 048.15P: नियुक्तेभ्यः अधिकारिभ्यः । अन्यथा ते बलवत्परस्वापहरणं कुर्युः ।
 </P>
 <C>
+; तस्कर thief; नियुक्त appointed, an official;
+; वल्लभ beloved
+; निजलोभ native greed; प्रजा offspring, subjects (of a prince)
+
 </C>
 <E>
 048.15-16E: More especially. A king should, like a father, protect his subjects from robbers, from his officers, from enemies, from his favourites and from his own avarice.
@@ -15440,7 +15536,12 @@
 <P>
 </P>
 <C>
-; vyavahAra = business
+; वसन्ततिलका वृत्तिः
+; भ्रातः  भ्रातर् vocative sing.
+; vyavahAra = business; सस्य corn, grain; भक्षक one who eats, food
+; अनुष्ठित done; आरभ्य having begun
+; तदारभ्य  since then, then beginning
+; अर्थकारे  locative 'in the office of treasurer'
 </C>
 <E>
 048.17-18E: Brother, let my advice be always acted upon. I too have transacted business. Let this Samjivaka who eats corn be appointed to superintend the treasury.
@@ -15459,6 +15560,8 @@
 <P>
 </P>
 <C>
+; अनुष्ठित done (conformably); अतिवृत् to pass orver or by;
+; परित्यागः leaving, renouncing;  स्नेहः affection
 </C>
 <E>
 048.19-20E: That being done, from that time onward, Pingalaka and Samjivaka passed their time in great friendship, having left off all other connexions.
@@ -15473,7 +15576,7 @@
 048.24F: स्वयं कृतेऽपि दोषे परिदेवनमप्यनुचितम् । तथा चोक्तम् --
 </F>
 <A>
-048.21A: ततः अनुजीविनाम् अपि आहारदाने शैथिल्यदर्शनात्
+048.21A: ततः अनुजीविनाम् अपि आहारदाने शैथिल्य-दर्शनात्
 048.22A: दमनककरटकौ अन्योन्यम् चिन्तयतः । तद् आह दमनकः
 048.23A: करटकम् -- मित्र किम् कर्तव्यम् । आत्मकृतः अयम् दोषः ।
 048.24A: स्वयम् कृते अपि दोषे परिदेवनम् अपि अनुचितम् । तथा च उक्तम् --
@@ -15481,9 +15584,15 @@
 <P>
 </P>
 <C>
+; अनुजीविन् dependent ( = दास ? ); आहार food;
+; चिन्तयतः 3rd. du. चिन्त् ( class 10 ) to think;
+; शैथिल्य decrease, inattention; दर्शन showing;
+; अन्योन्यम् ind. mutually; आत्कृत "self done";
+; परिदेवन n. lamentation ( दिव् cl. 10 to lament)
+; 
 </C>
 <E>
-048.21-24E: .  Then Damanaka and Karataka, finding that there was a relaxation in dealing out food even to the servants, consulted mutually. Then Damanaka said to Karataka-Friend, what is to be done? This is our own fault. And it is not proper to lament over an evil of one's own making. For it is said--
+048.21-24E: .  Then Damanaka and Karataka, finding that there was a relaxation in dealing out food even to the servants, consulted mutually. Then Damanaka said to Karataka - Friend, what is to be done? This is our own fault. And it is not proper to lament over an evil of one's own making. For it is said--
 </E>
 </group>
 
@@ -15500,13 +15609,19 @@
 048.26P: आदित्सुः ग्रहीतुमिच्छुः ।
 </P>
 <C>
-; svarRareKA  golden-line  
-; sADu = merchant (Kale). Like misprint for 'mendicant' see 48.32[or hermit]  
-; ime = idam m1p
-; Our Faults redound on us, (A. N. D. Haksar translation. Penguin )
+; स्वर्णरेखा स्वर्ण-रेखा svarRareKA proper name
+; golden-line ( रिख् = लिख् रेखा = लेखा line);
+[ वर्णरेखा chalk or a white substance often confounded with chalk ]
+; बद्ध्वात्मानम् बद्ध्वा (बन्ध्)
+; दूतिका messenger, "mischief-making woman" [Kale "procuress"]
+; आदित्सु greedy of gain (desiderative of अद् ; सु one who ..., सा )
+; sADu = merchant (Kale). [MW: "jeweller, HIT."]
+; दुःखित distressed; ime = idam m1p
+; सन्नन्त पिपासा [ पा ] desire to drink;
+; तिथिः f. a lunar ( the तिथि is प्रथमा प्रथिपदा )
 </C>
 <E>
-048.25-26E: I for having touched Svarnarekha, the procuress for having bound herself, the merchant for wishing to steal the gem--all these suffered for their own faults.
+048.25-26E: I for having touched Svarnarekha, the procuress for having bound herself, the merchant for wishing to steal the gem -- all these suffered for their own faults.
 </E>
 </group>
 
@@ -15566,12 +15681,18 @@
 048.33P: वस्त्राञ्चले -- वसनप्रान्ते ।
 </P>
 <C>
-; kAYcana golden
-; nApita = barber
-; kandarpaketu = Kama (== cupid)-ketu. Here proper name.
+; काञ्चन gold; वीर hero; विक्रम valor, courage;
+; धर्म law, अधिकार overseer; nApita = barber
+; वध्य to be killed, भूमि ground; नीयमान being led;
+; कन्दर्प (N. of काम = Cupid) ; केतु sign, flag
+; कन्दर्पकेतु love-flag ; N. of a prince, HIT.
+; परि-व्राज going around, परिव्राज-क  a wandering religious mendicant,
+; साधु-द्वितीय-क  merchant-second-
+; वस्त्र-अञ्चल Kale hem of garment; धृत held
+; राजपुरुष King's man, official; पठ् to repeat
 </C>
 <E>
-048.30-35E: In the city of Kanchanapura lived a king named Viravikrama. As his officer of justice was leading a barber to the place of execution, the latter was held by the skirt of his garment by a certain recluse, Kandarpaketu by name, accompanied by another man, Sadhu (a mendicant), with the words "This barber should not be killed." The king's officers asked why he should not be killed. He said, hear--He repeated--I having touched Svarnarekha etc. They asked--How is this?
+048.30-35E: In the city of Kanchanapura lived a king named Viravikrama. As his officer of justice was leading a barber to the place of execution, the latter was held by the skirt of his garment by a certain recluse, Kandarpaketu by name, accompanied by another man, Sadhu (a mendicant), with the words "This barber should not be killed." The king's officers asked why he should not be killed. He said, hear -- He repeated -- I having touched Svarnarekha etc. They asked -- How is this?
 </E>
 </group>
 
@@ -15585,20 +15706,23 @@
 <P>
 </P>
 <C>
+; सिंहल island of Ceylon (Sri Lanka); द्वीप island
+; जीमूत cloud, mountain, etc.; जीमूतकेतु N. of a Vidyā-dhara prince
+; विद्याधर a kind of supernatural being, fairy.
 </C>
 <E>
-049.01-01E: The recluse told as follows--I am the son of Jimutaketu, king of Ceylon, Kandarpaketu by name.
+049.01-01E: The recluse told as follows -- I am the son of Jimutaketu, king of Ceylon, Kandarpaketu by name.
 </E>
 </group>
 
 <group ident="049,02,04" type="prose">
 <F>
-049.02F: एकदा केलिकाननावस्थितेन मया पोतवणिङ्सुखाच्छ्रुतं यदत्र समुद्रमध्ये चतुर्दश्यामाविर्भूतकल्पतरुतले
+049.02F: एकदा केलिकाननावस्थितेन मया पोतवणिङ्मुखाच्छ्रुतं यदत्र समुद्रमध्ये चतुर्दश्यामाविर्भूतकल्पतरुतले
 049.03F: मणिकिरणावलीकर्बुरपर्यङ्के स्थिता सर्वालंकारभूषिता
 049.04F: लक्ष्मीरिव वीणां वादयन्ती कन्या काचिद् दृश्यते इति ।
 </F>
 <A>
-049.02A: एकदा केलिकाननावस्थितेन मया पोतवणिङ् सुखाच्छ्रुतम् यद् अत्र समुद्रमध्ये चतुर्दश्याम् आविर्भूतकल्पतरुतले
+049.02A: एकदा केलिकाननावस्थितेन मया पोतवणिङ्-मुखाच्छ्रुतम् यद् अत्र समुद्रमध्ये चतुर्दश्याम् आविर्भूतकल्पतरुतले
 049.03A: मणिकिरणावलीकर्बुरपर्यङ्के स्थिता सर्वालंकारभूषिता
 049.04A: लक्ष्मीः इव वीणाम् वादयन्ती कन्या का चिद् दृश्यते इति ।
 </A>
@@ -15607,12 +15731,16 @@
 049.03P: मणीकिरण -- मणीनां रत्नानां किरणावल्या मयूखसंतत्या कर्बुरः विचित्रवर्णः यः पर्यङ्कः मञ्चः तस्मिन् ।
 </P>
 <C>
-; kelikAnanAvasTitena = kelikAnana + avasTitena
-; suKAcCrutam = ?  [suKaT +  Srutam] = happily heard
-; AvirBUtakalpatarutale = AvirBUta + kalpataru + tale
-; maRikiraRAvalIkarburaparyaNke = maRi + kiraRa + AvalI + karbura + paryaNke
-; kiraRa = ray, AvalI = Avali = row, karbura = variegated, paryaNka = sofa
-; BUzita = ppp of BUz (adorned) - not in MW
+; केलि-कानन pleasure (केलि play) grove (कन् to be satisfied)
+; अवस्थित standing near; पोत-वणिज् - सुखात् ship merchant mouth
+; चतुर्दशी 14th day in lunar fortnight (2 weeks)
+; आविर्भूत become visible आविस् ind. before the eyes;
+; कल्प-तरु wishing tree (कल्प possible);
+; मणि jewel किरण ray आवली row, series कर्बुर variegated पर्यङ्क sofa
+; स्थित standing; सर्व अलंकार ornament भूषित adorned ( भूष् क्त )
+; लक्ष्मी goddess of fortune; वीणा a musical instrument;
+; वादयन् playing present participle causal वद्
+; 
 </C>
 <E>
 049.02-04E: One day as I sat in the pleasure-garden I heard from a sea-faring merchant, that, on the fourteenth day of the month, there was to be seen on the sea, under a desire-granting tree that appeared then - seated upon a sofa variegated with a ring of the rays of gems and decorated with ornaments of all kinds -- a maiden, like the goddess Lakshmi, playing upon a lyre.
@@ -15634,6 +15762,9 @@
 049.06P: तथैव वर्णितानुरूपैव ।
 </P>
 <C>
+; आदाय ind. along with; आरुह्य mounted; अनन्तरम् after
+; पर्यङ्क bed, sofa; अर्ध half, मग्न sunk; अवलोकित seen; 
+; तथैव तथा एव exactly so, in like manner;
 </C>
 <E>
 049.05-06E: Then I, in company with the sea-merchant, got on board his ship, and sailed for the place. On going there I saw, as described, on a sofa, the damsel, half submerged.
@@ -15653,8 +15784,9 @@
 049.07P: अहमपि सागर आत्मानमपातयम् ।
 </P>
 <C>
-; tadlAvaRyaguRAkfzwena = tad+lAvaRya+guRa+Akfzwena (by her beauty-qualities drawn)
-; tadpaScAt = tad+paScAt (after her)
+; तद् her - लावण्य beauty - गुण quality - आकृष्ट pulled, attracted
+; तद्पश्चात् = तद् her - पश्चात् after
+; झम्प a jump
 </C>
 <E>
 049.07-07E: Then charmed with her beauty I gave a jump after her.
@@ -15665,18 +15797,22 @@
 <F>
 049.08F: तदनन्तरं कनकपत्तनं प्राप्य सुवर्णप्रासादे तथैव पर्यङ्के
 049.09F: स्थिता विद्याधरीभिरुपास्यमाना मयालोकिता । तथाप्यहं दूरादेव
-049.10F: दृष्ट्वा सखीं प्रस्थाप्य सादरं संभाषितः । तसख्या
+049.10F: दृष्ट्वा सखीं प्रस्थाप्य सादरं संभाषितः । 
 </F>
 <A>
 049.08A: तद् अनन्तरम् कनकपत्तनम् प्राप्य सुवर्णप्रासादे तथा एव पर्यङ्के
 049.09A: स्थिता विद्याधरीभिः उपास्यमाना मया आलोकिता । तथा अपि अहम् दूरात् एव
-049.10A: दृष्ट्वा सखीम् प्रस्थाप्य सादरम् संभाषितः । तसख्या
+049.10A: दृष्ट्वा सखीम् प्रस्थाप्य सादरम् संभाषितः । 
 </A>
 <P>
 049.09P: उपास्यमाना सेव्यमाना ।
 </P>
 <C>
-; tasaKyA = ta(d)+saKyA = (by) her friend
+; कनक gold पत्तन town, city; सुवर्ण of a good color, golden
+; प्रासाद palace; विद्या - धरी possessed of spells, a fairy;
+; उपास्यमान being attended [उप + आस् to sit]; सखी  a female friend;
+; तथापि even so; दुरात् from a distance;
+; प्रस्था causal to send; सम्भाषित spoken to; सादरम् respectfully.
 </C>
 <E>
 049.08-10E: After that on reaching a golden city, I saw her seated on a couch, in the same manner, in a gold palace, and attended by Vidyadhara women. She too, having seen me from a distance, sent her friend and (through her) addressed me with respect.
@@ -15685,27 +15821,33 @@
 
 <group ident="049,11,12" type="prose">
 <F>
-049.11F: च मया पृष्टया समाख्यातम् -- एषा कंदर्पकेलिनाम्नो
+049.11F: तसख्या च मया पृष्टया समाख्यातम् -- एषा कंदर्पकेलिनाम्नो
 049.12F: विद्याधरचक्रवर्तिनः पुत्री रत्नमञ्जरी नाम । अनया च प्रतिज्ञातम् --
 </F>
 <A>
-049.11A: च मया पृष्टया समाख्यातम् -- एषा कंदर्पकेलिनाम्नः
+049.11A: तसख्या च मया पृष्टया समाख्यातम् -- एषा कंदर्पकेलिनाम्नः
 049.12A: विद्याधरचक्रवर्तिनः पुत्री रत्नमञ्जरी नाम । अनया च प्रतिज्ञातम् --
 </A>
 <P>
 049.12P: विद्याधरचक्रवर्तिनः विद्याधरसार्वभौमस्य ।
 </P>
 <C>
-; anayA f3s idam
+; tasaKyA = ta(d)+saKyA = (by) her friend ? Possible typo in Kale print.
+; पृष्ट asked [ प्रछ् ] [ near spelling:   पृष्ठ the back]
+; समाख्यात fully related ( Kale replied );
+; कन्दर्प N. of god of love, केलि play;
+; विद्याधरचक्रवर्तिन् supreme lord of the Vidyadharas
+; मञ्जरी a cluster of blossoms.
+; अनया f. 3s. इदम्  ; प्रतिज्ञात promised, stated. (strong vow)
 </C>
 <E>
-049.11-12E: To my inquiry her friend replied -– This is the daughter of Kandarpaketu, the imperial king of the Vidyadharas, Ratnamanjari by name.
+049.11-12E: To my inquiry her friend replied -– This is the daughter of Kandarpaketu, the imperial king of the Vidyadharas, Ratnamanjari by name. She has taken this vow -- 
 </E>
 </group>
 
 <group ident="049,13,15" type="prose">
 <F>
-049.13F: यः कनकपत्तनं स्वचक्षुषागत्य पश्यति  स एव
+049.13F: यः कनकपत्तनं स्वचक्षुषागत्य पश्यति स एव
 049.14F: पितुरगोचरेऽपि मां परिणेष्यतीति ।
 049.15F: एषोऽस्या मनसः संकल्पः । तदेनां गान्धर्वविवाहेन परिणयतु भवान् ।
 </F>
@@ -15718,22 +15860,26 @@
 049.14P: पितुरगोचरेपि पितुरनुज्ञामन्तरेणापि ।
 </P>
 <C>
-; asyAH f6s idam
+; स्वचक्षुस् one's own eye ;  अगोचर not within range;
+; परिणी [ णेष्यति fut. 3s ] to marry
+; अस्याः  f. 5/6. s. idam; संकल्प will, vow, purpose
+; एनाम्  f. 2. s. idam; गान्धर्व relating to the गन्धर्व a celestial musician, etc.
+; विवाह leading away, marriage; गन्धर्वविवाह marriage based only on love;
 </C>
 <E>
-049.13-15E: She has taken this vow -- "He who having come to Kanakapattana beholds it with his eyes will be my husband even in the absence of my father". Such is her mind's resolve. Your Honour should, therefore, marry her by the Gandharva form of marriage.
+049.13-15E: "He who having come to Kanakapattana beholds it with his eyes will be my husband even in the absence of my father". Such is her mind's resolve. Your Honour should, therefore, marry her by the Gandharva form of marriage.
 </E>
 </group>
 
 <group ident="049,16,19" type="prose">
 <F>
-049.16F: अथ तत्र वृत्ते गन्धर्वविवाहे
+049.16F: अथ तत्र वृत्ते गान्धर्वविवाहे
 049.17F: तया सह रममाणस्तत्राहं तिष्ठामि । तत एकदा रहसि तयोक्तम् --
 049.18F: स्वामिन् स्वेच्छया सर्वमिदमुपभोक्तव्यम् । एषा चित्रगता
 049.19F: स्वर्णरेखा नाम विद्याधरी न कदाचित् स्प्रष्टव्या ।
 </F>
 <A>
-049.16A: अथ तत्र वृत्ते गन्धर्वविवाहे
+049.16A: अथ तत्र वृत्ते गान्धर्वविवाहे
 049.17A: तया सह रममाणः तत्र अहम् तिष्ठामि । तत एकदा रहसि तया उक्तम् --
 049.18A: स्वामिन् स्वेच्छया सर्वम् इदम् उपभोक्तव्यम् । एषा चित्रगता
 049.19A: स्वर्णरेखा नाम विद्याधरी न कदा चिद् स्प्रष्टव्या ।
@@ -15741,6 +15887,15 @@
 <P>
 </P>
 <C>
+; वृत्त turned, completed, etc.
+; रममाणः delighting; स्था to stand; रहसि privately
+; स्वामिन्  lord, prince; स्वेच्छा one's own wish;
+; उपभोक्तव्य  ~= भोक्तव्य to be enjoyed ( भुज् to enjoy);
+; चित्रगत represented in a picture
+; चित्रगता she in the picture; चरण foot पद्म lotus; ताडित struck तड् ;
+; राष्ट्र kingdom; पतित fallen; परिव्रजित wandered;
+; पृथिवी the earth; परिभ्राम्यन् moving to and fro;
+; अनुप्राप्त arrived 
 </C>
 <E>
 049.16-19E: So the Gandharva marriage being concluded I lived there enjoying the sweets of her company. One day she said to me in private -- Lord, you may enjoy everything here according to your wishes; but you should never touch this Vidyadhara female, Svarnarekha by name, painted here.
@@ -15759,6 +15914,10 @@
 <P>
 </P>
 <C>
+; पश्चात्  afterwards
+; उपजात added, produced; कौतुक curiosity; स्वहस्त one's own hand;
+; अपि also;  चरण foot पद्म lotus; राष्ट्र kingdom; 
+; पतित fallen
 </C>
 <E>
 049.20-21E: Thereafter my curiosity being roused, I touched that Svarnarekha with my hand. Then I was struck by her with her lotus-like foot, though a mere picture, so that I came, and fell in my kingdom.
@@ -15770,19 +15929,29 @@
 049.22F: अथ दुःखितोऽहं परिव्रजितः पृथिवीं परिभ्राम्यन्निमां
 049.23F: नगरीमनुप्राप्तः । अत्र चातिक्रान्ते दिवसे गोपगृहे सुप्तः
 049.24F: सन्नपश्यम् । प्रदोषसमये सुहृदापानकात् स्वगेहमागतो
-049.25F: गोपः स्ववधूं दूत्या सह किमपि मन्त्रयन्तीमपश्यत् । ततस् तां गोपीं
+049.25F: गोपः स्ववधूं दूत्या सह किमपि मन्त्रयन्तीमपश्यत् ।
 </F>
 <A>
 049.22A: अथ दुःखितः अहम् परिव्रजितः पृथिवीम् परिभ्राम्यन् इमाम्
 049.23A: नगरीम् अनुप्राप्तः । अत्र च अतिक्रान्ते दिवसे गोपगृहे सुप्तः
 049.24A: सन् अपश्यम् । प्रदोषसमये सुहृदापानकात् स्वगेहम् आगतः
-049.25A: गोपः स्ववधूम् दूत्या सह किम् अपि मन्त्रयन्तीम् अपश्यत् । ततस् ताम् गोपीं
+049.25A: गोपः स्ववधूम् दूत्या सह किम् अपि मन्त्रयन्तीम् अपश्यत् ।
 </A>
 <P>
 049.22P: परिव्रजितः -- प्रव्रज्यां गृहीतवान् ।
 049.24P: आपानकं सुरापानस्थानम् ।
 </P>
 <C>
+; दुःखित pained, unhappy
+; परिव्रजित (gone around) a mendicant [not in MW] (Kale recluse);
+; इमाम्  f_pron 2s idam; अनुप्राप्त obtained, reached
+; दिवस  a day; अतिक्रान्त having passed; गोप cowherd गृह home
+; सुप्त asleep, lain down to sleep
+; सन् being (m. sg. nom. of सत् present participle अस् to be)
+; सुप्तः सन् while sleeping (or dozing)
+; प्रदोष corrupt, evening; समय (coming together), time; प्रदोषसमय = प्रदोषकाल = eventide [MW: rf. Hit.]
+; सुहृद् good-hearted, a friend;  आपानक drinking-bout, drinking.
+; गेह = गृह ; वधू a bride, wife; दूती female messenger, procuress 
 ; mantrayantIm ? 'planning something' PWG mantray 'talking'
 </C>
 <E>
@@ -15792,12 +15961,12 @@
 
 <group ident="049,26,28" type="prose">
 <F>
-049.26F: ताडयित्वा स्तम्भे बद्ध्वा सुप्तः । ततोऽर्धरात्रे एतस्य नापितस्य
+049.26F: ततस् तां गोपीं ताडयित्वा स्तम्भे बद्ध्वा सुप्तः । ततोऽर्धरात्रे एतस्य नापितस्य
 049.27F: वधूर्दूती पुनस्तां गोपीमुपेत्यावदत् -- तव विरहानलदग्धोऽसौ
 049.28F: स्मरशरजर्जरितो मुमूर्षुरिव वर्तते महानुभावः ।
 </F>
 <A>
-049.26A: ताडयित्वा स्तम्भे बद्ध्वा सुप्तः । ततः अर्धरात्रे एतस्य नापितस्य
+049.26A: ततस् ताम् गोपीं ताडयित्वा स्तम्भे बद्ध्वा सुप्तः । ततः अर्धरात्रे एतस्य नापितस्य
 049.27A: वधूः दूती पुनः ताम् गोपीम् उपेत्य अवदत् -- तव विरहानलदग्धः असौ
 049.28A: स्मरशरजर्जरितः मुमूर्षुः इव वर्तते महानुभावः ।
 </A>
@@ -15806,6 +15975,14 @@
 049.28P: स्मरशरजर्जरितः स्मरः कामः तस्य शरैः व्याकुलितः ।
 </P>
 <C>
+; गोपी female cowherd, cowherdess; स्तम्भ post;
+; रात्र ifc. = रात्रि night; अर्धरात्र midnight; नापित barber;
+; उपेत्य having approached; विरह abandonment; अनल fire
+; दग्ध [ दह् ] burnt, consumed
+; असौ he or she (अदस् pron.); विरह separation, absence; अनल fire;
+; दग्ध burnt; स्मर Kāma-deva (god of love); शर arrow;
+; जर्जरित become decrepit or decayed (pierced Kale); मुमूर्षु wishing to die;
+; महानुभाव of great might, noble; 
 </C>
 <E>
 049.26-28E: Then he beat the cowherdess, made her fast to a post and went to bed. Then at midnight the procuress, the wife of this barber, again came to the cowherd's wife and said -- That noble person, burnt by the fire of your separation, and pierced with the shafts of the god of love is about to die for you.
@@ -15828,6 +16005,9 @@
 049.29P: अनुवर्तितुमानुकूल्यमाचरितुम् ।
 </P>
 <C>
+; तादृशी such like अवस्था condition; अवलोक् to look upon, observe;
+; परिक्लिष्ट much tormented; मनाः मनस् f. 1. sg.; अनुवृत् to follow [persuade Kale];
+; सत्वरम् quickly 
 </C>
 <E>
 049.29-31E: Pained at heart on finding him in that condition I have come here to persuade you. I will then wait here having tied myself to the post; you should go there and return quickly after having acted to his wishes.
@@ -15853,8 +16033,13 @@
 049.33P: जारान्तिकम् कथं न यासि -- इति सोपालंभं वचः ।
 </P>
 <C>
-; kartrika (not found). kartarikA = scissors
-;'dUtyA uktam -- paSya mama .' removed from 049.36 and inserted to 050.01
+; अनुष्ठित done; सति [Huet: present part. अस् , m./n. sg. loc.] (it) being
+; प्रबुद्ध awakened; जार paramour, lover; अन्तिक near, vicinity;
+; दर्प pride, arrogance; प्रत्युत्तर a reply, answer; 
+; कर्त्रिका scissors (AP90, not in MW). कर्तरिका = कर्तरि = scissors
+; नासिका nose; छिन्न cut off, cut; सुप्त lain down to sleep;
+; निद्रा sleep; वार्ता (not MW) (Kale news); ap90 news 
+; सोपालम्भ conveying censure;
 </C>
 <E>
 049.32-36E: After that was done the cowkeeper awoke and said to her -- Why dost thou not go to your gallant now? But as she returned no reply, he saying, How is it that you, in your vanity, do not even give me an answer!, seized a pair of scissors in a rage and cut off her nose. This done, the cowherd again lay down and sank into sleep. Now the cowherd's wife, returning, asked the barber's wife what the news was.
@@ -15863,19 +16048,20 @@
 
 <group ident="050,01,03" type="prose">
 <F>
-050.01F: दूत्योक्तम् -- पश्य मम । मुखमेव वार्तां कथयति । 
-050.02F: अनन्तरं सा गोपी तथैवात्मानं बद्ध्वावस्थिता । इयं च
+050.01F: दूत्योक्तम् -- पश्य मम मुखमेव वार्तां कथयति । 
+050.02F: अनन्तरं सा गोपी तथैवात्मानं बद्ध्वावस्थिता ।
 050.03F: इयम् च दूती तां छिन्ननासिकां गृहीत्वा स्वगृहं प्रविश्य स्थिता ।
-</F>
+</F> 
 <A>
-050.01A: दूत्या उक्तम् -- पश्य । मम मुखम् एव वार्ताम् कथयति । 
+050.01A: दूत्या उक्तम् -- पश्य मम मुखम् एव वार्ताम् कथयति । 
 050.02A: अनन्तरम् सा गोपी तथा एव आत्मानम् बद्ध्वा अवस्थिता । 
 050.03A: इयम् च दूती ताम् छिन्ननासिकाम् गृहीत्वा स्वगृहम् प्रविश्य स्थिता ।
 </A>
 <P>
 </P>
 <C>
-; 'iyam ca' moved from 02 to 03
+; अनन्तरम् immediately afterword; अवस्थित remained;
+; इयम् f. 1 sg. इदम् she, that; 
 </C>
 <E>
 050.01-03E: The procuress replied-- Look here, my face will tell you the news. Thereafter the cowherdess tied herself to the post and stood as before. The procuress, too, took up her nose and having gone home lay there.
@@ -15886,7 +16072,7 @@
 <F>
 050.04F: ततः प्रातरेवानेन नापितेन क्षुरभाण्डं याचिता सतीयं
 050.05F: क्षुरमेकं प्रादात् । ततोऽसमग्रभाण्डे प्राप्ते समुपजातकोपोऽयं
-050.06F: नापितस्तं क्षुरं दूरादेएव गृहे क्षिप्तवान् । अथ कृतार्तनादेयं विनापराधेन
+050.06F: नापितस्तं क्षुरं दूरादेव गृहे क्षिप्तवान् । अथ कृतार्तनादेयं विनापराधेन
 050.07F: मे नासिकानेन छिन्नेत्युक्त्वा धर्माधिकारिसमीपमेनमानीतवती ।
 </F>
 <A>
@@ -15899,7 +16085,13 @@
 050.06P: कृतार्तनादा कृतः आर्तनादः करुणस्वनः यया ।
 </P>
 <C>
-; iyam = f1s idam
+; प्रातर् at day-break, at dawn; क्षुर  a razor-blade; भाण्ड ifc. case
+; याचिता asked f.; अदात् दा ipf. 3. sg. gave, प्रदा to give
+; असमग्र incomplete; समुपजात produced; अयम् he; 
+; क्षिप्तवत् threw; कृत - आर्तनादा one whose cry of pain has been done; इयम् she
+; अर्तन censure, blame; अदेय not to be given; 
+; अपराध offence; धर्म - अधिकारिन् law officer; समीप near, towards;
+; एनम् him (इदम् m. acc. sg.); आनीतवत् took; 
 </C>
 <E>
 050.04-07E: Then in the morning when this barber asked her for the razor-case, she gave him one razor only. Thereupon, this barber, going into a passion as the whole case was not handed over to him threw the razor from some distance into the house. Upon this setting up a cry of pain and saying 'Without any provocation he has cut off my nose' she brought him to the officer of justice.
@@ -15921,6 +16113,11 @@
 050.10P: अकल्मषम् -- निष्पापम् ।
 </P>
 <C>
+; अरे interjection of calling, O; पाप m. wicked man; सती virtuous wife;
+; विरूप deformed; रूपय् [pwg] to give shape; विरूपय् to disfigure;
+; समर्थ suitable for, able to; व्यवहार conduct;
+; कल्मष stain, stained; अकल्मष spotless; लोक world पाल protector;
+; जानन्ति ज्ञा they know;
 </C>
 <E>
 050.08-10E: In the meanwhile, the cowherd's wife being again asked by the cowherd exclaimed -- Who, vile wretch, is able to disfigure me who am so very chaste. The eight guardians of the world alone know how free from sin all my actions are. For,
@@ -15939,28 +16136,36 @@
 <P>
 </P>
 <C>
-; ahaH = ahar (day)
+; आदित्य sun; चन्द्र moon; अनिल wind; अनल fire
+; द्यौः nom. sg. द्यु / दिव् heaven, sky; भूमि earth; आपः (f. plur.) water;
+; हृदय heart, soul; यम god of death; अहः = अहर् day; रात्रि night;
+; उभ both; संध्या twilight (f. nom. dual); वृत्त action, mode of life.
+; जानाति knows [each देवता (आदित्यादि) interacts with नर, so knows नरस्य वृत्तम् ]
 </C>
 <E>
-050.11-12E: The sun and the moon, wind and fire, heaven and earth, water, the heart, Yama, day and night, both the twilights and the deity Dharma-—these know the actions of a man.
+050.11-12E: The sun and the moon, wind and fire, heaven and earth, water, the heart, Yama, day and night, both the twilights and the deity Dharma -- these know the actions of a man.
 </E>
 </group>
 
 <group ident="050,13,15" type="prose">
 <F>
 050.13F: ततोहं यदि परमसती स्यां निजस्वामिनं त्वां विहाय नान्यं मनसापि चिन्तयामि
-050.14F: तदा मम मुखमक्षतं भवतु । पश्य मन्मुखम् । ततो यवदसौ गोपीं दीपं प्रज्वाल्य
+050.14F: तदा मम मुखमक्षतं भवतु । पश्य मन्मुखम् । ततो यावदसौ गोपीं दीपं प्रज्वाल्य
 050.15F: तन्मुखमवलोकते तावदुन्नसं मुखमवलोक्य तच्चरणयोः पतितः -- 
 </F>
 <A>
 050.13A: ततः अहम् यदि परमसती स्याम् निजस्वामिनम् त्वाम् विहाय न अन्यम् मनसा अपि चिन्तयामि
-050.14A: तदा मम मुखम् अक्षतम् भवतु । पश्य मन्मुखम् । ततो यवत् असौ गोपीम् दीपम् प्रज्वाल्य
+050.14A: तदा मम मुखम् अक्षतम् भवतु । पश्य मन्मुखम् । ततो यावद् असौ गोपीम् दीपम् प्रज्वाल्य
 050.15A: तत् मुखम् अवलोकते तावत् उन्नसम् मुखम् अवलोक्य तत् चरणयोः पतितः -- 
 </A>
 <P>
 </P>
 <C>
-; "Danyo'haM yasyedrSI" moved from end of 15 to beginning of 16.
+; परम - सती most excellent wife; स्याम् optative 1 sg. अस्;
+; निज [innate] = स्व one's own; विहाय ind. excepting (leaving behind);
+; मनसा ind. in the mind; चिन्त् to consider, think; अक्षत uninjured [ क्षन् ]
+; मद् = अस्मद्; दीप lamp; प्रज्वाल्य [ प्रज्वल् causal ] to light; अवलोक् to look at;
+; उन्नस having a prominent nose; चरण foot; 
 </C>
 <E>
 050.13-15E: If then, I am perfectly chaste, and have never even so much as thought of a man other than yourself, let my face be free from its wound. Look at my face. Then as soon as the cow-keeper lighted a lamp, looked at her face and found that it had the nose restored, he fell at her feet saying --
@@ -15969,18 +16174,21 @@
 
 <group ident="050,16,17" type="prose">
 <F>
-050.16F: धन्योऽहं यस्येद्र्शी भार्या परमसाध्वी इति । योयमास्ते साधुरेतद्वृत्तान्तमपि शृणुत । अयं स्वगृहान्निर्गतो
+050.16F: धन्योऽहं यस्येदृशी भार्या परमसाध्वी इति । योयमास्ते साधुरेतद्वृत्तान्तमपि शृणुत । अयं स्वगृहान्निर्गतो
 050.17F: द्वादशवर्षमलयोपकण्ठादिमां नगरीमनुप्राप्तः । अत्र च वेश्यागृहे सुप्तः । 
 </F>
 <A>
-050.16A: धन्यः अहम् यस्य इद्र्शी भार्या परमसाध्वी इति । यः अयम् आस्ते साधुः एतत् वृत्तान्तम् अपि शृणुत । अयम् स्वगृहात् निर्गतः
+050.16A: धन्यः अहम् यस्य ईदृशी भार्या परमसाध्वी इति । यः अयम् आस्ते साधुः एतत् वृत्तान्तम् अपि शृणुत । अयम् स्वगृहात् निर्गतः
 050.17A: द्वादशवर्षमलयोपकण्ठात् इमाम् नगरीम् अनुप्राप्तः । अत्र च वेश्यागृहे सुप्तः । 
 </A>
 <P>
 </P>
 <C>
-; dvAdaSavarza-malaya-upakaRWAt : after 12 years from Malaya-vicinity
-; move 'tasyAH' from end of 17 to beginning of 18
+; धन्य fortunate; साध्वी good, virtuous; वृत्तान्त end of action, incident;
+; आस्ते 3. sg. आस् to sit; शृणुत imp. 2 pl.; वर्ष rain, a year;
+; मलय mountainous area in south-western India (Malabar);
+; उपकण्ठ near; इमाम् this (f. 2nd. sg.);
+; वेश्या a prostitute; 
 </C>
 <E>
 050.16-17E: Blessed am I whose wife is thus perfectly virtuous. Now attend to the story of the mendicant who is here. He, having left his house, came to this city after twelve years, from the vicinity of mount Malaya. He slept in the house of a courtesan.
@@ -16002,7 +16210,11 @@
 050.18P: काष्ठघटितवेतालस्य दारुनिर्मितवेतालमूर्त्याः ।
 </P>
 <C>
-; sannArta = sat + Arta (sandhi) ?
+; कुट्टनी a procuress (syn. of दूती ); स्थापित caused to stand, fixed;
+; काष्ठ n. piece of wood; घटित united, made of; वेताल ghost;
+; उत्कृष्ट drawn up, excellent; रात्रौ [ रात्रि 7 sg. ] at night; उत्था to get up, stand;
+; सूत्र string, संचारित caused to go, बाहु arm; पीडित squeezed;
+; आर्तनाद pained sound; कुट्टनी bawd, prostitute
 </C>
 <E>
 050.18-20E: At the door of the harlot's house there stood the wooden image of a spirit, on whose head there was a jewel of the best sort. Seeing that, this mendicant, being impelled by avarice, got up in the middle of the night and attempted to take the jewel. Then being pressed by the arms of the spirit which were moved by wires, he uttered a cry of pain. Thereupon the harlot, having got up, said --
@@ -16021,10 +16233,12 @@
 <P>
 </P>
 <C>
-; aDunA moved from 22 to 23
+; अस्मै m. 4 sg. idam, to him [e.g. वेतालाय ]; प्रयम् to offer;
+; नो चेद् if not; त्यक्तव्य to be abandoned; इत्थम् thus
+; चेटक servant [ Kale 'wily fellow' ]; समर्पित delivered; 
 </C>
 <E>
-050.21-22E: Holloa, son, you have come from the neighbourhood of Malaya. Deliver, therefore, all the jewels you have to him, else he will not release you. Such is this wily fellow. Then this merchant gave up all his jewels.
+050.21-22E: Holloa, son, you have come from the neighbourhood of Malaya. Deliver, therefore, all the jewels you have to him, else he will not release you. Such is this wily fellow. Then this mendicant [merchant] gave up all his jewels.
 </E>
 </group>
 
@@ -16042,8 +16256,12 @@
 <P>
 </P>
 <C>
-; 'ityAdi' left as is.
-</C>
+; अधुना now; हृत taken सर्वस्व all possessions; मिलित met; राजपुरुष king's man;
+; न्याये न्याय loc. lawsuit, legal proceeding; धर्माधिकारिन् judge;
+; प्रवर्तित set in motion; मुण्डित shaved; निःसारित expelled, turned out, dismissed;
+; दण्डित punished (Kale 'fined'); साधु mendicant (Kale 'merchant' cf. 050.16)
+; प्रदत्त given; 
+; </C>
 <E>
 050.23-25E: And now, he too, being robbed of all his wealth, has joined our party. On hearing all this the king's officers got the judge to do justice. The barber's wife was shaved, the cowherdess expelled the city, the harlot fined and the merchant restored to all his wealth. The barber too went home. Therefore I say- I for having touched Svarnarekha etc.
 </E>
@@ -16061,6 +16279,12 @@
 <P>
 </P>
 <C>
+; अथ स्वायम्कृतोयम् दोषः spoken by दमनकः cf. 048.27 ff.
+; स्वयंकृत done by one's self; विलपन lamenting; उचित proper ( वच् );
+; क्षणम् a moment; विमृश् to touch, think; सहसा ind. forcibly;
+; अनयोः  dual case 6/7 du., of/with these two; [ संजीवक पिङ्गलक ]
+; सौहार्द friendship; कारित caused to be done; मित्रभेद separation of friends;
+; कार्य to be done; 
 </C>
 <E>
 050.26-27E: Now this fault is ours, and lamentation is out of place in this case. Having reflected for a moment -- Friend, just as I brought about the friendship of these too, so should I effect the disunion of the two friends also. For,
@@ -16082,6 +16306,9 @@
 050.29P: चित्रकर्मविदः आलेख्यकुशलाः ।
 </P>
 <C>
+; अतथ्य not true; दर्शय् [causal] to show ; पेशल artificially formed, beautiful
+; सम flat (same, even); निम्नोन्नत low and high
+; चित्र painting कर्म action विदः m. nom. pl. knowing; 
 </C>
 <E>
 050.28-29E: Very clever men represent even untruth as truth (if required), as persons versed in the art of painting represent depressions and prominences on an even surface.
