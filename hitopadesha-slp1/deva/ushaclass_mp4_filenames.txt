@@ -297,15 +297,21 @@ Video-20240402_010401-Meeting Recording.mp4  lines=049.24-050.01;
 Video-20240403_010242-Meeting Recording.mp4  lines=050.01-050.10;
 Video-20240404_010941-Meeting Recording.mp4  lines=050.11-050.16;
 Video-20240406_005506-Meeting Recording.mp4  lines=050.16-050.25; end स्वर्णरेखा कथा
+Video-20240409_010336-Meeting Recording.mp4  lines=050.26-050.34;
+Video-20240410_010641-Meeting Recording.mp4  lines=050.34-051.10;
+Video-20240412_010028-Meeting Recording.mp4  lines=051.11-051.25; shlokas = 117
+Video-20240413_005316-Meeting Recording.mp4  lines=051.26-051.34; shlokas = 118;
+Video-20240416_010354-Meeting Recording.mp4  lines=051.35-052.07; shlokas = 119;
 
-Usha, here is another typo: 050.14:   यवद  ->  यावद
-Usha, here is a second typo: 050.16:  यस्येद्र्शी -> यस्येदृशी   
+
+typo 052.14 : कुर्वन्न् आस्ते -> कुर्वन्नास्ते ***********
+/xampp/htdocs/funderburkjim/hitopadesha-kale/hitopadesha-slp1/deva-format/hitokale_10.xml
 एकबाहुर्नरः  एकबाहुः नरः  one-armed man  (a character in the drama 'The fugitive' - tv series and movie)
   https://github.com/sanskrit-lexicon/csl-websanlexicon/tree/master/v02/makotemplates/web/utilities  link accompanying previous video Video-20240217_005623-Meeting Recording.mp4
 Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 emacs selection from hitokale_deva_p.txt
-\(048...F:\)\|\(049...F:\)\|\(050...F:\)\|\(051...F:\)
+\(049...F:\)\|\(050...F:\)\|\(051...F:\)\|\(052...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)

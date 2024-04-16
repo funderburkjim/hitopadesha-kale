@@ -15491,7 +15491,7 @@
 ; अर्थ wealth, पर n. any chief matter or paramount object
 ; विद्याफल fruit of learning
 ; व्यसनिन् addicted to a vice;
-; कृपण [Kale miser]; सौख्य happiness;
+; कृपण pitiable [Kale miser]; सौख्य happiness;
 ; सचि friendship, सचिव friend, counselor; नराधिप king
 ; प्रमत्त careless, intoxicated, blundering.
 ; प्रमत्तसचिव faulty-ministered ...  बहुव्रीहि compound as adjective
@@ -16269,11 +16269,11 @@
 
 <group ident="050,26,27" type="prose">
 <F>
-050.26F: अथ स्वयम्कृतोऽयं दोषः । अत्र विलपनं नोचितम् । (क्षणं विमृश्य ।) मित्र सहसैव
+050.26F: अथ स्वयंकृतोऽयं दोषः । अत्र विलपनं नोचितम् । (क्षणं विमृश्य ।) मित्र सहसैव
 050.27F: यथानयोः सौहार्दं मया कारितं तथा मित्रभेदोऽपि मया कार्यः । यतः ।
 </F>
 <A>
-050.26A: अथ स्वयम्कृतः अयम् दोषः । अत्र विलपनम् न उचितम् । (क्षणम् विमृश्य ।) मित्र सहसा एव
+050.26A: अथ स्वयंकृतः अयम् दोषः । अत्र विलपनम् न उचितम् । (क्षणम् विमृश्य ।) मित्र सहसा एव
 050.27A: यथा अनयोः सौहार्दम् मया कारितम् तथा मित्रभेदः अपि मया कार्यः । यतः ।
 </A>
 <P>
@@ -16281,7 +16281,8 @@
 <C>
 ; अथ स्वायम्कृतोयम् दोषः spoken by दमनकः cf. 048.27 ff.
 ; स्वयंकृत done by one's self; विलपन lamenting; उचित proper ( वच् );
-; क्षणम् a moment; विमृश् to touch, think; सहसा ind. forcibly;
+; क्षणम् a moment; विमृश् to touch, think
+; सहसा ind. suddenly, forcibly [सहसैव Just as KALE]
 ; अनयोः  dual case 6/7 du., of/with these two; [ संजीवक पिङ्गलक ]
 ; सौहार्द friendship; कारित caused to be done; मित्रभेद separation of friends;
 ; कार्य to be done; 
@@ -16306,7 +16307,8 @@
 050.29P: चित्रकर्मविदः आलेख्यकुशलाः ।
 </P>
 <C>
-; अतथ्य not true; दर्शय् [causal] to show ; पेशल artificially formed, beautiful
+; अतथ्य not true; दर्शय् [causal] to show
+; पेशल artificially formed, beautiful [पिश् to hew out, adorn; ॑very clever men']
 ; सम flat (same, even); निम्नोन्नत low and high
 ; चित्र painting कर्म action विदः m. nom. pl. knowing; 
 </C>
@@ -16330,6 +16332,10 @@
 050.31P: दुर्गाणि संकटानि ।
 </P>
 <C>
+; अपरं च moreover; उत्पन्न risen; कार्य to be done, duty
+; मति wit [thought, mind, intelligence];
+; हीयते हा to be abandoned; निस्तॄ to pass over;
+; दुर्ग difficulty; गोपी cow-herdess; जारद्वय pair of lovers
 </C>
 <E>
 050.30-31E: Moreover, he whose intellect does not fail him even under fresh occurrences, surmounts difficulties just as the cowherd's wife got clear of her two lovers.
@@ -16370,18 +16376,21 @@
 
 <group ident="050,34,35" type="prose">
 <F>
-050.34F: अस्ति द्वारवत्यां पुर्यां कस्यचिद्गोपस्य वधूर्बन्धकी । सा ग्रामस्य दण्डनायकेन
-050.35F:  तत्पुत्रेण च समं रमते । तथा चोक्तम् --
+050.34F: अस्ति द्वारवत्यां पुर्यां कस्यचिद्गोपस्य वधूर्बन्धकी । 
+050.35F: सा ग्रामस्य दण्डनायकेन तत्पुत्रेण च समं रमते । तथा चोक्तम् --
 </F>
 <A>
-050.34A: अस्ति द्वारवत्याम् पुर्याम् कस्य चित् गोपस्य वधूः बन्धकी । सा ग्रामस्य दण्डनायकेन
-050.35A:  तत्पुत्रेण च समम् रमते । तथा च उक्तम् --
+050.34A: अस्ति द्वारवत्याम् पुर्याम् कस्य चित् गोपस्य वधूः बन्धकी । 
+050.35A: सा ग्रामस्य दण्डनायकेन तत्पुत्रेण च समम् रमते । तथा च उक्तम् --
 </A>
 <P>
-050.34P: बन्धकी -- कुलटा , पुंश्चली । ऽपुंश्चल्यां स्याच्च बन्धकीऽ इति मेदिनी ।
+050.34P: बन्धकी -- कुलटा , पुंश्चली । " पुंश्चल्यां स्याच्च बन्धकी " इति मेदिनी ।
 050.34P: दण्डनायकः दण्डाधिकारी नगरशान्तिरक्षकप्रधानः ।
 </P>
 <C>
+; द्वारवती proper name [possessing gates]; पुरी town; बन्धकी courtezan;
+; ग्राम village [ग्रस् to eat ?]; दण्डनायक judge [Kale 'magistrate'];
+; समम् similarly रम् to be fond of (instr.);
 </C>
 <E>
 050.34-35E: The wife of a certain cowherd who lived in Dvaraka was of a bad character. She had an intrigue with the magistrate of the place, as also with his son. For it is said --
@@ -16401,6 +16410,10 @@
 051.01P: तृप्यति काष्ठानाम् । तृतीयार्थे षष्ठी । म।भा।उ।प। ४०,७; अ।प।३८।२५।
 </P>
 <C>
+; तृप् to be satisfied; काष्ठ wood [Kale fuel]; अपगा river;
+; महा great उदधि water-holder [महोदधि ocean] ([उद water - only in compounds])
+; अन्तक border, death; सर्वभूत all beings (pl.); पुंसाम् 6 pl. पुंस्;
+; वाम beautiful लोचन eye [a fair-eyed woman]; 
 </C>
 <E>
 051.01-02E: Fire is not satisfied with fuel, the ocean with rivers, the god of death with all creatures and a beautiful woman with men.
@@ -16424,6 +16437,9 @@
 051.04P: स्त्रियः वशीक्रियन्ते इति । अत एव ताः सर्वथा सर्वप्रकारेण विषमाः दुराराध्याः ।
 </P>
 <C>
+; दान gift; मान honor, arrogance; आर्जव straightness [Kale simplicity];
+; सेवा service; शस्त्र weapon; शास्त्र instruction;
+; विषम uneven [uncooperative]; स्त्रियः स्त्री 1 pl.;
 </C>
 <E>
 051.03-04E: Moreover, Not by gifts, not by honour, not by simplicity, not by attendance, not with a weapon (fear of punishment) and not with scriptural advice, can women be won over: — they are hard to please in every way.
@@ -16445,6 +16461,11 @@
 051.06P: परं नरं जारम् ।
 </P>
 <C>
+; 11 syllable [ इन्द्रवज्रा उपेन्द्रवज्रा उपजाति ] समवृत्त [ #syllables same in each pAda ]
+; गुणाश्रय quality refuge; कीर्ति fame युत joined; कान्त any one beloved [amiable KALE]
+; रतिज्ञ pleasure knowing; सधन wealthy; युवानम् acc. sg. युवन् youthful;
+; विहाय ind. leaving behind; शीग्रम् quickly; वनिता wife [वन् to like, love];
+; व्रज् to go; पर next, another; गुण virtuous शील character; हीन devoid of;
 </C>
 <E>
 051.05-06E: For, Having forsaken a husband who is the abode of merits, endowed with fame, amiable, versed in the erotic art, wealthy and youthful, women quickly resort to another man (although) destitute of character, good qualities and the like.
@@ -16454,11 +16475,11 @@
 <group ident="051,07,08" type="shloka 2,118">
 <F>
 051.07F: अपरं च । न तादृशीं प्रीतिमुपैति नारी विचित्रशय्यां शयितापि कामम् ।
-051.08F: यथा हि दूर्वादिविकीर्णभूमौ प्रयाति सौख्यं परकान्तिसङ्गात् ॥ २,११८॥
+051.08F: यथा हि दूर्वादिविकीर्णभूमौ प्रयाति सौख्यं परकान्तसङ्गात् ॥ २,११६॥
 </F>
 <A>
 051.07A: अपरम् च । न तादृशीम् प्रीतिम् उपैति नारी विचित्रशय्याम् शयिता अपि कामम् ।
-051.08A: यथा हि दूर्वादिविकीर्णभूमौ प्रयाति सौख्यम् परकान्तिसङ्गात् ॥ २,११८॥
+051.08A: यथा हि दूर्वादिविकीर्णभूमौ प्रयाति सौख्यम् परकान्तसङ्गात् ॥ २,११६॥
 </A>
 <P>
 051.07P: प्रीतिं -- प्रमोदम् ।
@@ -16466,6 +16487,11 @@
 051.08P: दूर्वादि -- दूर्वाप्रभृत्यावृतस्थाने ।
 </P>
 <C>
+; तादृश such a; प्रीति pleasure; उपे एपैति goes to;
+; विचित्र variegated; शय्या bed, couch ; शयित lying; कामम् ind. according to desire
+; दूर्व bent grass, panic grass; विकीर्ण scattered, strewn; filled with;
+; प्रया to go forth; सौख्य happiness
+; पर another कान्त desire [परकान्त a gallant KALE]; सङ्ग meeting;
 </C>
 <E>
 051.07-08E: Moreover, A woman does not derive that pleasure although lying down on a beautiful bed entirely to her satisfaction as she does in the company of a gallant although lying down on the ground covered over with the Durva grass and other things of that sort.
@@ -16474,22 +16500,23 @@
 
 <group ident="051,09,12" type="prose">
 <F>
-051.09F: अथ कदाचित्सा दण्डनायकपुत्रेण सह रममाणा तिष्ठति । अथ
-051.10F: दण्डनायकोऽपि गन्तुं तत्रागतः । तमायान्तं दृष्ट्वा तत्पुत्रं
-051.11F: कुसूले निक्षिप्य दण्डनायकेन समं तथैव क्रीडति । अनन्तरं तस्या
-051.12F: भर्ता गोपो गोष्ठात्समागतः । तमालोक्य गोप्योक्तम् -- 
+051.09F: अथ कदाचित्सा दण्डनायकपुत्रेण सह रममाणा तिष्ठति ।
+051.10F: अथ दण्डनायकोऽपि रन्तुम् तत्रागतः । 
+051.11F: तमायान्तं दृष्ट्वा तत्पुत्रं कुसूले निक्षिप्य दण्डनायकेन समं तथैव क्रीडति । 
+051.12F: अनन्तरं तस्या भर्ता गोपो गोष्ठात्समागतः । तमालोक्य गोप्योक्तम् -- 
 </F>
 <A>
-051.09A: अथ कदा चित् सा दण्डनायकपुत्रेण सह रममाणा तिष्ठति । अथ
-051.10A: दण्डनायकः अपि गन्तुम् तत्र आगतः । तम् आयान्तम् दृष्ट्वा तत्पुत्रम्
-051.11A: कुसूले निक्षिप्य दण्डनायकेन समम् तथा एव क्रीडति । अनन्तरम् तस्याः
-051.12A: भर्ता गोपः गोष्ठात् समागतः । तम् आलोक्य गोप्या उक्तम् -- 
+051.09A: अथ कदा चित् सा दण्डनायकपुत्रेण सह रममाणा तिष्ठति । 
+051.10A: अथ दण्डनायकः अपि रन्तुम् तत्र आगतः । 
+051.11A: तम् आयान्तम् दृष्ट्वा तत्पुत्रम् कुसूले निक्षिप्य दण्डनायकेन समम् तथा एव क्रीडति । 
+051.12A: अनन्तरम् तस्याः भर्ता गोपः गोष्ठात् समागतः । तम् आलोक्य गोप्या उक्तम् -- 
 </A>
 <P>
 051.11P: कुसूले धान्यस्थापनपात्रविशेषे ।
 </P>
 <C>
-; daRqanAyaka moved from 12 to 13
+; रममाण delighting, dallying; कुसूल store-room; निक्षिप् to throw or put in;
+; समम् similarly, equally; गोष्ठ cowpen, stable; समागत returned;
 </C>
 <E>
 051.09-12E: One day she was sporting with the magistrate's son, when the magistrate too came there to enjoy her company. Seeing him coming, she put his son in a barn and began to amuse herself with him. After that her husband, the cowherd, returned from the cowpen. On spying him the cowherdess said to the magistrate
@@ -16498,18 +16525,19 @@
 
 <group ident="051,13,15" type="prose">
 <F>
-051.13F: दण्डनायक त्वं लगुडं गृहीत्वा कोपं दर्शयन्सत्वरं गच्छ । तथा
-051.14F: तेनानुष्ठिते गोपेन गृहमागत्य भार्या पृष्टा -- केन कार्येण दण्डनायकः
-051.15F: समागतोत्र ।
+051.13F: दण्डनायक त्वं लगुडं गृहीत्वा कोपं दर्शयन्सत्वरं गच्छ ।
+051.14F: तथा तेनानुष्ठिते गोपेन गृहमागत्य भार्या पृष्टा -- 
+051.15F: केन कार्येण दण्डनायकः समागतोत्र ।
 </F>
 <A>
-051.13A: दण्डनायक त्वम् लगुडम् गृहीत्वा कोपम् दर्शयन् सत्वरम् गच्छ । तथा
-051.14A: तेन अनुष्ठिते गोपेन गृहम् आगत्य भार्या पृष्टा -- केन कार्येण दण्डनायकः
-051.15A: समागतः अत्र ।
+051.13A: दण्डनायक त्वम् लगुडम् गृहीत्वा कोपम् दर्शयन् सत्वरम् गच्छ ।
+051.14A: तथा तेन अनुष्ठिते गोपेन गृहम् आगत्य भार्या पृष्टा -- 
+051.15A: केन कार्येण दण्डनायकः समागतः अत्र ।
 </A>
 <P>
 </P>
 <C>
+; लगुड stick; दर्शयन् showing; सत्वरं quickly; अनुष्ठित done conformably;
 </C>
 <E>
 051.13-15E: Oh magistrate, you take a stick and quickly go out as if in a rage. He having acted accordingly the cowherd came in and asked his wife what had brought the justice there.
@@ -16518,20 +16546,23 @@
 
 <group ident="015,16,19" type="prose">
 <F>
-051.16F: सा ब्रूते -- अयं
-051.17F: केनापि कारणेन पुत्रस्योपरि क्रुद्धः । स च मार्गमाणोऽप्यत्रागत्य
-051.18F: प्रविष्टो मया कुसूले निक्षिप्य रक्षितः । तत्पित्रा चान्विष्यता गृहे
-051.19F: न दृष्टः । अतोयं दण्डनायकः कुपित एव गच्छति ।
+051.16F: सा ब्रूते -- अयं केनापि कारणेन पुत्रस्योपरि क्रुद्धः । 
+051.17F: स च मार्गमाणोऽप्यत्रागत्य प्रविष्टो मया कुसूले निक्षिप्य रक्षितः । 
+051.18F: तत्पित्रा चान्विष्यता गृहे न दृष्टः । 
+051.19F: अतोयं दण्डनायकः कुपित एव गच्छति ।
 </F>
 <A>
-051.16A: सा ब्रूते -- अयम्
-051.17A: केन अपि कारणेन पुत्रस्य उपरि क्रुद्धः । सः च मार्गमाणः अपि अत्र आगत्य
-051.18A: प्रविष्टः मया कुसूले निक्षिप्य रक्षितः । तत् पित्रा च अन्विष्य अत्र गृहे
-051.19A: न दृष्टः । अतः अयम् दण्डनायकः कुपितः एव गच्छति ।
+051.16A: सा ब्रूते -- अयम् केन अपि कारणेन पुत्रस्य उपरि क्रुद्धः । 
+051.17A: सः च मार्गमाणः अपि अत्र आगत्य प्रविष्टः मया कुसूले निक्षिप्य रक्षितः । 
+051.18A: तत् पित्रा च अन्विष्य अत्र गृहे न दृष्टः । 
+051.19A: अतः अयम् दण्डनायकः कुपितः एव गच्छति ।
 </A>
 <P>
 </P>
 <C>
+; कारण cause; उपरि in connection with; स च and he (son) in turn ...;
+; मार्ग् to seek; प्रविष्ट entered;
+; अन्विष् to seek, अन्विष्यत् ; कुपित angry
 </C>
 <E>
 015.16-19E: She replied -- For some reason or other he is angry with his son, who coming here entered our house and was protected by me by being concealed in the barn. His father searching for him did not find him in the house. Hence it is that the magistrate is going in a rage.
@@ -16541,15 +16572,15 @@
 <group ident="051,20,23" type="shloka 2,117">
 <F>
 051.20F: ततः सा
-051.21F: तत्पुत्रं कुषुलादवतार्य दर्शितवती । तथा चोक्तम् --
+051.21F: तत्पुत्रं कुशूलादवतार्य दर्शितवती । तथा चोक्तम् --
 051.22F: आहारो द्विगुणः स्त्रीणां बुद्धिस्तासां चतुर्गुणाः ।
-051.23F: षड्गुणो व्यवसायश्च कामाश्चाष्टगुणः स्मृतः ॥ २,११७॥
+051.23F: षड्गुणो व्यवसायश्च कामश्चाष्टगुणः स्मृतः ॥ २,११७॥
 </F>
 <A>
 051.20A: ततः सा
-051.21A: तत् पुत्रम् कुषुलात् अवतार्य दर्शितवती । तथा च उक्तम् --
+051.21A: तत् पुत्रम् कुशूलात् अवतार्य दर्शितवती । तथा च उक्तम् --
 051.22A: आहारः द्विगुणः स्त्रीणाम् बुद्धिः तासाम् चतुर्गुणाः ।
-051.23A: षड्गुणः व्यवसायः च कामाः च अष्टगुणः स्मृतः ॥ २,११७॥
+051.23A: षड्गुणः व्यवसायः च कामः च अष्टगुणः स्मृतः ॥ २,११७॥
 </A>
 <P>
 051.22P: द्विगुणः पुरुषापेक्षया इति शेषः ।
@@ -16558,6 +16589,11 @@
 051.23P: कामाः -- संभोगेच्छा ।
 </P>
 <C>
+; कुशूल = कुसूल store-room; अवतॄ (causal) to bring down;
+; दर्शितवत् caused to be seen, showed (having shown);
+; आहार food; द्विगुण of two kinds; तासाम् f. 6 pl. तद् ;
+; व्यवसाय strenuous effort [perseverance KALE]; काम desire [passion KALE];
+; स्मृत remembered [Not translated by Kale ?]
 </C>
 <E>
 051.20-23E: She then took out the son from the barn and showed him. So it is said -- The food of women is twofold, their readiness of wit fourfold, perseverance sixfold and passion eightfold.
@@ -16574,7 +16610,8 @@
 <P>
 </P>
 <C>
-; Question this.  Haksar: 'new situations'
+; उत्पन्न arisen; कार्य to be done, emergency, etc.
+;  Haksar: 'new situations'  ??
 </C>
 <E>
 051.24-24E: Therefore I say - 'He, whose intellect does not fail him.' etc.
@@ -16583,19 +16620,25 @@
 
 <group ident="051,25,27" type="prose">
 <F>
-051.25F: करटको ब्रूते -- अस्त्वेवम् । किंत्वनयोर्महानन्योन्यनिसर्गोपजातस्नेहः
-051.26F: कथं भेदयितुं शक्यः ।
+051.25F: करटको ब्रूते -- अस्त्वेवम् । 
+051.26F: किंत्वनयोर्महानन्योन्यनिसर्गोपजातस्नेहः कथं भेदयितुं शक्यः ।
 051.27F: दमनको ब्रूते -- उपायः क्रियताम् । तथा चोक्तम् --
 </F>
 <A>
-051.25A: करटकः ब्रूते --अस्तु एवम् । किम् तु अनयोः महान् अन्योन्यनिसर्गोपजातस्नेहः
-051.26A: कथम् भेदयितुम् शक्यः ।
+051.25A: करटकः ब्रूते --अस्तु एवम् । 
+051.26A: किम् तु अनयोः महान् अन्योन्यनिसर्गोपजातस्नेहः कथम् भेदयितुम् शक्यः ।
 051.27A: दमनकः ब्रूते -- उपायः क्रियताम् । तथा च उक्तम् --
 </A>
 <P>
 051.25P: अन्योन्य -- अन्योन्यस्मिन् निसर्गात्स्वभावादुपजातः स्नेहः मैत्री ।
 </P>
 <C>
+; अनयोः 6 du. इदम् ; महान् nom. m. sg. महत् ; अन्योन्य one another, mutual
+; निसर्ग natural character, creation [निसृज् to set free]
+; उपजात produced; स्नेह affection, friendship; उपाय stratagem, means;
+; भेदयितुम् inf. of causal of भिद् .
+; शक्य possible; पराक्रम bold advance;
+; अङ्कानाम् वामतोगतिः  digits go right to left (reversed);
 </C>
 <E>
 051.25-27E: Karataka observed -- Be it so. But how will it be possible to dissolve the great friendship that has grown up between them by the similarity of their dispositions? Damanaka replied -- Let a remedy be applied. For it is said --
@@ -16605,15 +16648,18 @@
 <group ident="051,28,29" type="shloka 2,118">
 <F>
 051.28F: उपायेन हि यच्छक्यं न तच्छक्यं पराक्रमैः ।
-051.29F: काकः कनकसूत्रेण कृष्ण्सर्पमघातयत् ॥ २,११८॥
+051.29F: काकः कनकसूत्रेण कृष्णसर्पमघातयत् ॥ २,११८॥
 </F>
 <A>
 051.28A: उपायेन हि यत् शक्यं न तत् शक्यं पराक्रमैः ।
-051.29A: काकः कनकसूत्रेण कृष्ण्सर्पम् अघातयत् ॥ २,११८॥
+051.29A: काकः कनकसूत्रेण कृष्णसर्पम् अघातयत् ॥ २,११८॥
 </A>
 <P>
 </P>
 <C>
+; उपाय means, strategem; पराक्रम heroism, attack
+; कनक gold; सूत्र thread [chain KALE]
+; अघातयत् [हन् ca. impf. 3 sg.] caused to be killed, killed.
 </C>
 <E>
 051.28-29E: What is possible to be accomplished by stratagem cannot be effected by exploits: a crow brought about the destruction of a black serpent by means of a gold chain.
@@ -16656,23 +16702,28 @@
 
 <group ident="051,33,37" type="prose">
 <F>
-051.33F: कस्मिंश्चित् तरौ वायसदम्पती निवसतः । तयोश्चापत्यानि
-051.34F: तत्कोटरावस्थितेन कृष्णसर्पेण खादितानि । ततः
-051.35F: पुनर्गर्भवती वायसी वायसमाह -- नाथ त्यज्यतामयं तरुः ।
-051.36F: अत्र यावत्कृष्णसर्पस्तावदावयोः संततीः कदाचिदपि न भविष्यति ।
+051.33F: कस्मिंश्चित् तरौ वायसदम्पती निवसतः । 
+051.34F: तयोश्चापत्यानि तत्कोटरावस्थितेन कृष्णसर्पेण खादितानि । 
+051.35F: ततः पुनर्गर्भवती वायसी वायसमाह -- नाथ त्यज्यतामयं तरुः ।
+051.36F: अत्र यावत्कृष्णसर्पस्तावदावयोः संततिः कदाचिदपि न भविष्यति ।
 051.37F: यतः ।
 </F>
 <A>
-051.33A: कस्मिन् चित् तरौ वायसदम्पती निवसतः । तयोः च पत्यानि
-051.34A: तत् कोटरावस्थितेन कृष्णसर्पेण खादितानि । ततः
-051.35A: पुनः गर्भवती वायसी वायसम् आह -- नाथ त्यज्यताम् अयम् तरुः ।
-051.36A: अत्र यावत् कृष्णसर्पः तावत् आवयोः संततीः कदा चित् अपि न भविष्यति ।
+051.33A: कस्मिन् चित् तरौ वायसदम्पती निवसतः । 
+051.34A: तयोः च पत्यानि तत् कोटरावस्थितेन कृष्णसर्पेण खादितानि । 
+051.35A: ततः पुनः गर्भवती वायसी वायसम् आह -- नाथ त्यज्यताम् अयम् तरुः ।
+051.36A: अत्र यावत् कृष्णसर्पः तावत् आवयोः संततिः कदा चित् अपि न भविष्यति ।
 051.37A: यतः ।
 </A>
 <P>
 </P>
 <C>
-; saMtatIH 2p of saMtati f.  Should it be 1p saMtatayaH ?
+; वायस crow दम् house पति, दम्पती (dual) wife husband;
+; निवस् dwell; अपत्य offspring; कोटर the hollow of a tree;
+; अवस्थित placed अवस्था to go down into; गर्भ womb, offspring;
+; पुनर्गर्भवती f. pregnant ag°, Hit.; नाथ refuge, lord, husband;
+; संतति stretching across, offspring; त्यज्यताम् imper. pass. 
+; 
 </C>
 <E>
 051.33-37E: A pair of crows lived in a certain tree. Their youngs were eaten by a cobra who lived in the hollow of the tree. Thereafter, the female crow, when again breeding said to her mate -- My dear, let us abandon this tree. As long as the serpent lives here, our offspring can never live. For,
@@ -16693,6 +16744,10 @@
 052.02P: उत्तरदायकः -- समानप्रत्युक्तिदायकः ।
 </P>
 <C>
+; दुष्ट spoiled, wicked; शठ crafty, deceitful;
+; भृत्य a servant, dependant (to be supported);
+; उत्तर upper, later, superior + दायक giving; [uppity] उत्तरदायक insolent KALE
+; वास living; संशय doubt; 
 </C>
 <E>
 052.01-02E: A wicked wife, a cunning friend, an insolent servant, and a residence in a house infested by a cobra, mean undoubtedly death.
@@ -16701,16 +16756,17 @@
 
 <group ident="052,03,04" type="prose">
 <F>
-052.03F: वायसो ब्रूते -- प्रिये न
-052.04F: भेतव्यम् ।
+052.03F: वायसो ब्रूते -- 
+052.04F: प्रिये न भेतव्यम् ।
 </F>
 <A>
-052.03A: वायसः ब्रूते -- प्रिये न
-052.04A: भेतव्यम् ।
+052.03A: वायसः ब्रूते -- 
+052.04A: प्रिये न भेतव्यम् ।
 </A>
 <P>
 </P>
 <C>
+; प्रिये प्रिया wife (beloved one, f.); भेतव्य to be feared;
 </C>
 <E>
 052.03-04E: Don't you be afraid, my dear, replied the crow.
@@ -16720,20 +16776,24 @@
 <group ident="052,05,07" type="prose">
 <F>
 052.05F: वारंवारं मयैतस्य महापराधः सोढः । इदानीं पुनर्न क्षन्तव्यः ।
-052.06F: वायस्याह -- कथमेतेन बलवता सार्धे भवान्विग्रहीतुं समर्थः ।
+052.06F: वायस्याह -- कथमेतेन बलवता सार्धं भवान्विग्रहीतुं समर्थः ।
 052.07F: वायसो ब्रूते -- अलमनया शङ्कया । यतः ।
 </F>
 <A>
 052.05A: वारंवारम् मया एतस्य महापराधः सोढः । इदानीम् पुनः न क्षन्तव्यः ।
-052.06A: वायसी आह -- कथम् एतेन बलवता सार्धे भवान् विग्रहीतुम् समर्थः ।
+052.06A: वायसी आह -- कथम् एतेन बलवता सार्धम् भवान् विग्रहीतुम् समर्थः ।
 052.07A: वायसः ब्रूते -- अलम् अनया शङ्कया । यतः ।
 </A>
 <P>
 052.06P: विग्रहीतुं योद्धुम् ।
 </P>
 <C>
-; sArDe  7s of sArDa 'plus one half' .  Sense here ?
-; vAyasI Aha  vAyasI is 1s f. 
+; वारंवारं many times [again and again] वृ to choose
+॑; अपराध offence; सोढ borne, suffered, forborne [pardoned KALE] 
+; क्षन्तव्य to be endured, क्षम् to bear, endure;
+; बलवत् powerful; सार्धम् ind. with
+; विग्रह् (instr.) to wage war with, to contend with;
+; अलम् enough; समर्थ able to, prepared; 
 </C>
 <E>
 052.05-07E: I have pardoned his great crime again and again. But it shall not be tolerated now. The female crow observed -- How will you be able to contend with one who is powerful? The crow replied -- Away with this doubt. For,
@@ -16752,6 +16812,11 @@
 <P>
 </P>
 <C>
+; बुद्धि intelligence [talent KALE]
+; मद pride; मत्त excited with joy मद् to rejoice, delight in;
+; उन्मद् to be or become mad, delight;
+; उन्मत्त drunk, frantic, mad; मदोन्मत्त drunk, arrogant; शशक rabbit;
+; निपातित put down, felled
 </C>
 <E>
 052.08-09E: He who has talent has strength; how can he, who is without talent, have strength? Behold, a haughty lion was killed by a hare.
@@ -16770,7 +16835,7 @@
 <P>
 </P>
 <C>
-; vihasyAha ? 'vihas' = to laugh' vihasya is Absolutive with pfx. Having laughed
+; vihasya  'vihas' = to laugh'  Having laughed
 </C>
 <E>
 052.10-11E: The female asked how that was, whereupon the male thus related --
@@ -16795,16 +16860,19 @@
 
 <group ident="052,13,14" type="prose">
 <F>
-052.13F: अस्ति मन्दरनाम्नि पर्वते
-052.14F: दुर्दान्तो नाम सिंहः । स च सर्वदा पशूनां वधं कुर्वन्न् आस्ते ।
+052.13F: अस्ति मन्दरनाम्नि पर्वते दुर्दान्तो नाम सिंहः । 
+052.14F: स च सर्वदा पशूनां वधं कुर्वन्नास्ते ।
 </F>
 <A>
-052.13A: अस्ति मन्दरनाम्नि पर्वते
-052.14A: दुर्दान्तः नाम सिंहः । सः च सर्वदा पशूनाम् वधम् कुर्वन् आस्ते ।
+052.13A: अस्ति मन्दरनाम्नि पर्वते दुर्दान्तः नाम सिंहः । 
+052.14A: सः च सर्वदा पशूनाम् वधम् कुर्वन् आस्ते ।
 </A>
 <P>
 </P>
 <C>
+; मन्दर पार्वतस्य नामन् ; दुर्दान्त दान्त tamed (दम्);
+; सर्वदा always; पशु animal; वध killing
+; आस्ते pre. 3 sg. आस् to continue (to sit)
 </C>
 <E>
 052.13-14E: On the mountain named Mandara there dwelt a lion Durdanta by name, who always used to slaughter the beasts.
@@ -16813,29 +16881,33 @@
 
 <group ident="052,15,20" type="prose">
 <F>
-052.15F: ततः सर्वैः पशुभिर्मिलित्वा स सिंहो विज्ञप्तः -- मृगेन्द्र
-052.16F: किमर्थमेकदा बहुपशुघातः क्रियते । यदि प्रसादो भवति तदा
-052.17F: वयमेव भवदाहारार्थं प्रत्यहमेकैकं पशुमुपढौकयामः । ततः
-052.18F: सिंहेनोक्तम् -- यद्येतदभिमतं भवतां तर्हि भवतु तत् ।
+052.15F: ततः सर्वैः पशुभिर्मिलित्वा स सिंहो विज्ञप्तः -- 
+052.16F: मृगेन्द्र किमर्थमेकदा बहुपशुघातः क्रियते । 
+052.17F: यदि प्रसादो भवति तदा वयमेव भवदाहारार्थं प्रत्यहमेकैकं पशुमुपढौकयामः ।
+052.18F: ततः सिंहेनोक्तम् -- यद्येतदभिमतं भवतां तर्हि भवतु तत् ।
 052.19F: ततः प्रभृत्येकैकं पशुमुपकल्पितं भक्षयन्न् आस्ते । 
-052.20F: अथ कदाचिद्वृद्धशशकस्य कस्यचिद्वारः समायातः । सोऽचिन्तयत् --
+052.20F: अथ कदाचिद्वृद्धशशकस्य कस्यचिद्वारः समायातः ।
 </F>
 <A>
-052.15A: ततः सर्वैः पशुभिः मिलित्वा सः सिंहः विज्ञप्तः -- मृगेन्द्र
-052.16A: किम् अर्थम् एकदा बहुपशुघातः क्रियते । यदि प्रसादः भवति तदा
-052.17A: वयम् एव भवदाहारार्थम् प्रत्यहम् एकैकम् पशुम् उपढौकयामः । ततः
-052.18A: सिंहेन उक्तम् -- यदि एतत् अभिमतम् भवताम् तर्हि भवतु तत् ।
+052.15A: ततः सर्वैः पशुभिः मिलित्वा सः सिंहः विज्ञप्तः -- 
+052.16A: मृगेन्द्र किम् अर्थम् एकदा बहुपशुघातः क्रियते ।
+052.17A: यदि प्रसादः भवति तदा वयम् एव भवदाहारार्थम् प्रत्यहम् एकैकम् पशुम् उपढौकयामः । 
+052.18A: ततः सिंहेन उक्तम् -- यदि एतत् अभिमतम् भवताम् तर्हि भवतु तत् ।
 052.19A: ततः प्रभृति एकैकम् पशुम् उपकल्पितम् भक्षयन् आस्ते । 
-052.20A: अथ कदा चित् वृद्धशशकस्य कस्य चित् वारः समायातः । सः अचिन्तयत् --
+052.20A: अथ कदा चित् वृद्धशशकस्य कस्य चित् वारः समायातः । 
 </A>
 <P>
 052.17P: उपढौकयामः -- उपाहारार्थं दास्यामः । उपहारीकरिष्यामः ।
 052.19P: उपकल्पितम् -- तदर्थं प्रेषितम् ।
 </P>
 <C>
-; BavadAhArArTam = Bavat-AhAra-arTam
-; upaQOkayAmaH = upaQOk 1p Causal  (we present)
-; Aste ? 3s As (he sits)  -- Doesn't make sense.
+; मिलित्वा having met; विज्ञप्त (fr. Causal) made known, informed;
+; मृग animal (forest) इन्द्र chief; अर्थ purpose; एकदा at the same time;
+; घात killing; प्रसाद graciousness (सिंहस्य);
+; भवत् your honor; आहार food; प्रत्यहम् every day; एकैक one by one, single;
+; उपढौकयामः Caus. 1 pl. उपढौक् to prepare, offer; ढौक् to approach, offer; अभिमत longed for, मत known, मन् to think;
+; प्रभृति beginning; उपकल्पित prepared; भक्षयत् caus.? भक्ष् to eat;
+; वार time, turn; समायात come together or near; 
 </C>
 <E>
 052.15-20E: Then all the beasts having assembled together made this representation to the lion -- Sovereign of the beasts, why are so many animals slaughtered at a time? If it please Your Highness, we ourselves shall send one beast every day for your food. To this the lion replied -- If you desire it let it be done. Thenceforth he ate one animal that was offered him. Now one day the lot fell on an aged hare. He meditated -- 
@@ -16844,17 +16916,20 @@
 
 <group ident="052,21,22" type="shloka 2,123">
 <F>
-052.21F: त्रासहेतोर्विनीतिस्तु क्रियते जीविताशया ।
+052.21F: सः अचिन्तयत् -- त्रासहेतोर्विनीतिस्तु क्रियते जीविताशया ।
 052.22F: पञ्चत्वं चेद्गमिष्यामि किं सिंहानुनयेन मे ॥ २,१२३॥
 </F>
 <A>
-052.21A: त्रासहेतोः विनीतिः तु क्रियते जीविताशया ।
+052.21A: सः अचिन्तयत् -- त्रासहेतोः विनीतिः तु क्रियते जीविताशया ।
 052.22A: पञ्चत्वम् चेत् गमिष्यामि किम् सिंहानुनयेन मे ॥ २,१२३॥
 </A>
 <P>
 052.21P: त्रासहेतोः इ° जीविताशया प्राणरक्षापेक्षया त्रासहेतोः भयहेतोः विनीतिः विनयः क्रियते अनुष्ठीयते । तदनुरोधाद्विनयेन वर्तनं क्रियते यदुचितम् ।
 </P>
 <C>
+; त्रास fear  हेतु  cause; विनीति training, good behaviour, modesty;
+; विनीति [KALE supplication] By 52.21P विनीति = विनय leading away, removal
+; अनुनय courtesy; 
 </C>
 <E>
 052.21-22E:  It is in the hope of saving one's life that a supplication is made to the source of fear: -- If I am to die why should I conciliate the lion?
@@ -16863,18 +16938,21 @@
 
 <group ident="052,23,25" type="prose">
 <F>
-052.23F: तन्मन्दं मन्दं गच्छामि । ततः सिंहोऽपि
-052.24F: क्षुधापीडितः कोपात्तमुवाच -- कुतस्त्वं विलम्बादागतोऽसि ।
+052.23F: तन्मन्दं मन्दं गच्छामि । 
+052.24F: ततः सिंहोऽपि क्षुधापीडितः कोपात्तमुवाच -- कुतस्त्वं विलम्बादागतोऽसि ।
 052.25F: शशकोऽब्रवीत् -- देव
 </F>
 <A>
-052.23A: तत् मन्दम् मन्दम् गच्छामि । ततः सिंहः अपि
-052.24A: क्षुधापीडितः कोपात् तम् उवाच -- कुतः त्वम् विलम्बात् आगतः असि ।
+052.23A: तत् मन्दम् मन्दम् गच्छामि । 
+052.24A: ततः सिंहः अपि क्षुधापीडितः कोपात् तम् उवाच -- कुतः त्वम् विलम्बात् आगतः असि ।
 052.25A: शशकः अब्रवीत् -- देव
 </A>
 <P>
 </P>
 <C>
+; मन्द slow, मन्दम् ind. slowly;
+; क्षुधा hunger; विलम्ब hanging down, slowness; विलम्बात् with delay;
+; पथि loc. sg. पथिन् (Huet); 
 </C>
 <E>
 052.23-25E: I shall go then slowly. The lion who was oppressed with hunger, asked him in anger -- Why hast thou come so late? The hare replied -- My lord,
@@ -16895,6 +16973,10 @@
 <P>
 </P>
 <C>
+; अपराधिन् offending, criminal; 
+; पथि loc. sg. पथिन् (Huet); अन्तर ifc. different, another;
+; भलात् forcibly;  धृत held; अग्रे in front;
+; पुनरागमनाय  START
 </C>
 <E>
 052.26-28E: I am not to blame. On my way I was forcibly seized by another lion. Having pledged my word that I would return to him I have come here to represent it to Your Highness. The lion said in a passion --
