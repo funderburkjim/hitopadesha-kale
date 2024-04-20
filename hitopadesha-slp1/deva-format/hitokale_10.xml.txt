@@ -16815,7 +16815,7 @@
 ; बुद्धि intelligence [talent KALE]
 ; मद pride; मत्त excited with joy मद् to rejoice, delight in;
 ; उन्मद् to be or become mad, delight;
-; उन्मत्त drunk, frantic, mad; मदोन्मत्त drunk, arrogant; शशक rabbit;
+; उन्मत्त drunk, frantic, mad; मदोन्मत्त mad with pride; शशक rabbit;
 ; निपातित put down, felled
 </C>
 <E>
@@ -16885,7 +16885,7 @@
 052.16F: मृगेन्द्र किमर्थमेकदा बहुपशुघातः क्रियते । 
 052.17F: यदि प्रसादो भवति तदा वयमेव भवदाहारार्थं प्रत्यहमेकैकं पशुमुपढौकयामः ।
 052.18F: ततः सिंहेनोक्तम् -- यद्येतदभिमतं भवतां तर्हि भवतु तत् ।
-052.19F: ततः प्रभृत्येकैकं पशुमुपकल्पितं भक्षयन्न् आस्ते । 
+052.19F: ततः प्रभृत्येकैकं पशुमुपकल्पितं भक्षयन्नास्ते । 
 052.20F: अथ कदाचिद्वृद्धशशकस्य कस्यचिद्वारः समायातः ।
 </F>
 <A>
@@ -16899,14 +16899,14 @@
 <P>
 052.17P: उपढौकयामः -- उपाहारार्थं दास्यामः । उपहारीकरिष्यामः ।
 052.19P: उपकल्पितम् -- तदर्थं प्रेषितम् ।
-</P>
+</P>२
 <C>
 ; मिलित्वा having met; विज्ञप्त (fr. Causal) made known, informed;
 ; मृग animal (forest) इन्द्र chief; अर्थ purpose; एकदा at the same time;
 ; घात killing; प्रसाद graciousness (सिंहस्य);
 ; भवत् your honor; आहार food; प्रत्यहम् every day; एकैक one by one, single;
 ; उपढौकयामः Caus. 1 pl. उपढौक् to prepare, offer; ढौक् to approach, offer; अभिमत longed for, मत known, मन् to think;
-; प्रभृति beginning; उपकल्पित prepared; भक्षयत् caus.? भक्ष् to eat;
+; प्रभृति beginning; उपकल्पित arranged; भक्षयत् caus.? भक्ष् to eat;
 ; वार time, turn; समायात come together or near; 
 </C>
 <E>
@@ -16916,7 +16916,7 @@
 
 <group ident="052,21,22" type="shloka 2,123">
 <F>
-052.21F: सः अचिन्तयत् -- त्रासहेतोर्विनीतिस्तु क्रियते जीविताशया ।
+052.21F: सोऽचिन्तयत् -- त्रासहेतोर्विनीतिस्तु क्रियते जीविताशया ।
 052.22F: पञ्चत्वं चेद्गमिष्यामि किं सिंहानुनयेन मे ॥ २,१२३॥
 </F>
 <A>
@@ -16928,8 +16928,9 @@
 </P>
 <C>
 ; त्रास fear  हेतु  cause; विनीति training, good behaviour, modesty;
-; विनीति [KALE supplication] By 52.21P विनीति = विनय leading away, removal
-; अनुनय courtesy; 
+; विनीति [KALE supplication]
+; By 52.21P विनीति = विनय leading away, removal OR modesty
+; अनुनय conciliation, courtesy; चेद् if
 </C>
 <E>
 052.21-22E:  It is in the hope of saving one's life that a supplication is made to the source of fear: -- If I am to die why should I conciliate the lion?
@@ -16961,13 +16962,13 @@
 
 <group ident="052,26,28" type="prose">
 <F>
-052.26F: नाहमपराधी । आगच्छन्पथि सिंहान्तरेण बलाद् धृतः । तस्याग्रे
-052.27F: पुनरागमनाय शपथं कृत्वा स्वामिनं निवेदयितुमत्रागतोऽस्मि ।
+052.26F: नाहमपराधी । आगच्छन्पथि सिंहान्तरेण बलाद् धृतः ।
+052.27F: तस्याग्रे पुनरागमनाय शपथं कृत्वा स्वामिनं निवेदयितुमत्रागतोऽस्मि ।
 052.28F: सिंहः सकोपमाह --
 </F>
 <A>
-052.26A: न अहम् अपराधी । आगच्छन् पथि सिंहान्तरेण बलात् धृतः । तस्य अग्रे
-052.27A: पुनः आगमनाय शपथम् कृत्वा स्वामिनम् निवेदयितुम् अत्र आगतः अस्मि ।
+052.26A: न अहम् अपराधी । आगच्छन् पथि सिंहान्तरेण बलात् धृतः । 
+052.27A: तस्य अग्रे पुनः आगमनाय शपथम् कृत्वा स्वामिनम् निवेदयितुम् अत्र आगतः अस्मि ।
 052.28A: सिंहः सकोपम् आह --
 </A>
 <P>
@@ -16975,8 +16976,9 @@
 <C>
 ; अपराधिन् offending, criminal; 
 ; पथि loc. sg. पथिन् (Huet); अन्तर ifc. different, another;
-; भलात् forcibly;  धृत held; अग्रे in front;
-; पुनरागमनाय  START
+; भलात् forcibly;  धृत held; अग्रे in the presence of,in front;
+; आगमन coming, returning; शपथ a vow (curse)
+; निवेदयितुम् निविद् to tell, caus. to tell; 
 </C>
 <E>
 052.26-28E: I am not to blame. On my way I was forcibly seized by another lion. Having pledged my word that I would return to him I have come here to represent it to Your Highness. The lion said in a passion --
@@ -17002,6 +17004,10 @@
 052.32P: क्रोधाध्मातः -- क्रोधेन आध्मातः उपचितक्रोधः । यथा कर्तव्यं प्रस्तुते यदुचितम् ।
 </P>
 <C>
+; START 04-18
+; दुर् bad ; गभीर deep कूप well; प्रतिबिम्ब reflection
+; असौ nom. m. sg. अदस् that; क्रोध anger आध्मात inflated (ध्मा to blow);
+; दर्प pride; उपरि upon; निक्षिप् to throw down; पञ्चत्व death (5 elements);
 </C>
 <E>
 052.29-33E: Go quickly and show the vile wretch to me. Where does the villain live? Then the hare taking the lion with him set out to show him a deep well. 'Please Your Highness, come here and behold him yourself.' With these words he showed him the lion's own reflection in the water of the well. Thereupon he, being swollen with rage, sprang upon him through arrogagance and lost his life. Therefore I say, he who has talent has strength etc.
@@ -17026,6 +17032,13 @@
 052.37P: कनकसूत्रं सुवर्णनिर्मितकण्ठाभरणविशेषम् । कनकसूत्र -- काक्या धृतस्य कनकसूत्रस्य अनुसरणे अनुगमने कृतोद्योगैः ।
 </P>
 <C>
+; श्रुत heard; संप्रति now; आसन्न near; सरस् a lake; प्रत्यहम् every day
+; स्ना to bathe; स्नान bathing; समय time of (coming together);
+; अङ्ग limb of body, अवतारित caused to descend [made a descent AP90]
+; तीर्थ passage शीला stone; निहित laid (down-put); कनक gold सूत्र thread
+; चञ्चु beak; विधृत्य वि धृ hold
+; कोटर the hollow of a tree; ; आनीय to lead towards OR bring back;
+; धारयिष्यति [huet ca. fut. धृ] cause to hold
 </C>
 <E>
 052.34-37E: The female crow said I have heard everything. Now tell me what I am to do. The crow replied -- The prince comes every day and bathes in the adjacent tank. Hold up in your bill a gold necklace, which is taken off from his person at the time of bathing and placed on a stone of the flight of steps, and put it in this hollow.
@@ -17048,6 +17061,9 @@
 <P>
 </P>
 <C>
+; प्रविष्ट gone into; अनुष्ठित accomplished; अनुसरण going after, seeking after;
+; प्रवृत्त begun;  दृष्ट seen; व्यापादित killed ; उपाय means, an expedient, plan;
+; शक्य Possible
 ; moved 'karawakaH brUte -- yadi evam tarhi to next line'
 </C>
 <E>
@@ -17071,6 +17087,7 @@
 </P>
 <C>
 ; panTAnaH m. pl. nom. paTin
+; शिव auspicious; 
 </C>
 <E>
 053.01-03E: Karataka said -- If it is so, then go. May your efforts be crowned with success! Then Damanaka went to Pingalaka, bowed, and said -- Please Your Highness, I have come here perceiving that some calamity, leading to great disaster, is imminent. For,
