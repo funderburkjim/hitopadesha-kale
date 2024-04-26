@@ -17087,7 +17087,10 @@
 </P>
 <C>
 ; panTAnaH m. pl. nom. paTin
-; शिव auspicious; 
+; शिव auspicious;
+; आत्ययिक urgent
+; किमपि very much (somewhat, much more); महाभयकारिन् n. great fear making;
+; मन्यमान thinking (gram. form?)
 </C>
 <E>
 053.01-03E: Karataka said -- If it is so, then go. May your efforts be crowned with success! Then Damanaka went to Pingalaka, bowed, and said -- Please Your Highness, I have come here perceiving that some calamity, leading to great disaster, is imminent. For,
@@ -17106,6 +17109,10 @@
 <P>
 </P>
 <C>
+; आपद् disaster; उन्मार्ग wrong road; गमन going;
+; कार्य to-be-done काल time अत्यय passing away, death;
+; कल्याण beautiful, excellent; अपृष्ट unasked; हित beneficial;
+; 
 </C>
 <E>
 053.04-05E: A well-meaning man should give his wholesome counsel even unasked, in the case of a calamity, when a man swerves from the right path, or when the time of taking action is passing away.
@@ -17124,6 +17131,13 @@
 <P>
 </P>
 <C>
+; भोग enjoyment, pleasure;
+; भाजन n. sharing, recipient 'a deserving person॑;
+॑; there is a list of words that 'retains gender' tho. modifying;
+; भाजन is on that list, आस्पदम्. (Apte's book on composition).
+; मन्त्रिन् counselor;
+; कार्य to be done, work; परिध्वंसिन् destroying; ध्वंस् to decay;
+; दोष harm,fault, vice [KALE blame]; लिप् to smear
 </C>
 <E>
 053.06-07E: Again, The proper sphere of the king is to enjoy pleasures, while that of the minister is to attend to business. A minister who spoils the business of state is to blame in every way.
@@ -17145,10 +17159,17 @@
 053.10P: स्वामिपदावाप्तिपातकेच्छोः -- स्वामिनः राज्ञः पदस्य अवाप्तिस्तदेव पातकं अवाप्तिरूपं पातकं वा तस्येच्छोः अभिलाषुकस्य ।
 </P>
 <C>
-; svAmipada-avApti-pAtaka-icCoH
+; अमात्य counselor (अमा ind. at home, together); क्रम step, way, method
+; वरम् ind. better; प्राण breath of life परित्याग abandoning;
+; शिरसः 5/6 sing. शिरस् head; कर्तन the act of cutting off;
+; स्वामि lord पद rank, position (a step) 
+; पातक ‘that which causes to fall or sink’, sin, crime
+; अवाप्ति = आप्ति obtaining
+; इच्छोः 5/6 sing. इच्छु wishing  इष् 
+; उपेक्षण act of disregarding; 
 </C>
 <E>
-053.08-10E: Better is the abandonment of life or the cutting off of the head than the neglect of one who desires to commit the sin of obtaining his master's post.
+053.08-10E: This is the proper duty of ministers -- Better is the abandonment of life or the cutting off of the head than the neglect of one who desires to commit the sin of obtaining his master's post.
 </E>
 </group>
 
@@ -17156,20 +17177,27 @@
 <F>
 053.11F: पिङ्गलकः सादरम् आह -- अथ भवान्किं वक्तुमिच्छति ।
 053.12F: दमनको ब्रूते -- देव संजीवकस्तवोपर्यसदृशव्यवहारीव
-053.13F: लक्ष्यते । तथा चास्मत् संनिधाने श्रीमद्देवपादानां
+053.13F: लक्ष्यते । तथा चास्मत्संनिधाने श्रीमद्देवपादानां
 053.14F: शक्तित्रयनिन्दां कृत्वा राज्यमेवाभिलषति ।
 </F>
 <A>
 053.11A: पिङ्गलकः सादरम् आह -- अथ भवान् किम् वक्तुम् इच्छति ।
 053.12A: दमनकः ब्रूते -- देव संजीवकः तव उपरि असदृशव्यवहारी इव
-053.13A: लक्ष्यते । तथा च अस्मत् संनिधाने श्रीमद्देवपादानाम्
+053.13A: लक्ष्यते । तथा च चास्मत्संनिधाने श्रीमद्देवपादानाम्
 053.14A: शक्तित्रयनिन्दाम् कृत्वा राज्यम् एव अभिलषति ।
 </A>
 <P>
 053.14P: शक्तित्रयनिन्दा -- प्रभुशक्तिः उत्साहशक्तिः मन्त्रशक्तिश्चेति शक्तित्रयं तस्य निन्दा । ऽशक्तयस्तिस्रः प्रभावोत्साहमन्त्रजाःऽ । इत्यमरः । तत्र कोशदण्डजं तेजः प्रभुशक्तिः । विक्रमबलमुत्साहशक्तिः । संध्यादीनां सामादीनां च यथावत्स्थापनं मन्त्रशक्तिः ।
 </P>
 <C>
-; upari asadfSa-vyavahArI
+; सादरम् respectfully; असदृश unlike, improper;
+; व्यवहारिन् acting, proceeding, conduct; उपरि in connection with;
+; लक्ष् to mark, passive to appear
+; अस्मत् ibc. of us; संनिधाने in the presence of 
+; श्रीमत् auspicious  देवपाद the royal presence
+; शक्तित्रय power 3-fold ; प्रभुत्व personal pre-eminence, मन्त्र good counsel, उत्साह energy
+; निन्दा blame, reproach;
+; राज्य kingly, royalty, kingdom; अभिलष् to desire, covet;
 </C>
 <E>
 053.11-14E: Pingalaka asked him graciously -- Now what do you wish to say? Damanaka replied -- My lord, Samjivaka appears to be acting in an unbecoming manner towards Your Highness. To speak clearly, he, having cast reproach on Your Highness' three powers, wishes to gain the sovereignty itself.
@@ -17190,9 +17218,11 @@
 <P>
 </P>
 <C>
+; सभयम् fearfully;  साश्चर्यम् surprisedly; तुष्णीम् silently;
+; अमात्य counselor [अमा ind. with] ; अधिकारिन् governor ; दोष fault;
 </C>
 <E>
-053.15-17E: On hearing that Pingalaka stood quite full of wonder mingled with fear. Damanaka observed again -- My lord, that Your Highness, having dismissed all ministers, placed him alone at the head of all affairs, was in itself a blunder. For --
+053.15-17E: On hearing that Pingalaka stood quiet full of wonder mingled with fear. Damanaka observed again -- My lord, that Your Highness, having dismissed all ministers, placed him alone at the head of all affairs, was in itself a blunder. For --
 </E>
 </group>
 
@@ -17212,54 +17242,52 @@
 053.19P: असहा भरस्य ताद्दृशावस्थानभरासहिष्णुः । द्वयोः वैमत्येन न्यूनाधिकभावमुपेत्य द्वैधीभावेन स्थितयोः इत्यर्थः । अयं श्लोको मुद्राराक्षसाच्चतुर्थाङ्कादुधृतः ।
 </P>
 <C>
-; vizwaBya . ind. part. vi-staB : having fixed firmly
-; SrI = lakzmI
+; उच्छ्रित raised, श्रि to go to; अत्युच्छ्रित excessively raised;
+; पार्थिव earthen, king; विष्टम्भ् to fix firmly, स्तम्भ् to fix firmly;
+; पादौ पाद 1,2 du.;  उपस्था to stand near or by the side of
+; श्री light, prosperity, Name of लक्ष्मी goddess of prosperity;
+; स्त्री woman; स्वभाव one's nature; असह unable to bear + gen. of object;
+; भर burden; तयोः 6 du. तद्  एकतर one of two; द्वय pair
+; जहाति हा to abandon; 
 </C>
 <E>
 053.18-19E: The goddess of royalty stands having placed her feet on a minister when very highly exalted and the king; but she, unable long to bear the burden, being of the nature of a woman, gives up one of the two.
 </E>
 </group>
 
-<group ident="053,20,21" type="prose">
+<group ident="053,20,21" type="shloka 2,126">
 <F>
 053.20F: अपरम् च । एकं भूमिपतिः करोति सचिवं राज्ये प्रमाणं यदा
 053.21F: तं मोहाच्छ्रयते मदः स च मदालस्येन निर्भिद्यते ।
+053.22F: निर्भिन्नस्य पदं करोति हृदये तस्य स्वतन्त्रस्पृहा
+053.23F: स्वातन्त्र्यस्पृहया ततः स नृपतेः प्राणान्तिकं द्रुह्यति ॥ २,१२६॥
 </F>
 <A>
 053.20A: अपरम् च । एकम् भूमिपतिः करोति सचिवम् राज्ये प्रमाणम् यदा
 053.21A: तम् मोहात् श्रयते मदः सः च मदालस्येन निर्भिद्यते ।
+053.22A: निर्भिन्नस्य पदम् करोति हृदये तस्य स्वतन्त्रस्पृहा
+053.23A: स्वातन्त्र्यस्पृहया ततः सः नृपतेः प्राणान् अन्तिकम् द्रुह्यति ॥ २,१२६॥
 </A>
 <P>
 053.20P: एकमिति -- मोहात् आत्मनो वास्तवपदाज्ञानात् ।
 053.21P: मदः गर्वः ।
 053.21P: मदालस्येन -- मदश्च आलस्यं कार्यविमुखता च मदालस्यं (स।द्वं।) मदजनितं आलस्यं इति वा तेन निर्भिद्यते आक्रंतः भवति ।
-</P>
-<C>
-; madAlasya mada-Alasya
-</C>
-<E>
-053.20-21E: Moreover, When a king makes one minister the (sole) authority in a kingdom, vanity takes possession of him through delusion, and he alienates himself (from the king) through indolence brought on by vanity.
-</E>
-</group>
-
-<group ident="053,22,23" type="shloka 2,126">
-<F>
-053.22F: निर्भिन्नस्य पदं करोति हृदये तस्य स्वतन्त्रस्पृहा
-053.23F: स्वातन्त्र्यस्पृहया ततः स नृपतेः प्राणान्तिकं द्रुह्यति ॥ २,१२६॥
-</F>
-<A>
-053.22A: निर्भिन्नस्य पदम् करोति हृदये तस्य स्वतन्त्रस्पृहा
-053.23A: स्वातन्त्र्यस्पृहया ततः सः नृपतेः प्राणान् अन्तिकम् द्रुह्यति ॥ २,१२६॥
-</A>
-<P>
 053.22P: स्वतन्त्रस्पृहा स्वातन्त्र्येच्छा ।
 053.23P: प्राणान्तिकं द्रुह्यति -- प्राणविनाशं यावदनिष्टाचरणं करोति ।
 </P>
 <C>
-; padam kf: set foot in, enter.  
+; भूमिपति earth-lord, king; सचिव friend, counselor;
+; प्रमाण authority
+; मोह delusion (fainting मुह् to faint); ; श्रयते श्रि to go to
+; मद intoxication; अलस्य lazy; निर्भिद् to break down;
+; निर्भिन्न split asunder; पदं कृ + loc. to set foot on, enter; हृदय heart;
+; स्वतन्त्र self-dependence; स्पृहा eager desire (स्पृह् to long for);
+; स्वातन्त्र्य independence;  नृपति lord of men, king;
+; अन्तिक near, vicinity; प्राणान्तिक fatal, murder (vital-breath-end ?)
+; द्रुह् to seek to hurt, to plot maliciously
 </C>
 <E>
-053.22-23E: When (once) alienated, a desire for independence springs up in his mind; and then led by the desire for independence he (the minister) acts treacherously even to the extent of robbing the king of his life.
+053.20-23E: Moreover, When a king makes one minister the (sole) authority in a kingdom, vanity takes possession of him through delusion, and he alienates himself (from the king) through indolence brought on by vanity. When (once) alienated, a desire for independence springs up in his mind; and then led by the desire for independence he (the minister) acts treacherously even to the extent of robbing the king of his life.
 </E>
 </group>
 
@@ -17278,9 +17306,11 @@
 053.25P: सुखं -- सुखकरम् ।
 </P>
 <C>
+; विष poison दिग्ध smeared; भक्त n. food; दन्त tooth; चलित shaken
+; दुष्ट spoiled, corrupted; मूल root; उद्धरण taking out; 
 </C>
 <E>
-053.24-25E: Again, Of rice tainted with poison, of a tooth got loose and of a minister turned a traitor, complete eradication leads to happiness.
+053.24-25E: Again, Of rice tainted with poison, of a tooth got loose and of a minister turned a traitor, complete eradication leads to happiness. 
 </E>
 </group>
 
@@ -17298,15 +17328,18 @@
 054.02P: संचारकैः उपदेशकैः ।
 </P>
 <C>
-; Sriyam f. 2s of srI
-; anDavat = anDa+vat = like 'anDa' (blind man)
+; सचिव friend, मन्त्रिन् ; आयत्त dependent on; 
+;श्रियम् f. 2s of श्री wealth, goddess of wealth (लक्ष्मी);
+; व्यसन calamity, casting away, vice; अन्ध blind वत् like;
+; जगती earth पाल protector (king) ; सीदेत् optative सद् to perish (to sit)
+; संचारक a leader, guide [who causes to go together ?]; विना without
 </C>
 <E>
 054.01-02E: Also, A king, who places his royal fortune under his minister's control, will, in the event of his (minister's) being in calamity, experience trouble like a blind man without guides.
 </E>
 </group>
 
-<group ident="054,03,05" type="prose">
+<group ident="054,03,04" type="prose">
 <F>
 054.03F: स च सर्वकार्येषु
 054.04F: स्वेच्छातः प्रवर्तते । तदत्र प्रमाणं स्वामी । एतच्च जानामि ।
@@ -17319,9 +17352,12 @@
 054.04P: अत्र प्रमाणम् स्वामी -- परस्तात्कार्यनिर्णये इति शेषः । 
 </P>
 <C>
+; इच्छा inclination, तस् '-ly' according to
+; प्रवृत् to roll onwards, proceed; प्रमाण right measure, standard;
+; जानामि I know;
 </C>
 <E>
-054.03-05E: He proceeds in (conducts) all affairs according to his will. Your Highness, therefore, is the authority is to decide as to what is to be done under these circumstances. As for myself ..
+054.03-04E: He proceeds in (conducts) all affairs according to his will. Your Highness, therefore, is the authority is to decide as to what is to be done under these circumstances. As for myself ..
 </E>
 </group>
 
@@ -17337,6 +17373,9 @@
 <P>
 </P>
 <C>
+; कामयते कम् to love, caus. to desire;
+; पर another  ; युवति f. girl [KALE youthful wife?]
+; रम्य to be enjoyed, beautiful;
 </C>
 <E>
 054.05-06E: There is not that man in this world who does not covet riches. Who, in this world, does not wistfully look at the youthful and charming wife of another?
@@ -17355,6 +17394,9 @@
 <P>
 </P>
 <C>
+; मृश् to touch, विमृश् to consider (touch mentally);
+; भद्र auspicious ( भन्द् to be greeted with praise)
+; स्नेह affection
 </C>
 <E>
 054.07-08E: The lion observed reflecting -- Dear Damanaka, although such is the case, still great is the affection that I have for Samjivaka. Behold!
@@ -17375,6 +17417,10 @@
 054.10P: दुष्टः दूषितः ।
 </P>
 <C>
+; व्यलीक very false (अलीक unpleasing, अलि a black bee);
+; प्रिय dear, beloved, liked; अशेष without remainder, whole;
+; दोष fault [KALE humor], दुष्ट spoiled, corrupted; काय the body;
+; वल्लभ beloved, dear; 
 </C>
 <E>
 054.09-10E: Although committing offences, a favourite is a favourite : who does not like the body although affected with all humours?

@@ -304,18 +304,24 @@ Video-20240413_005316-Meeting Recording.mp4  lines=051.26-051.34; shlokas = 118;
 Video-20240416_010354-Meeting Recording.mp4  lines=051.35-052.07; shlokas = 119;
 Video-20240417_011040-Meeting Recording.mp4  lines=052.08-052.09; shlokas = 120; मदोन्मत्त and etymology of 'mad'
 Video-20240418_010349-Meeting Recording.mp4  lines=052.10-052.20;
-Video-20240419_004855-Meeting Recording.mp4  lines=052.21-052.34; shlokas = 123;
-Video-20240420_004413-Meeting Recording.mp4  lines=052.35-053.02;
+Video-20240419_004855-Meeting Recording.mp4  lines=052.21-052.34; shlokas = 123;?
+Video-20240420_004413-Meeting Recording.mp4  lines=052.35-053.03;
+Video-20240423_010116-Meeting Recording.mp4  lines=053.04-053.05; shlokas = 122; अ आ
+Video-20240425_010514-Meeting Recording.mp4  lines=053.06-053-14; shlokas = 123,124
+Video-20240426_004222-Meeting Recording.mp4  lines=053.15-053-19; shlokas = 125
 
 
-typo 
+typo 053.13 चास्मत् संनिधाने  ->  चास्मत्संनिधाने
 /xampp/htdocs/funderburkjim/hitopadesha-kale/hitopadesha-slp1/deva-format/hitokale_10.xml
 एकबाहुर्नरः  एकबाहुः नरः  one-armed man  (a character in the drama 'The fugitive' - tv series and movie)
   https://github.com/sanskrit-lexicon/csl-websanlexicon/tree/master/v02/makotemplates/web/utilities  link accompanying previous video Video-20240217_005623-Meeting Recording.mp4
+
 Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
+
+
 emacs selection from hitokale_deva_p.txt
-\(050...F:\)\|\(051...F:\)\|\(052...F:\)\|\(053...F:\)
+\(051...F:\)\|\(052...F:\)\|\(053...F:\)\|\(054...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
@@ -323,3 +329,7 @@ Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यान�
 At about time 8:12 of Bhagavadgita chanting, Chap 10, verse 30:
 prahlAda   pronounced pralhAda  (cf  brahma)
 (setq nxml-child-indent nil)
+
+-R recursive
+-n do not overwrite an existing file 
+cp -Rn /e/UzaSanskritClass /f/
