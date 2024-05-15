@@ -17279,7 +17279,7 @@
 ; भूमिपति earth-lord, king; सचिव friend, counselor;
 ; प्रमाण authority
 ; मोह delusion (fainting मुह् to faint); ; श्रयते श्रि to go to
-; मद intoxication; अलस्य lazy; निर्भिद् to break down;
+; मद arrogance; अलस्य lazy; निर्भिद् to break apart;
 ; निर्भिन्न split asunder; पदं कृ + loc. to set foot on, enter; हृदय heart;
 ; स्वतन्त्र self-dependence; स्पृहा eager desire (स्पृह् to long for);
 ; स्वातन्त्र्य independence;  नृपति lord of men, king;
@@ -17328,11 +17328,12 @@
 054.02P: संचारकैः उपदेशकैः ।
 </P>
 <C>
-; सचिव friend, मन्त्रिन् ; आयत्त dependent on; 
-;श्रियम् f. 2s of श्री wealth, goddess of wealth (लक्ष्मी);
+; सचिव friend, मन्त्रिन् ; आयत्त dependent on;
+; आयम् to stretch; यम् to sustain, hold up, support
+; श्रियम् f. 2s of श्री wealth, goddess of wealth (लक्ष्मी);
 ; व्यसन calamity, casting away, vice; अन्ध blind वत् like;
 ; जगती earth पाल protector (king) ; सीदेत् optative सद् to perish (to sit)
-; संचारक a leader, guide [who causes to go together ?]; विना without
+; संचारक a leader, guide (a particular class of spies); विना without
 </C>
 <E>
 054.01-02E: Also, A king, who places his royal fortune under his minister's control, will, in the event of his (minister's) being in calamity, experience trouble like a blind man without guides.
@@ -17352,8 +17353,9 @@
 054.04P: अत्र प्रमाणम् स्वामी -- परस्तात्कार्यनिर्णये इति शेषः । 
 </P>
 <C>
+; तद् in this regard;
 ; इच्छा inclination, तस् '-ly' according to
-; प्रवृत् to roll onwards, proceed; प्रमाण right measure, standard;
+; प्रवृत् to roll onwards, proceed; प्रमाण n. right measure, standard;
 ; जानामि I know;
 </C>
 <E>
@@ -17376,6 +17378,8 @@
 ; कामयते कम् to love, caus. to desire;
 ; पर another  ; युवति f. girl [KALE youthful wife?]
 ; रम्य to be enjoyed, beautiful;
+; सादरम् respectfully [KALE wistfully]
+; अत्र here [KALE in this world]
 </C>
 <E>
 054.05-06E: There is not that man in this world who does not covet riches. Who, in this world, does not wistfully look at the youthful and charming wife of another?
@@ -17396,7 +17400,7 @@
 <C>
 ; मृश् to touch, विमृश् to consider (touch mentally);
 ; भद्र auspicious ( भन्द् to be greeted with praise)
-; स्नेह affection
+; स्नेह affection (for) OR friendship (with)
 </C>
 <E>
 054.07-08E: The lion observed reflecting -- Dear Damanaka, although such is the case, still great is the affection that I have for Samjivaka. Behold!
@@ -17417,7 +17421,8 @@
 054.10P: दुष्टः दूषितः ।
 </P>
 <C>
-; व्यलीक very false (अलीक unpleasing, अलि a black bee);
+; एव still
+; व्यलीक untruthful, disagreeable (अलीक unpleasing, अलि a black bee);
 ; प्रिय dear, beloved, liked; अशेष without remainder, whole;
 ; दोष fault [KALE humor], दुष्ट spoiled, corrupted; काय the body;
 ; वल्लभ beloved, dear; 
@@ -17440,21 +17445,40 @@
 054.12P: अनादरः -- अनास्था ।
 </P>
 <C>
-; vahnO 7s m. vahni (who carries) fire
+; अप्रिय disagreeable; कुर्वाण doing; प्रिय beloved, a friend;
+; दग्ध burned, दह् to burn; मन्दिर waiting place, house मन्द slow;
+; सार essence, substance ;
+; वह्नौ 7s m. वह्नि fire (who carries oblations to gods);
+; अनादर disrespect
 </C>
 <E>
 054.11-12E:  Again, He who is dear is so although doing unpleasant things; who has disregard for (has not to do with) fire although it has consumed all the substance in the house?
 </E>
 </group>
 
-<group ident="054,13,15" type="shloka 2,132">
+<group ident="054,13,13" type="prose">
 <F>
 054.13F: दमनको वदति -- देव स एव दोषः । यतः ।
+</F>
+<A>
+054.13A: दमनकः वदति -- देव सः एव दोषः । यतः ।
+</A>
+<P>
+</P>
+<C>
+; दोष fault
+</C>
+<E>
+054.13-13E: Damanaka replied. My lord, and just therein lies the fault. For ...
+</E>
+</group>
+
+<group ident="054,14,15" type="shloka 2,132">
+<F>
 054.14F: यस्मिन्नेवाधिकं चक्षुरारोपयति पार्थिवः ।
 054.15F: सुतेऽमात्येऽप्युदासीने स लक्ष्म्याश्रीयते जनः ॥ २,१३२॥
 </F>
 <A>
-054.13A: दमनकः वदति -- देव सः एव दोषः । यतः ।
 054.14A: यस्मिन् एव अधिकम् चक्षुः आरोपयति पार्थिवः ।
 054.15A: सुते अमात्ये अपि उदासीने सः लक्ष्मी आश्रीयते जनः ॥ २,१३२॥
 </A>
@@ -17462,9 +17486,15 @@
 054.15P: उदासीने -- परकीये , अन्यस्मिन्कस्मिन्श्चित् ।
 </P>
 <C>
+; अधिक additional; चक्षुस् sight (eye);
+; आरोपयति आरुह् causal, to place, to ascend; पार्थिव king;
+; सुत son; अमात्य counselor; आसीन seated, उदासीन sitting apart, stranger
+; लक्ष्म्या 3s लक्ष्मी goddess of wealth
+; श्रीयते passive, is gone to [KALE is resorted to],  श्रि to go to;
+; आश्रि to affix, choose; 
 </C>
 <E>
-054.13-15E: Damanaka replied. My lord, and just therein lies the fault. For, He on whom the king fixes his eye more (than on others) -- be he a son, or a minister, or a stranger -- is resorted to by the goddess of wealth.
+054.14-15E: He on whom the king fixes his eye more (than on others) -- be he a son, or a minister, or a stranger -- is resorted to by the goddess of wealth.
 </E>
 </group>
 
@@ -17481,7 +17511,11 @@
 054.16P: अप्रियस्य -- आपेतितः दुःखकरस्य ।
 </P>
 <C>
-; Apetita ?
+; अप्रिय disagreeable ; पथ्य 'belonging to the way', suitable, wholesome
+; परिणाम result, change; 
+; सुखावह सुख   आवह bringing, carrier
+; वक्ता 1s. वक्तृ speaker; श्रोतृ hearer;
+; रम् to delight, to rest; सम्पदः 1 pl. सम्पद् success, riches
 </C>
 <E>
 054.16-17E: May Your Highness listen -- The result of what is wholesome although unpleasant, is happy: riches delight (to live) there where there is a speaker and a hearer (of things wholesome though disagreeable).
@@ -17500,6 +17534,10 @@
 <P>
 </P>
 <C>
+; मूल hereditary (from the beginning) भृत्य servant
+; अपास्य having thrown away (अप-अस्);
+; आगन्तुक  आगन्तु 'arriving', new comer, stranger;
+; पुरस्कृत put in front; अनुचित improper, wrong; कृत n. deed, action
 </C>
 <E>
 054.18-19E: You, having discarded old servants, advanced this stranger. And this was a wrong step. For,
@@ -17518,6 +17556,12 @@
 <P>
 </P>
 <C>
+; मूल root, principal भृत्य servant (one who is to be maintained);
+; आगन्तुक  आगन्तु 'arriving', new comer, stranger;
+; प्रतिमन् caus. -मानयति to honor;
+; अतस than this; परतर further, ; दोष fault, mistake
+; राज्य kingdom भेदक piercing, destroying, भेदकर breaking down
+; यतस् from which;
 </C>
 <E>
 054.20-21E: Having cast off old servants one should not honour strangers: because there is no other fault so destructive to royalty than this.
@@ -17527,15 +17571,22 @@
 <group ident="054,22,23" type="prose">
 <F>
 054.22F: सिंहो ब्रूते -- किमाश्चर्यम् । यन्मयायं
-054.23F: अभयवाचं दत्त्वानीतः संवर्धितश्च तत्कथं मह्यं द्रुह्यति ।
+054.23F: अभयवाचं दत्त्वानीतः संवर्धितश्च तत्कथं मह्यं द्रुह्यति ।२
 </F>
-<A>
+<A>२
 054.22A: सिंहः ब्रूते -- किम् आश्चर्यम् । यत् मया अयम्
 054.23A: अभयवाचम् दत्त्वा आनीतः संवर्धितः च तत् कथम् मह्यम् द्रुह्यति ।
 </A>
 <P>
 </P>
 <C>
+; यद् ... तद् because ... therefore
+; आश्चर्य wonderful; अभय unfearful, secure वाच् f. speech;
+; अभयवाच् assurance of safety (MW referring Hitopadesha!)
+; आनीत taken, brought near;
+; संवर्धित brought to complete growth, cherished
+; मह्यम् dative 4sg. अस्मद्
+; द्रुह् to seek to hurt, to plot maliciously, be hostile to ( + dat.) 
 </C>
 <E>
 054.22-23E: The lion said -- What wonder! Since he was brought here by me having pledged my word of safety and was well taken care of, how can he turn a traitor to me?
@@ -17556,8 +17607,11 @@
 <P>
 </P>
 <C>
-; svedana-aByaYjana-upAya  
-; SvapucCam  n. nom. s.
+; दुर्जन bad person; प्रकृति natural state;
+; सेव्यमान being dwelt in, served, used; नित्यशस्  always
+; स्वेदन perspiring; अभ्यञ्जन rubbing with oil; उपाय means;
+; श्व in cpd. for श्वन् dog, पुच्छ tail;
+; नामित bent
 </C>
 <E>
 054.24-26E: Damanaka observed -- Sire, A wicked man, even though served every day, reverts to his natural disposition, like a dog's tail resuming (its natural) bent, notwithstanding such remedies as causing sweat (by fumigation) and rubbing it with unguents (for making it straight).
@@ -17576,7 +17630,9 @@
 <P>
 </P>
 <C>
-; mardita (not MW) from mfd (to squeeze, rub)
+; स्वेदित caused to sweat, softened
+; मर्दित (not MW) from मृद् (to squeeze, rub); रज्जु rope;
+; परिवेष्टित वेष्ट् to surround, enclose; मुक्त released; वर्ष year
 </C>
 <E>
 054.27-28E: A dog's tail, made to sweat, rubbed and bound round with strings, returned to its nature when set free (even) after twelve years.
@@ -17587,80 +17643,83 @@
 <F>
 054.29F: अन्यच्च । वर्धनं वाथ सन्मानं खलानां प्रीतये कुतः ।
 054.30F: फलन्त्यमृतसेकेऽपि न पथ्यानि विषद्रुमाः ॥ २,१३७॥
+054.31F: अतोऽहं ब्रवीमि --
 </F>
 <A>
 054.29A: अन्यत् च । वर्धनम् वा अथ सन्मानम् खलानाम् प्रीतये कुतः ।
 054.30A: फलन्ति अमृतसेके अपि न पथ्यानि विषद्रुमाः ॥ २,१३७॥
+054.31A: अतः अहम् ब्रवीमि --
 </A>
 <P>
 </P>
 <C>
-; prItaye = 4s. f. of prIti
+; वर्धन increasing; अथ वा or else?; सन्मान respect for the good;
+; खल soil, mischievous man [KALE wicked]; 
+; प्रीतये  = 4s. f. of प्रीति  pleasure; कुतस् from where?;
+; फल् to produce fruit; अमृत nectar सेक pouring out, sprinkling;
+; पथ्य wholesome (food); विष poison द्रुम tree
 </C>
 <E>
-054.29-30E: Moreover, Whence can advancement or bestowal of honour please the wicked? Poisonous trees, although watered with nectar, do not bring forth fruit wholesome to eat.
+054.29-30E: Moreover, Whence can advancement or bestowal of honour please the wicked? Poisonous trees, although watered with nectar, do not bring forth fruit wholesome to eat. 
 </E>
 </group>
 
-<group ident="015,31,33" type="shloka 2,138">
+<group ident="054,32,33" type="shloka 2,138">
 <F>
-054.31F: अतोऽहं ब्रवीमि --
 054.32F: अपृष्टोऽपि हितं ब्रूयाद्यस्य नेच्छेत् पराभवम् ।
 054.33F: एष एव सतां धर्मो विपरीतमतोऽन्यथा ॥ २,१३८॥
 </F>
 <A>
-054.31A: अतः अहम् ब्रवीमि --
 054.32A: अपृष्टः अपि हितम् ब्रूयात् यस्य न इच्छेत् पराभवम् ।
 054.33A: एषः एव सताम् धर्मः विपरीतम् अथः अन्यथा ॥ २,१३८॥
 </A>
 <P>
 </P>
 <C>
+; अपृष्ट unasked; हित n. anything useful; इच्छेत् इष् to seek for, desire
+; पराभव vanishing, overthrow; धर्मः duty; विपरीत turned around, reversed
+; मत minded, a thought; अन्यथा otherwise
 </C>
 <E>
-015.31-33E: Hence my observation -- One should say what is beneficial to him whose ruin one does not wish; this is the duty of the good; the contrary is otherwise (i. e. is the way of action of bad men).
+051.32-33E: [even if unasked,] One should say what is beneficial to him whose ruin one does not wish; this is the duty of the good; the contrary is otherwise (i. e. is the way of action of bad men).
 </E>
 </group>
 
-<group ident="055,01,03" type="prose">
+<group ident="055,01,05" type="shloka 2,139">
 <F>
 055.01F: तथा चोक्तम् --
 055.02F: स स्निग्धोऽकुशलान्निवारयति यस्तत्कर्म यन्निर्मलं
-055.03F: सा स्त्री यातुविधायिनी स मतिमान्यः सद्भिरभ्यर्च्यते ।
-</F>
-<A>
-055.01A: तथा च उक्तम् --
-055.02A: सः स्निग्धः अकुशलात् निवारयति यः तत् कर्म यत् निर्मलम्
-055.03A: सा स्त्री यातु विधायिनी सः मतिमान् यः सद्भिः अभ्यर्च्यते ।
-</A>
-<P>
-055.03P: अनुविधायिनी -- आज्ञाकारिणी , भर्तुश्चित्तानुसारिणी वा ।
-</P>
-<C>
-</C>
-<E>
-055.01-03E: It is said in connexion with this -- He has affection (for us) who dissuades (us) from evil; that is an act which is pure; she is a wife, who is obedient; he is talented who is esteemed by the good;
-</E>
-</group>
-
-<group ident="055,04,05" type="shloka 2,139">
-<F>
+055.03F: सा स्त्री यानुविधायिनी स मतिमान्यः सद्भिरभ्यर्च्यते ।
 055.04F: सा श्रीर्या न मदं करोति स सुखी यस्तृष्णया मुच्यते
 055.05F: तन्मित्रं यदकृत्रिमं स पुरुषो यः खिद्यते नेन्द्रियैः ॥ २,१३९॥
 </F>
 <A>
+055.01A: तथा च उक्तम् --
+055.02A: सः स्निग्धः अकुशलात् निवारयति यः तत् कर्म यत् निर्मलम्
+055.03A: सा स्त्री यानुविधायिनी सः मतिमान् यः सद्भिः अभ्यर्च्यते ।
 055.04A: सा श्रीः या न मदम् करोति सः सुखी यः तृष्णया मुच्यते
 055.05A: तत् मित्रम् यत् अकृत्रिमम् सः पुरुषः यः खिद्यते न इन्द्रियैः ॥ २,१३९॥
 </A>
 <P>
+055.03P: अनुविधायिनी -- आज्ञाकारिणी , भर्तुश्चित्तानुसारिणी वा ।
 055.04P: करोति जनयति ।
 055.05P: अकृत्रिमं निष्कपटं , शुद्धमति ।
 055.05P: इन्द्रियैः न खिद्यते -- तेषां वशगो भूत्वा नायास्यते ।
 </P>
 <C>
+; स्निग्ध sticky, m. a friend; कुशल right, good, अकुशल evil
+; निवृ causal to prevent from + abl.; कर्मन् n. an action
+; निर्मल without blemish, pure; यातु one who goes, going against
+; विधायिन् regulating, performing; अनुविधायिन् compliant;
+; मतिमान् nom. sg. मतिमत् clever, intelligent; सद् m. good person;
+; अभ्यर्च् to praise; श्री goddess of prosperity, wealth;
+; मद arrogance; सुखिन् happy; तृष्णा thirst, desire
+; मुच् pass. to be freed + instr.
+; मित्र friend; कृत्रिम artificial; खिद् to press down
+; इन्द्रिय faculty of sense
 </C>
 <E>
-055.04-05E: that is wealth which begets no vanity; he is happy who is free from desire; he is a friend who is sincere (lit. artless); and he is a man who is not troubled by the senses (i. e. has his senses under control).
+055.01-05E: It is said in connexion with this -- He has affection (for us) who dissuades (us) from evil; that is an act which is pure; she is a wife, who is obedient; he is talented who is esteemed by the good; that is wealth which begets no vanity; he is happy who is free from desire; he is a friend who is sincere (lit. artless); and he is a man who is not troubled by the senses (i. e. has his senses under control).
 </E>
 </group>
 
@@ -17680,20 +17739,27 @@
 </P>
 <C>
 ; Kale scan here has gaps.
+;॑ व्यसन  calamity, vice [KALE danger]
+; अर्दित tormented अर्द् to dissolve, torment; विज्ञापित informed;
+; निवृत् to turn away from; ईदृश such a; भृत्य servant
 </C>
 <E>
 055.06-07E: If Your Highness who stands in imminent danger from Samjivaka, does not turn back after being warned (lit. informed), then the blame does not lie with a servant like myself.
 </E>
 </group>
 
-<group ident="055,08,09" type="prose">
+<group ident="055,08,11" type="shloka 2,140">
 <F>
-055.08F: नृपः कामासक्तो गणयति न कार्ये न च हितं
+055.08F: नृपः कामासक्तो गणयति न कार्यं न च हितं
 055.09F: यथेष्टं स्वच्छन्दः प्रविचरति मत्तो गज इव ।
+055.10F: ततो मानध्मातः स पतति यदा शोकगहने
+055.11F: तदा भृत्ये दोषान्क्षिपति न निजं वेत्त्यविनयम् ॥ २,१४०॥
 </F>
 <A>
 055.08A: नृपः कामासक्तः गणयति न कार्ये न च हितम्
 055.09A: यथा इष्टम् स्वच्छन्दः प्रविचरति मत्तः गजः इव ।
+055.10A: ततः मानध्मातः सः पतति यदा शोकगहने
+055.11A: तदा भृत्ये दोषान् क्षिपति न निजम् वेत्ति अविनयम् ॥ २,१४०॥
 </A>
 <P>
 055.08P: कार्यं कर्तव्यम् ।
@@ -17701,32 +17767,25 @@
 055.09P: स्वच्छन्दः आत्मेच्छनुवर्ती ।
 055.09P: मत्तः -- नृपः गजश्च ।
 055.09P: प्रविचरति -- प्रभ्रष्टः विचरति ।
-</P>
-<C>
-</C>
-<E>
-055.08-09E: A king who is addicted to carnal pleasures does not mind the business he has to attend to or his good, but led by his free will he acts as he likes like a mad elephant;
-</E>
-</group>
-
-<group ident="055,10,11" type="shloka 2,140">
-<F>
-055.10F: ततो मानध्मातः स पतति यदा शोकगहने
-055.11F: तदा भृत्ये दोषान्क्षिपति न निजं वेत्त्यविनयम् ॥ २,१४०॥
-</F>
-<A>
-055.10A: ततः मानध्मातः सः पतति यदा शोकगहने
-055.11A: तदा भृत्ये दोषान् क्षिपति न निजम् वेत्ति अविनयम् ॥ २,१४०॥
-</A>
-<P>
 055.10P: मानाध्मातः -- मदोद्धतः ।
 055.10P: शोकगहने -- शोकारण्ये ।
 055.11P: अविनयम् -- अनुचिताचरणम् ।
 </P>
 <C>
+; शिखरिणीवृत्तम् 
+; काम desire of sensual enjoyments, आसक्त excessively attached
+; गण् to count, attend to; कार्य n. business; हित n. well-being;
+; इष्ट wished, desired; इष्टम् adv. as desired
+; छन्द free will (as wished, but stronger than यथेष्टम्);
+; प्रविचर् to roam about;
+; मत्त intoxicated, mad, in rut (elephant); गज elephant (गज् to roar);
+; ततस् from that; मान pride, ध्मात blown up, inflated;
+; शोक sorrow; गहन n. abyss, thicket; दोष blame; क्षिप् to throw + loc.
+; निज innate, one's own;  वेत्ति 3 sg. विद् to know; विनय modesty, conduct;
+; अविनय misconduct;
 </C>
 <E>
-055.10-11E:  but when, puffed up with pride, he falls into the abyss of sorrow, he casts the blame on his servants, but does not take into account his own misconduct.
+055.08-09E: A king who is addicted to carnal pleasures does not mind the business he has to attend to or his good, but led by his free will he acts as he likes like a mad elephant; but when, puffed up with pride, he falls into the abyss of sorrow, he casts the blame on his servants, but does not take into account his own misconduct.
 </E>
 </group>
 
@@ -17748,6 +17807,10 @@
 055.14P: ग्रहः निरोधः निर्बन्धः । ऽग्रहोनुग्रहनिर्बन्धग्रहणेषु रणोद्यमे । सूर्यादौ पूतनादौ च सैंहिकेयोपरागयोःऽ । इति विश्वः ।
 </P>
 <C>
+; स्वगत self-gone, spoken to one's self; अपवाद blaming, speaking ill of;
+दण्ड punishment; आचर् to practice, do; आत्मना by oneself;
+; अवगत understood; बध्नीयात् optative बन्ध् to punish (to bind);
+; पूजयेत to praise, honor;
 </C>
 <E>
 055.12-14E: Pingalaka (To himself) -- One should not inflict punishment upon others by (listening to) the adverse representation of another : but having ascertained the truth for oneself, one shonld mete out punishment or praise.
@@ -17769,9 +17832,14 @@
 055.16P: निग्रहः दण्डः ।
 </P>
 <C>
+गुण good quality, दोष fault, गुणदोषौ 
+; निश्चित्य having decided; अनिश्चित्य not having decided or ascertained
+; विधि action plan, procedure, ; ग्रह favor, निग्रह punishment
+; स्वनाशाय (leads to) self destruction; न्यस्त put down;
+; दर्प pride; सर्प snake, मुख face, mouth; कर hand;
 </C>
 <E>
-055.15-17E: Similarly it is said -- To award favour or punishment without ascertaining one's merit or fault is not the policy: (such a course) leads to one's destruction like the hand thrust into a serpent's month through vanity.
+055.15-17E: Similarly it is said -- To award favour or punishment without ascertaining one's merit or fault is not the policy: (such a course) leads to one's destruction like the hand thrust into a serpent's mouth through vanity.
 </E>
 </group>
 
@@ -17790,6 +17858,10 @@
 055.18P: प्रत्यादिश्यताम् -- स्वपदच्युतः क्रियताम् ।
 </P>
 <C>
+; प्रकाशम् openly, publicly; प्रत्यादिश् to warn, advise, summon;
+; सम्भ्रम haste, ससम्भ्रमम् hastily;
+; मैवम् =  मा एवम्; एतावता by such; मन्त्र counsel, भेद breaking
+; जायते is born;
 </C>
 <E>
 055.18-20E: (Aloud) What then, shall Samjivaka be warned (against such a course of conduct)? Damanaka observed in haste -- Not so, not so my lord. This will mean the divulging of counsel. For it is said --
@@ -17810,6 +17882,9 @@
 055.22P: न प्ररोहति अङ्कुरं न प्रसूते । विस्तारं प्राप्य न फलति इत्यर्थः ।
 </P>
 <C>
+; मन्त्रबीज counsel-seed; गुप्त secret; रक्षणीय to be protected;
+; तथा यथा in such a way; 
+; मनागपि = मनाक् अपि, मनाक् ind. slightly; प्ररुह् to grow up;
 </C>
 <E>
 055.21-22E: The seed of counsel should be kept concealed in such a way that not even a glimpse of it could get out; if got out it will not thrive.
@@ -17829,6 +17904,9 @@
 055.23P: आदेयस्येति -- आदेयस्य कर्मणः क्षिप्रं अक्रियमाणस्य सतः तद्रसं तस्य सारभूतं फलमिति यावत् कालः पिबति ग्रसते ।
 </P>
 <C>
+; आदेय to be received; प्रदेय to be offered; कर्तव्य to be done, obligation
+; कर्मणः कर्मन् 6 sg. of an action; क्षिप्रम् quickly
+; अक्रियमाण not being done; काल time; रस essence
 </C>
 <E>
 055.23-24E: Moreover, If what is to be taken or given or done be not quickly attended to, time saps its juice.
@@ -17852,6 +17930,14 @@
 056.03P: भेदशङ्कया -- प्रकाशशङ्कया विदारणशङ्कया च ।
 </P>
 <C>
+; अवश्यम् certainly; रभ् to take hold of, desire;
+; आरभ् , समारभ् to begin; प्रयत्न persevering effort;
+; सम्पादनीय to be accomplished; मन्त्र consultation, advice
+; योध a fighter, a battle;
+; अधीर imprudent (धी thought, intelligence);
+; सर्वाङ्ग whole body, all limbs; संवृत covered, concealed;
+; चिर long, चिरम् for a long time; सह् to prevail; to be able + inf.
+; पर other one; भेद injury, शङ्का fear.
 </C>
 <E>
 056.01-03E: Therefore what is set on foot should necessarily be accomplished with a mighty effort. Again, Counsel, like a timid warrior, although having all the parts well covered, is not able to keep up long for fear of being penetrated by others (the enemies).
@@ -17860,7 +17946,7 @@
 
 <group ident="056,04,05" type="prose">
 <F>
-056.04F: यद्यसौ दृष्टदोषोऽपि दोषान्निवर्त्य संधातव्यस्तद् अतीवानुचितम् ।
+056.04F: यद्यसौ दृष्टदोषोऽपि दोषान्निवर्त्य संधातव्यस्तदतीवानुचितम् ।
 056.05F: यतः ।
 </F>
 <A>
@@ -17870,6 +17956,9 @@
 <P>
 </P>
 <C>
+; असौ nom. sg. अदस् that; दृष्ट seen दोष fault, दृष्तदोष considered at fault
+; निवर्त्य to be turned back; संधातव्य to be allied with;
+; अतीव very; अनुचित improper; 
 </C>
 <E>
 056.04-05E: And if a reconciliation is to be sought with him (the bull), after his offence has been known, he being made to turn back from such a wrong course of conduct, that would be extremely impolitic. For,
@@ -17890,6 +17979,11 @@
 </P>
 <C>
 ; Kale scan has missing data in this and next 3 lines.
+; सकृत् suddenly, once; दुष्ट spoiled, bad,;
+; संधा to join, reconcile; मृत्यु death; ग्रह् to seize, take;
+; गर्भ offspring; अश्वतरी a she-mule (अश्वतर better horse = mule !);
+; Kale note: "it is supposed that she (the mule) dies immediately
+; after her delivery".
 </C>
 <E>
 056.06-07E: He who wishes to conciliate a friend once estranged invites death itself like a she-mule conceiving a fetus. 
@@ -17898,15 +17992,16 @@
 
 <group ident="056,08,08" type="prose">
 <F>
-056.08F: सिंहो ब्रूते -- ज्ञायतां तावत्किमस्माकमसौ कर्तुं शक्नोति । दमनक आह -- देव ।
+056.08F: सिंहो ब्रूते -- ज्ञायतां तावत्किमस्माकमसौ कर्तुं समर्थः । दमनक आह -- देव ।
 </F>
 <A>
-056.08A: सिंहः ब्रूते -- ज्ञायताम् तावत् किम् अस्माकम् असौ कर्तुम् शक्नोति । दमनकः आह -- देव ।
+056.08A: सिंहः ब्रूते -- ज्ञायताम् तावत् किम् अस्माकम् असौ कर्तुम् समर्थः । दमनकः आह -- देव ।
 </A>
 <P>
 </P>
 <C>
-; Not sure of word after 'kartum'. Guess 'Saknoti'  (is able)
+; ज्ञायताम् ipv-p 3s ज्ञा let it be known; तावत् first;
+; कर्तुम् कृ inf. to do; समर्थ competent, able to + inf.;
 </C>
 <E>
 056.08-08E: The lion said -- Let it be first ascertained what harm he is able to do us. Damanaka replied —- My lord -- 
@@ -17926,6 +18021,10 @@
 056.09P: अङ्गाङ्गिभावम् -- न्यूनाधिकतां , प्रधानाप्रधानताम् ।
 </P>
 <C>
+; अङ्गाङ्गि ind. jointly; अङ्गाङ्गिभाव mutual relation
+; सामर्थ्य power, capacity for,  निर्णय decision;
+; टिट्टिभ = टिट्टिभक the bird Parra jacana, मात्र ifc. mere (measure);
+; समुद्र ocean; व्याकुलीकृत agitated, confounded.
 </C>
 <E>
 056.09-10E: How can one's power be ascertained unless the relation of principal and subordinate is known? Behold how an insignificant bird like a tittibha (a lap-wing) overpowered the sea. 
@@ -17979,6 +18078,10 @@
 056.15P: आसन्नप्रसवाः -- आसन्नः प्रसवः प्रसूतिकालः यस्याः सा ।
 </P>
 <C>
+; दक्षिण southern, समुद्र ocean, तीर a shore, bank;
+; दम्पति दम्पती (dual) wife husband  (दम् to be tamed, to tame);
+; निवस् to dwell in; आसन्न near, प्रसव parturition;
+; योग्य useful;  स्थान place; निभृतं secretly; अनुसंधा to arrange;
 </C>
 <E>
 056.14-15E: A pair of tittibhas lived on the shore of the southern sea. The female when near her delivery said to her husband
@@ -17999,7 +18102,9 @@
 056.16P: अनुसंधीयतां -- निरूप्यतां , अन्विष्यताम् ।
 </P>
 <C>
-; anusaMDIyatAm anusaMDA
+; भार्या a wife, female of any animal.
+; नन्विदमेव ननु इदम् एव, ननु not, not at all
+; प्रसुति streaming (laying eggs) योग्य useful, fit;
 </C>
 <E>
 056.16-17E: My dear, find out a retired place convenient for my delivery. The male said -- My dear, this very place is surely fit for your delivery.

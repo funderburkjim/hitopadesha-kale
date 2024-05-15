@@ -307,11 +307,34 @@ Video-20240418_010349-Meeting Recording.mp4  lines=052.10-052.20;
 Video-20240419_004855-Meeting Recording.mp4  lines=052.21-052.34; shlokas = 123;?
 Video-20240420_004413-Meeting Recording.mp4  lines=052.35-053.03;
 Video-20240423_010116-Meeting Recording.mp4  lines=053.04-053.05; shlokas = 122; अ आ
-Video-20240425_010514-Meeting Recording.mp4  lines=053.06-053-14; shlokas = 123,124
-Video-20240426_004222-Meeting Recording.mp4  lines=053.15-053-19; shlokas = 125
+Video-20240425_010514-Meeting Recording.mp4  lines=053.06-053.14; shlokas = 123,124
+Video-20240426_004222-Meeting Recording.mp4  lines=053.15-053.19; shlokas = 125
+Video-20240430_010655-Meeting Recording.mp4  lines=053.20-054.02; shlokas = 126,127,128
+Video-20240504_000458-Meeting Recording.mp4  lines=054.03-054.12; shlokas = 129,130,131
+Video-20240506_235952-Meeting Recording.mp4  lines=054.13-054.24; shlokas = 132,133,134
+Video-20240510_000043-Meeting Recording.mp4  lines=054.25-054.31; shlokas = 135,136,137
+Video-20240511_000913-Meeting Recording.mp4  lines=054.32-055.05; shlokas = 138,139
+Video-20240514_000452-Meeting Recording.mp4  lines=055.06-055.14; shlokas = 140,141
+Video-20240514_235917-Meeting Recording.mp4  lines=055.15-055.24; shlokas = 142,143,144
 
 
-typo 053.13 चास्मत् संनिधाने  ->  चास्मत्संनिधाने
+रविवासरः, सोमवासरः, मङ्गलवासरः, बुधवासरः, गुरुवासरः, शुक्रवासरः, शनिवासरः
+
+
+बुद्ध्या
+typo 056.04 संधातव्यस्तद् अतीवानुचितम्  -> संधातव्यस्तदतीवानुचितम्
+typo 056.08 शक्नोति  ->  समर्थः (noted in skype)
+-------------
+05-11-2024
+यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।
+इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभम् मनः (?) verse in bhagavad gita
+विपश्चित् a wise man; 
+प्रमाथिन् stirring about, प्रसभम् violently
+https://shlokam.org/bhagavad-gita/2-60/
+-------------
+typo 55.08 कार्ये  -> कार्यं २.६०
+
+Edgar Casey, Many Mansions, chapter on women.  Ref. 2.139 सा स्त्री यानुविधायिनी
 /xampp/htdocs/funderburkjim/hitopadesha-kale/hitopadesha-slp1/deva-format/hitokale_10.xml
 एकबाहुर्नरः  एकबाहुः नरः  one-armed man  (a character in the drama 'The fugitive' - tv series and movie)
   https://github.com/sanskrit-lexicon/csl-websanlexicon/tree/master/v02/makotemplates/web/utilities  link accompanying previous video Video-20240217_005623-Meeting Recording.mp4
@@ -321,7 +344,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(051...F:\)\|\(052...F:\)\|\(053...F:\)\|\(054...F:\)
+\(052...F:\)\|\(053...F:\)\|\(054...F:\)\|\(055...F:\)\|\(056...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
