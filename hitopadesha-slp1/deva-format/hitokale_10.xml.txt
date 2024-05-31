@@ -17957,7 +17957,7 @@
 </P>
 <C>
 ; असौ nom. sg. अदस् that; दृष्ट seen दोष fault, दृष्तदोष considered at fault
-; निवर्त्य to be turned back; संधातव्य to be allied with;
+; निवर्त्य to be turned back (causal passive); संधातव्य to be allied with;
 ; अतीव very; अनुचित improper; 
 </C>
 <E>
@@ -17986,7 +17986,7 @@
 ; after her delivery".
 </C>
 <E>
-056.06-07E: He who wishes to conciliate a friend once estranged invites death itself like a she-mule conceiving a fetus. 
+056.06-07E: He who wishes to conciliate a friend once estranged [spoiled] invites death itself like a she-mule conceiving a fetus. 
 </E>
 </group>
 
@@ -18021,10 +18021,13 @@
 056.09P: अङ्गाङ्गिभावम् -- न्यूनाधिकतां , प्रधानाप्रधानताम् ।
 </P>
 <C>
-; अङ्गाङ्गि ind. jointly; अङ्गाङ्गिभाव mutual relation
-; सामर्थ्य power, capacity for,  निर्णय decision;
+; अङ्गाङ्गि ind. jointly; भाव condition, अङ्गाङ्गिभाव mutual relation;
+; 
+; सामर्थ्य capacity for capability, समर्थ proper aim, capable of;
+; निर्णय decision, ascertainment;
 ; टिट्टिभ = टिट्टिभक the bird Parra jacana, मात्र ifc. mere (measure);
 ; समुद्र ocean; व्याकुलीकृत agitated, confounded.
+; (आकुल confounded) (confound to cause surprise or confusion) 
 </C>
 <E>
 056.09-10E: How can one's power be ascertained unless the relation of principal and subordinate is known? Behold how an insignificant bird like a tittibha (a lap-wing) overpowered the sea. 
@@ -18081,7 +18084,7 @@
 ; दक्षिण southern, समुद्र ocean, तीर a shore, bank;
 ; दम्पति दम्पती (dual) wife husband  (दम् to be tamed, to tame);
 ; निवस् to dwell in; आसन्न near, प्रसव parturition;
-; योग्य useful;  स्थान place; निभृतं secretly; अनुसंधा to arrange;
+; (the action or proces of giving birth to offspring);
 </C>
 <E>
 056.14-15E: A pair of tittibhas lived on the shore of the southern sea. The female when near her delivery said to her husband
@@ -18102,9 +18105,13 @@
 056.16P: अनुसंधीयतां -- निरूप्यतां , अन्विष्यताम् ।
 </P>
 <C>
+; नाथ protector, husband
+; योग्य useful;  स्थान place; निभृतं secretly; अनुसंधा to arrange;
 ; भार्या a wife, female of any animal.
-; नन्विदमेव ननु इदम् एव, ननु not, not at all
-; प्रसुति streaming (laying eggs) योग्य useful, fit;
+; नन्विदमेव ननु इदम् एव, ननु surely (ALSO not, not at all)
+; प्रसूति procreation, laying eggs 
+;  प्रसु वा प्रसू to beget प्रसव
+; योग्य useful, fit;
 </C>
 <E>
 056.16-17E: My dear, find out a retired place convenient for my delivery. The male said -- My dear, this very place is surely fit for your delivery.
@@ -18124,6 +18131,12 @@
 056.19P: निग्रहीतव्यः -- अण्डापहाररूपनिग्रहेण अवज्ञातव्यः ।
 </P>
 <C>
+; समुद्र sea, वेला boundary, shore; समुद्रवेला ocean wave; 
+; प्लाव्यते causal passive प्लु to submerge (cause to swim)
+; निर्बल without strength, weak. स्वगृह one's own house;
+; अवस्थित p.p. अवस्था to remain, stay
+; निग्रहीतव्य should be held down (निग्रह् to hold down)
+; 
 </C>
 <E>
 056.18-19E: She replied -- This place is washed over by the tide. The male observed -- What? Am I so powerless that the sea should insult me, stationed in my own house?
@@ -18146,6 +18159,14 @@
 056.22P: न सीदति न विधुरो भवति , नाशं नैतीति वा ।
 </P>
 <C>
+; विहस्य विहस् to smile; स्वामिन् voc. lord
+; महत् n. great, अन्तर n. interval; अथवा or
+; दुःख  difficult, दुःखम् with difficulty; आत्मा आत्मन् self
+; परिच्छेत्तुम् परिच्छिद् to define accurately (to cut around, limit)
+; ( वेति 3. sg. pre. वी to go ); वेति वा इति
+; योग्य able (+ inf.); ईदृश् nom. sg. इदृक् endowed with such qualities
+; विज्ञानम् knowledge ; कृच्छ्र painful, difficulty;
+; कृच्छेपि = कृच्छे पि = कृच्छे अपि ; सीदति सद् to sit down, despair
 </C>
 <E>
 056.20-22E: The female said smiling -- My lord, vast is the difference between the sea and yourself. Or rather, It is difficult to form a correct estimate of one's self -- whether one is capable (of achieving a thing) or not.  He who has such knowledge does not experience trouble even in a difficulty.
@@ -18164,6 +18185,14 @@
 <P>
 </P>
 <C>
+; आर्या वृत्तम् 
+; अनुनित improper, कार्य action, आरम्भ beginning
+; स्वजन kinsman, विरोध opposition, hostility;
+; बलियसा 3 sg. बलीयस् more powerful, स्पर्धा competition, rivalry;
+; प्रमदा a young woman; जन man, person; प्रमदाजन woman-kind;
+; विश्वास confidence, secret;
+; मृत्योः 6 sg. मृत्यु death; द्वार door n.;
+; चत्वारि nom./acc. pl. चतुर् four.
 </C>
 <E>
 056.23-24E: The beginning of an unworthy act, opposition to one's relatives, emulation with the stronger, and confidence in young women —- these are four doors to death.
@@ -18182,6 +18211,10 @@
 <P>
 </P>
 <C>
+; कृच्छ्र painful, कृच्छ्रेण with difficulty; स्वामि स्वामिन् in cpd. Lord
+; प्रसूत produced (laid eggs); 
+; शक्ति power, ज्ञान knowledge, अर्थ purpose (for the sake of)
+; अण्ड egg; अपहृत taken away
 </C>
 <E>
 056.25-26E: Then following (with difficulty) the advice of her husband she laid her eggs there. Having heard all that, the sea too, wishing to know their strength, carried off their eggs.
@@ -18190,7 +18223,7 @@
 
 <group ident="056,27,28" type="prose">
 <F>
-056.27F: तत टिट्टिभी शोकार्ता
+056.27F: ततष्टिट्टिभी शोकार्ता
 056.28F: भर्तारमाह -- नाथ कष्टमापतितम् । तान्यण्डानि मे नष्टानि ।
 </F>
 <A>
@@ -18200,6 +18233,9 @@
 <P>
 </P>
 <C>
+; शोक sorrow, आर्त fallen into; भर्तारम् acc. sg. भर्तृ husband;
+; कष्ट evil, painful; आपतित befallen; नष्ट disappeared, destroyed
+; 
 </C>
 <E>
 056.27-28E: Then the female tittibha, smitten with grief, said to her husband -- Lord, evil has befallen us. Those my eggs are lost.
@@ -18223,7 +18259,13 @@
 056.29P: मेलकम् -- सभाम् ।
 </P>
 <C>
-; BEzIH [bhī_1]{inj. [4] ac. sg. 2}  (Huet)
+; प्रिये f. voc. प्रिय my dear;
+; भैषीः  [भी 1]{inj. [4] ac. sg. 2}  (Huet)  to fear लुङ् 
+; पक्षिन् bird; मेलक assembly ; गरुड Name of king of birds;
+; समीप vicinity, in the presence of;
+; सकल together with the parts, all; वृत्तान्त incident, event;
+; भगवत् glorious; पुरतस् in front or in presence of;
+; निवेदित made known
 </C>
 <E>
 056.29-32E: The male said -- Fear not, my dear. With these words he called together a council of birds and repaired into the presence of Garuda, the king of the feathered tribes. On reaching the place, the tittibha related the whole affair before the divine Garuda (saying) -- Lord, 
@@ -18247,7 +18289,15 @@
 057.03P: सृष्टिस्थितिप्रलयहेतुः जगतः सृष्टिः उत्पत्तिश्च स्थितिः पालनं च प्रलयः संहारश्च तेषां हेतुः कारणम् ।
 </P>
 <C>
-; nigfhIta : wronged (Kale); held back (MW)
+; स्वगृह one's own house, अवस्थित placed
+; अपराधन offending ( not in MW); अपराध् to offend;
+; निगृहीत : wronged (Kale); held back (MW), seized, attacked (AP90)
+; आकर्ण्य आकर्ण् to hear; गरुत्मत् = गरुड king of birds (गरुत् wing)
+; प्रभु mighty; भगवत् glorious; नारायण = विष्णु
+; सृष्टि procreation, offspring; स्थिति place;
+; प्रलय destruction, disappearance ?; हेतु cause; विज्ञप्त informed
+; दिदेश prf. 3 sg. दिश् ; आदिश् to command
+; अण्ड दानाय दान giving (for egg-giving);
 </C>
 <E>
 057.01-04E: Lord, without any fault, I, who was stationed in my house, was wronged by the sea. Having heard his words, Garuda besought the Lord, the divine Narayana, the author of the creation, preservation and destruction of the universe, who ordered the sea to restore the eggs.  Then,
@@ -18267,8 +18317,12 @@
 057.05P: मौलौ निधाय मस्तके कृत्वा , शिरसाऽभ्यर्च्य । अतिविनयेन भगवदाज्ञां पालयित्वेत्यर्थः ।
 </P>
 <C>
-; mOlO m. 7s of mOli (head)
-; wiwwiBa m. case 4s.
+; भगवत् glorious one आज्ञा command; 
+; मौलौ  m. 7s of मौलि  (head)
+; समर्पित (समृ) to deliver over [अर्पयति ऋ c. cause to go] [Kale returned]
+; अङ्गाङ्गि limb to limb, भाव being, condition;
+; अङ्गाङ्गिभाव mutual relation of different limbs,
+; [KALE relation of principal and subordinate]
 </C>
 <E>
 057.05-06E: Then having placed on the crown of his head (obeyed with deep reverence) the divine order, the sea returned the eggs to the tittibha. Hence I say -- Without knowing the relation of principal and subordinate, etc.
@@ -18292,9 +18346,16 @@
 057.09P: चकित इव -- संरब्धचित्त इव संभ्रान्त इव ।
 </P>
 <C>
+; राजा e.g. पिङ्गलक ; ज्ञातव्य to be known
+; द्रोह injury , plotting against, बुद्धि mind;
+; दर्प pride॑; शृङ्गाग्र horn-point; प्रहरण striking; (dative of purpose in cpd.)
+; अभिमुख approaching (facing);
+; चकित  trembling, AP90 frightened, KALE dismayed (or bewildered)
+; शृङ्गाग्रप्रहरणाभिमुख ready to strike with the points of the horns [MW]
+; ज्ञास्यति fut. ज्ञा he will know; 
 </C>
 <E>
-057.07-09E: The king asked -- How is it to be known that he is maliciously disposed (towards me)? Damanaka replied -- Your Highness will know it when he, full of pride, will approach you, ready to strike with the tips of his horns and like one dismiayed (or bewildered).
+057.07-09E: The king asked -- How is it to be known that he is maliciously disposed (towards me)? Damanaka replied -- Your Highness will know it when he, full of pride, will approach you, ready to strike with the tips of his horns and like one dismayed (or bewildered).
 </E>
 </group>
 
@@ -18312,7 +18373,10 @@
 <P>
 </P>
 <C>
-; upasarpan  pres. part. upa+sfp  (nom. 1s)
+; उपसर्पन्   pres. part. उप + सृप् (nom. 1s) to creep towards;
+; मन्दम् slowly; विस्मित amazed, perplexed;
+; अदर्शयत् caus. imperfect दृश् to show; सादरम् respectfully
+; कुशलं ते 'Hail to thee!' ( welfare); ते dative युष्मद्
 </C>
 <E>
 057.10-12E: Having uttered these words, he went to Samjivaka. On reaching the place, he, approaching gently, presented himself like one amazed. Samjivaka inquired with affectionate regard -- Friend, are you happy ?
@@ -18323,12 +18387,12 @@
 <F>
 057.13F: दमनको ब्रूते -- अनुजीविनां कुतः कुशलम् । यतः ।
 057.14F: सम्पत्तयः पराधीनाः सदा चित्तमनिर्वृत्तम् ।
-057.15F: स्वजीवितेऽप्यविश्वासस्तेषां ये राजसंश्रेयाः ॥ २,१५०॥
+057.15F: स्वजीवितेऽप्यविश्वासस्तेषां ये राजसंश्रयाः ॥ २,१५०॥
 </F>
 <A>
 057.13A: दमनकः ब्रूते -- अनुजीविनाम् कुतः कुशलम् । यतः ।
 057.14A: सम्पत्तयः पराधीनाः सदा चित्तम् अनिर्वृत्तम् ।
-057.15A: स्वजीविते अपि अविश्वासः तेषाम् ये राजसंश्रेयाः ॥ २,१५०॥
+057.15A: स्वजीविते अपि अविश्वासः तेषाम् ये राजसंश्रयाः ॥ २,१५०॥
 </A>
 <P>
 057.14P: पराधीनाः नृपेच्छायत्ता इत्यर्थः ।
@@ -18336,53 +18400,57 @@
 057.15P: राजसंश्रेयाः भूपालावलम्बिनः , राजसेवकाः ।
 </P>
 <C>
+; अनुजीविन् a dependent [अनु subordinate to]; कुशल welfare, happiness;
+; सम्पत्ति prosperity, increase of wealth
+; पराधीन subject to another's will;
+; (अधीन resting on, depending on fr. अधि above)
+; (आधार table, पुस्तकम् book, पुस्तकमाधाराधीनं  )
+; सदा always; चित्त n. mind
+; अनिर्वृत्त unfulfilled [KALE uneasy]; वृत्त set in motion, completed
+; जीवित living, livelihood, life; अविश्वास mistrusted;
+; संश्रय ifc. connected with; (श्रि to rest on, depend on) [KALE service]
 </C>
 <E>
 057.13-15E: Damanaka replied -- How can there be any happiness for servants? For, the riches of those who are in royal service are in another's power; their mind is always uneasy, and they have no surety even of their lives.
 </E>
 </group>
 
-<group ident="057,16,17" type="prose">
+<group ident="057,16,19" type="shloka 2,151">
 <F>
-057.16F: अन्यच्च । कोऽर्थान् प्राप्य न गर्वितो विषयिणः कस्यापदोऽस्तं गताः
+057.16F: अन्यच्च । कोऽर्थान्प्राप्य न गर्वितो विषयिणः कस्यापदोऽस्तं गताः
 057.17F: स्त्रीभिः कस्य न खण्डितं भुवि मनः को वास्ति राज्ञां प्रियः ।
+057.18F: कः कालस्य भुजान्तरं न च गतः कोऽर्थी गतो गौरवं
+057.19F: को वा दुर्जनवागुरासु पतितः क्षेमेण यातः पुमान् ॥ २,१५१॥
 </F>
 <A>
 057.16A: अन्यत् च । कः अर्थान् प्राप्य न गर्वितः विषयिणः कस्य आपदः अस्तम् गताः
 057.17A: स्त्रीभिः कस्य न खण्डितम् भुवि मनः कः वा अस्ति राज्ञाम् प्रियः ।
+057.18A: कः कालस्य भुजान्तरम् न च गतः कः अर्थी गतः गौरवम्
+057.19A: कः वा दुर्जनवागुरासु पतितः क्षेमेण यातः पुमान् ॥ २,१५१॥
 </A>
 <P>
 057.16P: विषयिणः -- भोगासक्तस्य , सिषयसुखतरस्य ।
 057.16P: अस्तम् गताः -- अन्तं याताः । न कस्यापि इत्यर्थः ।
 057.17P: खण्डितम् -- विकलीकृतं , प्रतिप्रेमाभावाद्व्याहतम् ।
-</P>
-<C>
-; Buvi f. sg. loc. BU
-</C>
-<E>
-057.16-17E: Moreover, Who, having obtained wealth, does not become proud? The miseries of what sensualist have come to an end? Whose mind is not wounded by woman? Who is a favourite of kings?
-</E>
-</group>
-
-<group ident="057,18,19" type="shloka 2,151">
-<F>
-057.18F: कः कालस्य भुजान्तरं न च गतः कोऽर्थी गतो गौरवं
-057.19F: को वा दुर्जनवागुरासु पतितः क्षेमेण यातः पुमान् ॥ २,१५१॥
-</F>
-<A>
-057.18A: कः कालस्य भुजान्तरम् न च गतः कः अर्थी गतः गौरवम्
-057.19A: कः वा दुर्जनवागुरासु पतितः क्षेमेण यातः पुमान् ॥ २,१५१॥
-</A>
-<P>
 057.18P: कालस्य इ° -- यमस्य वशतां गतः कालेन न कवलितः ।
 057.19P: दुर्जनवागुरासु दुर्जनानां खलानां वागुरासु कपटजालेषु ।
 </P>
 <C>
-; vAgurA net
-; pumAn  m. sg. nom. of puMs (man)
+; अर्थ wealth ; गर्वित haughty
+; विषयिन् sensual, sensualist; विषय an object of sense;
+; आपद् f. misfortune; अस्त m. setting (of sun), end, death;
+; खण्डित cut, broken खण्ड् [KALE wounded] ; भुवि  f. sg. loc. भू earth;
+; मनस् mind; राज्ञाम् 6 pl. of kings; प्रिय beloved, favorite;
+; काल death; भुज arm, अन्तर being in the interior,
+; भुजान्तर 'between the arms', the breast, [KALE the clutches of]
+; अर्थी अर्थिन् seeking to gain, supplicant;
+; गौरव dignity [KALE honor] (cf. लाघव swiftness, lightness)
+; दुर्जन bad person; वागुरा  net, trap [वा to blow, injure]
+; क्षेम tranquility [क्षि to remove]; क्षेमेण ind. at ease, safely;
+; यात gone; पुमान्  m. sg. nom. of पुंस्, man
 </C>
 <E>
-057.18-19E: Who has not fallen into the clutches of Death? What supplicant has met with honour, and what man, fallen into the meshes of the wicked, has escaped unscathed?
+057.16-19E: Moreover, Who, having obtained wealth, does not become proud? The miseries of what sensualist have come to an end? Whose mind is not wounded by woman? Who is a favourite of kings? Who has not fallen into the clutches of Death? What supplicant has met with honour, and what man, fallen into the meshes of the wicked, has escaped unscathed?
 </E>
 </group>
 
@@ -18398,6 +18466,8 @@
 <P>
 </P>
 <C>
+; सखे voc. सखि friend;
+; मन्द weak, भाग्य fortunate,  मन्दभाग्य unfortunate;
 </C>
 <E>
 057.20-21E: Samjivaka said -- Friend, speak out what this means. Damanaka replied -- What should I say, an unfortunate creature! Behold,
@@ -18417,6 +18487,11 @@
 057.23P: मुग्धः -- किंकर्तव्यतामूढः । इतिकर्तव्यताशून्यः इत्यर्थः ।
 </P>
 <C>
+; समुद्र ocean; निर्मग्न to sink under (मस्ज् to plunge)
+; लब्ध्वा लभ् to take; सर्प snake, अवलम्बन support
+; मुञ्चति मुच् to release; दत्ते present of दा, आदा to take, seize;
+; मुग्ध stupefied (मुह्); सम्प्रति ind. now
+
 </C>
 <E>
 057.22-23E: Just as a man plunged into the sea having obtained the support of a serpent, does neither give it up nor hold fast to it, so bewildered am I now.
@@ -18435,6 +18510,8 @@
 <P>
 </P>
 <C>
+; एकत्र in one place; अन्यत्र elsewhere; बांधवः a kinsman;
+; नश् to perish;
 </C>
 <E>
 057.24-25E:  For, On the one hand is the royal confidence betrayed, on the other, a friend perishes: what shall I do, and where shall I go, I who am fallen into the sea of trouble?
@@ -18454,6 +18531,10 @@
 057.27P: मनोगतं यद् हृदयस्थितं तत् ।
 </P>
 <C>
+; दीर्गम् for a long time; निःश्वस्य having sighed; उपविष्ट seated;
+; तथापि even so; मित्र friend m.; सविस्तर having diffuseness, complete;
+; वितॄ  spread out; स्तॄ to strew; उच्यताम् ipv-p वच् ;
+; मनोगत adj. mind-existant (गत ~ भूत), n. thought;
 </C>
 <E>
 057.26-27E: With these words he heaved a deep sigh and sat down. Samjivaka said -- Still, friend, tell me in detail what you have at heart.
@@ -18473,7 +18554,11 @@
 057.28P: राजविश्वासः राज्ञा विश्वस्य कथितम् ।
 </P>
 <C>
-; ? 057.30F: hitamAKyeyam . SfRu . ayaM svAmI tavopari vikftabudDI
+; सुनिभृतम् ind. very privately, निभृत placed down, hidden, private;
+; राजविश्वास royal secret confidence; कथनीय to be said, told;
+; अस्मदीय our; प्रत्यय belief, faith; आगत come, returned;
+; परलोक other world; अर्थिना अर्थिन् one who wants, longing for;
+; अवश्यम् necessarily, certainly; हित good advice; आख्येय to be told;
 </C>
 <E>
 057.28-29E: Damanaka said with (a show of) great secrecy -- Although I must not betray the king's secret, yet you have come here through confidence in us; and I, as desiring the next world, must necessarily tell you what concerns your welfare.
@@ -18493,7 +18578,12 @@
 057.30P: विकृतबुद्धिः विकृता विपरीतभावमापन्ना बुद्धिः यस्य ।
 </P>
 <C>
-; budDI :  budDiH + rahasi -> budDI rahasi  (rare sandhi)
+; उपरि (above) in connection with + gen.;
+; बुद्धिः + रहसि = बुद्धी रहसि
+; विकृत deformed, बुद्धि mind; विकृतबुद्धि changed in mind (MW)
+; रहसि secretly, privately; उक्तवत् speaking, said
+; हत्वा हन् to strike, kill; परिवार dependant ; (वार cover)
+; तर्पयामि  तृप् c. to satiate;
 </C>
 <E>
 057.30-31E: Listen. This our Lord, being prejudiced against you, said in private -- I will kill Samjivaka himself and treat my attendants (with his flesh).
@@ -18503,7 +18593,7 @@
 <group ident="057,32,34" type="prose">
 <F>
 057.32F: एतच्छ्रुत्वा संजीवकः परं विषादमगमत् । दमनकः पुनराह ।
-057.33F: अलं विषादेन । प्राप्तकालकायमनुष्ठीयताम् । संजीवकः
+057.33F: अलं विषादेन । प्राप्तकालकार्यमनुष्ठीयताम् । संजीवकः
 057.34F: क्षणं विमृश्याह ॥ सुष्ठु खल्विदमुच्यते ।
 </F>
 <A>
@@ -18515,6 +18605,16 @@
 057.33P: प्राप्तः कालो यस्य तत्प्राप्तकालं कालोचितम् ।
 </P>
 <C>
+; परम् beyond, greatly; विषाद dejection; अलम् enough with + instr.
+; प्राप्त attained to, reached, got; काल time
+; प्राप्तकाल the time arrived, suitable;
+; काय any object to be attained (body);
+; The dictionary MW has m. gender.
+; But in the compound it seems n. sg. nom.;
+; अनुष्ठा to perform, carry out, do; [स्थीयताम् imper. pass.]
+; क्षणम् for a moment; विमृश् to touch, touch mentally, consider;
+; सुष्ठु aptly; खलु indeed; सुष्ठु खलुचतुष्पञ्चाशत्  most certainly;
+; उच्यते passive वच् ; 
 </C>
 <E>
 057.32-34E:  Samjivaka, on hearing this, was smitten with great sorrow. Damanaka observed again -- Away with sorrow. Do what the time demands. Samjivaka, after a moment’s reflection, said -- This is, indeed, well said--
@@ -18536,7 +18636,11 @@
 058.02P: गिरिजलधिवर्षी न सस्यक्षेत्रवर्षी इत्यर्थः । सर्वत्र विसंष्टुला एव विधिप्रवृत्तिः इति भावः ।
 </P>
 <C>
-; prAya  Sense here ?
+; दुर्जन bad people; गम्य gone to
+; अपात्र a worthless utensil भृत् supporting
+; प्रायेण generally ,(प्राय excess ); कृपण miser ,poor, pitiable, low; अनुसारिन् following;
+; धन wealth, money; गिरि mountain, जलधि lake (धि receptacle ifc.);
+; वर्षिन् raining; 
 </C>
 <E>
 058.01-02E: Women seek the company of wicked men; a king generally patronizes (or, lavishes wealth upon) the undeserving; wealth seeks a miser; and the god of rain pours the showers on mountains and seas!
@@ -18553,6 +18657,9 @@
 <P>
 </P>
 <C>
+; स्वगतम् to one's self; विचेष्टित gesture, action;
+; व्यवहार conduct, action, business; निर्णेतुम् निर्णी to determine;
+; शक्यते is able to; शक् to be able
 </C>
 <E>
 058.03-03E: (To himself) Now it is not possible to decide from his manner of acting (or, conversing) whether this is his doing or not. For -- 
@@ -18561,7 +18668,7 @@
 
 <group ident="058,04,05" type="shloka 2,155">
 <F>
-058.04F: कश्चिदाश्रयसौन्दर्याद् अत्ते शोभामसज्जनः ।
+058.04F: कश्चिदाश्रयसौन्दर्याद्धत्ते शोभामसज्जनः ।
 058.05F: प्रमदालोचनन्यस्तं मलीमसमिवाञ्जनम् ॥ २,१५५॥
 </F>
 <A>
@@ -18573,6 +18680,13 @@
 058.05P: मलीमसं मलिनं अञ्जनं कज्जलमिव ।
 </P>
 <C>
+; आश्रय a resting place, that on which anything depends, the master
+; of a servant, thus similar to स्वामिन् ?
+; सौन्दर्य beauty; शोभा light, splendor;
+; धा to possess, show (to put); 
+; असज्जन a bad man ( = दुर्जन );
+; प्रमदा young woman;  लोचन eye; न्यस्त put into
+; मलीमस black (dirty); अञ्जन a cosmetic ointment.
 </C>
 <E>
 058.04-05E: Some wicked man possesses splendour (appears good amiable) from the beauty of his master (or patron, lit. the person he depends upon), like fool (black) collyrium when put into their eyes by young women.
@@ -18589,6 +18703,7 @@
 <P>
 </P>
 <C>
+; कष्टम् ind. Alas!,  कष्ट evil, difficulty; आपतित befallen;
 </C>
 <E>
 058.06-06E: After reflection; he says -- Alas! What is this that has come to pass ! For, 
@@ -18608,6 +18723,12 @@
 058.08P: प्रतिमाविशेषः -- मूर्तिविशेषः , विचित्रा विधातुर्घटना इत्यर्थः ।
 </P>
 <C>
+; आराध्यमान being worshipped [KALE served]
+; नृपति king; प्रयत्न continued effort, great care
+; तोष satisfaction, contentment; चित्र strange;
+; सेव्यमान being served; रिपुता enemy-ness; उपैति goes near;
+; पूर्व  प्रतिमा an image, a likeness; विशेष special property;
+॑; पूर्वप्रतिमाविशेष who was a special idol before;
 </C>
 <E>
 058.07-08E: A king, though served with assiduity, may not be pleased; where is the wonder in this? But this is some strange pattern of creation, who being served is turned into an enemy!!! 

@@ -316,12 +316,33 @@ Video-20240510_000043-Meeting Recording.mp4  lines=054.25-054.31; shlokas = 135,
 Video-20240511_000913-Meeting Recording.mp4  lines=054.32-055.05; shlokas = 138,139
 Video-20240514_000452-Meeting Recording.mp4  lines=055.06-055.14; shlokas = 140,141
 Video-20240514_235917-Meeting Recording.mp4  lines=055.15-055.24; shlokas = 142,143,144
+Video-20240516_000720-Meeting Recording.mp4  lines=055.24-056.05; shlokas = 144,145 सर्वाङ्गैः  
+Video-20240522_001535-Meeting Recording.mp4  lines=056.06-056.20; shlokas = 146,147;
+Video-20240524_000526-Meeting Recording.mp4  lines=056.21-056.27; shlokas = 148,149;
+Video-20240528_000336-Meeting Recording.mp4  lines=056.28-057.04; 
+Video-20240529_000532-Meeting Recording.mp4  lines=057.05-057.15; shlokas = 150;
+Video-20240530_000108-Meeting Recording.mp4  lines=057.16-057.27; shlokas = 151,152,153;
+Video-20240531_000346-Meeting Recording.mp4  lines=057.28-057.34; (bhAva) 
 
 
+चतुष्पञ्चाशत्  चतुःपञ्चाशत् 
+035.07 करटक, दमनक first mention.
+
+typo 057.33 प्राप्तकालकायमनुष्ठीयताम् -> प्राप्तकालकार्यमनुष्ठीयताम्  
+typo 058.04 कश्चिदाश्रयसौन्दर्याद् अत्ते -> कश्चिदाश्रयसौन्दर्याद्धत्ते  sent
+typo 057.15 राजसंश्रेयाः  -> राजसंश्रयाः   sent
+
+१ २ ३ ४ ५ ६ ७ ८ ९ 
+सर्वाङ्गैः  
 रविवासरः, सोमवासरः, मङ्गलवासरः, बुधवासरः, गुरुवासरः, शुक्रवासरः, शनिवासरः
 
-
+भू भृ
 बुद्ध्या
+
+अङ्गाङ्गिभाव remind Usha
+
+typo 057.16 कोऽर्थान् प्राप्य -> कोऽर्थान्प्राप्य
+typo तत टिट्टिभी  -> ततष्टित्तिभी
 typo 056.04 संधातव्यस्तद् अतीवानुचितम्  -> संधातव्यस्तदतीवानुचितम्
 typo 056.08 शक्नोति  ->  समर्थः (noted in skype)
 -------------
@@ -344,7 +365,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(052...F:\)\|\(053...F:\)\|\(054...F:\)\|\(055...F:\)\|\(056...F:\)
+\(054...F:\)\|\(055...F:\)\|\(056...F:\)\|\(057...F:\)\|\(058...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
