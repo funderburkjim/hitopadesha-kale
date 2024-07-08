@@ -323,12 +323,48 @@ Video-20240528_000336-Meeting Recording.mp4  lines=056.28-057.04;
 Video-20240529_000532-Meeting Recording.mp4  lines=057.05-057.15; shlokas = 150;
 Video-20240530_000108-Meeting Recording.mp4  lines=057.16-057.27; shlokas = 151,152,153;
 Video-20240531_000346-Meeting Recording.mp4  lines=057.28-057.34; (bhAva) 
+Video-20240601_000238-Meeting Recording.mp4  lines=058.01-058.06; shlokas = 154,155
+Video-20240604_000815-Meeting Recording.mp4  lines=058.07-058.14; shlokas = 156,157
+Video-20240604_235057-Meeting Recording.mp4  lines=058.14-058.21; shlokas = 158,159;
+Video-20240606_002124-Meeting Recording.mp4  lines=058.20-059.03; shlokas = 159,160,161;
+Video-20240607_000220-Meeting Recording.mp4  lines=059.04-059.12; shlokas = 162,163;
+Video-20240608_000650-Meeting Recording.mp4  lines=059.13-059.21; shlokas = 164,165,166;
+Video-20240611_001107-Meeting Recording.mp4  lines=059.22-059.29; shlokas = 167,167,169;
+Video-20240614_000856-Meeting Recording.mp4  lines=060.01-060.08; shlokas = 170,171;
+Video-20240619_001158-Meeting Recording.mp4  lines=060.09-060.15; shlokas = 172,173;
+Video-20240622_000410-Meeting Recording.mp4  lines=060.15-060.26; shlokas = 174,175;
+Video-20240625_000407-Meeting Recording.mp4  lines=060.27-061.02; shlokas = 176,177,178;
+Video-20240626_000304-Meeting Recording.mp4  lines=061.03-061.13; shlokas = 179,180,181;
+Video-20240627_001145-Meeting Recording.mp4  lines=061.14-061.26; shlokas = 182;
+Video-20240628_001406-Meeting Recording.mp4  lines=061.27-062.06; shlokas = 1,2;
+Video-20240629_000435-Meeting Recording.mp4  lines=062.07-062.19; shlokas = 3;
+Video-20240703_000501-Meeting Recording.mp4  lines=062.20-063.01; shlokas = 4,5;
+Video-20240704_000513-Meeting Recording.mp4  lines=063.02-063.17; shlokas = 6;
+Video-20240705_000707-Meeting Recording.mp4  lines=063.18-064.02; shlokas = 7,8,9;
 
 
-चतुष्पञ्चाशत्  चतुःपञ्चाशत् 
+  चतुःपञ्चाशत् 
 035.07 करटक, दमनक first mention.
 
-typo 057.33 प्राप्तकालकायमनुष्ठीयताम् -> प्राप्तकालकार्यमनुष्ठीयताम्  
+typo 064.40  स्पृशन्न् अपि  ->  स्पृशन्नपि
+     064.40  जिघ्रन्न् अपि  ->  जिघ्रन्नपि
+typo 064.41  मानयन्न् अपि  -> मानयन्नपि
+These have been sent to skype for Usha.
+typo 063.23  सस्यम् अबुद्धिमान् -> सस्यमबुद्धिमान्
+typo 064.10  तन् न  ->  तन्न 
+typo 063.13 कोपाद् उक्तम्  ->  कोपादुक्तम्
+typo 062.12 वार्तां  ->  वार्त्तां
+typo 062.12 दशान्तरादागतोऽसि  -> देशान्तरादागतोऽसि
+typo 062.03 सर्वैर्जलचर्पक्षिभिर्मिलित्वा -> सर्वैर्जलचरपक्षिभिर्मिलित्वा
+typo 061.06 चावज्ञा  -> चावशा 
+typo 060.29  पुत्री  ->  पुत्रो sent
+typo 060.17  प्र्वृत्ते  -> प्रवृत्ते sent
+typo 060.15 पिङ्गलकसमीपां -> पिङ्गलकसमीपं sent
+typo 060.07  लौकेः  ->  लोकैः  [KALE print error] sent
+typo 059.16 विकान्तितो -> विकारितो [Muller - KALE print unclear] sent
+typo 059.04 दूराद् उच्छ्रितपाणिरार्द्रनयनः  -> दूरादुच्छ्रितपाणिरार्द्रनयनः  sent
+typo 058.09 तद् अयमशक्यर्थः -> तदयमशक्यार्थः  sent
+typo 057.33 प्राप्तकालकायमनुष्ठीयताम् -> प्राप्तकालकार्यमनुष्ठीयताम्   sent
 typo 058.04 कश्चिदाश्रयसौन्दर्याद् अत्ते -> कश्चिदाश्रयसौन्दर्याद्धत्ते  sent
 typo 057.15 राजसंश्रेयाः  -> राजसंश्रयाः   sent
 
@@ -365,7 +401,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(054...F:\)\|\(055...F:\)\|\(056...F:\)\|\(057...F:\)\|\(058...F:\)
+\(061...F:\)\|\(062...F:\)\|\(063...F:\)\|\(064...F:\)\|\(065...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
