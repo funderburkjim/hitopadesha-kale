@@ -19950,7 +19950,7 @@
 ; विस्तीर्ण strewn with; कमल lotus flower;
 ; आसीन sitting, seated; परिवार dependants [a cover];
 ; परिवृत surrounded; कुतस् from whence; कुतश्चित् from some; देश region, country;
-; मुख beak of a bird, दीर्घ long; बल crane; प्रणम्य having bowed;
+; मुख beak of a bird, दीर्घ long; बक crane; प्रणम्य having bowed;
 ; उपविष्ट seated;
 </C>
 <E>
@@ -19975,6 +19975,7 @@
 ; वार्त्ता livelihood, news;
 ; आख्यातुम् आख्या to relate, tell;  By a rule, the 'm' of an तुम्-infinitive is
 ; dropped before काम (and also some other word besides काम)
+; काम adj. desiring;
 </C>
 <E>
 062.12-13E: you have come from a foreign country. Tell us the news. The crane replied, sire, there is great news and I have hastened here to communicate that. May Your Highness listen.
@@ -19996,7 +19997,7 @@
 </P>
 <C>
 ; जम्बू "the rose apple tree", द्वीप island
-; विन्ध्य proper name (पर्व्वतविशेषः a special mountain)
+; विन्ध्य proper name {पर्व्वतविशेषः a special mountain}
 ; चित्र variegated, wonderful,  वर्ण color; पक्षिन् winged, a bird;
 ; अनुचर following, a servant; चरद्भिः pres. part. of चर् to move;
 ; दग्ध burnt, अरण्य forest, wilderness, मध्य middle;
@@ -20233,7 +20234,7 @@
 </P>
 <C>
 ; जलधर 'holding water', rain; पटल veil; आवृत covered, overcast;
-; नभस् mist, clouds, sky; तल surface;
+; नभस् mist, clouds, sky; तल surface, नभस्तल 'sky surface', firmament
 ; धारासार = धारानिपात rain shower (धारा stream of water); वृष्टि rain;
 ; 
 </C>
@@ -20278,7 +20279,7 @@
 063.05P: सीदथ -- दुःखं अनुभवथ ।
 </P>
 <C>
-; निर्मित constructed; निड nest; चञ्चु beak; तृण grass, straw
+; निर्मित constructed; नीड nest; चञ्चु beak; तृण grass, straw
 ; मात्र measure, nothing but; आहृत brought near; हस्त hand; पाद foot;
 ; आदि ifc. etc.; संयुक्त joined (furnished) with; किमिति why thus;
 ; सीदथ pre 2 pl. to sit, despair;
@@ -20313,7 +20314,7 @@
 ; उपशम the becoming quiet, cessation; तावत् so great, large; वृष्ट rained, raining;
 </C>
 <E>
-063.06-08E: Hearing this, the monkeys being enraged said to themselves - Oh, the birds comfortably lodged in the interior of their neats not exposed to the blast, are reproaching us! Well, let the showers just cease.
+063.06-08E: Hearing this, the monkeys being enraged said to themselves - Oh, the birds comfortably lodged in the interior of their nests not exposed to the blast, are reproaching us! Well, let the showers just cease.
 </E>
 </group>
 
@@ -20354,7 +20355,7 @@
 <P>
 </P>
 <C>
-; तैः  they, the birds that दीर्घमुख met in the wilderness;
+; तैः  they, the birds (peacocks) that दीर्घमुख met in the wilderness;
 ; कोप anger; 
 </C>
 <E>
@@ -20739,7 +20740,7 @@
 064.18P: वारुणी सुरा ।
 </P>
 <C>
-; हीन abandoned, सेवा service, हीनसेवा serving base person;
+; हीन abandoned, deficient, सेवा service, assistance  हीनसेवा serving base person;
 ; कर्तव्य to be done; आश्रय shelter; महदाश्रय shelter with great man;
 ; पयस् milk, water; शौण्डिकी female keeper of a liquor shop;
 ; हस्त the hand; वारुणी a particular liquor;
@@ -20790,7 +20791,7 @@
 </P>
 <C>
 ; विशेषतस् especially, particularly; व्यपदेश trick, concealment;
-; अतिशक्ति very powerful; शशिन् rabbit
+; अतिशक्ति very powerful; शशिन् 
 ; आसते pre. A. 3 pl. they sit, remain;  शशक rabbit
 
 </C>
@@ -20843,6 +20844,7 @@
 ; जीवन life; क्षुद्र tiny, जन्तु creature, animal;
 ; मज्जन bathing, निमज्जन bathing; अन्ध blind;
 ; कुर्मः we do; वामः we go; क्व where? किम् what;
+॑; [कूर्मः a turtle]
 </C>
 <E>
 064.26-29E: Once upon a time, as there was no rain even in the rainy season, a herd of elephants, being oppressed with thirst, said to their chief-Lord, what means have we to save our lives? There is a place here (only) for little creatures to bathe; but for want of a bath we are as though blind; so whither can we go? What can we do?
@@ -20890,7 +20892,7 @@
 ; अनन्तरम् afterwards; शिली a kind of worm, arrow; शशक rabbit;
 ; चिन्तयामास (he) thought; अनेन 3. sg. इदम्; पिपासा thirst;
 ; आकुलित distressed; प्रत्यहम् ind. day by day; आगन्तव्य to be come to;
-; विनश् to perish; कुल herd, family; 
+; विनश् to perish; कुल n. herd, family; 
 </C>
 <E>
 064.33-34E: Upon this a hare, Silimukha by name, thus deliberated. This herd of elephants, being troubled by thirst, must be coming here every day and thus our race is destroyed.
@@ -20917,7 +20919,8 @@
 <C>
 ; विजय victory; वृद्ध old; शशक rabbit; सीदत ipv. 2 pl. सद्;
 ; विषद् to despair;॑ प्रतीकार counteraction, remedy
-; कर्तव्य to be done;  प्रतिज्ञा to promise; चलित departed;
+; कर्तव्य to be done; असौ m. f. 1s अदस् that
+; प्रतिज्ञा to promise, to assert; चलित departed;
 ; आलोचित considered; गजयूथ elephant herd; वक्तव्य to be said;
 </C>
 <E>
@@ -20940,7 +20943,7 @@
 ; स्पृशन् pres. part. m. nom. sg. स्पृश् to touch; हन्ति 3 sg. हन्;
 ; जिघ्रन् pres. part. घ्रा to smell; भुजङ्गमः snake (not in MW?)
 ; हसन् smiling; नृप king
-; मानयन् मन् causal pres. part. honoring; दुर्जन bad person;
+; मानयन् मन् (think) causal pres. part. honoring; दुर्जन bad person;
 </C>
 <E>
 064.40-41E: An elephant kills though only touching; a serpent when simply smelling; a king though smiling; and a wicked man although (outwardly) showing honour.
@@ -20959,7 +20962,7 @@
 <P>
 </P>
 <C>
-; पर्वत mountain; शिखर the top; आरुह्य आरुह् to ascend; आरुह् to ascend;
+; पर्वत mountain; शिखर the top; आरुह्य आरुह् to ascend;
 ; यूथनाथ herd-leader; संवद् to talk to, address;
 ; अनुष्ठित done, accomplished; कुतस् from where; समाया to come from;
 </C>
@@ -20985,8 +20988,8 @@
 </P>
 <C>
 ; शशक rabbit; भगवत् glorious, divine; चन्द्र moon
-; अन्तिक near;  प्रेषित set in motion, sent;
-; कार्य n. work to be done; 
+; अन्तिक near, vicinity;  प्रेषित set in motion, sent (प्रेष् to send forth);
+; कार्य n. work to be done, purpose; 
 </C>
 <E>
 065.03-06E:  He replied, I am a hare sent to you by the divine Moon. Declare your purpose, said the chief of the herd. Vijaya replied --
@@ -21009,7 +21012,7 @@
 ; उद्यत raised up; शस्त्र weapon; दूत messenger; अन्यथा otherwise, falsely
 ; सदा always; अवध्य not to be killed [वध् to strike, kill];
 ; भाव Being, condition, etc.;
-; वाचक speaker, messenger ?; यथार्थ true;
+; वाचक speaker, speaking; यथार्थ true, accordant with reality; 
 </C>
 <E>
 065.07-08E: A messenger never speaks falsely even though weapons be raised against him: for he always declares the truth on account of the immunity from being killed which he always enjoys.
@@ -21018,7 +21021,7 @@
 
 <group ident="065,09,11" type="prose">
 <F>
-065.09F: तद् अहं तदाज्ञया ब्रवीमि -- शृणु । यदेते चन्द्रसरोरक्षकाः
+065.09F: तदहं तदाज्ञया ब्रवीमि -- शृणु । यदेते चन्द्रसरोरक्षकाः
 065.10F: शशकास्त्वया निःसारितास्तन्न युक्तं कृतम् । यतस्ते
 065.11F: शशकाश्चिरमस्माकं रक्षिताः । अत एव मे शशाङ्कः इति प्रसिद्धिः ।
 </F>
@@ -21030,8 +21033,12 @@
 <P>
 </P>
 <C>
-; आज्ञा command; सरस् lake; चन्द्र moon; रक्षक protector; शशक rabbit
-; निःसारित expelled; युक्त proper; 
+; आज्ञा a command, order; सरस् lake; चन्द्र moon; रक्षक protector
+; शशक rabbit; निःसारित expelled; युक्त proper; रक्षित guarded, protected;
+; चिरम् for a long time; अस्माकम् 6 pl. = चन्द्र royal we ?; 
+; अङ्क side or flank, any mark; शशाङ्क rabbit-marked ( KALE -emblemed);
+; अतस् from that, hence; प्रसिद्धि fame, renown; 
+; 
 </C>
 <E>
 065.09-11E: I, therefore, speak by his order. Listen. You did not act properly inasmuch as you caused the hares, the guardians of the Moonlake, to be dispersed. For these hares have long been my proteges. Hence it is that I am called Sasanka (the hare-emblemed).
@@ -21050,6 +21057,9 @@
 <P>
 </P>
 <C>
+; उक्तवति loc. sg. उक्तवत् ; [MW one who has spoken]; दूत messenger
+; यूथपति lord of the herd; भय fear; इदम् n. this;
+; अज्ञान not knowing, ignorance; अज्ञानतस् unknowingly; 
 </C>
 <E>
 065.12-13E: When the messenger had thus declared himself, the head of the herd said thus in terror -- This was done in ignorance, I will not go there again.
@@ -21058,7 +21068,7 @@
 
 <group ident="065,14,16" type="prose">
 <F>
-065.14F: दूत उवाच यद्येवं तद् अत्र सरसि कोपात् कम्पमानं भगवन्तं शशाङ्कं प्रणम्य
+065.14F: दूत उवाच यद्येवं तदत्र सरसि कोपात् कम्पमानं भगवन्तं शशाङ्कं प्रणम्य
 065.15F: प्रसाद्य गच्छ । ततो रात्रौ यूथपतिं नीत्वा जले
 065.16F: चञ्चलं चन्द्रबिम्बं दर्शयित्वा स यूथपतिः प्रणामं कारितः ।
 </F>
@@ -21070,7 +21080,12 @@
 <P>
 </P>
 <C>
-;  Typo 'yUTaptiH' -> 'yUTapatiH' 
+; कोप anger; कम्पमान कम्प् to tremble; प्रणम् to make obeisance to;
+; प्रसाद्य प्रसद् caus. to gladden, propitiate (act to regain favor);
+; रात्रि night; नीत्वा having led; चञ्चल moving to and fro;
+; बिम्ब disk (of sun or moon);
+; दर्शयित्वा caus. ind. past part., having caused to see, having shown
+; प्रणाम bowing, obeisance; कारित caused to be done;
 </C>
 <E>
 065.14-16E: The messenger said -- If so, pay your homage to the lord Moon, trembling with anger in the lake, and having (thus) propitiated him, you may go. Then at night the chief of the herd was taken to the pond there shown the tremulous disk of the moon (reflected) in the water and made to bow down.
@@ -21089,7 +21104,10 @@
 <P>
 </P>
 <C>
+; अनेन  3. sg. idam; अपराध transgression, offence;
+; क्षम्यताम् to be pardoned; 
 ; vArAntaram = vAra+antara : occasion-another ~ 'a second time'
+; विधा to do; प्रस्थापित sent away, dismissed
 </C>
 <E>
 065.17-18E: The messenger said -- Lord, he committed the fault through ignorance; he should, therefore, be forgiven. He will not do so a second time. With these words he was sent away. 
@@ -21108,6 +21126,10 @@
 <P>
 </P>
 <C>
+॑; स्यात् इति  end of कथा ३ 
+; व्यपदेश strategem; स एव he alone; प्रभु master, lord;
+; sandhi:  प्रभुः राज  ->  प्रभू राज ?
+; प्रताप power; अतिसमर्थ very powerful, competent ;
 </C>
 <E>
 065.19-20E: Hence I say -- When the king is very powerful, success can be obtained etc. Then I said -- That royal swan, our master, alone is mighty in valour and is exceedingly powerful.
@@ -21128,7 +21150,14 @@
 <P>
 </P>
 <C>
+; त्रैलोक्य the 3 lokas ; प्रभुत्व lordship;
+; युज् (passive) to be fit or proper;
 ; punA a sandhi of 'punar rAjyam'
+; दुष्ट villain; भूमि territory, earth; अभिधा to set forth, tell, say;
+; चित्रवर्ण variegated color (मयूराणाम् राजा); समीप n. vicinity;
+; नीत led
+; त्रिलोक  nether world, above world and the world;
+; त्रिवर्ग धर्म अव्र्थ काम
 </C>
 <E>
 065.22-23E: Even the sovereignty of the three worlds would become him, what of a kingdom then! Thereupon the birds, saying -- "Villain, what business have you to tread on our ground?" took me to king Chitravarna.
@@ -21138,7 +21167,7 @@
 <group ident="065,24,25" type="prose">
 <F>
 065.24F: ततो राज्ञः पुरो मां प्रदर्श्य तैः प्रणम्योक्तम् -- देव अवधीयताम् ।
-065.25F: एष दुष्टो यदस्मद्देशे चरन्नपि देवपादान् अधिक्षिपति ।
+065.25F: एष दुष्टो यदस्मद्देशे चरन्नपि देवपादानधिक्षिपति ।
 </F>
 <A>
 065.24A: ततः राज्ञः पुरस् माम् प्रदर्श्य तैः प्रणम्य उक्तम् -- देव अवधीयताम् ।
@@ -21148,6 +21177,10 @@
 065.24P: अवधीयताम् -- सावधानं श्रूयताम् ।
 </P>
 <C>
+; पुरस् in front, in the presence of; दृश् caus. to show; प्रणम्य bowed
+; अवधा अवधीयताम् to be applied [KALE please note] let it be placed down
+; दुष्ट villain; देश territory, country; देवपाद 'His majesty';
+; अधिक्षिप् to throw upon, to insult. 
 </C>
 <E>
 065.24-25E: Then having presented me before the king they said after bowing -- Sire, please note -- this wicked crane, although travelling in our country, speaks contemptuously of your Majesty's feet.
@@ -21158,7 +21191,7 @@
 <F>
 065.26F: राजाह -- कोऽयम् । कुतः समायातः ।
 065.27F: ते ऊचुः --
-065.28F: हिरण्यगर्भनाम्नो राजहंसस्यानुचरः कर्पूरद्वीपाद् आगतः ।
+065.28F: हिरण्यगर्भनाम्नो राजहंसस्यानुचरः कर्पूरद्वीपादागतः ।
 </F>
 <A>
 065.26A: राजा आह -- कः अयम् । कुतः समायातः ।
@@ -21168,6 +21201,8 @@
 <P>
 </P>
 <C>
+; हिरण्यबर्भ a name of भ्रह्मा,'golden fetus'.  (ref 062.02)
+; राजहंस royal swan; अनुचर servant
 </C>
 <E>
 065.26-28E: The king demanded who I was and where, I came from. They replied -- He is an attendant of the royal swan, Hiranyagarbha by name, and has come here from Karpuradvipa.
@@ -21189,7 +21224,12 @@
 065.30P: सर्वशास्त्रार्थपारगः सर्वेषां शास्त्राणां अर्थस्य विषयस्य पारगः पारदृश्वा निखिलागमज्ञानसंपन्न इत्यर्थः ।
 </P>
 <C>
-; cakravAka - a water bird
+; गृध्र vulture; मन्त्रिन् counselor; पृष्ट asked; मुख्य being at the head, first;
+; सर्वशास्त्र knowing every science, अर्थ meaning, wealth;
+; पारग going to opp. shore, knowing thoroughly; सर्वज्ञ all-knowing; 
+; cakravAka - a water bird वाक speaking, chattering;
+; युज्यते to be joined, to be fit or proper;
+; स्वदेशज born in one's own country, a countryman.
 </C>
 <E>
 065.29-31E: Thereafter, the minister, a vulture, asked me -- Who is the prime minister there? I replied -- A Chakravaka, named Sarvajna(all-knowing), who is an adept in the principles of all the Sastras (sciences). The vulture remarked--This is proper. He is a native of the same country.
@@ -21206,11 +21246,17 @@
 065.33A: मन्त्रज्ञम् अव्यसनिनम् व्यभिचारविवर्जितम् ॥ ३,१६॥
 </A>
 <P>
-065.32P: कुलाचारम् -- कुलं च आचारश्च अस्यास्तीति तं कुलीनं साध्वाचरणं च । ऽधर्मोपधाभिर्विप्रांश्च सर्वाभिः सचिवान्पुनः [शोधयेत्]ऽ इति कालिकापुराणम् ।
-065.32P: उपधाशुचिम् -- उपधया परीक्षया शुचिं सिद्धगुणम् , उपधा राज्ञा धर्मार्थकामभयैः अमात्यादेः परीक्षणम् । ऽउपधा धर्माद्यैर्यत्परीक्षणम्ऽ इत्यमरः ।
+065.32P: कुलाचारम् -- कुलं च आचारश्च अस्यास्तीति तं कुलीनं साध्वाचरणं च । "धर्मोपधाभिर्विप्रांश्च सर्वाभिः सचिवान्पुनः [शोधयेत्]" इति कालिकापुराणम् ।
+065.32P: उपधाशुचिम् -- उपधया परीक्षया शुचिं सिद्धगुणम् , उपधा राज्ञा धर्मार्थकामभयैः अमात्यादेः परीक्षणम् । "उपधा धर्माद्यैर्यत्परीक्षणम्" इत्यमरः ।
 065.33P: व्यभिचारविवर्जितम् -- व्यभिचारः सन्मार्गाद् भ्रंशनं तद्रहितं सन्मार्गस्थितम् ।
 </P>
 <C>
+; स्वदेशज countryman
+; कुलाचार the proper duty of a family; विशुद्ध completely purified;
+; उपधाशुचि tested for purity (शुचि shining, pure) [KALE one of tried honesty]
+; मन्त्रज्ञ experienced in counsel; अव्यसनिन् free from evil practices;
+; व्यभिचार following improper courses
+; विवर्जित free from, without वृज् caus. to remove;
 </C>
 <E>
 065.32-33E: A king should fittingly appoint, as his minister, one who is born in the same country, who is nobly bred (lit. observes the family practices, or who is nobly born and of virtuous conduct; see com.), who is pure and of tried honesty, who is a sound counsellor, who is not addicted to vices and does not swerve from the right path,
@@ -21232,6 +21278,11 @@
 065.34P: विपश्चितम् -- दोषज्ञम् ।
 </P>
 <C>
+; अधीत learned, व्यवहाराङ्ग the body of civil and criminal law;
+; मौल an hereditary minister ; ख्यात well known; विपश्चित inspired, wise
+; अर्थ wealth; उत्पादक bringing forth, producing
+; सम्यक् in one direction, completely;
+; दध्यात् opt. 3s धा , विधा to distribute, appoint;
 </C>
 <E>
 065.34-35E:  who has mastered the law relating to disputes, who is hereditary, reputed, learned and an expert in raising revenue.
@@ -21252,9 +21303,13 @@
 <P>
 </P>
 <C>
+; अत्र here; अन्तरे with regard to, अत्रान्तरे [KALE just then];
+शुक्र parrot; लघु small, द्वीप island [KALE country]
+; अन्तर्गत gone into, included in; देवपाद the royal presence;
+; आधिपत्य supremacy (cf. अधिपति a lord or master); 
 </C>
 <E>
-065.36-38E: Just then a parrot observed--Please Your Highness, Karpuradvipa and other small countries are inciuded in Jambudvipa and therefore the authority of Your Highness extends over them also. To this the king replied that it was so. For,
+065.36-38E: Just then a parrot observed--Please Your Highness, Karpuradvipa and other small countries are included in Jambudvipa and therefore the authority of Your Highness extends over them also. To this the king replied that it was so. For,
 </E>
 </group>
 
@@ -21271,6 +21326,12 @@
 065.40P: अप्राप्यमपि वाञ्छन्ति यत्पुनः लभ्यं लब्धुं शक्यं तद्वाञ्छतीति किं वक्तव्यं तस्य का कथेत्यर्थः । ऽलभ्यतेपि यत् इति पाठे यत् लभ्यते तद् वाच्छन्ति इति पूर्वद्योजनीयम् ।
 </P>
 <C>
+; मत्त excited with joy, a madman; शिशु child, boy under 8;
+; प्रमदा a young woman; धनगर्वित proud of wealth (गर्व् to be proud);
+; अप्राप्य unobtainable; वाञ्छ् to desire, strive after;
+; लभ्य obtainable; किम् पुनर् how much more (or less)?
+; अध्याहार supplication of the word missing in the context
+;  (e.g. वाञ्छन्ति in the 4th pada.)
 </C>
 <E>
 065.39-40E: A king, a mad man, a child, a young woman, and one elated with the pride of wealth, desire what is unattainable; how much more so then what can be certainly obtained?
@@ -21279,7 +21340,7 @@
 
 <group ident="066,01,02" type="prose">
 <F>
-066.01F: ततो मयोक्तम् -- यदि वचनम्मात्रेणैवाधिपत्यं सिद्ध्यति ।
+066.01F: ततो मयोक्तम् -- यदि वचनमात्रेणैवाधिपत्यं सिद्ध्यति ।
 066.02F: तदा जम्बुद्वीपेऽप्यस्मत्प्रभोर्हिरण्यगर्भस्य स्वाम्यमस्ति ।
 </F>
 <A>
@@ -21289,6 +21350,10 @@
 <P>
 </P>
 <C>
+; वचन speaking, speech; मात्र the measure of, ifc. only;
+; आधिपत्य n. supremacy (cf. अधिपति a lord or master); सिध् to be accomplished
+; प्रभु king, master;
+; स्वाम्य n. mastership, dominion; 
 </C>
 <E>
 066.01-02E: To this I said -- If by mere words one's sovereignty  can be established, our lord Hiranyagarbha too has mastery over Jambudvipa.
@@ -21309,7 +21374,9 @@
 <P>
 </P>
 <C>
-; saMgrAme eva OR saMgrAmaH eva ->? (sandhi) saMgrAma eva  -- need a sandhi checker.
+; शुक parrot; निर्णय removing, inference, conclusion;
+; संग्राम war; सज्जीकृ to equip, prepare;
+; विहस्य discussed in books on literary criticism. अलंकार, साहित्य 
 </C>
 <E>
 066.03-05E: The parrot said -- How can this matter be decided? I replied -- By war. The king said smilingly -- Go and ask your king to be ready.
@@ -21327,7 +21394,9 @@
 </A>
 <P>
 </P>
-<C>
+<C> स्व one's own; दूत messenger; प्रस्था caus. to send;
+; दौत्य state of a messenger; यातु ipv. 3sg. या to go, प्रया to go forth;
+; एवम्भूत of such a quality; 
 </C>
 <E>
 066.06-07E: Then I said -- You should send your ambassador also. The king asked -- Who will go as an ambassador? For a person of this description should be appointed an ambassador.
@@ -21336,7 +21405,7 @@
 
 <group ident="066,08,09" type="shloka 3,19">
 <F>
-066.08F: भक्तो गुणी शुचिर्दक्षः प्रगल्भोऽव्यसनी ।
+066.08F: भक्तो गुणी शुचिर्दक्षः प्रगल्भोऽव्यसनी क्षमी ।
 066.09F: ब्राह्मणः परमर्मज्ञो दूतः स्यात्प्रतिभानवान् ॥ ३,१९॥
 </F>
 <A>
@@ -21350,6 +21419,13 @@
 066.09P: प्रतिभानवान् -- प्रत्युत्पन्नमतिः । ऽप्रज्ञा नवनवोन्मेषशालिनी प्रतिभा मताऽ इत्युक्तप्रज्ञावान् ।
 </P>
 <C>
+; भक्त loyal; गुणिन् endowed with good qualities; 
+; शुचि pure; दक्ष able, industrious;
+; प्रगल्भ bold, confident; अव्यसनिन् free from evil practices (without vices);
+; क्षमिन् patient
+; ब्राह्मण man belonging to the 1st of the 3 twice-born classes;
+; पर enemy, मर्मन् mortal spot; दूत messenger
+; प्रतिभानवत् quick-witted; भा to shine, प्रतिभा to shine upon, seem to, appear
 </C>
 <E>
 066.08-09E: A messenger should be devoted to his master, pure (or, honest), diligent, bold, unaddicted to vices, forgiving, a Brahmana, one knowing the weak points (or, secrets of the enemy) and ready-witted.
@@ -21368,6 +21444,8 @@
 <P>
 </P>
 <C>
+; गृध्र vulture; दूत messenger; बहु many; ब्राह्मण 
+; ब्राह्मण man belonging to the 1st of the 3 twice-born classes;
 </C>
 <E>
 066.10-11E: The vulture observed -- Many are fit to be ambassadors, no doubt; but a Brahmana alone should be preferred. For,
@@ -21384,9 +21462,15 @@
 066.13A: कालिमा कालकूटस्य न अपैति ईश्वरसङ्गमात् ॥ ३,२०॥
 </A>
 <P>
-066.13P: कालिमेति -- यथा कालकूटस्य कालिमा ईश्वरसङ्गमादपि न नश्यति तथा शत्रुनृपतिसङ्गमादपि ब्राह्मणस्य धनादावनभिलाषो नापयति ।
+066.13P: कालिमेति -- यथा कालकूटस्य कालिमा ईश्वरसङ्गमादपि न नश्यति तथा शत्रुनृपतिसङ्गमादपि ब्राह्मणस्य धनादावनभिलाषो नापयाति ।
+; दावन् ifc. giving, आदा receiving; धन-आदावन्-अभिलाष desire for receiving money;
 </P>
 <C>
+; प्रसाद graciousness; पत्युः 5/6 sg. पति (also पतेः 5/6 sg.)
+; सम्पत्ति prosperity; अभिवाञ्छ् to long for, desire;
+; कालिमन् blackness; कालकूट a particular poison causing Siva blue throat.
+; अपे अप + इ to go away, vanish;  एति 3 sg.; संगम contact;
+; ईश्वर 
 </C>
 <E>
 066.12-13E: He pleases his master and does not aim at his wealth: the blackness of Kalakuta (a kind of deadly poison) does not vanish even by its contact with Isvara (Siva).
@@ -21405,6 +21489,7 @@
 <P>
 </P>
 <C>
+; शुक parrot; व्रज् to go; अभिलषित desire, wish; 
 </C>
 <E>
 066.14-15E: The king - Let the parrot go then. Parrot, you yourself then go with him and declare our will.
@@ -21423,6 +21508,7 @@
 <P>
 </P>
 <C>
+; आज्ञापयति caus. आज्ञा to order; दुर्जन villain; 
 </C>
 <E>
 066.16-17E: The Parrot said -- As Your Majesty commands. But this crane is a villain; I will not go with him. For, it is said --
@@ -21432,7 +21518,7 @@
 <group ident="066,18,19" type="shloka 3,21">
 <F>
 066.18F: खलः करोति दुर्वृत्तं नूनं फलति साधुषु ।
-066.19F: दशाननो हरेत्सीतां बन्धनं स्यान् महोदधेः ॥ ३,२१॥
+066.19F: दशाननो हरेत्सीतां बन्धनं स्यान्महोदधेः ॥ ३,२१॥
 </F>
 <A>
 066.18A: खलः करोति दुर्वृत्तम् नूनम् फलति साधुषु ।
@@ -21442,6 +21528,10 @@
 066.18P: फलति -- तस्य दुष्परिणामः साधून्भाधते इत्यर्थः ।
 </P>
 <C>
+; खल mischievous man (KALE wicked); वृत्त act, conduct
+; नूनम् ind. now, at once; फल् to bear fruit; साधु a virtuous man;
+; दशानन = दशकण्ठ 10-necked, रावण; बन्धन binding, bridging over (HIT.);
+; महोदधि great ocean; 
 </C>
 <E>
 066.18-19E: A wicked man commits an evil deed, while its consequences are sure to be suffered by the good. Ravana carried away Sita, while the great ocean suffered confinement (had a bridge built over it).
@@ -21451,7 +21541,7 @@
 <group ident="066,20,21" type="shloka 3,22">
 <F>
 066.20F: अपरं च । न स्थातव्यं न गन्तव्यं दुर्जनेन समं क्वचित् ।
-066.21F: काकसङ्गाद्धतो हंसस्तिष्ठन्गछंश्च वर्तकः ॥ ३,२२॥
+066.21F: काकसङ्गाद्धतो हंसस्तिष्ठन्गच्छंश्च वर्तकः ॥ ३,२२॥
 </F>
 <A>
 066.20A: अपरम् च । न स्थातव्यम् न गन्तव्यम् दुर्जनेन समम् क्वचित् ।
@@ -21462,6 +21552,8 @@
 066.21P: वर्तक -- पक्षिविशेषः ।
 </P>
 <C>
+; समम् alike, equally; क्वचिद् anywhere; सङ्गाद्धतो = सङ्गात् हतः 
+; वर्तक a quail (kind of bird)
 </C>
 <E>
 066.20-21E: Moreover, One should not, in any case, live with a wicked man: from their contact with a crow were killed a goose who lived with him and a quail for going on a journey with him.
@@ -21503,6 +21595,11 @@
 066.25P: प्रान्तरे -- ऽप्रान्तरं दूरशून्योऽध्वाऽ इत्यमरः ।
 </P>
 <C>
+; उज्जयिनी n. of city; वर्त्मन् road; प्रान्तर forest (long dreary road);
+; पिप्पली fig (tree); ग्रीष्म the summer, समय season;
+; परिश्रान्त thoroughly fatigued; पथिक a traveller;
+; धनुस् bow काण्ड arrow (bamboo joint); सन्निधा put down near together;
+; सुप्त slept
 </C>
 <E>
 066.25-27E: There is a large fig-tree in a forest bordering on the road leading to Ujjayini, upon which lived a goose and a crow. One day in the sultry season, a traveller, being fatigued, slept under the treo, having placed a bow and arrow by his side.
@@ -21527,6 +21624,12 @@
 066.31P: मुखव्यादानम् -- वदनविस्तारः ।
 </P>
 <C>
+; क्षणान्तरे after a little while; मुख n. face; छाया shade;
+; अपगत gone away; सूर्य sun, तेजस् top of a flame;
+; व्याप्त spread through; अवलोक्य ind. having looked at;
+; पक्ष a wing; प्रसार्य put forth; निर्भर "without weight", sound (sleep);
+; निद्रा sleep; सुखिन् happy, comfortable; अध्वन्य = अध्वनीन traveller;
+; व्यादान n. opening wide; 
 </C>
 <E>
 066.28-31E: After a short while the shadow of the tree moved away from his face. Then, seeing that his face was covered with the sun, a swan, that lived on the tree, through mercy, spread his wings and shaded his face again. Thereafter the traveller, happy in the enjoyment of sound sleep, yawned.
@@ -21536,7 +21639,7 @@
 <group ident="066,32,34" type="prose">
 <F>
 066.32F: अथ परसुखमसहिष्णुः स्वभावदौर्जन्येन स काकस्तस्य मुखे
-066.33F: पुरीषोत्सर्गं कृत्वा पलायितः । ततो यावद् असौ पान्थ उत्थायोर्ध्वं
+066.33F: पुरीषोत्सर्गं कृत्वा पलायितः । ततो यावदसौ पान्थ उत्थायोर्ध्वं
 066.34F: निरीक्षते तावत्तेनावलोकितो हंसः काण्डेन हत्वा व्यापादितः । 
 </F>
 <A>
@@ -21548,6 +21651,12 @@
 066.34P: काण्डेन -- बाणेन ।
 </P>
 <C>
+; परसुख happiness of others; असहिष्णु unable to endure, impatient;
+; स्वभाव innate disposition, natural state; दौर्जन्य wickedness;
+॑; पुरीष excrement; उत्सर्ग emission; पलायित fled; पान्थ traveller;
+; उत्थाय having stood up; ऊर्ध्वम् upwards;  निरीक्ष् to look at, behold;
+; अवलोकित seen; काण्ड arrow (bamboo joint); हत्वा हन् to strike;
+; व्यापादित killed;
 </C>
 <E>
 066.32-34E: Now the crow, unable to bear the happiness of others, through the wickedness natural to his species, muted into his mouth and flew away. Thereupon, as soon as the traveller rose and looked up, he saw the goose whom he killed with an arrow.
@@ -21556,10 +21665,10 @@
 
 <group ident="066,35,35" type="prose">
 <F>
-066.35F: अतोऽहं ब्रवीमि -- दुर्जनेन सम न स्थातव्यमिति ।
+066.35F: अतोऽहं ब्रवीमि -- दुर्जनेन समं न स्थातव्यमिति ।
 </F>
 <A>
-066.35A: अतः अहम् ब्रवीमि -- दुर्जनेन सम न स्थातव्यम् इति । 
+066.35A: अतः अहम् ब्रवीमि -- दुर्जनेन समं न स्थातव्यम् इति । 
 </A>
 <P>
 </P>
@@ -21583,6 +21692,7 @@
 <P>
 </P>
 <C>
+; वर्तक quail
 </C>
 <E>
 067.01-02E: I will also relate the story of the quail. FABLE V.
@@ -21601,6 +21711,14 @@
 <P>
 </P>
 <C>
+; पक्षिन् bird
+; गरुड N. of a mythical bird; यात्रा going (on a pilgrimage);
+; प्रसङ्ग adherence, attachment
+; गरुडस्य in 6th case here meaning 'in relation to' सम्बन्धिनी
+; गरुडस्य सम्बन्धिनी यात्रा a pilgrimage in relation to garuda.
+; यात्राप्रसङ्ग engaging in a pilgrimage;
+; भगवत् glorious ; समुद्र the sea, ocean; तीर bank, shore;
+; प्रचलित set out
 </C>
 <E>
 065.03-04E: Once upon a time all the birds went to the sea-side, on a pilgrimage in honour of Garuda (the divine Eagle).
@@ -21619,6 +21737,9 @@
 <P>
 </P>
 <C>
+; वर्तक quail; चलित walked; गच्छत् going; गोपाल cow herder;
+; मस्तक the head; भाण्ड a pot; दधि coagulated milk (yogurt?);
+; वारंवारम् many times; खाद् to chew, bite, eat; 
 </C>
 <E>
 067.05-06E: Among them a quail travelled with a crow. Now the crow repeatedly ate of the curds in a pot which a cowherd was carrying on his head.
@@ -21640,6 +21761,9 @@
 067.08P: खेदितः -- तर्जितः ।
 </P>
 <C>
+; ऊर्ध्वम् upward; अवलोक् to see; खेदित disturbed, annoyed
+; पलायित flown, fled;
+; मन्दगति moving slowly; प्राप्त obtained; व्यापादित killed;
 </C>
 <E>
 067.07-09E: Thereupon, as he placed his pot on the ground and looked up, the cowherd saw the crow and the quail. The crow being affrighted by him flew away, while the quail being slow of flight was caught and put to death.
@@ -21660,6 +21784,9 @@
 <P>
 </P>
 <C>
+; मां प्रति according to me (WIL प्रति with respect to; in relation to me);
+श्रीमत् pleasing
+; 
 </C>
 <E>
 067.10-12E: Hence I say -- One should neither live nor go with etc. I then observed -- Brother parrot, why do you talk so? I esteem you as much as I do His Majesty. The parrot replied -- Be it so; but --
@@ -21678,9 +21805,14 @@
 <P>
 067.13P: प्रियाणि श्रुतिसुखानि ।
 067.14P: अकालकुसुमानि -- कालोत्पन्नानि कुसु ।
-067.14P: शङ्का भयम् । ऽशङ्का भयवितर्कयोःऽ इति यादवः ।
+067.14P: शङ्का भयम् । "शङ्का भयवितर्कयोः" इति यादवः ।
 </P>
 <C>
+; उच्यमान being spoken (speaking, discussion); सस्मित with smile
+; प्रिय n. love, kindness;
+; जन् to generate, produce;
+; अकाल  unseasonable, कुसुम flower;
+; वितर्क conjecture;
 </C>
 <E>
 067.13-14E: Even sweet things accompained with smiles, said by the wicked, certainly cause fear, like flowers appearing out of season.
@@ -21699,6 +21831,9 @@
 <P>
 </P>
 <C>
+; दुर्जनत्व wickedness; वाक्य speech; भवतः of your (honored) self;
+; ज्ञात known; अनयोः of these two; भूपाल earth-gardian, a king;
+; विग्रह war; वचन speech; निदान a primary cause; 
 </C>
 <E>
 067.15-16E: As for your wickedness, that was known from your very speech, since your words are the cause of the fight between these two kings. See --
@@ -21718,6 +21853,9 @@
 067.17P: सान्त्वेन मधुरभाषणेन । ऽअत्यर्थं मधुरं सान्त्वम्ऽ इत्यमरः ।
 </P>
 <C>
+; प्रत्यक्ष present before the eyes; दोष fault, badness; सान्त्व gentle;
+; तुष् to be pleased; रथकार carriage maker; निज = स्व  one's own;
+; भार्या wife; सजार accompanied by a lover; शिरस् head; कृ to put;
 </C>
 <E>
 067.17-18E: A fool is pleased by conciliatory words, even though an offence be committed before his eyes: (as was) a wheel-wright (who) took on his head his wife with her paramour.
@@ -21759,6 +21897,10 @@
 067.23P: बन्धकीं कुलटाम् ।
 </P>
 <C>
+; यौवनश्री the beauty of youthfulness;
+; मन्दमति slow-witted; रथकार carriage maker;
+; बन्धकी an unchaste woman; जानाति ज्ञा he knows; जार paramour;
+; स्वचक्षुस् one's own eye; समम् ind. together with; एकस्थान one place
 </C>
 <E>
 067.22-24E: There was a wheel-wright in the town of Yauvanasri named Mandamati (Dull-wit). He knew his wife was false, but had never seen her, with his own eyes, with her lover in the same place.
@@ -21777,6 +21919,9 @@
 <P>
 </P>
 <C>
+; रथकार carriage maker; चलित departed, gone
+; कियत् how large, some; दूर distance; निभृत placed down; निभृतम् secretly;
+; खट्वा a cot; तल the part underneath; स्थित situated;
 </C>
 <E>
 067.25-26E: Then the wheel-wright saying that he was going to a village set out, but after having gone some way he returned secretly and hid himself in his house under the cot.
@@ -21795,7 +21940,11 @@
 <P>
 </P>
 <C>
-; viSvAsayA.  Looks like 3s f of 'viSvAsA', but viSvAsa is m. ?
+; रथकार carriage maker; ग्राम town ; अन्तर ifc. another;
+; उप्जात produced; 
+; viSvAsayA.  Looks like 3s f of 'viSvAsA', but viSvAsa is m. ? confident
+; वध्वा वधू wife (from वह् carry); संध्या evening (or morning); काल time;
+; आहूत called, invited;
 </C>
 <E>
 067.27-28E: Now the wife of the wheel-wright, confident that he had gone to another village, called her lover just in the evening.
@@ -21805,7 +21954,7 @@
 <group ident="067,29,30" type="prose">
 <F>
 067.29F: पश्चात्तेन समं तस्यां खट्वायां निर्भरं क्रीडन्ती 
-067.30F: खट्वातलस्थितेन सहानुभूतकिंचिद् अङ्गसंस्पर्शात्स्वामिनं विज्ञाय सा विषण्णाभवत् ।
+067.30F: खट्वातलस्थितेन सहानुभूतकिंचिदङ्गसंस्पर्शात्स्वामिनं विज्ञाय सा विषण्णाभवत् ।
 </F>
 <A>
 067.29A: पश्चात् तेन समम् तस्याम् खट्वायाम् निर्भरम् क्रीडन्ती 
@@ -21814,7 +21963,12 @@
 <P>
 067.30P: विषण्णा खिन्ना ।
 </P>
-<C>
+<C> पश्चात् afterwards; खट्वा cot; निर्भरम् excessively;
+; क्रीड् to play, frolic; अनुभू to enclose, embrace, to notice;
+; अनुभूत perceived, as a consequence, noticed; (question on this?)
+; 
+; अङ्ग body; संस्पर्श touch, contact; स्वामिन् lord, husband; विज्ञा recognize;
+; विषण्ण dejected;
 </C>
 <E>
 067.29-30E:  Thereafter, as she was sporting heartily with him on the cot, she got a slight touch of his (the wheel-wright's) body as he lay under the cot, and feeling sure that it was her husband, became disconcerted.
@@ -21834,6 +21988,8 @@
 067.32P: विस्मिता पर्याकुला ।
 </P>
 <C>
+; रमसे रम् to play or sport; अद्य today; विस्मित amazed, perplexed;
+; प्रतिभा to shine forth, to appear, seem; 
 </C>
 <E>
 067.31-32E: Thereupon the gallant asked her - Why don't you sport with me lustily to-day but appear to be bewildered?
@@ -21856,7 +22012,11 @@
 <P>
 </P>
 <C>
-; mamAkOmAram mama + A? + kOmAram  
+; अनभिज्ञ ignorant; प्राणेश्वर lord of life, husband;
+; कौमार youthful, n. childhood; आ + कौमार up to childhood (5 yr. boys)
+; सख्य n. friendship; ग्रामान्तर another village;
+; सकल complete; पूर्ण filled; प्रत्यरण्य near a forest
+; प्रतिभा to shine near, to seem; 
 </C>
 <E>
 067.33-36E: To this she replied -- You are quite ignorant of the truth. He who is the lord of my life, and with whom I have been in friendship from childhood has gone to a village. Without him, this village, although full of people, is to me as a desert.
@@ -21875,7 +22035,11 @@
 <P>
 </P>
 <C>
-; BAvi - inj-p 3s BU ? 
+; [BAvi - inj-p 3s BU ?] भाविन् n. being
+; परस्थान foreign place; खादितवान् खादितवत् perf. part. ACTIVE, he ate;
+; प्रसुप्त sleeping; हृदय heart; विदीर्यते दॄ विदॄ to tear asunder;
+; स्नेहभूमि object of affection; एवंविध of such a kind;
+; रथकार carriage-maker;
 </C>
 <E>
 067.37-38E: How has he fared in that strange place? What has he eaten ? How has he managed for his bedding ?- with such thoughts is my mind distracted. What then, asked the gallant, is that wheel-wright such an object of love to you?
@@ -21892,6 +22056,7 @@
 <P>
 </P>
 <C>
+; बन्धकी unchaste woman; बर्बर non-Aryans, barbarians, blockhead;
 </C>
 <E>
 067.39-39E: The whore replied -- You blockhead, why do you chatter thus? Listen --
@@ -21913,6 +22078,9 @@
 067.41P: धर्मभाजनं पुण्यपात्रम् । सा उत्तमां गतिं लभते इति भावः ।
 </P>
 <C>
+; परुष adj. hard, n. harsh, abusive language; उक्त told;
+; क्रुद्ध angry, चक्षुस् the eye; प्रसन्न pure, clear; भाजन receptacle;
+; धर्म religious merit;
 </C>
 <E>
 067.40-41E: She, who, although addressed in harsh words or looked at with angry eyes, receives her husband with a cheerful countenance, is the abode of religious merit.
@@ -21932,6 +22100,8 @@
 068.02P: महोदयाः महान् उदयः सुखसंअत् येष्य् ते स्वर्गादयः ।
 </P>
 <C>
+; -स्थ ifc. situated in; पाप evil; शुचि pure;
+; महोदय उदय prosperity, good fortune; 
 </C>
 <E>
 068.01-02E: The worlds of great bliss are (in reserve) for those women who love their husband, whether living in a city or a wilderness, whether reprobate or virtuous.
@@ -21950,6 +22120,10 @@
 <P>
 </P>
 <C>
+; परम primary, best; नारी woman, wife; भूष्ण ornament;
+; विरहित abandoned, separated from; रहित separated from (+ case 3);
+; शुभ् to beautify, adorn; शोभन beautiful, richly decorated
+; शोभना a beautiful woman; 
 </C>
 <E>
 068.03-04E: Again, The husband is the most precious ornament of a woman althogh without (other) ornaments: for without him, she, even though decorated, is without grace.
@@ -21970,6 +22144,9 @@
 068.06P: पुष्पताम्बूलसदृशः -- पुष्पमालाताम्बूलादीनि अनावश्यकानि तुच्छानि च विलासवस्तूनीव ।
 </P>
 <C>
+; जार  paramour (illicit lover); मनस् mind लौल्य restlessness; लुल्
+; लोल shaking, restless; पुष्प flower; ताम्बूल betel leaf;
+; सेव् to resort to, to enjoy
 </C>
 <E>
 068.05-06E: You are a paramour. Through levity of heart, I sometimes consort with you, as I would chew a roll of betel-nut leaves or put on flowers.
@@ -21979,7 +22156,7 @@
 <group ident="068,07,09" type="prose">
 <F>
 068.07F: स च स्वामी मां विक्रेतुं देवेभ्यो
-068.08F: ब्राह्मणेभ्योऽपि वा दातुमीश्वरः । किं बहुना । तस्मिज्जीवति जीवामि ।
+068.08F: ब्राह्मणेभ्योऽपि वा दातुमीश्वरः । किं बहुना । तस्मिञ्जीवति जीवामि ।
 068.09F: तन्मरणे चानुमरणं करिष्यामीत्येष मे निश्चयः । यतः ।
 </F>
 <A>
@@ -21990,7 +22167,13 @@
 <P>
 </P>
 <C>
-; ISvara able to + infinitive
+; विक्री विक्रेतुम् to sell;
+; ईश्वर  able to + infinitive; किम् बहुना in short
+; जीवत् living, pr. part. जीव् ; मरण dying, death;
+; तस्मिन् + जीवति ->  तस्मिज्जीवति  ?
+; अनुमरण following in death; निश्चय resolution
+; [ चि निश्चि  MW error (नोति  hom 1 2) senses ?]
+; ? इत्येष मे = इति एष मे = इति एषः मे ? 
 </C>
 <E>
 068.07-09E: But he is my master, having power to sell me, or to give me away to the gods or the Brahmanas. In short, I live while he lives, and will die with him when he dies. This is my resolve. For,
@@ -22010,6 +22193,11 @@
 068.11P: अनुगच्छति -- भर्तृमरणे अनुस्रियते ।
 </P>
 <C>
+; कोट्यः f. 1. pl. कोटी [KALE "crore" a large number]
+; यानि n. 1/2 pl. यद् pron. which are
+; लोम hair on body; मानव a human being, man; तावत् so much
+; काल death, time of death;
+; वसेत् opt. 3 sg. वस् to dwell; अनुगम् to follow
 </C>
 <E>
 068.10-11E: For years three crores and a half - which is the number of hair on the human body -- does a woman live in heaven, who follows her husband in death
@@ -22031,6 +22219,11 @@
 068.13P: महीयते -- पूज्यते ।
 </P>
 <C>
+; व्याल adj. wicked, m. vicious elephant, snake, etc.
+; व्यालग्राहिन् snake-catcher; बल force, power, बलात् forcibly;
+; हरते to bring out of; बिल hole, cave; तद्वत् ind. like that;
+; आदा to take; स्वर्गलोक celestial world, Indra's heaven.
+; महीय to be highly esteemed; 
 </C>
 <E>
 068.12-13E: Moreover, Just as a snake-catcher forcibly draws a serpent out of its hole, so does she take her husband to heaven and is exalted with him.
@@ -22054,6 +22247,13 @@
 068.14P: चितौ चितायाम् ।
 </P>
 <C>
+; चितौ loc. चिति a funeral pile (pyre); परिष्वज्  to embrace
+; विचेतन absent-minded, dead; पति husband; प्रिया wife;
+; मुच् to leave; देह body; असौ f. she (or he!)
+; संख्य counting up; पाप n. sin
+; सुरलोक world of the gods, heaven
+; आप्नुयात् opt. 3 forms are 'can (permission or able), will, should'
+; गृहीत्वा  taking along
 </C>
 <E>
 067.14-17E: Moreover, The wife, who having clasped her dead husband on the funeral pyre quits her body, will, although she might have committed sins to be counted by hundreds, go to heaven with her husband.
@@ -22076,6 +22276,11 @@
 <P>
 </P>
 <C>
+; रथकार carriage-maker; धन्य fortunate, rich;
+; ईदृश such; प्रियवादिन् speaking agreeably; स्वामिन् husband, वत्सल loving;
+; भार्या wife; मनसि loc. मनस् in the mind; निधा to put into;
+; स्त्री woman, wife; पुरुष man; खट्वा cot; सहित possessed of, having;
+; मूर्धन् head; सानन्दम् joyfully; ननर्त prf. 3s. नृत् to dance; 
 </C>
 <E>
 068.18-21E: Having heard all that, that wheel-wright said to himself -- Blessed am I whose wife is so sweet-speaking and attached to her lord! With these thoughts in his mind, he having taken on his head the cot with the man and woman upon it danced with joy. Hence I say - A fool is pleased etc.
@@ -22085,7 +22290,7 @@
 <group ident="068,22,23" type="prose">
 <F>
 068.22F: ततोऽहं तेन राज्ञा यथाव्यवहारं संपूज्य प्रस्थापितः ।
-068.23F: शुकोऽपि मम पश्चादागच्छन् आस्ते । 
+068.23F: शुकोऽपि मम पश्चादागच्छन्नास्ते । 
 </F>
 <A>
 068.22A: ततः अहम् तेन राज्ञा यथाव्यवहारम् संपूज्य प्रस्थापितः ।
@@ -22095,7 +22300,10 @@
 068.22P: यथाव्यवहारम् -- उचिताचारानुरोधेन ।
 </P>
 <C>
-; yaTA-vyavahAram 
+;॑ व्यवहार doing, propriety, custom
+; सम्पूज् to salute deferentially, to praise;
+; प्रस्थापित sent away, dismissed
+; आस्ते pre 3 sg. As to sit, continue;
 </C>
 <E>
 068.22-23E: I was then treated with the usual formalities by the king and dismissed. The parrot too is coming after me.
@@ -22106,16 +22314,21 @@
 <F>
 068.24F: एतत्सर्वं परिज्ञाय यथाकर्तव्यमनुसंधीयताम् । चक्रवाको
 068.25F: विहस्याह -- देव बकेन तावद्देशान्तरमपि गत्वा यथाशक्ति
-068.26F: राजकार्यमनुष्ठितम् । किंतु देव स्वभाव एष मूर्खानाम् । यतः ।
+068.26F: राजकार्यमनुष्ठितम् । किंतु देव स्वभाव एष मूर्खाणाम् । यतः ।
 </F>
 <A>
 068.24A: एतत् सर्वम् परिज्ञाय यथाकर्तव्यम् अनुसंधीयताम् । चक्रवाकः
 068.25A: विहस्य आह -- देव बकेन तावत् देशान्तरम् अपि गत्वा यथाशक्तिः
-068.26A: राजकार्यम् अनुष्ठितम् । किम् तु देव स्वभावः एषः मूर्खानाम् । यतः ।
+068.26A: राजकार्यम् अनुष्ठितम् । किम् तु देव स्वभावः एषः मूर्खाणाम् । यतः ।
 </A>
 <P>
 </P>
 <C>
+; परिज्ञा to notice, understand; कर्तव्य that which ought to be done;
+; देशान्तर another country;
+; अनुसंधा to plan, arrange, explore; यथाशक्ति according to ability;
+; राजकार्य a king's business; अनुष्ठित accomplished; स्वभाव natural state;
+; मूर्ख a fool; 
 </C>
 <E>
 068.24-26E: All this being considered, let the course to be adopted be well attended to. The Chakravaka observed smilingly -- Please Your Highness, the crane, for one, has advanced Your Highness's interests to the best of his ability. But my lord, this is the nature of fools. For,
@@ -22136,7 +22349,9 @@
 068.27P: विज्ञस्य प्राज्ञस्य , पण्डितस्य ।
 </P>
 <C>
-; dadyAt
+; दद्यात् opt. दा ; वदेत् opt. वद्,  विवद् to quarrel; विज्ञ a sage;
+; सम्मत thinking together, agreed; n. opinion; हेतु m. cause;
+; द्वन्द्व pair, a quarrel;  मूर्ख fool; लक्षण a mark, sign; 
 </C>
 <E>
 067.27-28E: One should give a hundred but not quarrel — this is the opinion of the wise : but a strife without cause is the sign of the foolish.
@@ -22155,6 +22370,9 @@
 <P>
 </P>
 <C>
+; उपालम्भन reproach;  लभ् to take; अतीत gone by, past;
+; प्रस्तुत adj. praised, n. beginning, undertaking; 
+; अनुसंधा to explore, arrange; विजन free from people; विजने in private;
 </C>
 <E>
 068.29-30E: The king remarked -- What is the use of finding fault with the past? Let us attend to the matter in hand. Chakravaka -- My lord, I will speak in private. For,
@@ -22172,11 +22390,19 @@
 </A>
 <P>
 068.31P: वर्णाकार -- वर्णः मुखरागः ।
+; राग color (musical mode); 
 068.31P: आकारः -- इङ्गितम् । ऽआकारस्त्विङ्ग इङ्गितम्ऽ इत्यमरः ।
 068.32P: ऊहन्ति तर्केण जानन्ति ।
 068.32P: विजने -- रहसि
 </P>
 <C>
+; वर्ण color, race;  color of face (see above 068.31P)?
+; आकार appearance, external aspect of body, expression of the face;
+; ध्वान sound, प्रतिध्वान echo; नेत्र the eye (as the guiding organ);
+; वक्त्र organ of speech, the mouth; विकारतस् from change;
+; ऊह् to observe; मनस् mind; धीर intelligent (person), wise;
+; रहस् secrecy; मन्त्रयेत् opt. cl. 10 3 sg. मन्त्र् to deliberate, take counsel;
+
 </C>
 <E>
 068.31-32E: The wise read the thoughts of others from complexion, outward features and the echo of voice, as also from the movements of the eyes and the mouth: one should, therefore, hold a consultation in private.
@@ -22197,6 +22423,10 @@
 <P>
 </P>
 <C>
+; स्थित standing, staying; अन्ये m. pl. nom. अन्य other ones;
+; अन्यत्र elsewhere; जानामि 1 sg. ज्ञा to know;
+; नियोगिन् appointed; m. a functionary, an official
+; प्रेरणा setting in motion, urging; अनुष्ठित done, accomplished;
 </C>
 <E>
 069.01-03E: The king and the minister remained there; the rest withdrew to other places. The Chakravaka spoke -- Sire, my idea is this -- The crane has done this at the instigation of some one of our officers. For,
@@ -22217,7 +22447,11 @@
 069.04P: आतुरः रुग्णः ।
 </P>
 <C>
-; sadvarRa : 'high caste'
+; वैद्य learned, a learned man, a physician; आतुर suffering;
+; व्यसनिन् addicted to a vice, vicious; नियोगिन् appointed, an official
+; श्रेयान् m. sg. nom. श्रेयस् most excellent, fortunate;
+; विदुस् wise; जीवन n. livelihood;
+; सद्वर्ण  [KALE 'high caste']; सत् good person;
 </C>
 <E>
 069.04-05E: A sick man is most welcome to physicians, and such is one who is vicious (or, one in trouble) to the officers of state: the clever prey upon fools, while one of a high caste is the life of the good.
@@ -22227,7 +22461,7 @@
 <group ident="069,06,07" type="prose">
 <F>
 069.06F: राजाब्रवीत् -- भवतु कारणमत्र
-069.07F: पश्चान्निरूपणीयम् । सम्प्रति यत्कर्तव्यं तन् निरूप्यताम् ।
+069.07F: पश्चान्निरूपणीयम् । सम्प्रति यत्कर्तव्यं तन्निरूप्यताम् ।
 </F>
 <A>
 069.06A: राजा अब्रवीत् -- भवतु कारणम् अत्र
@@ -22236,6 +22470,9 @@
 <P>
 </P>
 <C>
+; अब्रवीत् ब्रू speak; भवतु let it be; कारण cause;
+; निरूपणीय to be looked for (निरूप् to perform, investigate);
+; सम्प्रति directly over, now; 
 </C>
 <E>
 069.06-07E: The king remarked -- Be that as it may. The cause may be investigated afterwards. Just now let it be determined what steps we are to take.
@@ -22256,9 +22493,10 @@
 069.09P: अनुष्ठानं व्यवसायम् ।
 </P>
 <C>
+; प्रणिधि spy; तावत् first; अनुष्ठान doing; जानीमः 1 pl. ज्ञा ;
 </C>
 <E>
-069.08-09E: Chakravaka -- My lord, let our spy first go there so that we may know of their doings as well as their strength and weaknees. For,
+069.08-09E: Chakravaka -- My lord, let our spy first go there so that we may know of their doings as well as their strength and weakness. For,
 </E>
 </group>
 
@@ -22275,6 +22513,9 @@
 069.11P: चारः चक्षुः -- अत्र कामन्दकः ऽगावः पश्यन्ति गन्धेन वेदैः पश्यन्ति च द्विजाः । चारैः पश्यन्ति राजानश्चक्षुषुर्भ्यामितरे जनाः ।ऽ इति । रामायणेपि ऽयस्मत्पश्यन्ति दूरस्थाः सर्वानर्थान्नराधिपाः । चारेण तस्मादुच्यते राजानश्चारचक्षुषः ।ऽ इति ।
 </P>
 <C>
+; स्वपर one's self and others; 
+; चार spy; चक्षु eye; महीभर्तृ 'earth-supporter', king; अन्ध blind;
+; राष्ट्र kingdom; कार्य to be done; अवलोकन seeing, observing;
 </C>
 <E>
 069.10-11E: A spy is the eye of a king in the determination of what policy to pursue or what to abandon with regard to his own kingdom or that of his enemies: he who has it not is quite blind.
@@ -22298,6 +22539,11 @@
 069.14P: निश्चित्य -- अवधर्य ।
 </P>
 <C>
+; द्वितीय second; पात्र n. a drinking vessel, receptable; विश्वासपात्र a confidant
+; विश्वास confidence; गृहीत्वा having taken (together with);
+; अवस्था to remain, stay  ; तत्रत्य being there, at that place;
+; मन्त्रकार्य consultation ; निभृत secret; निश्चित्य having decided;
+; निगद्य निगद् to recite, tell; प्रस्था caus. to send out.
 </C>
 <E>
 069.12-14E: Let him, too, take with him a second person worthy of confidence, so that himself staying there he might very secretly ascertain the secret measures adopted by the enemy there, and having communicated the same to him, would send him here. For it is said
@@ -22318,6 +22564,12 @@
 069.16P: संवदेत् मन्त्रयेत् । अत्र कामन्दकः -- ऽचारान्विचारयेत्तीर्थे आत्मनश्च परस्य च । पाषण्डादीनविज्ञातानन्योन्यमितरैरपिऽ इति ।
 </P>
 <C>
+; तीर्थ path, a holy place, आश्रम hermitage
+; सुर a god, स्थान place; सुरस्थान temple
+; शास्त्र religious treatise; विज्ञान act of understanding;
+; हेतु cause, motive; तपस्विन् distressed, m. an ascetic
+; व्यञ्जन adj. manifesting, m. a consonant; n. decoration, allusion
+; उपेत endowed with; चर spy; संवस् to meet [KALE hold discourse]
 </C>
 <E>
 069.15-16E: (A king ) should hold discourse with his spies gathered under the disguise of ascetics at some holy place or a hermitage or a temple with the (outward) object of learning the truths of the sastras.
@@ -22326,15 +22578,15 @@
 
 <group ident="069,17,20" type="prose">
 <F>
-069.17F: गूढचारश्च यो जले स्थले
-069.18F: चरति । ततोऽसावेव बको नियुज्यताम् । एतादृश एव कश्चिद्
-069.19F: बको द्वितीयत्वेन प्रयातु । तद्गृहलोकाश्च राजद्वारे तिष्ठतु । 
+069.17F: गूढचारश्च यो जले स्थले चरति ।
+069.18F: ततोऽसावेव बको नियुज्यताम् । एतादृश एव कश्चिद्
+069.19F: बको द्वितीयत्वेन प्रयातु । तद्गृहलोकश्च राजद्वारे तिष्ठतु । 
 069.20F: किंतु देव एतदपि सुगुप्तमनुष्ठातव्यम् । यतः ।
 </F>
 <A>
-069.17A: गूढचारः च यः जले स्थले
-069.18A: चरति । ततः असौ एव बकः नियुज्यताम् । एतादृश एव कः चिद्
-069.19A: बकः द्वितीयत्वेन प्रयातु । तद्गृहलोकाः च राजद्वारे तिष्ठतु । 
+069.17A: गूढचारः च यः जले स्थले चरति ।
+069.18A: ततः असौ एव बकः नियुज्यताम् । एतादृश एव कः चिद्
+069.19A: बकः द्वितीयत्वेन प्रयातु । तद्गृहलोकः च राजद्वारे तिष्ठतु । 
 069.20A: किम् तु देव एतत् अपि सुगुप्तम् अनुष्ठातव्यम् । यतः ।
 </A>
 <P>
@@ -22343,6 +22595,11 @@
 069.19P: तिष्ठतु प्रतिभूत्वेन वर्तताम् ।
 </P>
 <C>
+; गूढ covered, secret; चार spy; जल water; स्थल dry land; चर् to move;
+; नियुज् to appoint; बक crane (दीर्घमुख); एताद्दृश such, of this kind;
+; द्वितीयत्व the state of being second; प्रया to go forth, set out;
+; गृह home, family, लोक a group [ गृहलोक  KALE members of families]
+; गुप्त protected, secret; अनुष्ठा to accomplish; 
 </C>
 <E>
 069.17-20E: A secret spy is one who can move in water or on land. Let that very crane, therefore be appointed. Let some such other crane go with him as his companion; and let the members of their families stay at the royal gate.  But my lord, all thiş should be done, with the profoundest secrecy. For,
@@ -22363,6 +22620,10 @@
 069.21P: वार्तया प्राप्तः -- बहुजनश्रुतिविषयीभूतः ।
 </P>
 <C>
+; षट्कर्ण six-eared; भिद्यते passive भिद् to break; मन्त्र consultation;
+; प्राप्त attained to, acquired; वार्त्ता livelihood, rumour
+; महिभृत् a king; मन्त्र  consultation; कार्य to be done;
+; इति thus; 
 </C>
 <E>
 069.21-22E: Counsel when reaching six ears (if heard by a third person) leaks out as well as that got by hearsay: wherefore a king should deliberate with himself as the second (i. e. with his minister alone).
@@ -22383,6 +22644,10 @@
 069.24P: समाधातुम् प्रतिकर्तुम् ।
 </P>
 <C>
+; मन्त्र consultation, भेद breaking; दोष fault, badness;
+; पतेः 6s पति, महीपति king; शक्य able, possible
+; समाधा to put together, to repair; नीतिविद् 'policy knowing'
+; मत opinion
 </C>
 <E>
 069.23-24E: Observe. The evils resulting to a king from his counsels getting out are not capable of being remedied -- such is the opinion of those who are versed in politics.
@@ -22401,6 +22666,9 @@
 <P>
 </P>
 <C>
+; विमृश्य having deliberated; विमृश् to touch (mentally), investigate;
+; प्राप्त obtained, got; तावत् now; प्रणिधि spy;
+; मन्त्रिन् counselor (here चक्रवाक); सङ्ग्राम battle, विजय victory
 </C>
 <E>
 069.25-26E: The king after reflecting -- I have got the best emissary. The minister -- Then success in battle too is got.
@@ -22423,6 +22691,13 @@
 069.29P: कृतावासे -- प्रणिध्यर्थं निर्मिते गृहे ।
 </P>
 <C>
+; अत्र here, here at this time अन्तर interval, अन्तरे amidst, with regard to;
+;  अत्रान्तरे [KALE just then]; प्रतीहार (प्रतिहार) that which keeps back; door-keeper.
+; प्रविश्य having entered; प्रणम्य to bow, make obeisance to; आगत arrived;
+; जम्बुद्वीप home of मयूरs; जम्बु rose apple tree;
+; जम्बुद्वीप one of the divisions of terrestrial world; द्वार् door;
+; शुक parrot; चग्रवाक N. of minister of king हिरण्यगर्भ; आलोक् to look at;
+॑; कतावस कृत-आवास, आवास abode, residence; 
 </C>
 <E>
 069.27-29E: Just then the door-keeper, having entered, said after bowing -- Sire, a parrot who has come from Jambudvipa is waiting at the door. The king looked at Chakravaka. Chakravaka said -- let him first go to the residence prepared for him and wait there.
@@ -22441,6 +22716,8 @@
 <P>
 </P>
 <C>
+; पश्चात् afterwords; आनी to lead near, bring; द्रष्ठव्य to be seen, examined
+; प्रतीहार door-keeper; आवासस्थान residence-place; नी to lead; गत departed;
 </C>
 <E>
 070.01-02E: We shall send for him afterwards and grant him an interview. The door-keeper took the parrot to the residence and departed.
@@ -22459,6 +22736,9 @@
 <P>
 </P>
 <C>
+; विग्रह separation, war; तावत् now [KALE as for]; उपस्थित near at hand;
+; चक्रवाक N. of मन्त्रिन् ; तथापि Nevertheless; सहसा suddenly;
+; विधि a means [KALE wise policy].
 </C>
 <E>
 070.03-04E: The king -- As for war it is imminent. Chakravaka -- Still to go to war all at once is no wise policy. For,
@@ -22479,6 +22759,10 @@
 070.06P: अविचारितम् -- अविचार्य । श्लो। ३९-४०। मनु।अ।सप्त।श्लो। १९८-९९ द्रष्टव्यौ ।
 </P>
 <C>
+; सचिव friend; मन्त्रिन्  counselor; अदौ ind. in the beginning;
+; भूतपति 'lord of beings', a king; युध war, उद्योग undertaking;
+; स्वभू one's own country, त्याग leaving; निर्दिश् to point to, to advise;
+; अविचारित not considered;
 </C>
 <E>
 070.05-06E: Is he a servant or a counsellor, who, without due consideration, advises his sovereign at the outset to prepare for war or to quit his land?
