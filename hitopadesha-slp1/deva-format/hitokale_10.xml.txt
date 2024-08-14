@@ -22371,7 +22371,7 @@
 </P>
 <C>
 ; उपालम्भन reproach;  लभ् to take; अतीत gone by, past;
-; प्रस्तुत adj. praised, n. beginning, undertaking; 
+; प्रस्तुत adj. praised, n. beginning, undertaking, the subject under discussion; 
 ; अनुसंधा to explore, arrange; विजन free from people; विजने in private;
 </C>
 <E>
@@ -22470,7 +22470,7 @@
 <P>
 </P>
 <C>
-; अब्रवीत् ब्रू speak; भवतु let it be; कारण cause;
+; अब्रवीत् ब्रू speak; भवतु let it be; कारण n. cause;
 ; निरूपणीय to be looked for (निरूप् to perform, investigate);
 ; सम्प्रति directly over, now; 
 </C>
@@ -22493,7 +22493,7 @@
 069.09P: अनुष्ठानं व्यवसायम् ।
 </P>
 <C>
-; प्रणिधि spy; तावत् first; अनुष्ठान doing; जानीमः 1 pl. ज्ञा ;
+; प्रणिधि spy; तावत् first; अनुष्ठान doing, undertaking; जानीमः 1 pl. ज्ञा ;
 </C>
 <E>
 069.08-09E: Chakravaka -- My lord, let our spy first go there so that we may know of their doings as well as their strength and weakness. For,
@@ -22542,7 +22542,7 @@
 ; द्वितीय second; पात्र n. a drinking vessel, receptable; विश्वासपात्र a confidant
 ; विश्वास confidence; गृहीत्वा having taken (together with);
 ; अवस्था to remain, stay  ; तत्रत्य being there, at that place;
-; मन्त्रकार्य consultation ; निभृत secret; निश्चित्य having decided;
+; मन्त्रकार्य consultation ; निभृत secret; निश्चित्य having asertained, decided;
 ; निगद्य निगद् to recite, tell; प्रस्था caus. to send out.
 </C>
 <E>
@@ -22553,7 +22553,7 @@
 <group ident="069,15,16" type="shloka 3,5">
 <F>
 069.15F: तीर्थाश्रमसुरस्थाने शास्त्रविज्ञानहेतुना ।
-069.16F: तपस्विव्यञ्जनोपेतैः स्वचरैः सह संवसेत् ॥ ३,५॥
+069.16F: तपस्विव्यञ्जनोपेतैः स्वचरैः सह संवसेत् ॥ ३,३५॥
 </F>
 <A>
 069.15A: तीर्थाश्रमसुरस्थाने शास्त्रविज्ञानहेतुना ।
@@ -22568,7 +22568,7 @@
 ; सुर a god, स्थान place; सुरस्थान temple
 ; शास्त्र religious treatise; विज्ञान act of understanding;
 ; हेतु cause, motive; तपस्विन् distressed, m. an ascetic
-; व्यञ्जन adj. manifesting, m. a consonant; n. decoration, allusion
+; व्यञ्जन adj. manifesting, m. a consonant; n. decoration, disguise [AP];
 ; उपेत endowed with; चर spy; संवस् to meet [KALE hold discourse]
 </C>
 <E>
@@ -22608,11 +22608,11 @@
 
 <group ident="069,21,22" type="shloka 3,36">
 <F>
-069.21F: षट्कर्णो भिद्यते मन्त्रस्तथा प्राप्तश्च वार्तया ।
+069.21F: षट्कर्णो भिद्यते मन्त्रस्तथा प्राप्तश्च वार्त्तया ।
 069.22F: इत्यात्मना द्वितीयेन मन्त्रः कार्यो महीभृता ॥ ३,३६॥
 </F>
 <A>
-069.21A: षट्कर्णः भिद्यते मन्त्रः तथा प्राप्तः च वार्तया ।
+069.21A: षट्कर्णः भिद्यते मन्त्रः तथा प्राप्तः च वार्त्तया ।
 069.22A: इति आत्मना द्वितीयेन मन्त्रः कार्यः महीभृता ॥ ३,३६॥
 </A>
 <P>
@@ -22644,8 +22644,9 @@
 069.24P: समाधातुम् प्रतिकर्तुम् ।
 </P>
 <C>
-; मन्त्र consultation, भेद breaking; दोष fault, badness;
-; पतेः 6s पति, महीपति king; शक्य able, possible
+; मन्त्र consultation counsel; भेद breaking; दोष fault, badness;
+; पृथिवीपति earth-lord, king
+; पतेः 6s पति, महीपति king; शक्य able, possible; ते m. 1pl. तद्;
 ; समाधा to put together, to repair; नीतिविद् 'policy knowing'
 ; मत opinion
 </C>
@@ -22696,8 +22697,8 @@
 ; प्रविश्य having entered; प्रणम्य to bow, make obeisance to; आगत arrived;
 ; जम्बुद्वीप home of मयूरs; जम्बु rose apple tree;
 ; जम्बुद्वीप one of the divisions of terrestrial world; द्वार् door;
-; शुक parrot; चग्रवाक N. of minister of king हिरण्यगर्भ; आलोक् to look at;
-॑; कतावस कृत-आवास, आवास abode, residence; 
+; शुक parrot; चक्रवाक N. of minister of king हिरण्यगर्भ; आलोक् to look at;
+॑; कृतावस कृत-आवास, आवास abode, residence; 
 </C>
 <E>
 069.27-29E: Just then the door-keeper, having entered, said after bowing -- Sire, a parrot who has come from Jambudvipa is waiting at the door. The king looked at Chakravaka. Chakravaka said -- let him first go to the residence prepared for him and wait there.
@@ -22716,7 +22717,8 @@
 <P>
 </P>
 <C>
-; पश्चात् afterwords; आनी to lead near, bring; द्रष्ठव्य to be seen, examined
+; पश्चात् afterwords; आनी to lead near, bring; आनीय to be brought ?
+; द्रष्टव्य to be seen, examined
 ; प्रतीहार door-keeper; आवासस्थान residence-place; नी to lead; गत departed;
 </C>
 <E>
@@ -22738,7 +22740,8 @@
 <C>
 ; विग्रह separation, war; तावत् now [KALE as for]; उपस्थित near at hand;
 ; चक्रवाक N. of मन्त्रिन् ; तथापि Nevertheless; सहसा suddenly;
-; विधि a means [KALE wise policy].
+; विधि a means, rule [KALE wise policy], (विध् to govern, rule);
+;  also विधा
 </C>
 <E>
 070.03-04E: The king -- As for war it is imminent. Chakravaka -- Still to go to war all at once is no wise policy. For,
@@ -22759,10 +22762,10 @@
 070.06P: अविचारितम् -- अविचार्य । श्लो। ३९-४०। मनु।अ।सप्त।श्लो। १९८-९९ द्रष्टव्यौ ।
 </P>
 <C>
-; सचिव friend; मन्त्रिन्  counselor; अदौ ind. in the beginning;
+; सचिव friend; मन्त्रिन्  counselor; आदौ loc. आदि in the beginning;
 ; भूतपति 'lord of beings', a king; युध war, उद्योग undertaking;
 ; स्वभू one's own country, त्याग leaving; निर्दिश् to point to, to advise;
-; अविचारित not considered;
+; अविचारित not considered; चारित set in motion; विचारित considered;
 </C>
 <E>
 070.05-06E: Is he a servant or a counsellor, who, without due consideration, advises his sovereign at the outset to prepare for war or to quit his land?
@@ -22772,15 +22775,19 @@
 <group ident="070,07,08" type="prose">
 <F>
 070.07F: अपरं च । विजेतुं प्रयतेतारीन्न युद्धेन कदाचन ।
-070.08F: अनित्यो विजयो यस्माद् दृश्यते युध्यमानयोः ॥ ३९।
+070.08F: अनित्यो विजयो यस्माद् दृश्यते युध्यमानयोः ॥ ३,३९ ॥
 </F>
 <A>
 070.07A: अपरम् च । विजेतुम् प्रयतेत अरीन् न युद्धेन कदाचन ।
-070.08A: अनित्यः विजयः यस्मात् दृश्यते युध्यमानयोः ॥ ३९।
+070.08A: अनित्यः विजयः यस्मात् दृश्यते युध्यमानयोः ॥ ३,३९ ॥
 </A>
 <P>
 </P>
 <C>
+; विजि to conquer, win; यतेत opt. 3s यत् , प्रयत् to strive;
+; अरीन् 2 pl. अरि enemy; युद्ध fought, a battle
+; अनित्य not everlasting, transient, uncertain; यस्मात् because, as;
+; युध्यमान pre. part. pass. A.; युध्यमानयोः du. loc., in case of two fighting;
 </C>
 <E>
 070.07-08E: Moreover, One should try to put down an enemy but never by means of fight: for victory in the case of combatants is always uncertain.
@@ -22790,7 +22797,7 @@
 <group ident="070,09,10" type="shloka 3,40">
 <F>
 070.09F: अन्यच्च । साम्ना दानेन भेदेन समस्तैरथवा पृथक् ।
-070.10F: साधितुं प्रयतेतारीन् न युद्धेन कदाचन ॥ ३,४०॥
+070.10F: साधितुं प्रयतेतारीन्न युद्धेन कदाचन ॥ ३,४०॥
 </F>
 <A>
 070.09A: अन्यत् च । साम्ना दानेन भेदेन समस्तैः अथवा पृथक् ।
@@ -22803,6 +22810,11 @@
 070.10P: साधितुम् -- वशीकर्तुम् ।
 </P>
 <C>
+; साम्ना सामन् a metrical song of praise, conciliation, negotiating;
+; दान gift
+; भेद breaking, splitting, sowing dissension;
+; समस्त thrown together; अथवा or rather; पृथक् widely, separately;
+; साध् to attain an object, subdue;
 </C>
 <E>
 070.09-10E: Again, One should strive to subdue an enemy by conciliatory means, by gifts, by (sowing seeds of) discord -- by all these simultaneously or singly -- but never by battle.
@@ -22822,6 +22834,11 @@
 070.11P: सर्व एव -- अप्रवृत्ते समरे सर्व एव आत्मनः सौर्यं प्रस्तौतीति भावः ।
 </P>
 <C>
+; शूर strong, a warrior; आसादित put down, reached;
+; अनासादित not met with, non-existent;
+; विग्रह  keeping apart, battle, war, quarrel;
+; अदृष्ट unseen, पर enemy, सामर्थ्य sameness of aim, fitness, strength;
+; सदर्प proud, arrogant; 
 </C>
 <E>
 070.11-12E: And further, Every man is a hero as long as not engaged in a fight: who will not be proud that has not yet experienced the strength of his enemy (or, of another)?
@@ -22841,6 +22858,11 @@
 070.13P: दारुणा यथा -- यथा ग्रावा उत्तोलनदण्डेन सहायेन सुखेनैव उत्थाप्यते तथा प्राणिभिः केवलया शक्त्या न उत्थाप्यते इत्यर्थः ।
 </P>
 <C>
+; उत्था to stand up, स्थाप्यते [caus. pres. pass. sg. 3]
+; ग्रावा ग्रावन् stone, mountain, hard, solid;
+; प्राणिन् breathing, a breathing being; दारु piece of wood (as lever);
+; अल्प small, उपाय means; सिद्धि accomplishment, success;
+; मन्त्र counsel; फल fruit; 
 </C>
 <E>
 070.13-14E: Moreover, A stone is not raised by men so easily as it is with a pole (serving as a lever); great success by trifling means is the great fruit of counsel.
@@ -22857,6 +22879,8 @@
 <P>
 </P>
 <C>
+; विग्रह war, battle; उपस्थित approached; विलोक् to look at
+; ह्रियताम्  ipv-p 3s हृ, व्यवहृ to meet (as foes); psv. to be named; 
 </C>
 <E>
 070.15-15E: But seeing that war is at hand let the necessary steps be taken. For,
@@ -22875,6 +22899,10 @@
 <P>
 </P>
 <C>
+; उद्योग active preparation; काल the proper time for
+; कृषि f. cultivation of soil; फलवत् fruitful; तद्वत् in like manner;
+; नीति policy; इयम् f. 1 sg. इदम् this; देव "your majesty";
+; चिरात् after a long time; फल् to bear fruit; क्षण a moment;
 </C>
 <E>
 070.16-17E: As husbandry becomes fruitful from labour spent upon it in due season, so, my lord, this policy (political measures) bears fruit after a long time (when the proper time comes), and not in a moment.
@@ -22895,6 +22923,12 @@
 070.18P: आसन्ने भयोपस्थितौ । मित्रलाभे ५७ श्लो। द्रष्टव्यः ।
 </P>
 <C>
+; दूर distant; भीरुत्व fearfulness; आसन्न set down, near - nearness;
+; आ as pfx. to verb: near, towards, etc. qqf. reverses meaning;
+; शूरता state of a hero, heroism; विपत्ति going wrongly, adversity;
+; लोक world, country; धीर brave; धीरता courage;
+; धीरता [intelligent-ness = intelligence; MW]
+; अधिगम् to approach, find;
 </C>
 <E>
 070.18-19E: Again Fearing a danger when at a distance but displaying bravery when it is at hand is a virtue that belongs to the great : a great man, in this world, conducts himself bravely in adversity.
@@ -22916,6 +22950,11 @@
 070.21P: अतिशीतलमि -- शान्तचित्ततया व्यवहरता विजयः सुखं लभ्यते इति भावः ।
 </P>
 <C>
+; प्रत्यूह obstacle प्रत्यूह् to push back, keep away; सर्वसिद्धि all-accomplishment
+; उत्ताप great heat, excitement [KALE mental agitation];
+; किल indeed; अतिशीतल शीतल cold, calm; अम्भस् water (n.);
+; भिनत्ति भिद् to break, to pass through;
+; भूभृत् earth-supporter, mountain; भूभृतः ५/६ 
 </C>
 <E>
 070.20-21E: Also, Mental agitation is the first (greatest) obstacle to success of every kind: does not water, even though exceedingly cold, break through a mountain?
@@ -22932,6 +22971,8 @@
 <P>
 </P>
 <C>
+; विशेषतस् especially; महा icf. महत्, great; बल power;
+; चित्रवर्ण of wonderful color, N. of मयूर king; असौ 1s अदस् that 
 </C>
 <E>
 070.22-22E: More particularly because king Chitravarna is very powerful. For,
@@ -22952,6 +22993,9 @@
 070.24P: तदिति -- यन्नराणां ॥। तत् ।
 </P>
 <C>
+; बलिन् powerful; योद्धव्य to be fought; निदर्शन seeing, scriptural authority;
+; युद्ध fighting ; हस्तिन् elephant; सार्धम् along with, jointly;
+; मृत्यु death; आवहेत् will bring (opt.)
 </C>
 <E>
 070.23-24E: There is no ordinance to the affect that one should fight with the powerful: that fight which is between men and elephants must result in the destruction of the former.
@@ -22972,6 +23016,11 @@
 071.02P: कीटस्य पिपीलिकादेः पक्षोद्गमः यथा तन्नाशाय भवति तथा । पक्षोद्यम इति पाठे स यथा अकिंचित्करस्तथा इत्यर्थः ।
 </P>
 <C>
+; काल (proper) time; प्राप्य having obtained; अप्राप्य not having obtained;
+; अपकर्तृ injurious, an enemy; वृत् to be, to be engaged with (+ loc.);
+; कलि m. strife; बलवत् possessing power; सार्धम् with;
+; कीट worm, insect; पक्ष wing; उद्गम birth, production,
+; कीटपक्षोद्गम change from pupa to butterfly;
 </C>
 <E>
 071.01-02E: Again, He is a fool who without getting the proper opportunity commences operations against his adversary: a strife with the powerful is like an insect getting wings (UAT v. l. like the exertions of an insect's wings, i. e. quite futile ).
@@ -22990,6 +23039,10 @@
 <P>
 </P>
 <C>
+; कौर्म relating to a turtle; संकोच contraction; आस्था to stand on,resort to
+; प्रहार striking, fighting; मर्षयेत् opt. मृष् to forget, put up with;
+; प्राप्तकाल a fit time;  नीतिज्ञ policy-known, conversant with policy;
+l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्रूरवत् KALE cobra
 </C>
 <E>
 071.03-04E:  Moreover, Having recourse to the tortoise's mode of contracting its body one should suffer even a blow: but when the right time comes, one, knowing the policy, should rise like a fierce cobra.
@@ -23008,6 +23061,9 @@
 <P>
 </P>
 <C>
+; महति loc. महत् great; अल्प small; उपाय means; समम् in like manner;
+; क्षम patient, able + inf.; समुन्मूल् to uproot completely;
+; नदी river, अय m. going, नदीरय current of river;
 </C>
 <E>
 071.05-06E: I invite your attention, my lord, to this, One who knows how to use the proper remedies is able to uproot the great and the small equally, as is the current of a river which sweeps away the trees and grass.

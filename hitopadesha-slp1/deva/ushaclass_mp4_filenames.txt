@@ -355,12 +355,21 @@ Video-20240730_000307-Meeting Recording.mp4  lines=067.39-068.09; shlokas = 25,2
 Video-20240802_000601-Meeting Recording.mp4  lines=068.10-068.22; shlokas = 28,29,30
 Video-20240805_231916-Meeting Recording.mp4  SKD search discussion
 Video-20240805_235808-Meeting Recording.mp4  lines=068.23-068.30; shlokas = 31
+Video-20240807_000606-Meeting Recording.mp4  lines=068.31-069.05; shlokas = 32,33
+Video-20240808_000210-Meeting Recording.mp4  lines=069.06-069.17; shlokas = 34,35
+Video-20240813_000256-Meeting Recording.mp4  lines=069.18-070.04; shlokas = 36,37
+Video-20240814_000401-Meeting Recording.mp4  lines=070.05-070.10; shlokas = 38,39,40
 
 
+new: साधितुम् प्रयतेतारीन्न युद्धेन कदाचन
+typo: 070.10: साधितुं  युद्धेन कदाचन  -> साधितुं प्रयतेतारीन्न युद्धेन कदाचन
+typo 70.10 प्रयतेतारीन् न ->  प्रयतेतारीन्न 
+typo 69.21 (print chg) वार्तया  ->  वार्त्तया
 Typos recorded in file ../deva_format/readme_typos.txt
   (begun 08-05-2024  contains history back to 057.15)
   
-
+cp -r -n /e/UzaSanskritClass/ /f/UzaSanskritClass/
+ # -n don't overwrite
 https://svyasa.edu.in/
 silicon andhra  https://uofsa.edu/
   चतुःपञ्चाशत् 
@@ -400,7 +409,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(064...F:\)\|\(065...F:\)\|\(066...F:\)\|\(067...F:\)\|\(068...F:\)\|\(069...F:\)\|\(070...F:\)
+\(065...F:\)\|\(066...F:\)\|\(067...F:\)\|\(068...F:\)\|\(069...F:\)\|\(070...F:\)\|\(071...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
