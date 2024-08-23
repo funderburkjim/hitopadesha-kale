@@ -359,17 +359,28 @@ Video-20240807_000606-Meeting Recording.mp4  lines=068.31-069.05; shlokas = 32,3
 Video-20240808_000210-Meeting Recording.mp4  lines=069.06-069.17; shlokas = 34,35
 Video-20240813_000256-Meeting Recording.mp4  lines=069.18-070.04; shlokas = 36,37
 Video-20240814_000401-Meeting Recording.mp4  lines=070.05-070.10; shlokas = 38,39,40
+Video-20240815_000445-Meeting Recording.mp4  lines=070.11-070.19; shlokas = 41,42,43,44
+Video-20240816_000209-Meeting Recording.mp4  lines=070.20-071.02; shlokas = 45,46,47
+Video-20240816_235251-Meeting Recording.mp4  lines=071.03-071.12; shlokas = 48,49,50,51
+Video-20240820_000114-Meeting Recording.mp4  lines=071.13-071.18; shlokas = 52,53
+Video-20240821_000538-Meeting Recording.mp4  lines=071.19-071.27; shlokas = 54,55
+Video-20240822_235941-Meeting Recording.mp4  lines=071.28-072.13; shlokas = 56,57
 
 
 new: साधितुम् प्रयतेतारीन्न युद्धेन कदाचन
-typo: 070.10: साधितुं  युद्धेन कदाचन  -> साधितुं प्रयतेतारीन्न युद्धेन कदाचन
-typo 70.10 प्रयतेतारीन् न ->  प्रयतेतारीन्न 
-typo 69.21 (print chg) वार्तया  ->  वार्त्तया
 Typos recorded in file ../deva_format/readme_typos.txt
   (begun 08-05-2024  contains history back to 057.15)
-  
+
+# git bash command to back up video folder.
 cp -r -n /e/UzaSanskritClass/ /f/UzaSanskritClass/
  # -n don't overwrite
+# git bash command to sync hitokale repository to github
+cd /c/xampp/htdocs/funderburkjim/hitopadesha-kale
+git status # to see files with changes. Be sure no '#xxx' files (made by Emacs)
+git add .
+git commit -m "normal update"
+git push
+
 https://svyasa.edu.in/
 silicon andhra  https://uofsa.edu/
   चतुःपञ्चाशत् 
@@ -409,7 +420,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(065...F:\)\|\(066...F:\)\|\(067...F:\)\|\(068...F:\)\|\(069...F:\)\|\(070...F:\)\|\(071...F:\)
+\(066...F:\)\|\(067...F:\)\|\(068...F:\)\|\(069...F:\)\|\(070...F:\)\|\(071...F:\)\|\(072...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
@@ -421,3 +432,5 @@ prahlAda   pronounced pralhAda  (cf  brahma)
 -R recursive
 -n do not overwrite an existing file 
 cp -Rn /e/UzaSanskritClass /f/
+
+08-20-2024 ऋक्षः मधुम् रोचते । 
