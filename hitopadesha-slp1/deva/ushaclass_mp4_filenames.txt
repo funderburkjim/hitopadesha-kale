@@ -365,8 +365,24 @@ Video-20240816_235251-Meeting Recording.mp4  lines=071.03-071.12; shlokas = 48,4
 Video-20240820_000114-Meeting Recording.mp4  lines=071.13-071.18; shlokas = 52,53
 Video-20240821_000538-Meeting Recording.mp4  lines=071.19-071.27; shlokas = 54,55
 Video-20240822_235941-Meeting Recording.mp4  lines=071.28-072.13; shlokas = 56,57
+Video-20240829_000451-Meeting Recording.mp4  lines=072.13-072.32; 
+Video-20240830_235800-Meeting Recording.mp4  lines=072.32-073.07; shlokas = 58,59
+Video-20240902_235826-Meeting Recording.mp4  lines=073.08-073.15; shlokas = 60
+Video-20240913_234852-Meeting Recording.mp4  linrd-073.16-073.23; shlokas = 61,62
 
 
+
+अर्थशास्त्र  चाणक्य  read an intro ...  re 073.08
+  related to economy, but further discusses administration of kingdom, management; practical;
+
+https://www.google.com/books/edition/The_Student_s_Guide_to_Sanskrit_Composit/FYN4qJOW6RUC?hl=en&gbpv=1&bsq=%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A5%81
+
+google Books 'as plain text'
+
+typo 073.07  दुर्ग्श्च -> दुर्गश्च 
+typo 072.34  यदनेनानभ्ज्ञेन  ->  यदनेनानभिज्ञेन
+typo 072.32  स्वज्ञातीयाः  ->  स्वजातीयाः    Kale print change
+typo 072.30 स्वज्ञातिभिरावृतेनाधिक्यं  ->  स्वजातिभिरावृतेनाधिक्यं  Kale print change
 new: साधितुम् प्रयतेतारीन्न युद्धेन कदाचन
 Typos recorded in file ../deva_format/readme_typos.txt
   (begun 08-05-2024  contains history back to 057.15)
@@ -420,7 +436,7 @@ Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
 
 emacs selection from hitokale_deva_p.txt
-\(066...F:\)\|\(067...F:\)\|\(068...F:\)\|\(069...F:\)\|\(070...F:\)\|\(071...F:\)\|\(072...F:\)
+\(071...F:\)\|\(072...F:\)\|\(073...F:\)\|\(074...F:\)\|\(075...F:\)\|\(076...F:\)\|\(077...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
@@ -434,3 +450,12 @@ prahlAda   pronounced pralhAda  (cf  brahma)
 cp -Rn /e/UzaSanskritClass /f/
 
 08-20-2024 ऋक्षः मधुम् रोचते । 
+
+# Github  repository
+https://github.com/funderburkjim/hitopadesha-kale
+# repository files used in class:
+hitopadesha-slp1/deva-format/hitokale_10.xml.txt
+hitopadesha-slp1/deva-format/readme_typos.txt
+hitopadesha-slp1/deva/ushaclass_mp4_filenames.txt
+
+https://www.youtube.com/watch?v=bZsgSO3QU1k

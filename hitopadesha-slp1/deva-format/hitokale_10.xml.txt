@@ -23399,7 +23399,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 </P>
 <C>
 ; काक crow; सर्वज्ञ all-knowing ; द्रष्टृ one who sees;
-; संग्राह्य to be received, grasped, appointed; चक्र the ruddy goose;
+; संग्राह्य to be received, grasped, appointed; 
 </C>
 <E>
 072.07-08E:  The king -- A crow again knows everything and has a wide range of observation and is, for this reason, worthy of being retained.
@@ -23420,6 +23420,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; चक्र the ruddy goose;
 ; स्थल land (not water)[ground], चर going; विपक्ष without wings, an enemy;
 ; पक्ष wing, the side (of anything); नियुक्त bound, attached to (+ loc.);
 ; तेन by that; संग्राह्य to be grasped (appointed, accepted); 
@@ -23487,8 +23488,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 ; स्व-इच्छा one's own wish; नगर town, city, उपान्त border, edge;
 ; नीली f. the indigo dye (dark blue); भाण्ड any vessel, pot, dish, etc.
 ; उत्था to stand up; असमर्थ unable; प्रातर् in early morning;
-; सम्दर्श्य cannot find संदर्श sight, appearance; ??
-; मृतवत् as if dead; स्थित stood, remained
+; संदर्श्य सम् + दर्श्य दर्शयति caus. of दृश्,  दर्श्य ल्यप् ; 
+; मृतवत् as if dead; समुत्था caus. to lift up;
+; स्थित stood, remained
 </C>
 <E>
 072.17-18E: A certain jackal that lived in a forest, fell, while wandering on the borders of a town, into an indigo-pot. Thereupon, not being able to get out of it, he feigned himself dead in the morning and so remained.
@@ -23509,8 +23511,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <C>
 ; नीलीभाण्ड-स्वामिन् master of indigo-pot; नी to lead, bring; उत्था stand up;
 ; मृत dead; ज्ञा to know, understand; समुत्थाप्य caus. to raise up;
-; दूर a distant place, दूरे far away;
-; सारित सृ caus. ppp, अपसृ cause to go away, remove
+; दूर a distant place, दूरे far away; नी to carry, lead, bring, ..;
+; ज्ञा to know, find out ?; 
+; सारित सृ caus. ppp, अपसृ caus. to remove, to throw aside;
 ; पलाय् to flee;
 </C>
 <E>
@@ -23532,7 +23535,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 </P>
 <C>
 ; स्वकीय = स्व one's own;  अवलोक् to look, look at, notice;
-; इदानीम् now;  उत्तम best, वर्ण color; उत्कर्ष superior, excellence;
+; इदानीम् now;  उत्तम best, वर्ण color; उत्कर्ष elevation, eminence;
 ; साधयामि : [sidh_1]{ca. pr. ac. sg. 1 (Huet) साध् (MW), to accomplish (AP90)
 ; 
 </C>
@@ -23558,7 +23561,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 ; अवलोच् to ponder over; शृगाल jackal; आहूय  आ + ह्वे ipp., to summon
 ; भगवत् glorious, देवता a god (goddess); वन forest;
 ; स्वहस्त (one's own) hand; अरण्य forest, राज्य kingdom, royal authority;
-; ओषधि herb, medicinal plant; रस juice; अभिषिक्त anointed;
+; ओषधि herb, medicinal plant; रस juice; अभिषिक्त anointed (AP90 loc. of
+; the post of authority, e.g. here राज्ये)
 </C>
 <E>
 072.23-25E: Having thus cogitated he called together the jackals and said I am installed king of the forest by the revered goddess of the woods with her own hands being anointed with the juice of the sarvaushadhi.
@@ -23578,7 +23582,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 </P>
 <C>
 ; तद् thus; अद्य today; आरभ्य ind. beginning with;
-; अरण्य forest; आज्ञया 3.s. आज्ञा , command; व्यवहार business
+; अरण्य forest; आज्ञया 3.s. आज्ञा , command
+; व्यवहार business [अवहार thief];  <<<
 ; कार्य to be done; विशिष्ट special, excellent; वर्ण color; अवलोक् to notice, see;
 ; साष्टाङ्गपातम् with a certain 8-point prostration
 ; प्रणम् to make obeisance to, to bow; ऊचुः prf. 3 pl. उच् वच् they said;
@@ -23600,6 +23605,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; अनेन एव [KALE 'in the same way'] ?
 ; आज्ञापयति caus. आज्ञा he commands; क्रम a step, क्रमेण by steps, gradually;
 ; अरण्य forest,  वासिन् staying, dwelling; आधिपत्य n. supremacy;
 </C>
@@ -23610,15 +23616,15 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 
 <group ident="072,30,33" type="prose">
 <F>
-072.30F: ततस्तेन स्वज्ञातिभिरावृतेनाधिक्यं साधितम् । ततस्तेन व्याघ्रसिंहादीन्
+072.30F: ततस्तेन स्वजातिभिरावृतेनाधिक्यं साधितम् । ततस्तेन व्याघ्रसिंहादीन्
 072.31F: उत्तमपरिजनान् प्राप्य सदसि शृगालान् अवलोक्य लज्जमानेनावज्ञया
-072.32F: दूरीकृताः स्वज्ञातीयाः  । ततो विषण्णाञ्शृगालानवलोक्य
+072.32F: दूरीकृताः स्वजातीयाः  । ततो विषण्णाञ्शृगालानवलोक्य
 072.33F: केनचिद् वृद्धशृगालेनैतत् प्रतिज्ञातं --
 </F>
 <A>
-072.30A: ततः तेन स्वज्ञातिभिः आवृतेन आधिक्यम् साधितम् । ततः तेन व्याघ्रसिंहादीन्
+072.30A: ततः तेन स्वजातिभिः आवृतेन आधिक्यम् साधितम् । ततः तेन व्याघ्रसिंहादीन्
 072.31A: उत्तमपरिजनात् प्राप्य सदसि शृगालान् अवलोक्य लज्जमानेन अवज्ञया
-072.32A: दूरीकृताः स्वज्ञातीयाः । ततः विषण्णान् शृगालान् अवलोक्य
+072.32A: दूरीकृताः स्वजातीयाः । ततः विषण्णान् शृगालान् अवलोक्य
 072.33A: केन चित् वृद्धशृगालेन एतत् प्रतिज्ञातम् -- 
 </A>
 <P>
@@ -23626,16 +23632,21 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 072.30P: आधिक्यं -- प्रकर्षः ।
 </P>
 <C>
-; svajYAtIya ?  cannot find.  Assume  same sense as 'svajYAti'
+; ज्ञाति a paternal relation (MW a near relation); आवृत covered, surrounded;
+; आधिक्य n. excess, supremacy; साधित accomplished;
+; व्याघ्र tiger, सिंह lion; उत्तम best, परिजन servant; सदस् seat, assembly;
+; लज्ज् to be ashamed; अवज्ञा disrespect, contempt; अवलोक् to see, observe;
+; दूरीकृत repelled (distance-done); स्वजाति स्वज्ञाति one's own kindred, a kinsman.
+; विषण्ण despondent' शृगाल jackal; प्रतिज्ञा state, assert, प्रतिज्ञात declared;
 </C>
 <E>
-072.30-33E: Thereafter being surrounded by his brethren he attained supreme power. After a while, having obtained servants of superior rank ench as the tiger, the lion and the like, he was ashamed to find the jackals in the court and discarded them with scorn. Then, finding the jackals dejected, an old jackal thus declared himself --
+072.30-33E: Thereafter being surrounded by his brethren he attained supreme power. After a while, having obtained servants of superior rank such as the tiger, the lion and the like, he was ashamed to find the jackals in the court and discarded them with scorn. Then, finding the jackals dejected, an old jackal thus declared himself --
 </E>
 </group>
 
 <group ident="072,34,35" type="prose">
 <F>
-072.34F:  मा विषीदत । यदनेनानभ्ज्ञेन
+072.34F: मा विषीदत । यदनेनानभिज्ञेन
 072.35F: नीतिविदो मर्मज्ञा वयं स्वसमीपात्परिभूतास्तद्यथायं नश्यति तथा विधेयम् । 
 </F>
 <A>
@@ -23647,6 +23658,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 072.35P: परिभूताः -- अवज्ञाताः । सतिरस्कारं दूरीकृता इत्यर्थः ।
 </P>
 <C>
+; विषीदत वि + सद् to be depressed, सीदत ipv. 2p सद्
+; अभिज्ञ knowing; अनभिज्ञ ignorant of; नीतिविद् = नीतिज्ञ policy knowing
+; नीतिविदः 1p
+; मर्मज्ञ knowing weak points; समीप n. nearness, presence;
+; परिभूत overpowered, despised [KALE dismissed]; विधा to do, विधेय to be done;
+; यथा ... तथा so ... thus; नश् to be destroyed;
 </C>
 <E>
 072.34-35E: Do not be sorry. Since by him who does not know his interest, we, who are well versed in policy and know his weak points, have been dismissed from his presence, that must be done by which he will perish.
@@ -23666,10 +23683,13 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 072.36P: वर्णमात्रविप्रलब्धाः -- वर्ण एव वर्णमात्रं तेन प्रतारिताः । यः स्वभावः इत्यादि -- ऽअतीत्य हि गुणान्सर्वान्स्वभावो मूर्ध्नि वर्तते ।ऽ इति भावः ।
 </P>
 <C>
-; amI : adas 1p (those)
+; अमी : अदस् 1p (those); व्याघ्र tiger; वर्ण color, मात्र mere; 
+; [ विप्र a sage, wise man; लब्ध obtained  WRONG PARSE! ]
+; वि+प्र+लब्ध deceived; [प्रलब्ध overreached, deceived]; इमम् इदम 2s. him;
+; ज्ञा to recognise; 
 </C>
 <E>
-072.36-37E: For these (nobler animals) the tiger and others, deceived by him mere colour and not recognizing him as a jackal consider him their king.
+072.36-37E: For these (nobler animals) the tiger and others, deceived by hismere colour and not recognizing him as a jackal consider him their king.
 </E>
 </group>
 
@@ -23687,6 +23707,14 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; यथा X .. तथा Y , so that X happens, thus do y  (y for the purpose of x)
+; परिचित heaped up, familar, known; अनुष्ठेय to be done;
+; सर्वे vocative pl. (O jackals)
+; संध्या twlight; समय meeting; 
+; संनिधा to put down together; संनिधान putting down together, presence
+; राव cry, shriek; एकदा at the same time; करिष्यथ fut. 2p कृ;
+; शब्द sound; आकर्ण्य ल्यप् आ+कर्ण् to hear; जाति species, स्वभाव inherent nature;
+; कर्तव्य to be done;
 </C>
 <E>
 072.38-40E: Act, therefore, in such a way that he will be found out. To this end this should be done. That at the evening time you shall, all of you, set up a loud yell simultaneously in his hearing (lit. near him); so that on hearing that howl, he too following the natural disposition of his species, will utter a cry. For,
@@ -23705,6 +23733,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; स्वभाव inherent nature; दुरतिक्रम difficult to overcome, m. an obstacle
+; नित्य always;
+; श्वा m. sg. nom. श्वन् (Huet);  अश्नाति 3s अश् to eat, enjoy;
+; उपानह् shoe [नह् नह्यति to bind];
 </C>
 <E>
 072.41-42E: That which is the natural disposition of one is always hard to be got rid of. If a dog were made a king would he not gnaw a shoe?
@@ -23723,6 +23755,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; अभिज्ण्या to recognize; व्याघ्र tiger; हन्तव्य to be killed
+; अनुष्ठा to do, accomplish; वृत्त occurred;
 </C>
 <E>
 072.43-44E: Upon this, being discovered by his voice he will be killed by the tiger. Then that being done that happened (i. e. the plan being put into execution the event turned out as anticipated). For it is said --
@@ -23744,6 +23778,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.01P: निजो रिपुः -- सजातीयः स्वपक्षान्तर्गतो व शत्रुः ।
 </P>
 <C>
+; छिद्र a hole, defect; मर्मन् tender point; वीर्य heroism, strength;
+; वेत्ति pre. 3s. विद् ; निज innate (near-born ?),  रिपु enemy
+; दहति pre. 3s दह् burn;
+; अन्तर्गत gone into, hidden; शुष्क dry, dried up; वृक्ष tree; अनल fire
 </C>
 <E>
 072.01-02E: An enemy of our own tribe knows our weak points, our secrets, our valour - our everything, and when such a one is in our midst he burns, as fire in the interior does a dry tree. 
@@ -23764,6 +23802,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; आत्मपक्ष one's side; परित्यज् to abandon
+; तथापि nevertheless (often correlative of यद्यपि even if).
+; दृश्यताम् ipv.pass. 3s let be seen; तावत् KALE 'as' (since);
+; दूर distance; आगत come; संग्रह seizing, reception; विचार deliberation;
 </C>
 <E>
 073.03-05E: I say, therefore, -- That fool who having left off his own side etc. The king said -- Although this is the case, still he must be seen as he has come from a distance. We shall consider the question of his being retained here. 
@@ -23773,7 +23815,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <group ident="073,06,07" type="prose">
 <F>
 073.06F: चक्रो ब्रूते -- देव प्रणिधिः
-073.07F: प्रहितो दुर्ग्श्च सज्जीकृतः । अतः शुकोऽप्यालोक्य प्रस्थाप्यताम् । किं तु
+073.07F: प्रहितो दुर्गश्च सज्जीकृतः । अतः शुकोऽप्यालोक्य प्रस्थाप्यताम् । किं तु
 </F>
 <A>
 073.06A: चक्रः ब्रूते -- देव प्रणिधिः
@@ -23782,6 +23824,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; चक्र ruddy-goose, counselor to king of राजहंसs.
+; प्रणिधि spy, emissary (~= scout); प्रधा to put forth, send; प्रहित sent forth;
+; दुर्ग fortress, castle; सज्जीकृ सज्ज् + कृ to prepare;
+; शुक parrot', आलोक् to look, see; प्रस्था to set out, caus. to dismiss;
 </C>
 <E>
 073.06-07E: The minister -- Please Your Highness, the emissary has been sent and the castle put in readiness. Let the parrot, therefore, be granted an interview and dismissed. But,
@@ -23804,6 +23850,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.09P: धीरसमन्वितः -- नीतिकुशलैः सहेत्यर्थः ।
 </P>
 <C>
+; नन्द joy, a proper name
+; चाणक्य N. of a celebrated writer on civil polity;
+; जघान prf. 3s. हन्; तीक्ष्ण sharp, keen; दूत spy; प्रयोगित joined, supplied with
+; शूर hero,  अन्तरित gone between; धीर intelligent, wise; 
 </C>
 <E>
 073.08-09E: Chanakya killed Nanda through the agency of a sharp spy: one should, therefore, see an emissary, accompanied by wise men and with brave men intervening.
@@ -23824,6 +23874,14 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; सभा an assembly;  आहूत called; शुक parrot; काक crow;
+; उन्नत raised; शिरा  (form of शिरस् n. head, m. nom. sg. form is शिरा)
+; दत्त given, आसन seat; सने उप -> (sandhi) सन उप ?
+; उपविश् to sit down; भो O! (vocative particle);
+; हिरण्यगर्भ हिरण्य golden, गर्भ offspring of birds;
+; महाराज great king; अधिराज emperor; श्रीमत् glorious,
+; चित्रवर्ण speckle-colored - name of मयूरराज  (peacock king);
+; समाज्ञा to know thoroughly, caus. to order, command;
 </C>
 <E>
 073.10-12E: Thereafter a council being called, the parrot and the crow were sent for. The parrot, with his neck raised a little, sat on the seat that was offered him and said -- His Imperial Majesty, the great Chitravarna commands you --
@@ -23842,6 +23900,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; जीवित living, a living being, life; श्रिया prosperity [f. sg. i. श्री (huet)]??
+; प्रयोजन n. with need of (with instr. of that which is needed);
+; सत्वरम् quickly; चरण a foot; प्रणम ipv. to bow down;
+; नोचेत् (Apte if not, otherwise) -  but print is 'नो चेत्॑'
+; अवस्था to stay (abide  cf. Webster [act in accordance with, tolerate]
+; to Webster1828 'dwell'). स्थान place, अन्तर another; चिन्तय ipv. think about
 </C>
 <E>
 073.13-14E: If you care anything for your life or wealth, come quickly and bow to our feet; or else think of some other place to live in.
@@ -23861,6 +23925,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.16P: गलहस्तयति -- गलहस्तं दत्वा निष्कासयति ।
 </P>
 <C>
+; सकोपम् angrily; आह prf. 3s अह् / ब्रू
+; आः ind. interjection implying anger; सभा assembly;
+; गलहस्तय (MW to seize by the throat) (गल throat, हस्त hand)
 </C>
 <E>
 073.15-16E: The king said in a rage -- Is there none among our servants here who will seize him by the neck (and turn him out)?
@@ -23881,6 +23948,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; उत्था to stand up; ; मेघवर्ण (N. of a crow, cf. 072.05 ff.)
+; आज्ञापय caus. ipv. 2 sg. आज्ञा to command; हन्मि pre 1s. हन् to strike, kill;
+; दुष्ट wicked; शुक parrot; सर्वज्ञ all-knowing (= चक्रवाक मन्त्रिन् ?)
+; सान्त्वयत् pre. part. सान्त्व् to sooth, consiliate; शृणु ipv. शृ listen;
+; तावत् so much, just, now;
 </C>
 <E>
 073.17-19E: Meghavarna rising -- Sire, give but your command and I will kill the vile parrot. Sarvajna, having pacified the king and the crow, said -- Please listen --
@@ -23900,9 +23972,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.21P: छलमभ्युपैति -- कपटमाश्रयते । यत्कपटेन संकीर्यते इत्यर्थः । भयमिति पाठे प्रकाशशङ्कामित्यर्थः ।
 </P>
 <C>
+; वृद्ध old (wise); धर्म justice; नो no; सत्य n. truth;
+; यच्छल = यद् + छल deceit; अभ्युपैति अभि + उप + इ to go near,
 </C>
 <E>
-073.20-21E: That is not an assembly which has no old men in it; those are not old men who do not declare what is just. That is no justice which has no truth in it; and that is not truth which borders on (leaves room for, partakes of) fraud.
+073.20-21E: That is not an assembly which has no old men in it; those are not old men who do not declare what is just. That is not justice which has no truth in it; and that is not truth which borders on (leaves room for, partakes of) fraud.
 </E>
 </group>
 
@@ -23918,6 +23992,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; धर्म justice; एषः this; दूत messenger
+; म्लेच्छ a foreigner who is non-vedic, uneducated in धर्म ;
+; अवध्य not to be killed; दूतमुख ‘having an ambassador as mouth’,
+; one who has messenger as his mouth, one of whom the mouth is messenger;
+; उद्यत raised; शस्त्र weapon; नान्यथा not otherwise;
 </C>
 <E>
 073.22-23E: And justice requires this -- A messenger, even though he be a Mlechchha (an out-caste) is exempt from being put to death; for a king has a messenger for his mouth (i.e. it is the king who speaks through his messenger). A messenger, does not speak otherwise (than directed) although weapons be raised against him.
@@ -23936,6 +24015,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; कर्ष act of dragging; अपकर्ष dragging off or down, inferiority;
+; उत्कर्ष pulling upwards, superiority; उक्त n. a speech; words collectively;
+; मन् मन्यते to think; भाव condition, अवध्यभाव condition of not-killing;
+; जल्प् to speak;
 </C>
 <E>
 073.24-25E: Moreover, Who believes in his own inferiority or his enemy's superiority from the words of a messenger? For, from his nature of not being punishable by death, a messenger speaks anything and everything.
@@ -23946,12 +24029,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <F>
 073.26F: ततो राजा काकश्च स्वां
 073.27F: प्रकृतिमापन्नौ । शुकोऽप्युत्थाय चलितः । पश्चाच्चक्रवाकेणानीय
-073.28F: प्रबोध्य कनकालङ्कारादिकं दत्वा संप्रेषितो ययौ ।
+073.28F: प्रबोध्य कनकालङ्कारादिकं दत्त्वा संप्रेषितो ययौ ।
 </F>
 <A>
 073.26A: ततः राजा काकः च स्वाम्
 073.27A: प्रकृतिम् आपन्नौ । शुकः अपि उत्थाय चलितः । पश्चात् चक्रवाकेण आनीय
-073.28A: प्रबोध्य कनकालङ्कारादिकम् दत्वा संप्रेषितः ययौ ।
+073.28A: प्रबोध्य कनकालङ्कारादिकम् दत्त्वा संप्रेषितः ययौ ।
 </A>
 <P>
 073.27P: प्रकृतिम् -- स्वाभाविकमनःस्वास्थ्यम् ।
@@ -23959,6 +24042,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.28P: प्रबोध्य -- सर्वं वृत्तान्तं यथावदवगमय्य , तं सान्त्वयित्वा इत्यर्थः ।
 </P>
 <C>
+; प्रकृति  true nature; आपन्न gained, acquired; शुक parrot;
+; चलित gone, departed; चक्रवाक the ruddy goose advisor;
+; आनीय bring; प्रबुध् to inform; कनक gold, अलंकार ornament;
+; आदिक (ibc.) and so on; ययौ prf. 3s या, go;
+; सम्प्रेषित sent forth (इष् cl. 4, to move, cause to move); 
 </C>
 <E>
 073.26-28E: On hearing this the king and the crow were pacified (lit. were themselves again). The parrot, too, got up and went away. He was, however, brought back by Chakravaka, and after matters had been explained to him, was presented with gold ornaments and the like and dismissed, upon which he departed.
@@ -23968,16 +24056,19 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <group ident="073,29,30" type="prose">
 <F>
 073.29F: शुकोऽपि विन्ध्याचलं गत्वा  राजानं प्रणतवान् ।
-073.30F: तमालोक्य चित्रवर्णो राजोवाच -- शुक का वार्ता । कीदृशोऽसौ देशः ।
+073.30F: तमालोक्य चित्रवर्णो राजोवाच -- शुक का वार्त्ता । कीदृशोऽसौ देशः ।
 </F>
 <A>
 073.29A: शुकः अपि विन्ध्याचलम् गत्वा राजानम् प्रणतवान् ।
-073.30A: तम् आलोक्य चित्रवर्णः राजा उवाच -- शुक का वार्ता । कीदृशः असौ देशः ।
+073.30A: तम् आलोक्य चित्रवर्णः राजा उवाच -- शुक का वार्त्ता । कीदृशः असौ देशः ।
 </A>
 <P>
 </P>
 <C>
-; vinDya+acala
+; विन्ध्य N. of a mountain range; अचल mountain
+; नतवान् past part. active नम् to bow; राजन् king चित्रवर्ण ;
+; आलोक् to see; चित्रवर्ण bright-colored, king of मयूरs.;
+; शुक parrot; वार्त्ता  news; कीदृश of what kind?; देश country
 </C>
 <E>
 073.29-30E: The parrot having returned to the Vindhya mountain paid his respects to his sovereign. Seeing him the king Chitravarna asked him -- What is the news? What sort of country is that?
@@ -23986,18 +24077,22 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 
 <group ident="073,31,33" type="prose">
 <F>
-073.31F: शुको ब्रूते -- देव संक्षेपादियं वार्ता । संप्रति युद्धोद्योगः
+073.31F: शुको ब्रूते -- देव संक्षेपादियं वार्त्ता । संप्रति युद्धोद्योगः
 073.32F: क्रियताम् । देशश्चासौ कर्पूरद्वीपः स्वर्गैकदेशः
 073.33F: कथं वर्णयितुं शक्यते । 
 </F>
 <A>
-073.31A: शुकः ब्रूते -- देव संक्षेपात् इयम् वार्ता । संप्रति युद्धोद्योगः
+073.31A: शुकः ब्रूते -- देव संक्षेपात् इयम् वार्त्ता । संप्रति युद्धोद्योगः
 073.32A: क्रियताम् । देशः च असौ कर्पूरद्वीपः स्वर्गैकदेशः
 073.33A: कथम् वर्णयितुम् शक्यते । 
 </A>
 <P>
 </P>
 <C>
+; शुक parrot; संक्षेपात् briefly; संप्रति now, at this time;
+; युद्ध n. war; उद्योग effort; देश country
+; कर्पूरद्वीप camphor-island, राजहंसदेश ; स्वर्ग heaven, एकदेश a part;
+; वर्णयितुम् inf. [?] वर्ण् to color, describe; शक्यते pass. शक् to be able;
 </C>
 <E>
 073.31-33E: The parrot replied -- Sire, in brief this is the news. Let preparations be made for war. As for the country of Karpuradvipa, it is (as it were) a part of heaven; how can it be possible to describe it?
@@ -24018,6 +24113,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+;  शिष्ट eminent person, counsellor; उपविष्ट sat down; मन्त्र् to deliberate;
+; संप्रति now; कर्तव्य to be done; यथाकर्तव्य proper to be done;
+; विग्रह war; उपदेश advice;
+; पुनर् again; अवश्यम् certainly; 
 </C>
 <E>
 073.34-36E: The King, on hearing this, summoned all the principal persons together and sat down to deliberate with them. Said he -- With reference to the war presently to be carried on, advise me as to what is proper to be done. As for war it is absolutely determined upon. For it is said: --
@@ -24037,6 +24136,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 073.38P: नष्टाः -- नाशं यान्ति असुखभागिनो भवन्ति इत्यर्थः ।
 </P>
 <C>
+; संतुष्ट satisfied, discontented; असंतुष्ट discontented;
+; द्विज twice born, a Brahman; नष्ट perished, destroyed, lost;
+; महीभुज earth king; सलज्ज feeling shame ; गणिका harlot;
+; निर्लज्ज without shame; कुलस्त्री a woman of good family, respectable;
 ; Kale typo? sallajjA -> salajjA
 ; 'kulAstriyaH' typo? Should be 'kulastriyaH'. 
 </C>
@@ -24058,6 +24161,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.02P: व्यसनितया -- व्यसनमस्यास्तीति व्यसनी तस्य भावः तत्ता तया । व्यसनाभिभूतैः इति यावत् ।
 </P>
 <C>
+; दूरदर्श far-seeing; गृध्र desiring greedily, m. a vulture;
+; व्यसनिन् Addicted to vice, unlucky;
+; विधि doing, means, KALE advisable; 
 </C>
 <E>
 074.01-02E: The vulture named Duradarsi (Far-seeing) observed -- My lord it is not advisable to enter upon war under adverse circumstances. For,
@@ -24077,6 +24183,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.04P: शत्रूणाम् विपरीताः -- तेषु अदृष्ढभक्तयः । अरक्ता वा सुखभेद्या इत्यर्थः ।
 </P>
 <C>
+; मित्र friend, अमात्य companion of a king, a minister;
+; अमा at home, together with; सुहृद् good-hearted, a friend, ally
+; वर्ग a separate division or class; दृढ fixed, strong;
+; भक्ति attachment, fondness for; शत्रु an enemy;
+; विपरित turned around, reversed; कर्तव्य to be done;
+; विग्रह war; 
 </C>
 <E>
 074.03-04E: When one's friends, ministers and allies are deeply attached, and of the enemy the reverse of this (i. e. disaffected with their sovereign), then only should war be made.
@@ -24096,7 +24208,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.05P: त्रयम् -- एतत् त्रयं विग्रहस्य फलम् । यदैतन्नियतं भावि तदा विग्रहमाचरेत् इति कामन्दकनीतिसारे द्वितीयचरणस्य पाठः ।
 </P>
 <C>
-; BAvi : inj-p 3s BU  OR? neut 1s of BAvin
+; भूमि earth, territory; मित्र friend, ally; हिरण्य gold, money;
+; त्रय threefold; विग्रह war;
+; निश्चित determined;
+; BAvi : inj-p 3s BU may become; कर्तव्य
 </C>
 <E>
 074.05-06E: Moreover, (The acquisition of) land, an ally and gold -- these three are the benefits accruing from war; when these can be counted upon as sure then only war should be made.
@@ -24121,6 +24236,14 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.09P: यात्रार्थम् -- अभियानार्थम् ।
 </P>
 <C>
+; बल armed forces ; लोकयतु ipv. 3s, अवलोक् to see [KALE inspect]
+; तावत् first; मन्त्रिन् minister, adviser  (of मयूरराजा name?);
+; उपयोग use, fitness; ज्ञायताम् ipv-p 3s ज्ञा let it be known;
+; आहूयताम् ipv-p 3s आह्वे to summon; मौहूर्तिक an astrologer;
+; निर्णी to carry away, to determine;
+; लग्न n. astrological event, auspicious time; 
+; यात्रा going, setting off. अर्थ purpose [यात्रार्थम् ind. for the sake of marching MW]
+; ददातु ipv. 3s, दा give;
 </C>
 <E>
 074.07-09E: The King observed -- Let the minister first inspect my forces, so that it may be known how far they will be useful. Similarly, let the astrologer be called who will determine and tell us the lucky time for starting.
@@ -24139,6 +24262,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; तथापि nevertheless; सहसा  suddenly; यात्रा going, setting off;
+; अनुचित improper, wrong;
 </C>
 <E>
 074.10-11E: The minister -- Still, to begin the expedition all at once is not advisable. For,
@@ -24158,7 +24283,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 </P>
 <C>
 ; viSanti 3p viS
-; dvizadbala: dvizat + bala : enemy + army
+; विश् to enter; मूढ adj. stupefied, m. a fool;
+; विचार्य caus. विचर् to think, discuss, to ramble about 
+; द्विषद् enemy, बल army; 
+; खद्ग sword, धार ? खड्गधारा a sword-blade , परिष्वङ्ग touch, contact with; निश्चितम् most assuredly; 
 </C>
 <E>
 074.12-13E: Those fools, who without taking counsel rashly enter into the enemy's army, are sure to get an embrace with the edges of their swords.
@@ -24178,6 +24306,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.15P: विजिगीषुः -- विजेतुमिच्छुः ।
 </P>
 <C>
+; मन्त्रिन् voc. counselor; उत्साह power, effort,  भङ्ग breaking;
+; कृथाः inj-m 2s कृ ; सर्वथा in every way
+; विजिगीषु desirous of victory; पर enemy, भूमि ground, territory;
+; आक्रम्  to step near to, to invade;
 </C>
 <E>
 074.14-15E: The king said -- Minister, do not at all damp my spirits. Tell me how one wishing for conquest invades his enemy's territory.
@@ -24196,6 +24328,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; गृध्र vulture; कथ् to tell, relate; अनुष्ठित done, accomplished;
+; फल fruit, purpose, प्रद giving
 </C>
 <E>
 074.16-17E: The vulture replied I will tell you that. But it will yield fruit (prove beneficial) only if acted upon. For it is said --
@@ -24205,7 +24339,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <group ident="074,18,19" type="shloka 3,68">
 <F>
 074.18F: किं मन्त्रेणाननुष्ठाने शास्त्रवत्पृथिवीपतेः ।
-074.19F: न ह्यौषधपरिज्ञानाद्व्याधेः शान्तिः क्वचिद् भवेत् ॥ ३,६८॥
+074.19F: न ह्यौषधपरिज्ञानाद्व्याधेः शान्तिः क्वचिद्भवेत् ॥ ३,६८॥
 </F>
 <A>
 074.18A: किम् मन्त्रेण अननुष्ठाने शास्त्रवत् पृथिवीपतेः ।
@@ -24215,6 +24349,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.18P: अननुष्ठाने अकरणे सति पृथिवीपतेः मन्त्रेण किं कोर्थः शास्त्रवत् । यथा प्रयोगं विना केवलं शास्त्रज्ञानम् अकिंचित्करं तथा केवलमन्त्रणया राज्ञां कार्यं न सिध्यतीत्यर्थः । यद्वा शास्त्रवत् यथाशास्त्रमुक्तेन मन्त्रेण किं इति शास्त्रवदननुष्ठाने किमिति वा योज्यम् ।
 </P>
 <C>
+; मन्त्र counsel, advice; अननुष्ठान non-observance, non-doing;
+; शास्त्रवत् according to Sastras
+; पृथिवी earth पति lord, पपृथिवीपति king;
+; औषध herbal medicine;  परिज्ञान perception, thorough knowledge;
+; व्याधि disease, sickness; शान्ति tranquility, alleviation;
+; क्वचिद् anywhere; न क्वचिद् nowhere;
 ; Kale typo: hyozaDa -> hyOzaDa
 </C>
 <E>
@@ -24232,9 +24372,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; राजादेश = राज + आदेश, royal command; 
+; श्रुत n. (that heard by revelation), sacred knowledge;
+; अनतिक्रमणीय not to be transgressed, inviolable; निविद् caus. to proclaim;
 </C>
 <E>
-074.20-20E: But as the command of a king is not to be transgressed, I will relate what I have learnt from the tests on the subject. Please to listen --
+074.20-20E: But as the command of a king is not to be transgressed, I will relate what I have learnt from the texts on the subject. Please to listen --
 </E>
 </group>
 
@@ -24252,6 +24395,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.22P: व्यूहः -- सेनाविन्यासः । व्यूहः स्याद्बलविन्यासे निर्माणे वृन्दतर्कयोः । इति मेदिनी । एतेषां भूयांसः श्लोकाः कामन्दकनीतिशास्त्रादुधृताः ।
 </P>
 <C>
+; नदी river, अद्रि a stone, mountain, वन forest, wood
+; दुर्ग a difficult passage, a fortress;
+; सेनानीः nom. sg. m. सेनानी ref: https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-kale/disp/index.php?sfx=png&pageua=41  Not found in Huet.
+; यायात् opt./ben. 3s या to go; व्यूह् to arrange (troops) in battle array;
+; बल army, troops; 
 </C>
 <E>
 074.21-22E: In rivers, mountains, wilds and difficult passes, wherever there is danger, O king, there the general should march with his forces drawn in battle-array.
@@ -24261,7 +24409,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <group ident="074,23,24" type="shloka 3,70">
 <F>
 074.23F: बलाध्यक्षः पुरो यायात्प्रवीरपुरुषान्वितः ।
-074.24F: मध्ये कलत्रं स्वामी च कोशः फल्गु च यद् बलम् ॥ ३,७०॥
+074.24F: मध्ये कलत्रं स्वामी च कोशः फल्गु च यद्बलम् ॥ ३,७०॥
 </F>
 <A>
 074.23A: बलाध्यक्षः पुरस् यायात् प्रवीरपुरुषान्वितः ।
@@ -24273,6 +24421,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.24P: फल्गु -- क्षीणसत्त्वं , निरर्थकः जनसमुदायश्च । नागानां च पदातयः इत्यत्र चाटवीबलम् इति कामन्दकोक्तः पाठः ।
 </P>
 <C>
+; बल army, अध्यक्ष superintendent, lord, master [KALE commander];
+; यायात् opt./ben. 3s या to go; पुरस् in front; प्रवीर foremost, a hero;
+; पुरुष man, officer; अन्वित accompanied by (cf. AP90 cpd. अन्वितार्थ ).
+; मध्य middle; कलत्र n. wife; स्वामिन् lord, king;
+; कोश a box, a treasury; फल्गु pithless, unimportant
+; यद्बल (MW of which strength).
 </C>
 <E>
 074.23-24E: The commander of the forces should march in the van, accompained by the flower of the army; in the middle should be stationed the women, the king, the treasury and the unimportant sections of the army.
@@ -24291,6 +24445,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; पार्श्व side; उभ both; अश्व horse; पार्श्वतस् at the side (of); रथ carriage;
+; नाग  (a snake) elephant; पदाति going on foot, a foot-soldier;
+;
 </C>
 <E>
 074.25-26E: On each flank the horse; on the sides of the horse the chariots; on both sides of the chariots the elephants, and on the flanks of the elephants the foot-soldiers.
@@ -24311,6 +24468,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 074.27P: आश्वासयन् -- प्रोत्साहयन् ।
 </P>
 <C>
+; पश्चात् from पश्च afterwords, then; सेनापति general of an army;
+; यायात् opt./ben. 3s या to go; खिन्न wearied (खिद् to be pressed down, exhausted
+; आश्वासयन् cheering up, inspiring confidence; शनैः calmly, quietly;
+; मन्त्रिन् counselor; सुभट great warrior; (भट = भृत MW), भृत borne, hired;
+; युक्त joined, accompanied by;
+; प्रतिगृह्य   ल्यप् (Whitney roots गृह्य) ग्रह् प्रतिग्रह् to grasp, support (KALE to back) 
 </C>
 <E>
 074.27-28E: In the rear should slowly march, O king, the commander-in-chief, accompained by ministers and brave warriors, cheering those that are fatigued and backing the army.
@@ -24330,7 +24493,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.01P: विषमं इ° -- प्रदेशं  इति शेषः ।
 </P>
 <C>
-; sameyAt sam+A+i  opt. 3s
+; समेयात् समॅ सम् + आ + ई opt. 3s, to come together, to march across; 
+; विष  poison, water [KALE 'uneven ground'?]; नाग elephant;
+; जलाढ्य 'rich in water', watery [आढ्य wealth, abounding in];
+; महीधर 'earth bearing', a mountain; सम even, smooth, a plain; अश्व
+; जल water [KALE river]; सर्वत्र everywhere;
+; पदातिन् foot-soldier (also पादाति);
 </C>
 <E>
 075.01-02E: One should traverse uneven ground abounding in water and full of hills by means of elephants, plains by means of horses, and rivers by means of boats, while the infantry should be employed in all place.
@@ -24340,7 +24508,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <group ident="075,03,04" type="shloka 3,74">
 <F>
 075.03F: हस्तिनां गमनं प्रोक्तं प्रशस्तं जलदागमे ।
-075.04F: तद् अन्यत्र तुरङ्गाणां पत्तीनां सर्वदैव हि ॥ ३,७४॥
+075.04F: तदन्यत्र तुरङ्गाणां पत्तीनां सर्वदैव हि ॥ ३,७४॥
 </F>
 <A>
 075.03A: हस्तिनाम् गमनम् प्रोक्तम् प्रशस्तम् जलदागमे ।
@@ -24350,6 +24518,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.03P: हस्तिनां -- गजसैनिकानाम् ।
 </P>
 <C>
+; हस्तिन् elephant; गमन going, motion (KALE march);
+;  प्रोक्त announced, said;
+; प्रशस्त praised, better;  जलद rain cloud, जलदागम 'approach of clouds';
+॑; तुरङ्ग 'quickly going', a horse;  पत्तिन् foot-soldier;
+; अन्यत्र elsewhere, at another time; सर्वदैव = सर्वदा + एव, always;
 </C>
 <E>
 075.03-04E: A march with elephants is said to be advantageous at the approach of the rainy season, with the horse at other times, and with foot-soldiers in all seasons.
@@ -24369,6 +24542,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.06P: शयनम् योगनिद्रया -- अर्धप्रबोधयुक्तनिद्रा योगनिद्रा तया । नृपः सुप्तोपि सावधानं वर्तेत इति भावः ।
 </P>
 <C>
+; शैल  (शिला stone) rock, hill, mountain;  दुर्ग difficult going;
+; मार्ग road, path; विधेय to be done; रक्षण the act of protecting;
+; योध a fighter, सुयोध good fighter; रक्षित protected, guarded;
+; शयन n. the act of lying down or sleeping
+; योगनिद्रा (Ap90 a state between sleep and wakefulness)
 </C>
 <E>
 076.05-06E: In hills and difficult passes the king should be protected; and he should sleep wakefully even though guarded by brave men.
@@ -24389,6 +24567,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.07P: दुर्गकण्टकमर्दनैः -- दुर्गकण्टकेषु संकटमार्गेषु मर्दनैः नाशनैः ।
 </P>
 <C>
+; नाशयेत्  नश् caus. to destroy; कर्षयेत् कृष् caus. cause to drag, to torture;
+; शत्रु enemy; ; मर्दन crushing; 
+दुर्ग difficult place, कण्टक a thorn, troublesome person (i.e., the enemy)
+; पर enemy, देश country, प्रवेश entering;
+; आटविक a woodsman, forestor; पुरस् to be placed in front;
 </C>
 <E>
 075.07-08E: One should destroy and harass the enemy by hard-pressing him in difficult places; and at the time of entering into the enemy's country, the foresters should be placed foremost.
@@ -24408,7 +24591,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.10P: को हि दातुः न युध्यते -- यः नृपः द्रव्यदानेन सुयोधान् तोषयति तदर्थं को न युध्यते । सर्व एव युध्यते इति भावः । अत्र बृहस्पतिः -- नियुक्तः कर्मनिष्पत्तौ विज्ञप्तौ च यदृच्छया । भृत्यान्धनैर्मानयंस्तु नवोप्यक्षोभ्यतां व्रजेत् । इति ।
 </P>
 <C>
-; dAtuH: dAtf 5s/6s 
+; यत्र where, तत्र there; कोश treasury; राजता kingship; भृत्य servant;
+; ततस् ind. used for case 5 of तद्, from it (कोश); दद्यात् opt. 3s. दा to give; दातुः 5s, 6s. दातृ donor ; दातुः 'for a donor' 6s for 7s?
+; युध्यते to fight (for loc.)
 </C>
 <E>
 076.09-10E: Where the king is, there the treasure should also be; without the treasure there can be no royalty: from it (the treasure) the king should make payments to his servants: for who does not fight for one who gives (freely)?
@@ -24428,6 +24613,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.12P: धनाधननिबन्धनम् -- धनाधननिष्टम् ।
 </P>
 <C>
+; नर man; दास servant; भूपते voc. earth lord, king; अर्थ wealth
+; गौरव heaviness, importance [KALE greatness]
+; लाघव littleness; धन money; निबन्धन binding, ifc. based on;
 </C>
 <E>
 075.11-12E: For, Man is not the servant of men, O king, but he is the servant of money. Greatness or littleness too depends on the possession or absence of wealth.
@@ -24447,6 +24635,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.13P: अभेदेन -- ऐक्येन , परस्परावियोगेन ।
 </P>
 <C>
+; अभेद undivided [KALE in a compact body];
+; युध्येरन् opt. 3p. युध्;  रक्षेयुः opt. 3p रक्ष् ; परस्पर each other;
+; फल्गु pithless, unimportant सैन्य n. An army, force;
+; मध्य middle; व्यूह a military array;
 </C>
 <E>
 075.13-14E: They (the warriors) should fight in a compact body and defend one another; and whatever worthless portion of the army there may be should be placed in the middle of the column.
@@ -24466,8 +24658,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.15P: अनीकस्य -- सैन्यस्य । अनीकं तु रणे सैन्ये इति विश्वः ।
 </P>
 <C>
-; yojayet: (Huet) ca. opt. ac. sg. 3: 
-; AsIta: opt-2m 3s As
+; पदाति foot-soldier; महीपाल 'earth-protector', king;
+; पुरस् in front of; अनीक face, forces, army;
+; योजयेत् : (Huet) ca. opt. ac. sg. 3: युज् to arrange; 
+; आसीत opt-2m 3s आस् to sit; रुध् to obstruct; उपरुध् to besiege, blockade;
+; अरि enemy;  राष्ट्र m. n. kingdom, country; उपपीड् to press on, cause pain;
 </C>
 <E>
 075.15-16E: A king should place the infantry in the front of the army (or, send the infantry ahead of the army); he should wait having blocked up the enemy and also harass his country.
@@ -24487,6 +24682,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.17P: अनूपे जलप्रायदेशे । अनूपो महिषे नाम्बुप्रायदेशे तु वाच्यवत् । इति मेदिनी ।
 </P>
 <C>
+; स्यन्दन moving on swiftly, अश्व horse; युध्येत् opt. 3s युध्;
+; सम n. a level plain, flat country; अनूप watery country;
+; नौ a ship, द्विप elephant;  वृक्ष tree, wood, गुल्म bush , आवृत covered;
+; चाप a bow; असि sword; चर्मन् a shield;  स्थल dry land [KALE open land];
 </C>
 <E>
 075.17-18E: Upon even ground he should fight with chariots and horses; in a place overflowing with water with boats and elephants; in a place covered with trees and shrubs, with bows; and on open land with swords, shields and other weapons.
@@ -24507,8 +24706,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.19P: यवसः -- घासः ।
 </P>
 <C>
-; dUzayet: (Huet) duz: ca. opt. ac. sg. 3
+; दूषयेत् : (Huet) दुष्: ca. opt. ac. sg. 3, to corrupt, hurt, destroy;
+; सततम् constantly; यवस grass, pasturage, अन्न food, उदक water, इन्ध fuel
 ; yavasAnnodakenDanam : yavasa+anna+udaka+inDana
+; भिन्द्यात् opt. 3s भिद् to divide, break; तडाग a pond, tank; प्राकार a fence, wall;
+; परिखा (around dig) A moat (परिखाः f. pl. acc.); तथा and also;
+; "ever and anon" = from time to time, occasionally
 </C>
 <E>
 075.19-20E: He should ever and anon spoil his (enemy's) fodder, food, water and firewood; and demolish his tanks, ramparts and ditches.
@@ -24527,6 +24730,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; बल army, troops; प्रमुख facing, first, principal; हस्तिन् elephant;
+; अन्य another; 
+; महीपति 'earth lord', king; निज one's own, m. pl. one's own people;
+; अवयव a limb of body, a part; मातङ्ग an elephant; अष्ट eight;
+; आयुध a weapon; स्मृत remembered, regarded ([KALE is said to possess]);
 </C>
 <E>
 075.21-22E: The elephant forms the chief factor in a king's army: there is none other like him, because the elephant is said to possess eight weapons in his very limbs.
@@ -24546,6 +24754,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.23P: बलमश्वश्च -- अश्वः सैन्यानां बलं मुख्याधारः यतः जंगमः प्राकारः ।
 </P>
 <C>
+; अश्व horse [KALE cavalry];
+॑; बल n. power, military force, army; सैन्य a soldier, army;
+; प्राकार wall; जङ्गम गम् intens., moving;
+; अश्वाधिक अधिक abundance; विजयिन् victorious;
+; स्थलविग्रह ground-war; 
 </C>
 <E>
 075.23-24E: The cavalry is the strength of the army inasmuch as it forms a moving bulwark; a king, therefore, who is rich in cavalry, is victorious in a land-fight.
@@ -24564,6 +24777,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; युध्यमान pr. part. युध् (class 4 युध्यते) fighting
+; हय horse (हि हिनोति to send forth);
+; आरूढ mounted (रुह् + क्तः); देव A god, deity;
+; दुर्जय difficult to be conquered;  दूरस्थित standing at a distance;
+; वैरिन् an enemy; हस्तवर्तिन् being in the hand, seized.
 </C>
 <E>
 075.25-26E: For it is said -- Warriors fighting on horseback are difficult to be conquered even by the gods; the enemies, even though stationed at a distance, are (as it were) in their hands.
@@ -24583,6 +24801,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 075.27P: युद्धकारित्वं -- योधकार्यम् । युद्धेन शत्रुनिरोध इत्यर्थः ।
 </P>
 <C>
+; प्रथम first; युद्धकारित्व state of making war;
+; समस्त thrown together, whole; बल military force, पालन guarding, nourishing;
+; दिङ्मार्ग country road (दिश् region, [KALE all directions]) + मार्ग;
+; विशोधित्व clearing [HIT.]; पत्ति going, pedestrian, foot-soldier, infantry;
+; कर्मन् action, business, special duty; प्रचक्ष् to tell [KALE they say];
 </C>
 <E>
 075.27-28E: Striking the first blow in a battle, taking care of the whole army, and the clearing of roads in all directions -- (these three) they say, form the duty of the infantry.
@@ -24602,6 +24825,14 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.01P: अविरक्तं -- स्वस्वामिनि दृढभक्तिमत् ।
 </P>
 <C>
+; शूर warrior, hero; स्वभावशूर valiant by nature;
+; अस्त्र a missile, weapon; अविरक्त not indifferent, attached to;
+; जित won, conquered, श्रम fatigue
+; प्रसिद्ध accomplished, well-known [KALE renowned];
+॑;  [With adjectives प्र means 'very'] 
+; क्षत्रिय member of the military or second caste; प्राय prominent, largest part;
+; श्रेष्ठतम the very best;  बल army
+; बिदुः prf. 3p विद् to know, declare to be
 </C>
 <E>
 076.01-02E: That army they declare to be the best, the soldiers in which are naturally brave, skilled in the use of weapons, loyal (lit. attached to their master), inured to fatigue and mostly drawn from the ranks of renowned Kshatriyas.
@@ -24620,6 +24851,9 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; प्रभुकृत done by master, king; मान respect;
+; भूपते voc. भूपति, O king; भुवि f. sg. loc. भू earth; मानव human being, man;
+; दत्त given; द्रविण (movable property) money;
 </C>
 <E>
 076.03-04E: As men fight in this world, O king, by honour being shown to them by their lord, so they do not, even by large sums of money being given to them.
@@ -24643,6 +24877,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.06P: हि -- हेतौ निश्चये वा ।
 </P>
 <C>
+; वरम् it is better; अल्प small, बल army; सार essential, best, strong;
+; मुण्ड shaved [KALE head]; मण्डलिन् forming a circle, ruler of a country
+; असार inessential, useless, weak, भङ्ग breaking, destruction
+; स्फुट burst, स्फुटम् ind. Clearly, evidently.; कृ (do) cause;
 </C>
 <E>
 076.05-06E: It is better to have a small army of chosen men than a multitude of heads: for the defeat of the weak will evidently lead to that of the strong.
@@ -24667,6 +24905,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.08P: वैराग्यस्य -- सैनिकानामिति शेषः ।
 </P>
 <C>
+; अप्रसाद disfavor, displeasure; अनधिष्ठान dismissal from position;
+; देय gift + अंश a portion + हरण taking away;
+; कालयाप allowing time to pass, delaying; अप्रतीकार non-retaliation;
+; वैराग्य aversion (indifference to worldly desires); कारण cause;
 </C>
 <E>
 076.07-08E: Witholding of favour, not getting posts of honour [* Lit. non-leadership], seizing the portion due (to any one), delay (in payment or advancement) and non-retaliation (or, not redressing wrongs) -- these are the causes of the disaffection of the troops.
@@ -24689,6 +24931,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.10P: अत्र मनुः -- ऽयदा मन्येत भावेन हृष्टपुष्टबलं स्वकम् । परस्य विपरीतं चेत्तदा यायादरीन्प्रति । यदा च स्यात्परिक्षीणो वाहनेन बलेन च । तदासीत प्रयत्नेन शनकैः सान्त्वयन्नरीन् ।ऽ इति ।
 </P>
 <C>
+; अपीडयत् not paining; बल n. army; शत्रु enemy; जिगीषु striving to conquer;
+; KALE अभिषेणयेत् , अभिद्रवेत् . अभिद्रु to attack
+; AP90 अभिषेणयति den. अभि-सेना to attack;
+; सुखसाध्य easy to be accomplished;  द्विषाम् 6p. द्विष् hatred, an enemy;
+; सैन्य army; दीर्घ long (in time or space), यान going, attacking, journey;
+; प्र + पीडित very pained;
 </C>
 <E>
 076.09-10E: One wishing to gain victory should attack his enemies without hard-pressing his own army: for the army of the enemies, when extremely wearied by long marches, can be easily overpowered.
@@ -24697,8 +24945,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 
 <group ident="076,11,12" type="shloka 3,92">
 <F>
-076.11F: दायादाद् अपरो मन्त्रो नास्ति भेदकरो द्विषाम् ।
-076.12F: तस्मादुत्थापयेद् यत्नाद्दायादं तस्य विद्विषः ॥ ३,९२॥
+076.11F: दायादादपरो मन्त्रो नास्ति भेदकरो द्विषाम् ।
+076.12F: तस्मादुत्थापयेद्यत्नाद्दायादं तस्य विद्विषः ॥ ३,९२॥
 </F>
 <A>
 076.11A: दायादात् अपरः मन्त्रः न अस्ति भेदकरः द्विषाम् ।
@@ -24709,6 +24957,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.11P: भेदकरो मन्त्रो नास्ति - दायाद एव शत्रुगृहविच्छेदे मुख्यं साधनमित्यर्थः । अतः दायादोत्तेजनं कार्यमित्याह -- तस्मादिति ।
 </P>
 <C>
+; दाय gift + आद taking = an heir, दायाद KALE kinsman;
+; अपर having nothing higher (than abl.?) ; मन्त्र policy;
+; भेदकर breaking through, sowing dissension among (gen.); द्विष् enemy;
+; उत्था caus. cause to stand up, instigate
+; यत्न effort, यत्नत् with effort, carefully; दायाद kinsman; विद्विष enemy
 </C>
 <E>
 076.11-12E: There is no cleverer stroke of policy than a kinsman (of the enemy won over) causing the over-throw of an enemy: one should, therefore, set up, by all means, a kinsman of the enemy against him.
@@ -24732,6 +24985,11 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.14P: धीरचेतसा अभियोक्तृशत्रुगृहे अन्तर्भेदः प्रकृतिव्याकोपो वा कार्यः ।
 </P>
 <C>
+; सन्धाय ind. having placed together, formed an alliance; युवन् young;
+; मुख्य chief, principal, मन्त्रिन् counselor; अन्तर् ind. within
+; प्रकोपन irritating, irritation; कार्य (to be done) business;
+; योक्तुः 5/6 sg. योक्तृ a charioteer; अभियोक्तृ attacking, an enemy;
+; स्थिर firm, steady;
 </C>
 <E>
 076.13-14E: Having entered into a league with the heir-apparent or the principal minister (of the enemy), [* Or, one should cause internal discord (in the camps of) an invader who is etc.] an invader who is steady of purpose, should cause internal dissentions (in his enemy's camps).
@@ -24753,7 +25011,13 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 076.16P: तस्य ये मुख्याः प्रधानपुरुषाः आश्रितः सेवकाश्च तेषां बन्धनात् तद्घातयेत् । यदेर्मित्रं भेदाक्षमं तत्पक्षपाताच्च समभूमौ क्रूरपराक्रमं तज्जेतुं सर्वथा प्रयतितव्यमिति भावः ।
 </P>
 <C>
-; GAtayet (Huet): han#1 ca. opt. ac. sg. 3 
+; क्रूर cruel, wicked, formidable; मित्र m. friend, ally; रण n. war;
+; भंग breaking, destruction, defeat; दत्त्वा दा to give; 
+; घातयेत् (Huet): हन् #1 ca. opt. ac. sg. 3 should kill;
+; अथवा or ; आकृष्ट्या 3s आकृष्टि attracting [KALE से
+; गोग्रह capture of cattle; मुख्य chief, principal
+; आश्रित resorting to, using, m. a servant
+; बन्धन binding, capturing
 </C>
 <E>
 076.15-16E: One should cause the destruction of a formidable ally (of his enemy) by giving him a defeat on the battlefield (or by fleeing before him and then suddenly turning upon him), or by seizing his cattle and capturing his principal men and dependants.
@@ -24774,6 +25038,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 077.02P: हि यतः तथा वासितं वृद्धप्रजं राज्यं धनदं समृद्धिकरम् ।
 </P>
 <C>
+; स्वराज्य his own kingdom; वासयेत् caus. opt. वस् to dwell;
+; परदेश other country; अपवाहन causing to carry away;
+; दान giving, gift, मान (pride) honor;
+; वासित caused to dwell in
+; धनद wealth-giving, [a liberal person] [KALE prosperous]
+
 </C>
 <E>
 077.01-02E: A king should cause his country to be populated by men brought forcibly from other countries, or rather, by means of gifts and the bestowal of honour; for when replenished with subjects it proves prosperous.
@@ -24782,14 +25052,16 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 
 <group ident="077,03,03" type="prose">
 <F>
-077.03F: राजाःअ -- आः किं बहुनोदितेन ।
+077.03F: राजाह -- आः किं बहुनोदितेन ।
 </F>
 <A>
-077.03A: राजा आःअ -- आः किम् बहुना उदितेन ।
+077.03A: राजा आह -- आः किम् बहुना उदितेन ।
 </A>
 <P>
 </P>
 <C>
+; आः ind. an interjection, Ah. ; बहुनोदित अहुना उदित;
+; बहुना 3.sg. bahu much; उदित spoken [KALE words];
 </C>
 <E>
 077.03-03E: The king observed -- Ah, why waste more words on this?
@@ -24808,27 +25080,36 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 077.04P: आत्मोदय इति -- आत्मन उदयो वृद्धिः ।
 077.04P: परस्यशत्रोर्ज्यानिर्हानिः । 
-077.04P: ऽवीज्याहाज्वरिब्यो निःऽ इत्यौणादिको निः प्रत्ययः ।
+077.04P: वीज्याहाज्वरिब्यो निः इत्यौणादिको निः प्रत्ययः ।
 077.04P: इति द्वयम् ।
 077.04P: इदं परिमाणमस्या इति इयती एतावती ।
-077.04P: ऽकिमिदंभ्यां वो घःऽ इति वतुपो वस्य घश्च ।
-077.04P: ऽउगितश्चऽ इति ङीप् ।
+077.04P: किमिदंभ्यां वो घः इति वतुपो वस्य घश्च ।
+077.04P: उगितश्च इति ङीप् ।
 077.04P: नीतिर्नीतिसंग्रहः ।
 077.04P: एतद्द्वयातिरिक्तो न कश्चिन्नीतिपदार्थोऽस्तीत्यर्थः ।
 077.04P: यदन्यत्षाड्गुण्यादिवर्णनं तत्सर्वमस्यैव प्रपञ्च इत्यः -- तदिति ।
 077.05P: तद्द्वयमूरीकृत्याङ्गीकृत्य ।
-077.05P: ऽउरीकृतमुररीकृतम्ऽ इत्यमरः ।
-077.05P: ऽऊर्यादिच्विडाचश्चऽ इति गतिसंज्ञायां
-077.05P: ऽकुगतिप्रादयःऽ इत् समासे क्त्वो ल्यप् ।
+077.05P: उरीकृतमुररीकृतम् इत्यमरः ।
+077.05P: ऊर्यादिच्विडाचश्च इति गतिसंज्ञायां
+077.05P: कुगतिप्रादयः इत् समासे क्त्वो ल्यप् ।
 077.05P: कृतिभिः कुशलैः वाचस्पत्यं वाग्मित्वम् ।
 077.05P: कस्कादित्वादलुक्सत्वे ।
-077.05P: ऽषष्ठ्याः पतिपुत्र --ऽ इत्यादिना सत्वमिति स्वामी ।
+077.05P: षष्ठ्याः पतिपुत्र -- इत्यादिना सत्वमिति स्वामी ।
 077.05P: तन्न ।
 077.05P: तस्य छन्दोविषयत्वात् ।
 077.05P: ब्राह्मणादित्वाद्भावे ष्यञ्प्रत्ययः ।
-077.05P: प्रतायते -- विस्तीर्यते । कर्मणि लट् । ऽतनोतेर्यकिऽ इत्यात्वम् । तस्मादात्मोदयार्थिभिरविलम्बाच्छत्रुरुच्छेतव्यः । तत्रान्तरीयत्वात्तस्येति भावः इति ।
+077.05P: प्रतायते -- विस्तीर्यते । कर्मणि लट् । तनोतेर्यकि इत्यात्वम् । तस्मादात्मोदयार्थिभिरविलम्बाच्छत्रुरुच्छेतव्यः । तत्रान्तरीयत्वात्तस्येति भावः इति ।
 </P>
 <C>
+; आत्मोदय आत्म उदय self-rising
+; परज्य पर + ज्य another-oppressing; द्वय n. two things
+; नीति policy; इयती f. 1sg. इयत् so large, so much;
+; ऊरी = उरी a particle implying assent; उरीकृ to agree;
+; कृति act of doing, action
+; वाचस्पत्य n. eloquence, related to वाचस्पति "lord of speech"
+; प्रतायते -- विस्तीर्यते pre-p 3s स्तॄ, विस्तॄ to be spread abroad
+; प्रतायते grammatical form: passive of प्रतन् to spread, proceed from,
+; to display, to perform;
 ; tasmAt Atmodaya-arTiBiH avilambAt SatruH ucCetavyaH
 </C>
 <E>
@@ -24846,6 +25127,7 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
+; मन्त्रिन् counselor; विहस् to smile; सत्य true, n. truth
 </C>
 <E>
 077.06-06E: The minister observed with a smile -- All this is true, but --
@@ -24875,8 +25157,12 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 077.07P: इति च शिशुपालवधटीकायां मल्लिनाथः ।
 </P>
 <C>
-; sAmAna-aDi-karaRya
-; samAna
+; अन्यत् n. 1s another; अन्यत् ... अन्यत् the one .. the other;
+; उच्छृंखल unbridled [शृंखल a chain]; सत्त्व n. strength, being;
+; शास्त्र order, science, ; नियन्त्रित curbed
+; सामान समान same; अधिकरण्य authority, power;
+; तेजस् sharpness, light  तिमिर darkness तिमिरयोः 6/7du.
+; कुतस् whence? [संध्या]
 </C>
 <E>
 077.07-08E: Unrestrained might is one thing, while might guided (or governed) by (the principles of) science is quite another: for whence can there be the existence of light and darkness in one and the same place?
@@ -24895,7 +25181,10 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 <P>
 </P>
 <C>
-; muhUrta    mOhUrtika-Avedita-lagne  lagna lajj
+; उत्था to stand up; मौहूर्तिक astrologer; आवेदित made known;
+; लग्न an auspicious moment; प्रस्थित set forth;
+; प्रणिधि spy, emissary चर ; प्रहित placed, sent;
+; आगत्य to come 
 </C>
 <E>
 077.09-10E: Then the king, having got up set out at the auspicious hour declared by the astrologers. Now the spy despatched by his emissary came to Hiranyagarbha and said --
@@ -24922,6 +25211,8 @@ l उत्था  to stand up, arise; क्रूर cruel, ferocious; क्�
 077.12P: दुर्गशोधनम् -- दुर्गनिरूपणम् ।
 </P>
 <C>
+; समागत arrived; प्राय ifc. generally, nearly;
+; संप्रति now;
 </C>
 <E>
 077.11-15E: Sire, king Chitavarna is almost arrived. Now he is on the table-land of the Malaya mountain with his army encamped there. The castle should be carefully searched every moment: for, the vulture is a great statesman and in the course of his confidential talk with some one, I came to know his secret that he had already placed some one in our castle.
