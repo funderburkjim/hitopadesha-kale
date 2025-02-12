@@ -368,10 +368,45 @@ Video-20240822_235941-Meeting Recording.mp4  lines=071.28-072.13; shlokas = 56,5
 Video-20240829_000451-Meeting Recording.mp4  lines=072.13-072.32; 
 Video-20240830_235800-Meeting Recording.mp4  lines=072.32-073.07; shlokas = 58,59
 Video-20240902_235826-Meeting Recording.mp4  lines=073.08-073.15; shlokas = 60
-Video-20240913_234852-Meeting Recording.mp4  linrd-073.16-073.23; shlokas = 61,62
+Video-20240913_234852-Meeting Recording.mp4  lines=073.16-073.23; shlokas = 61,62
+hiatus no classes
+Part IV: सन्धि
+Video-20250109_235943-Meeting Recording.mp4  lines=093.24-094.02; shlokas = 42,43
+Video-20250111_001551-Meeting Recording.mp4  lines=094.03-094.08; shlokas = 44,45,46
+Video-20250116_235714-Meeting Recording.mp4  lines=094.09-094.14; shlokas = 47,48,49
+Video-20250118_001209-Meeting Recording.mp4  lines=094.15-094.22; shlokas = 50,51,52,53
+Video-20250122_000153-Meeting Recording.mp4  lines=094.23-094.28; शक्तित्रयम् 
+Video-20250124_000325-Meeting Recording.mp4  lines=094.29-095.09; shlokas = 54,55
+Video-20250124_235928-Meeting Recording.mp4  lines=095.10-095.25; shlokas = 56,57
+Video-20250128_000513-Meeting Recording.mp4  lines=095.26-095.44; shlokas = 58
+Video-20250201_000231-Meeting Recording.mp4  lines=096.01-096.10; shlokas = 59 kaTA 10
+Video-20250205_000647-Meeting Recording.mp4  lines=096.10-096.18; इह समये
+Video-20250205_235039-Meeting Recording.mp4  lines=096.19-096.34; shlokas = 60,61,62
+Video-20250207_000204-Meeting Recording.mp4  lines=096.35-097.02; shlokas = 63,64
+Video-20250212_000446-Meeting Recording.mp4  lines=097.02-097.14; 
 
 
 
+अवगमनम्   understanding the text  तात्पर्यचर्चा , opp. to उच्चारण
+उपमानम्   अलंकार  simile
+Example: The man is tall like a tree.
+उपमानम्      tree   
+उपमेयम्       man
+उपमावाचकम्   like (-वत्, इव, other
+समानधर्मः     tall(ness)
+
+
+typo 097.32 भ्रह्मपुरवासिनः  ->  ब्रह्मपुरवासिनः
+typo 097.19 क्षालयन्त्यपि  -> क्षालयन्नपि 
+typo 096.42 तद् इदानीं -> तदिदानीं
+typo 096.08  कश्चिद् उष्ट्रो  -> कश्चिदुष्ट्रो
+typo 094.08 कर्ये  -> कार्ये 
+typo 093.07 पृष्ठवान् -> पृष्टवान् 
+typo 092.24 प्राग् एव -> प्रागेव 
+typo 092.16 अनन्तरंआवाभ्यामियं -> अनन्तरमावाभ्यामियं
+typo 091.05 महाविषुवत्संक्रान्त्यां  -> महाविषुवसंक्रान्त्यां  Print change. (remove त)
+typo 089.25 व्याघ्रापि  -> व्याघ्रमपि
+typo 088.37F:  कश्चिद् वदति -> कश्चिदाह    [वद् -> ब्रू[
 अर्थशास्त्र  चाणक्य  read an intro ...  re 073.08
   related to economy, but further discusses administration of kingdom, management; practical;
 
@@ -433,10 +468,8 @@ Edgar Casey, Many Mansions, chapter on women.  Ref. 2.139 सा स्त्र
 
 Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
-
-
 emacs selection from hitokale_deva_p.txt
-\(071...F:\)\|\(072...F:\)\|\(073...F:\)\|\(074...F:\)\|\(075...F:\)\|\(076...F:\)\|\(077...F:\)
+\(072...F:\)\|\(073...F:\)\|\(074...F:\)\|\(075...F:\)\|\(076...F:\)\|\(077...F:\)\|\(078...F:\)\|\(079...F:\)\|\(080...F:\)\|\(081...F:\)\|\(082...F:\)\|\(083...F:\)\|\(084...F:\)\|\(085...F:\)\|\(086...F:\)\|\(087...F:\)\|\(088...F:\)\|\(089...F:\)\|\(090...F:\)\|\(091...F:\)\|\(092...F:\)\|\(093...F:\)\|\(094...F:\)\|\(095...F:\)\|\(096...F:\)\|\(097...F:\)\|\(098...F:\)
 
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
