@@ -397,8 +397,10 @@ Video-20250306_000334-Meeting Recording.mp4  lines=099.18-099.25; shlokas = 89,9
 Video-20250310_234910-Meeting Recording.mp4  lines=100.01-100.10; shlokas = 92,93,94
 Video-20250313_235849-Meeting Recording.mp4  lines=100.11-100.24; shlokas = 95,96
 Video-20250319_000747-Meeting Recording.mp4  lines=100.25-100.36
+Video-20250506_001607-Meeting Recording.mp4  lines=005.12-005.19; shlokas = 1.1-1.2
 
 
+typo 005.01 तत्र -> तव  (print not clear)
 03-19-2023  Mark the story  (idea to discuss further with Usha).****************
 अवगमनम्   understanding the text  तात्पर्यचर्चा , opp. to उच्चारण
 उपमानम्   अलंकार  simile
