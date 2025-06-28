@@ -1552,18 +1552,18 @@
 </P>
 <C>
 ; Kale typo कमुदि -> कुमुदि; line break भग-वति
-; अथ an auspicious particle, now; कदाचित् a some time, once
+; अथ an auspicious particle, now; कदाचित् at some time, once
 ; अव down, सन्न fr. सद् to sit , अवसन्न sunk down, ended;
 ; रात्रौ 7s रात्रि night;
-; अस्ताचल = क्षितिभृत् (MW) earth-bearer, mountain
+; अस्ताचल = (MW) अस्तक्षितिभृत् western mountain
 ; अस्त western, अचल unmoving, mountain; चूडा (rooster) crest
 ; अवलम्बिन् hanging down; भगवत् possessing fortune, glorious; 
 ; कुमुदिनी lotus, नायक lord; चन्द्रमस् moon;
 ; लघु swift, पतन flying, नामन् n. name (नामा is m. nom. sg.)
 ; वायस crow (वयस् = वि bird); प्रबुद्ध awakened;
 ; कृतान्त कृत-अन्त causing an end, death;
-; द्वितीय second, आयान्त arrival; participle आया AyA coming
-; KALE व्याध piercer, hunter; 
+; द्वितीय second, आयान्त arrival, participle आया AyA coming
+; व्याध piercer, hunter; 
 </C>
 <E>
 005.22-23E: Once, when the night was almost spent, and the divine Moon, lord of the night-lotus, was pending on the crest of the setting mountain, a crow, Laghupatanaka (Swift-flier) by name, who was awake, saw a fowler advancing like a second god of death.
@@ -1588,8 +1588,10 @@
 ; दर्शन seeing, sight ; जात is born, produced, happened;
 ; जाने pre. 1s ज्ञा to know; अभिमत wished for, अनभिमत 
 ; दर्शयिष्यति caus. fut. दृश्  Will show
-; अनुसरण following; क्रम manner;  तद् = तस्य 
+; अनुसरण following; क्रम manner, step, क्रमेण gradually (time/space)
+;  तद् = तस्य 
 ; व्याकुल entirely filled with (agitated); चल् to go;
+; कुल a herd, आकुल full of, confounded; 
 </C>
 <E>
 005.24-25E: Seeing him he reflected "To-day I have had an unwelcome sight in the early morning. I know not what evil it forebodes." Saying so he set out, much disturbed at heart, following up his (the fowler's) course. For,
@@ -1629,8 +1631,8 @@
 006.01P: विषयिणां -- संसारिणाम् ।
 </P>
 <C>
-; विषयिन् attached to  विषय (worldly object);
-; अवश्याम् ind. necessarily; इदम् this; 
+; विषयिन् a sensualist, worldling, king; (विषय any sense object)
+; अवश्यम् ind. necessarily; इदम् this; कर्तव्य to be done;
 </C>
 <E>
 006.01-01E: Moreover, worldly people must do this --
@@ -1651,7 +1653,7 @@
 006.03P: मरणव्याधिशोकानां मध्ये अद्य किं निपतिष्यति इति न ज्ञायते इति विचिन्त्य तत्प्रतिकारचिन्तापरैः स्थातव्यमित्यर्थः ।
 </P>
 <C>
-; उत्थाय having arisen; उत्थायोत्थाय every time one rises (from bed)
+; उत्थाय having arisen; उत्थायोत्थाय every day on rising [KALE]
 ; बोद्धव्य to be known; भय fear, danger;
 ; उपस्थित near-positioned, impending
 ; मरण dying, death; व्याधि disease; शोक affliction
@@ -1674,8 +1676,10 @@
 <P>
 </P>
 <C>
-; taRqula rice, kaRa grain; vi-kF scatter about; jAla net; vi-stF to spread
-; Cad to cover, hide
+; व्याध hunter;
+; तण्डुल rice, कण a small grain; वि-कॄ to scatter about; जाल net
+; वि-स्तॄ to spread; छद् to cover, hide; प्रच्छन्न covered, hidden;
+; स्थित standing, staying, remaining;
 ; tvA   eg. stftvA; lyap vi-stIrya
 </C>
 <E>
@@ -1696,8 +1700,11 @@
 006.06P: कपोतराजः -- कपोतानां राजा ।
 </P>
 <C>
-; parivAra follower; viyati (loc. sing.) viyat sky
-; sarpan prap m. sg. nom. sfp; vi-sfp to glide
+; काल time; चित्र speckled, ग्रीव neck; नामा ifc. m. 1 s, named;
+; कपोत pigeon; परिवार follower, सपरिवार with followers;
+; वियति (7 sg.) वियत् sky;
+; सर्पन् prap m. sg. nom. सृप्, विसृप् to glide; तण्डुल rice;
+; कण grain (small quantity); अवलोक् to see, notice;
 </C>
 <E>
 006.06-07E: Just at that time a king of pigeons, Chitragriva (the Speckle-necked) by name, who was sailing in the sky with his retinue, noticed the grains of rice.
@@ -1707,7 +1714,7 @@
 <group ident="006,08,10" type="prose">
 <F>
 006.08F: ततः कपोतराजस्तण्डुलकणलुब्धान्कपोतान् प्रत्याह -- कुतोऽत्र निर्जने
-006.09F: वने तण्डुलकणानां सम्भवः । तन् निरूप्यतां तावत् । भद्रमिदं न
+006.09F: वने तण्डुलकणानां सम्भवः । तन्निरूप्यतां तावत् । भद्रमिदं न
 006.10F: पश्यामि । प्रायेणानेन तण्डुलकणलोभेनास्माभिरपि तथा भवितव्यम् ।
 </F>
 <A>
@@ -1719,12 +1726,17 @@
 006.08P: राजाहःसखिभ्यष्टच् इति टच् प्रत्ययः ।
 </P>
 <C>
-; prati-ah to tell, say;  ([Usha says] ah is not a DAtu;
-; the brU DAtu has some forms (e.g. Aha) 
-; kutas whence?; nir-jana without people
-; samBava origin; ni-rUp to investigate; tAvat meanwhile, now; Badra auspicious
-; api taTA: Kale has api iTA (probable typo)
-; prAyeRa probably (prAya chief part); Bavitavyam it should become
+; कपोत pigeon, राज ifc. king; तण्डुल rice, कण grain;
+; लुब्ध desirous of; 
+; अह् MW defective verb, to say; ([Usha says] अह् is not a धातु);
+; प्रत्यह् to tell, say;  
+; the ब्रू धातु has some forms (e.g. आह) 
+; कुतस् whence?; निर्जन without people
+; सम्भव origin; निरुप् to investigate; तावत् meanwhile, now
+; भद्र auspicious; प्रायेण  probably (प्राय  chief part)
+; लोभ eager desire for;
+; अपि तथा even so (MW); [ Kale has अपि इथा (Kale error?) ]
+; भवितव्यम् it should become
 </C>
 <E>
 006.08-10E: Then the pigeon-king said to the pigeons that were attracted by the grains of rice -- Whence can there be the possibility of rice-grains being found in this lonely (tenantless) forest? So let the matter be first carefully examined. I do not see any good will come out of this. Probably by this our desire for the rice-grains, we shall fare similarly (meet with a fate similar) to that of --
@@ -1744,8 +1756,10 @@
 006.12P: पथिकः -- पन्थानं नित्यं गच्छतीति पथिकः पान्थः वा । पाणि। ५।१।७५ ।
 </P>
 <C>
-; kaNkaRa bracelet; magna sunk (majj to sink); su-dustara very difficult to be crossed;
-; vyAGra tiger; paTika traveller
+; कङ्कण bracelet; मग्न sunk (मज्ज् to sink); पङ्क mud, a mire
+; सुदुस्तर very difficult to be crossed;
+; वृद्ध old,व्याघ्र tiger; सम्प्राप्त obtained; पथिक traveller 
+; मृत dead; यथा in which manner;
 </C>
 <E>
 006.11-12E: The traveller, who through the lust of a bracelet, sank in deep mire and being caught by an old tiger, lost his life.
@@ -1764,7 +1778,8 @@
 <P>
 </P>
 <C>
-; saH = citragrIvaH kapotarAjA
+; कपोत pigeon; कथा story, tale, fable;
+; सोब्रवीत् सः = चित्रग्रीव;
 </C>
 <E>
 006.13-14E: The pigeons asked how it was ; whereupon he related --
@@ -1783,9 +1798,10 @@
 <P>
 </P>
 <C>
-; dakziRa right side, southern
-; kuSa grass (ceremonial grass) (darBa bunch of grass) ;
-; hasta hand (paw); saras lake;
+; दक्षिण right side, southern; अरण्य wilderness, desert, forest;
+; चरन् चर् वृद्ध old, व्याघ्र tiger; स्नात bathed;
+; कुश grass (ceremonial grass) हस्त hand (paw); सरस् lake;
+; तीर a shore, bank;
 </C>
 <E>
 001.15-16E: Once while roaming in the southern forest I saw -- A certain old tiger, having bathed and taken Kusa grass in his paw, used to address (the passers by sitting) on the margin of a lake (thus) --
@@ -1806,13 +1822,14 @@
 <P>
 </P>
 <C>
-; panTAH (traveler) 'paTin' m. sg. nom./voc. (Huet)
-; su-varRa good color, golden
-; A-kfzwa drawn toward, attracted; A-locita considered;
-; pAnTena paTin traveler; Aloc to consider; BAgya fate, good fortune
-; samBU to happen, to be born, to arise
-; saMdeha risk (dih to smear, anoint; saMdih to smear, to be doubtful
-; pravftti moving onwards; viDA ~ kf, viDeya to be arranged.
+; भोस्  O! Ho! Hallo!; 
+; पन्थाः (m. sg. nom./voc. Huet) पथिन् traveler
+; सुवर्ण good color, golden; कङ्कण n. bracelet; ग्रह् to take;
+; लोभ greed; आकृष्ट  drawn toward, attracted; 
+; पान्थेन  m. 3s. पान्थ = पथिन् traveler; आलोचित considered;
+; भाग्य fate, good fortune; सम्भू to happen
+; संदेह risk (दिह् to smear, anoint; संदिह् to smear, to be doubtful)
+; प्रवृत्ति  moving onwards; विधा to do, विधेय to be arranged.
 </C>
 <E>
 006.15-19E: "Ho, ho, travellers, take this gold bracelet." Then a certain traveller, attracted by greed, thought to himself -- This happens by good luck. But I must not proceed in a matter where there is personal risk. For,
@@ -1822,7 +1839,7 @@
 <group ident="006,20,21" type="shloka 1,6">
 <F>
 006.20F: अनिष्टादिष्टलाभेऽपि न गतिर्जायते शुभा ।
-006.21F: यत्रास्ते विषसंसर्गोऽमृतं तद् अपि मृत्यवे ॥ १,६॥
+006.21F: यत्रास्ते विषसंसर्गोऽमृतं तदपि मृत्यवे ॥ १,६॥
 </F>
 <A>
 006.20A: अनिष्टात् इष्टलाभे अपि न गतिः जायते शुभा ।
@@ -1831,10 +1848,13 @@
 <P>
 </P>
 <C>
-; lABa obtaining; gati result (going, means); jan be born, to occur;
-; SuBa pleasant;
-; Aste (he) sits, to lead to (with dative);
-; viza poison; saMsarga contact; a-mfta Nectar of immortality;
+; अनिष्ट not wished for; इष्ट wished for, लाभ obtaining
+; गति result (going, means); जन् be born, to occur;
+; शुभ auspicious; यत्र where, wherever;
+; आस्ते 3 s. आस्  to lead to (with dative);
+; विष poison; संसर्ग contact; अमृत Nectar of immortality;
+; मृत्यवे 4s मृत्यु death;
+; अर्थान्तरन्यास 
 </C>
 <E>
 006.20-21E: Although a desired object be obtained from an undesirable source, the result is not good ; even nectar (or sweet-food), which is contaminated with poison, leads to death.
@@ -1852,8 +1872,10 @@
 006.22P: सर्वत्रेति -- अथार्जने प्रवृत्तेन नरेण आत्मा सर्वत्र संदेहे पात्यते एव ।
 </P>
 <C>
-; fj to obtain, arjana obtaining (lABa); saMdeha risk (doubt)
-; saptamaSSlokaH or saptamaH SlokaH
+; सर्वत्र everywhere; अर्थ objective, purpose;
+; ऋज् to obtain, अर्जन obtaining (=? लाभ)
+; प्रवृत्ति progress; संदेह risk (doubt)
+[? ; सप्तमश्श्लोकः or सप्तमः श्लोकः ?]
 </C>
 <E>
 006.22-22E: But an attempt to get wealth is in every case, attended with peril. And it is said in connection with this --
@@ -1874,7 +1896,9 @@
 006.24P: पुनः संशयं आरुह्य यदि जीवति तर्हि भद्रं पश्यति एव । साहसे श्रीः प्रतिवसति इति भावः । म।भा।आ।प।अ।१४०। श्लो।७३।
 </P>
 <C>
-; saMSaya doubt, danger; Badra good fortune
+; संशय doubt, danger; आरुह् to ascend, mount, *undertake*
+; नर a man;
+; भद्र good fortune; पुनर् on the other hand; जीव् to live
 </C>
 <E>
 006.23-24E: Without embarking upon an adventure a man does not see good fortune ; but if he does embark upon it and lives (survives it), he sees it.
@@ -1897,11 +1921,12 @@
 006.27P: आत्मा कलेवरे याने स्वभावे परमात्मनि । इति धरणिः।
 </P>
 <C>
-; ni-rUp to investigate
-; prakASam ind. openly. (cf. Alocita consider privately)
-; prasArya (pra-sf) have put forth
-; dfS (Caus.) to show; mAra killing, Atmaka having the nature of
-; viSvAsa confidence.
+; निरूप् to investigate
+; प्रकाशम् ind. openly; कुत्र where?; कङ्कण bracelet; व्याघ्र tiger; 
+; प्रसार्य (प्रसृ pra-sf) caus. to put forth
+; दृश् (Caus.) to show; पान्थ a traveler;
+; मार killing, आत्मक having the nature of
+; विश्वास confidence.
 </C>
 <E>
 006.25-27E: Let me therefore carefully see it. He said aloud -- "Where is thy bracelet?" The tiger stretched forth his paw and showed it. The traveller said - How am I to trust thee who art ferocious ?
@@ -1922,11 +1947,15 @@
 <P>
 </P>
 <C>
-; pAnTa voc. pAnTa traveller (= paTin = paTika)
-; re voc. particle (usu. to a 'junior').  prAN ind. before (in place or time)
-; yOvana youth, daSA period (of life);
-; vft = be (here, not turn); dur-vftta bad behavior; Asam I was
-; go-mAnuza cow and man; vaDa killing
+; पान्थ voc. पान्थ m. traveller (= पथिन् = पथिक)
+; रे voc. particle (usu. to a 'junior')
+; प्राक् ind. before (in place or time), formerly; प्राञ्च्
+; यौवन youth, दशा a period of life;
+; वृत् = be (here, not turn); दुर्वृत्त bad behavior, wicked
+; आसम् I was
+; अनेक many; गो-मानुष cow and man; वध killing
+; पुत्र son; मृत dead; दाराः wife m. pl. दार; वंश family, lineage;
+; हीन without; 
 </C>
 <E>
 006.28-30E: The tiger replied -- Listen, O traveller. Formerly, indeed, in the days of youth, I was extremely wicked. On account of my slaughter of many a cow and man, my sons and wife perished ; and I am without issue.
@@ -1950,12 +1979,17 @@
 006.33P: विश्वास -- वि। पात्रम् ।
 </P>
 <C>
-; DArmika virtuous (person); Adizwa directed, ordered, instructed
-; Adika ? not MW. Presume same sense as 'Adi'. '-ka' = svArTe
-; car to go, to undertake; BavAn m. sing. Bavat 'honorable sir'
-; upadeSa instruction; SIla habit; dAtf a giver; 
-; galita fallen off (gal to drip, fall off, vanish)
-; viSvAsa (confidence) BUmi ground (viSvAsa-BUmi trustworthy person)
+; धार्मिक virtuous (person); आदिष्ट directed, ordered, instructed
+॑; दानधर्मादिक = दान धर्म आदिक
+; आदिक (not MW.) ifc. beginning with, and so on;
+; चर् to go, to undertake; भवान् m. s. भवत् 'honorable sir'
+; उपदेश instruction; इदानीम् now;
+; स्नान bathing, शील habit; दातृ a giver; 
+; गलित fallen off (गल् to drip, fall off, vanish)
+; नख fingernail, claw, दन्त tooth, fang;
+; विश्वास (confidence) भूमि ground, object, place;
+; विश्वासभूमि one who is object of confidence;
+; [ अर्थचर्चा discussion after उच्चारण ]
 </C>
 <E>
 006.31-33E: I was then advised by a holy man to practice charity and do such other holy deeds. Following his counsel, I am now in the habit of bathing and giving gifts ; I am old and have lost my nails and teeth ; how can I not be an object of confidence then! For,
@@ -1976,10 +2010,14 @@
 007.02P: अध्ययनं -- स्वाध्यायाभ्यासः ।
 </P>
 <C>
-; ijyA sacrifice; aDyayana study (of scriptures); dAna donation;
-; tapas austerity; satya truthfulness; Dfti holding, courage (Kale ?patience)
-; kzamA patience, forgiveness; a-loBa non-greed
-; viDA division, part;
+; इज्या sacrifice; अध्ययन study (of scriptures)
+; दान donation, charity; तपस् austerity; सत्य truthfulness
+; धृति holding, firmness (Kale patience)
+; क्षमा patience [ forgiveness ]; अलोभ non-greed
+; मार्ग path; धर्म duty; 
+; अष्ट eight, विधा division, part, अष्टविध eight-fold;
+; स्मृत prescribed in स्मृति (what is remembered by human teachers॒);
+8
 </C>
 <E>
 007.01-02E: Sacrificing, studying one's prescribed portion (of the Vedas), charity, penance, truthfulness, patience, forgiveness and freedom from avarice -- this is the eightfold way of doing religious duties as laid down in the Smritis.
@@ -1998,9 +2036,11 @@
 <P>
 </P>
 <C>
-; pUrva first, former ; varga division, class (vfj to avoid); damBa deceit
-; sev to serve, practice
-; uttara latter (upper)
+; पूर्व first, former; चतुर् four, वर्ग division, class (वृज् to avoid)
+; दम्भ deceit [KALE display] दभ्, अर्थ purpose
+; सेव् to serve, practice सेव्यते is pass. but pass. doesn't work !
+; उत्तर latter (upper); महात्मन् high-souled, noble;
+; तिष्ठति स्था exists;
 </C>
 <E>
 007.03-04E: Out of these the first four may be practised even for display, while the last four are found in the magnanimous-hearted only.
@@ -2021,11 +2061,16 @@
 <P>
 </P>
 <C>
-; etAvat so great, so far; viraha abandonment (rah to part, to leave)
-; etAvat is 'paired with' yena.
-; sva my, hasta hand, sTa residing
-; taTApi nevertheless, yet; loka world; apavAda evil speaking;
-; dur-ni-vAra difficult to be kept back (vf to cover, to ward off, to keep back)
+; एतावान् एतावत् so great, so far; लोभ greed;
+; विरह abandonment (रह् to part, to leave)
+; एतावान् m. nom. sg. एतावत् so much (is 'paired with' येन)
+; स्व my (one's own) हस्त hand, स्थ residing
+; सुवर्ण golden, कङ्कण  bracelet;
+; तथापि nevertheless, yet; व्याघ्र tiger; मानुष man; खाद् to eat;
+; लोक world; अपवाद evil speaking;
+; दुर्निवार difficult to be kept back;
+; वृ to cover, to ward off, to keep back;
+; निवृ to hold back from, prevent;
 </C>
 <E>
 007.05-07E: And so great is my freedom from desire, that I wish to give away, to any body whatsoever, the gold bracelet although secure in my hand. Yet the (indiscriminate) talk of the people that a tiger eats men is difficult to be avoided (lit., warded off). For,
@@ -2046,9 +2091,14 @@
 007.08P: कुट्टनी -- पर-नारीं पुंसा योजयित्री स्त्री ।
 </P>
 <C>
-; gata gone, anugatika a follower, gatAnugatika following what precedes, imitative
-; kuwwanI bawd ('a woman in charge of a brothel'); upadeSin advising
-; man:  (caus. mAnayati) to value highly; no ind. and not
+; गत gone, अनुगतिक a follower; लोक the world (of people);
+; गतानुगतिक following what precedes, imitative
+;  doing as others do, a blind follower
+; कुट्टनी bawd ('a woman in charge of a brothel')
+; उपदेशिन् advising [KALE preaching]
+; प्रमाणयति caus. प्रमन् (मन्) to value highly
+; नो ind. and not; धर्म [KALE religious matter];
+; गोघ्न cow-killer; द्विज twice-born; 
 </C>
 <E>
 007.08-09E: People, who are the blind followers of one another, regard not a preaching bawd as an authority in religious matters, as they do a Brahmana although (he happens to be) a cow-killer.
@@ -2065,6 +2115,8 @@
 <P>
 </P>
 <C>
+; धर्म [KALE religious law], शास्त्र instrument of teaching, book;
+; अधीत studied; 
 </C>
 <E>
 007.10-10E: I, on my part, have studied the codes of religious law. Hear me.
@@ -2083,10 +2135,12 @@
 <P>
 </P>
 <C>
-; maru wilderness, desert (mf to die), sTalI place; vfzwi rain
-; kzuDA = kzuD  hunger; kzuDA + fta, afflicted with hunger; Bojana food
-; Kale typo : dAna -> dAnaM
-; sa-Pala fruitful.  pARqu-nandana - beloved of pARqu (= Arjuna or any other son)
+; मरु wilderness, desert (मृ to die), स्थली dry ground
+; वृष्टि rain
+; क्षुधार्त क्षधा = क्षुध्  hunger; आर्त afflicted with; भोजन food
+[ Kale typo : दान -> दानं ]
+; दरिद्र poor; दीयते pre. ps. दा to give; दान n. gift; सफल fruitful
+; पाण्डुनन्दन beloved of पाण्डु (such as Arjuna)
 </C>
 <E>
 007.11-12E: O son of Pandu, as is a shower of rain to the Maru (desert) land, or food to one afflicted with hunger, so is a gift to the poor, full of fruit.
@@ -2105,8 +2159,11 @@
 <P>
 </P>
 <C>
-; prARa breath, pl. life;  te refers prARAH
-; Opamya comparison (upa-mA); dayA compassion; sADu good (person)
+; प्राण breath, pl. life; ते refers प्राणाः;
+; आत्मनः 1pl. 5s/6s* अभीष्ट wished, desired; भूत a living being;
+; औपम्य comparison (उपमा); भूतेषु loc. pl. beings;
+; दया pity   (pity for + locative)
+; दया compassion; साधु good (person)
 </C>
 <E>
 007.13-14E: As life is dear to oneself so it is to (other) creatures. The good show pity to creatures by comparing (them) to themselves.
@@ -2125,10 +2182,14 @@
 <P>
 </P>
 <C>
-; pratyAKyAna telling against, refusal; priya liked
-; Kale typo: AtmOpamyEna -> AtmOpamyena
-; puruzaH by Chandas rules, this 6th syllable SHOULD be dIrGa, 'pUruzaH'
-; pramARa right measure, standard; aDi-gam to acquire, know (to go over?)
+; प्रत्याख्यान telling against, refusal;
+[? ; Kale typo: AtmOpamyEna -> AtmOpamyena ?]
+[? ; puruzaH by Chandas rules, this 6th syllable SHOULD be dIrGa, 'pUruzaH' ?]
+; दान giving, a gift; सुख happiness, दुःख sorrow
+; प्रिय pleasing अप्रिय unpleasing; औपम्य comparison (उपमा)
+; आत्मौपम्य comparison to self; पुरुष a man
+; प्रमाण (right) measure, standard
+; अधिगम् to acquire, know (to go over)
 </C>
 <E>
 007.15-16E: Moreover. In refusing and giving, in pleasure and pain, and in things (or acts) agreeable and disagreeable, a man knows the standard (of action) by self-comparison.
@@ -2148,7 +2209,9 @@
 007.17P: मातृवत् -- मात्रा तुल्यं मातृवत् ।
 </P>
 <C>
-; -vat 'as' ; lozwa clod (of earth)
+; -वत् 'as'; मातृवत् like a mother; परदार m. pl. another's wife;
+; परद्रव्य another's wealth; लोष्ट clod (of earth);
+; आत्मवत् like oneself; सर्वभूत all creatures; पण्डित wise;
 </C>
 <E>
 007.17-18E: Also. He, who looks upon another's wife as a mother, another's wealth as a clod of earth, and upon all creatures as his own self, is a (truly) wise man.
@@ -2165,8 +2228,9 @@
 <P>
 </P>
 <C>
-; atIva very; dur-gata badly-gone, distressed; tena 'by that', 'since'?; tat = kaNkaRa
-; sa-yatna with effort, endeavoring to
+; अतीव  very; दुर्गत badly-gone, distressed
+; तेन 'by that', 'since'?; तत् = कङ्कण् bracelet; दा to give
+; सयत्न with effort, endeavoring to; 
 </C>
 <E>
 007.19-19E: You are in hard distress (lit., extremely ill-situated) and hence I am endeavouring to give it to you.
@@ -2187,13 +2251,17 @@
 007.21P: निर्गता रुजा यस्यासौ नीरुजः तस्यौषधैः किं न किमपि प्रयोजनमित्यर्थः । श्लो। १६ -- भगवद्गीता अ। १७।२० ।
 </P>
 <C>
-; Bf to bear, support;
-; Isvare:  vaktuH icCA = vivakzA ; speaker's intention
-; kuntI wife of pARqu, mother of yuDizWira, BIma, and arjuna.
-; Isvara rich, powerful (why not ISvarAya ?)
-; vyADita sick (vyADi sickness); OzaDa medicine;
-; paTya 'belonging to the way', suitable.
-; nIruja = niruj also niruja = healthy (rujA breaking, pain, disease)
+; दरिद्र poor; भृ to bear, support;
+; कौन्तेय son of Kuntī one of Yudhiṣṭhira, Bhīma or Arjuna
+; प्रयच्छ यच्छ ipv-1a 2s यम् प्रयम् to give
+; ईश्वर wealthy, a lord; धन property, money
+; व्याधित sick (व्याधि sickness), आधि anxiety, pain;
+; औषध n. medicine;
+; पथ्य 'belonging to the way', suitable.
+; नीरुज = निरुज healthy (रुज breaking, pain, disease)
+; औषध n. medicine;
+[? ; vaktuH icCA = vivakzA ; speaker's intention
+; kuntI wife of pARqu, mother of yuDizWira, BIma, and arjuna.?]
 </C>
 <E>
 007.20-21E: Enrich the poor, O son of Kunti ; bestow not wealth upon the rich; medicine is wholesome to him who is diseased; what need of medicine has he that is whole ?
@@ -2203,7 +2271,7 @@
 <group ident="007,22,23" type="shloka 1,16">
 <F>
 007.22F: अन्यच्च । दातव्यमिति यद्दानं दीयतेऽनुपकारिणे ।
-007.23F: देशे काले च पात्रे च तद् दानं सात्त्विकं विदुः ॥ १,१६॥
+007.23F: देशे काले च पात्रे च तद्दानं सात्त्विकं विदुः ॥ १,१६॥
 </F>
 <A>
 007.22A: अन्यत् च । दातव्यम् इति यद् दानम् दीयते अन्-उपकारिणे ।
@@ -2212,9 +2280,11 @@
 <P>
 </P>
 <C>
-; an-upakArin not a benefactor ( not assisting, useless)
-; pAtra (drinking vessel) proper recipient (Kale)
-; sAttvika having 'sattva', good;  viduH prf. 3 pl. vid
+; दातव्य to be given; दान n. a gift; दीयते pre-p 3s दा to give
+; अनुपकारिन् not a benefactor (not assisting, useless) कारिणे 4 sg.
+; देश place, काल time;
+; पात्र (drinking vessel) proper recipient (KALE)
+; सात्त्विक having सत्त्व, good; विदुः prf. 3 pl. विद् to know;
 </C>
 <E>
 007.22-23E: And again. A gift, which is given for the sake of charity, to one who is not a benefactor (or who cannot make a return for it), and in the proper place, at the proper time and to a proper recipient is, (the sages) consider, a gift of the best sort.
@@ -2223,7 +2293,7 @@
 
 <group ident="007,24,25" type="prose">
 <F>
-007.24F: तद् अत्र सरसि स्नात्वा सुवर्णकङ्कणं गृहाण ॥ ततो यावदसौ
+007.24F: तदत्र सरसि स्नात्वा सुवर्णकङ्कणं गृहाण ॥ ततो यावदसौ
 007.25F: तद्वचः प्रतीतो लोभात्सरः स्नातुं प्रविशति तावन्महापङ्के निमग्नः पलायितुमक्षमः ।
 </F>
 <A>
@@ -2233,9 +2303,14 @@
 <P>
 </P>
 <C>
-; yAvat .. tAvat  as soon as;  asO he ( pAnTaH)
-; vacaH (n. acc. sg.) speech; pratIta 'gone toward', acknowledged, convinced of
-; paNka mud; palAy to flee; a-kzama unable.
+; सरस् a lake; स्नात्वा having bathed; सुवर्णकङ्कण golden bracelet;
+; गृहाण ipv-9a 2s ग्रह् to take;
+; यावत् .. तावत्  as soon as;  असौ he ( पान्थः)
+; वचः (n. acc. sg.) speech
+; प्रतीत 'gone toward', convinced of
+; लोभ greed; सरस् lake; स्नातुम् to bathe; प्रविश् to enter;
+; पङ्क mud; निमग्न plunged, sunk; 
+; पलाय् to flee; अ-क्षम unable.
 </C>
 <E>
 007.24-25E: Therefore, bathe in this lake and accept this gold bracelet. Thereupon, placing confidence in his words, no sooner did the traveller enter the lake for bathing than he stuck in deep mud and was unable to run away.
@@ -2256,7 +2331,10 @@
 <P>
 </P>
 <C>
-; ahaha alas; atas therefore; 
+; पङ्क mud; पतित fallen;  दृष्ट्वा having seen; व्याघ्र tiger;
+; अहह alas; अतस् therefore; उत्थापयामि caus. उत्था to lift;
+; शनैस् slowly; उपगम् to approach; धृत supported, seized;
+; पान्थ traveller; चिन्त् to think, reflect;
 </C>
 <E>
 007.26-28E: The tiger seeing him plunged into the mire said -- Ha, thou art fallen into deep mud. I will lift thee out of it. Saying so he approached him gently : and the traveller being seized by the tiger reflected --
@@ -2281,10 +2359,14 @@
 </P>
 <C>
 ; 4-line Sloka begins
-; kAraRa cause, principle
-; SvasyAt opt. 3s
-; ric to empty, ati-ric to surpass
-; prakfti nature
+; धर्मशास्त्र law book; पठ् to read; 
+; कारण  cause, principle
+; वेद the Vedic texts, अध्ययन reading, studying;
+; दुरात्मन् [whose self is bad,] evil-natured;
+; स्वभाव one's own nature; 
+; रिच् to empty, अतिरिच् (cl. 4) to surpass, to predominate
+; प्रकृति  nature; मधुर sweet; गवाम् 6p गो cow; पयस् n. milk;
+[? ; SvasyAt opt. 3s ?]
 </C>
 <E>
 007.29-32E: That he reads the texts of religious law or studies the Vedas, is no reason why confidence should be reposed in a villain : it is the nature that predominates in such a case : just as by nature the milk of cows is sweet.
@@ -2307,12 +2389,13 @@
 007.35P: दुर्भगा -- दुःशीलापोषणवत्। दुर्भगायाः आभरणवत् इति वा ।
 </P>
 <C>
-; avaSa unrestrained, indriya sense; citta n. mind;
-; hastin elephant; kriyA (doing) religious ceremony
-; dur-Baga 'having a bad portion'; dur-BagA (ill-tempered) (bad-looking) woman
-; Baga good fortune, BagA ifc. dignity, beauty
-; ABaraRa ornament;  prAya like (at end of compound (AP90))
-; BAra burden (Bf to bear)
+; अवश unrestrained, इन्द्रिय sense; चित्त n. mind;
+; हस्तिन् elephant; क्रिया (doing) religious ceremony, action
+; दुर्भग 'having a bad portion'
+; दुर्भगा (ill-tempered) (bad-looking) woman
+; भग good fortune, भगा ifc. dignity, beauty
+; आभरण ornament;  प्राय like (ifc. (AP90))
+; भार burden (भृ to bear)
 </C>
 <E>
 007.33-35E: Also, the actions of those, whose senses and mind are not under control, are like the bath of an elephant [which is useless, as the animal is sure to cover his body the next moment with mud]; knowledge without action is a burden, like feeding an ill-natured (lit. unlucky) woman or like ornaments on an ugly woman.
@@ -2331,7 +2414,11 @@
 <P>
 </P>
 <C>
-; mAra killing, Atmaka having the character of; 
+; तद् therefore [Sandhi तद् + मया -> तन्मया ?]
+; भद्र auspicious, good; कृत done;
+; यदत्र यद् + अत्र since here [?];
+; मार killing, आत्मक having the character of, मारात्मक murderous
+; विश्वास confidence; कृत done; 
 </C>
 <E>
 008.01-02E: I, therefore, did not do well in that I placed confidence in this ferocious beast. For, says the precept --
@@ -2350,7 +2437,10 @@
 <P>
 </P>
 <C>
-; pARin hand; naKin having claws; SfNgin having horns
+; नदी river; 
+; पाणिन् hand; नखिन् having claws; शृङ्गिन् having horns
+॑; विश्वास confidence; कर्तव्य to be done; स्त्री woman;
+; राजकुल royal family;
 </C>
 <E>
 008.03-04E: Trust should never be placed in rivers, in persons having weapons in their hands, in animals armed with claws, and horns, as well as in women and royal families.
@@ -2369,11 +2459,14 @@
 <P>
 </P>
 <C>
-; [** As far as third favor is concerned.]  This is a misplaced footnote.
-; parIkz to look round, inspect (passive) ; sva-BAva one's own condition (natural state)
-; itara another (itare m. Nom. pl.)
-; atI = ati-i to pass by, to overcome; atItya = having surpassed (not in dictionaries!)
-; mUrDan head; vft to be
+; [? As far as third favor is concerned.  This is a misplaced footnote. ?]
+; परीक्ष् to examine, test; 
+; स्वभाव one's own condition (natural state)
+; अतीत्य [KALE having surpassed] (not in dictionaries!)
+; अतीत्य अति + इत्य to be gone towards;
+; इतर another (इतरे m. Nom. pl.) ; गुण quality, virtue;
+; अती = अति-इ to pass by, to overcome
+; मूर्धन्  head; वृत् to be
 </C>
 <E>
 008.05-06E: Again. It is the natural disposition of every one that is tested, and not his other qualities; for having surpassed all (other) qualities, disposition stands at the head.
@@ -2398,17 +2491,21 @@
 </P>
 <C>
 ; begin 4-line Shloka
-; gagana sky; vihArin wandering for pleasure;
-; kalmaza darkness (stain,sin) (karma + √so); DvaMsa destruction
-; RiniH ?
-; kara = 'ray of light' ; DArin bearing (Df); jyotis light, pl. 'stars'
-; viDu = 'moon' (lonely); viDi rule, viDiyoga observance of a rule;
-; viDiyogAt according to rule of fate (MW);
-; gras to swallow; rAhu 'the Seizer', a dEtya
-; asO that m. OR f.
-; liKita scratched, written; lalAwa = forehead
-; projJ = to abandon; sam-arTa capable
-; 'reading the forehead' is a skill analogous to palmistry!
+; गगन sky; विहारिन्  wandering for pleasure;
+; कल्मष  darkness (stain, sin) (? कर्म + √ सो)
+; ध्वंस  destruction, ध्वंसकारिन् destroying;
+; दशशत ten hundred = thousand;
+; कर = 'ray of light'; धारिन् bearing (धृ)
+; ज्योतिस् light, pl. 'stars'; मध्य middle, चारिन् moving;
+; विधु = 'moon' (lonely)
+; विधि rule, विधियोग observance of a rule OR
+; विधि fate, विधियोग the force of fate;
+; विधियोगात् according to rule of fate (MW);
+; ग्रस् to swallow; राहु 'the Seizer', a दैत्य
+; असौ that m. OR f, nom. sg. अदस् 
+; लिखित scratched, written; ललाट forehead
+; प्रोज्झ्  to abandon, efface; समर्थ capable
+; [? 'reading the forehead' is a skill analogous to palmistry! ?]
 </C>
 <E>
 008.07-10E: And further. That well-known sporter in the sky, the destroyer of sin (darkness), possessor of a thousand rays (bands), and marching in the midst of the stars. Even he, the Moon, is devoured (eclipsed) by Rahu, by the decree of fate: who is able to efface what is written on the forehead ?
@@ -2429,10 +2526,13 @@
 <P>
 </P>
 <C>
-; vyApAdita killed (vyApad caus. to cause to fall away)
-; aham = citragrIva
-; end of the vyAGra-paTika story (kaTA 1)
-; sarvaTA in every way; vicar caus. to examine, a-vicArita unexamined
+; चिन्तयन्  pr. part. m. sg. nom. चिन्त् ; व्याघ्र tiger;
+; व्यापादित killed (व्यापद् caus. to cause to fall away)
+; खादित eaten;
+; अहम् = चित्रग्रीव pigeon king; कङ्कण bracelet
+; लोभ greed, desire for
+; end of the व्याघ्रपथिक story (कथा 1)
+; सर्वथा in every way; विचर् caus. to examine, अविचारित unexamined
 </C>
 <E>
 008.11-13E: While thus musing he was killed by the tiger, and eaten. Therefore I say "Through the lust of a bracelet etc." For this reason nothing rash should at all be done. For,
@@ -2456,11 +2556,14 @@
 </P>
 <C>
 ; 4-line shloka
-; jF to grow old, to be digested
-; cakz to appear; vi-cakz to see clearly (vi special);
-; SAsita governed; 
-; vicArya having examined
-; vikriyA change (for the worse)
+; जॄ to grow old, to be digested; सुजीर्ण well digested
+; अन्न food
+; चक्ष् to appear; विचक्ष् to see clearly (वि special);
+; विचक्षण clear sighted, wise, clever;
+; शासित  governed; स्त्री a woman, wife; नृपति king;
+; सेवित served; सुचिन्त्य having well examined;
+; विचार्य having examined; दीर्घ long; काले time;
+; विक्रिया change (for the worse)
 </C>
 <E>
 008.14-17E: Food well digested, a son very wise (well educated), a wife well disciplined, a king served faithfully, what is spoken after being well thought over and what is done after due consideration -- these do not lead to a bad result even after a very long time.
@@ -2479,7 +2582,8 @@
 <P>
 </P>
 <C>
-; darpa pride, arrogance
+; दर्प pride, arrogance; सदर्पम् ind. arrogantly;
+; आः ind. interjection ;
 </C>
 <E>
 008.18-19E: On hearing these words a certain pigeon said arrogantly -- Ah, why is it so said ?
@@ -2498,9 +2602,12 @@
 <P>
 </P>
 <C>
-; Apad to fall (into misfortune); upa-sTita standing near, impending
-; samprasAraRam  ya-i, va-u, ra-f esp. in karmaRi (passive) e.g. vac ucyate
-; vicAra deliberation; Bojana eating; pra-vartana going forward, activity.
+; वृद्ध the aged; वचन speech, advise; ग्राह्य to be seized;
+; आपद् to fall (into misfortune), काल time;
+; उपस्थित standing near, impending;
+; विचार deliberation; भोजन eating भोजनेप्य् = ? भोजने अप्य् 
+; प्रवर्तन going forward, activity; 
+;[? सम्प्रसारणम् samprasAraRam  य-इ, व-उ, र-ऋ esp. in कर्मणि (passive) e.g. वच् उच्यते ?]
 </C>
 <E>
 008.20-21E: The words (counsel) of the aged should be acted upon (followed) only when the time of calamity is at hand : if we consider thus in all matters, we can hardly proceed to take our food.
@@ -2519,8 +2626,10 @@
 <P>
 </P>
 <C>
-; SaNkA doubt; AkrAnta approached (A-kram); BU-tala earth-surface
-; pravftti conduct; jIvitavya to be lived; nu indeed, now..
+; शङ्का doubt; आक्रान्त approached (आ-क्रम्) attacked by (instr.)
+; भूतल earth-surface; प्रवृत्ति moving onwards, conduct
+; कर्तव्य to be done;
+; जीवितव्य to be lived; नु indeed, now.
 </C>
 <E>
 008.22-23E: For. Everything on the surface of the earth, food and drink, is involved in doubt: to what should an attempt be directed and how should life be supported ?
@@ -2542,10 +2651,13 @@
 008.24P: जुगुप्सा करुणे घृणे इत्यमरः । म।भा।उ।अ।३३।९०।
 </P>
 <C>
-; Irzyin envious; GfRin censorious (GfR = Gf#2, to shine, burn)
-; a-saM-tuzwa not pleased; kroDana inclined to anger; SaNkita suspicious, doubtful
-; para-BAgya another's wealth; upa-jIvin living on (dependent)
-; BAga portion, a share. BAgin who shares, heir; duHKa-BAginaH partakers of misery
+; ईर्ष्यिन्  envious; घृणिन् censorious (घृ #2, to shine, burn)
+; असंतुष्ट not pleased, dissatisfied
+; क्रोधन inclined to anger; शङ्कित suspicious, doubtful
+; परभाग्य another's wealth; उपजीविन् living on (dependent)
+; षडेते 'compound' of षष् and एते m.nom.pl. एतद् ;
+; भाग portion, a share. भागिन् who shares, heir
+; दुःखभागिनः partakers of misery
 </C>
 <E>
 008.24-25E: One who is envious, one given to reviling, one (ever) discontented, one who is irascible and one who is always suspicious , one who lives upon another's fortune -- these six have misery for their lot.
@@ -2562,7 +2674,8 @@
 <P>
 </P>
 <C>
-; upa-vizwa seated, entered; tatra taRqula-kaRezu
+; कपोत pigeon; तत्र there; 
+; उपविष्ट seated, entered; तत्र = तण्डुलकणेषु
 </C>
 <E>
 008.26-26E: On hearing this the pigeons alighted on (the grains ). For,
@@ -2583,11 +2696,15 @@
 </P>
 <C>
 ; Note: VishnuSharma is now speaking.
-; mahAnti mahat n. pl. (nom./acc.);  DArayat holding, versed in
-; bahu-Sruta one who has heard much (learned)
-;  saMayAnAM -> saMSayAnAM.   See mw under Cettf.
-; Cettf one who cuts; saMSaya doubt
-; kliSyante passive to be tormented; mohita stupefied
+; महान्ति महत् n. pl. (nom./acc.), सुमहत् very great;
+; शास्त्र a scripture; 
+; धारयन्ति { ca. ppr. ac. }
+; [धृ ]{n. pl. acc. | n. pl. nom.} holding, versed in
+; बहुश्रुत one who has heard much (learned)
+; छेत्तारः nom. pl. छेत्तृ one who cuts; संशय doubt; 
+; [? saMayAnAM -> saMSayAnAM. ?]   
+; क्लिश्यन्ते passive  to be tormented, to suffer
+; लोभ covetousness; मोहित stupefied
 </C>
 <E>
 008.27-28E: Even those, who are masters of the great Shastras, well-informed, and able to remove doubts, experience trouble when (their judgment is) blinded by avarice.
@@ -2606,7 +2723,11 @@
 <P>
 </P>
 <C>
-; kroDa anger
+; लोभ greed; क्रोध anger; प्रभू to arise, to be produced;
+; काम love or desire of sensual enjoyments (AP90);
+; प्रजायते pre. 3 sg. A. प्रजन् to be produced, to produce;
+; मोह confusion; नाश destruction; पाप sin, evil;
+; कारण a cause;
 </C>
 <E>
 008.29-30E: Again -- From greed proceeds disquietude, from greed springs up the desire (for pleasures), and from greed result infatuation and (finally) ruin; greed is the root of sin.
@@ -2626,11 +2747,13 @@
 008.32P: समापन्ना उपस्थिता विपत्तिः तस्याः कालः तस्मिन् ।
 </P>
 <C>
-; asamBava improbable; taTApi even so, nevertheless; janma birth, existence;
-; luluBe pf. 3s luB to long for (+ dative)
-; prAyas as a general rule; samApanna fallen into, arrived; vipatti misfortune
-; DiyaH  thought. nom. pl. f. of 'DI' (Huet); puMsAm 6 pl. of puMs
-; malina dirty (cloudy)
+; असम्भव improbable; हेममृग golden deer
+; जन्म birth, existence; तथापि  even so, nevertheless
+; लुलुभे pf. 3s लुभ् to long for (+ dative)
+; प्रायस् as a general rule
+; समापन्न fallen into, arrived; विपत्ति misfortune; काल time
+; धियः nom. pl. f. of धी (Huet) thought
+; पुंसाम् m. nom. pl. पुंस् a male; मलिन dirty (cloudy)
 </C>
 <E>
 008.31-32E: And again. The existence of a gold deer was impossible and yet Rama coveted (such) a deer; as a general rule when (some) calamity is impending the talents of men become clouded.
@@ -2649,9 +2772,11 @@
 <P>
 </P>
 <C>
-; anantaram immediately after (without interval of time); subj. is kapotAH
-; yasya refers to darpa-kapotaH; avalambita descended (cf. upavizwa)
-; tiras-kf to set aside, blame
+; अनन्तरम् immediately after (without interval of time)
+; सर्वे ते कपोताः ; जाल net; बद्ध bound; 
+; यस्य refers to दर्पकपोतः; वचन speech, advice;
+; अवलम्बित descended (cf. उपविष्ट); लम्ब् to hang down;
+; तिरस् crookedly; तिरस्‌-कृ to blame
 </C>
 <E>
 009.01-02E: After that they were all caught in the net. Then all of them began to revile him, by whose advice they had descended there. For,
@@ -2672,8 +2797,12 @@
 009.04P: मुखरः (मुखं रातीति) अग्रगः ।
 </P>
 <C>
-; gaRa a flock (gaR to count); agra-tas at tip of; 
-; muKara talkative, leader
+; गण a flock (गण् to count); अग्र-तस् at tip of; 
+; सिद्ध accomplished;
+; कार्य to be done, work; सम same; फलम् fruit, result
+; विपत्ति calamity; स्यात् opt. 3s अस्
+; मुखर talkative, a leader
+; हन्यते A. 3s. pass. हन् to kill;
 </C>
 <E>
 009.03-04E: One should not go at the head of (lead) a multitude; if the undertaking succeeds, the fruit is the same to (equally shared by) all; but if it fails, the leader is killed.
@@ -2690,7 +2819,9 @@
 <P>
 </P>
 <C>
-; tiras-kAra abuse
+; तिरस्कार abuse (crooked-doing)
+; चित्रग्रीव speckled-throat, king of pigeons;
+; नायमस्य न अयम् अस्य; दोष fault;
 </C>
 <E>
 009.05-05E: Hearing how he was reproached, Chitragriva said -- It is not his fault. For,
@@ -2710,11 +2841,14 @@
 009.07P: स्तम्भीभवति म स्तंभः अस्तंभः । अस्तम्भः स्तम्भः सम्पद्यते स्तम्भीभवति ।
 </P>
 <C>
-; patantInAm f 6p of present participle patat of pat.
-; ApatantInAm  ? Kale 'About to befall' Apat = fly towards, fall into
-; hita good advice; hetu-tA state of being a cause
-; jaNGA shank (from ankle to knee), leg; vatsa calf; stamBin having pillars;
-; stamBI-BU to become a post; 
+; आपदाम् f 6p आपद् misfortune; 
+; पतन्तीनाम् f 6p of pr. part. पतत् of पत्.
+; आपतन्तीनाम्  ? Kale 'About to befall', approaching;
+; आपत् = fly towards, fall into
+; हित good advice, a friend; हेतुता state of being a cause
+; मातृ mother; जङ्घा  shank (ankle to knee), leg; वत्स calf
+; स्तम्भिन् having posts; स्तम्भीभू to become a post;
+; बन्धन binding, fettering; 
 </C>
 <E>
 009.06-07E: Of misfortunes about to befall, even a friend becomes the cause: when a calf is to be tied down the leg of the mother serves as a post.
@@ -2734,22 +2868,26 @@
 009.09P: दुर्विहितेति -- दुर्विहितमसाधुकृतमतीतं वा कालेऽकृतोपायं यद्वस्तु तस्योपालम्भे । भितपरित्राणेति पाठे भीतानां परित्राणं तदेव वस्तु तस्य उपालम्भे। पण्डितः एवं भीतानां परित्राणं कर्तव्यं एवं न कर्तव्यमिति वाक्पाण्डित्ये एव कुशलः इत्यर्थः । यद्वा उपालम्भः कालयापनं तत्र पण्डितः ।
 </P>
 <C>
-; banDu relative, friend; vi-panna gone wrong, distressed;
-; Apad misfortune; udDaraRa taking up, extricating from; kzama patient, able
-; dur-(vi-hita) badly done; atIta gone by, dead, neglected;
-; vastu thing;  upAlamBa reproach, find fault with;  paRqitaH wise
-; Kale: BItaparitrARa -> durvihitAtIta (= dur + vihita + atIta)
+; बन्धु relative, friend
+; विपन्न gone wrong, distressed विपद् ;
+; आपद् misfortune; उद्धरण taking up, extricating from
+; क्षम  patient, able
+; दुर्विहित badly done; अतीत gone by, dead, neglected;
+; वस्तु thing; उपालम्भ reproach, finding fault with
+; पण्डित wise, clever; 
+; [? Kale: BItaparitrARa -> durvihitAtIta (= dur + vihita + atIta) 
 ; BItaparitrARavastUpAlamBapaRqitaH = BIta-paritrARa + vastU + upAlamBa +apaRqitaH
 </C>
 <E>
-009.08-09E: He is a friend of the afflicted who is able to deliver them from misery, and not he, who is clever (only) in condemning a thing ill done or omitted to be done. (With the reading न तु भीत -- clever in finding fault with the manner of protecting the distressed.)
+009.08-09E: He is a friend of the afflicted who is able to deliver them from misery, and not he, who is clever (only) in condemning a thing ill done or omitted to be done.
+[? With the reading न तु भीत -- clever in finding fault with the manner of protecting the distressed.?]
 </E>
 </group>
 
 <group ident="009,10,11" type="prose">
 <F>
 009.10F: विपत्काले विस्मय एव कापुरुषलक्षणम् ।
-009.11F: तद् अत्र धैर्यमवलम्ब्य प्रतीकारश्चिन्त्यताम् । यतः ।
+009.11F: तदत्र धैर्यमवलम्ब्य प्रतीकारश्चिन्त्यताम् । यतः ।
 </F>
 <A>
 009.10A: विपत्-काले विस्मयः एव कापुरुष-लक्षणम् ।
@@ -2760,9 +2898,12 @@
 009.11P: प्रतीकारः -- उपायचिन्तनेन आपदः निराकरणम् । उपसर्गस्य घञ्यमनुष्ये बहुलं इति दीर्घः । तन्द्रा विगलितगात्रता ।
 </P>
 <C>
-; vismaya perplexity (befuddlement); kA-puruza contemptible man; 
-; DErya firmness, courage (DIra firm); ava-lamb to support, hold;
-; pratIkAra = (mw) pratikAra =  remedy (do against)
+; विपत्काल विपद् काल, विपद् misfortune;
+; विस्मय perplexity (befuddlement); कापुरुष contemptible man;
+; लक्षण mark, sign; धैर्य n. firmness, courage (धीर firm)
+; अवलम्ब् to hang, cling to;
+; प्रतीकार = (mw) प्रतिकार =  remedy (do against)
+; चिन्त्यताम्  ipv-p 3s चिन्त् to think, think of;
 </C>
 <E>
 009.10-11E: In the time of adversity, perplexity itself is the sign of a weak-minded man. Therefore, taking courage in this case, think out a remedy. For,
@@ -2782,11 +2923,18 @@
 </P>
 <C>
 ; Shloka 32 not anuzwuB (druta-vilambita-vfttam)
-; DErya firmness; aByudaya elevation, prosperity;
-; sadas assembly (seat) - sadasi in public (MW); vikrama courage
-; yaSas fame; aBi-ruci relish (being pleased (ruc to shine));
-; vyasana attachment to (+ loc.); Sruti learning (hearing, sacred knowledge)
-; prakfti origin
+; विपद् misfortune;
+; धैर्य firmness, courage;  अभ्युदय rise, prosperity; क्षमा patience;
+; सदस् assembly (seat) - सदसि in public (MW)
+; वाक्य speech, पटुता cleverness; युध् battle, war;
+; विक्रम heroism (AP90), courage (MW); यशस् fame
+; अभिरुचि relish (being pleased (रुच् shine));
+; व्यसन attachment to (+ loc.) [mw throwing (effort) into, industry] ?
+; व्यसन (AP90) 'assiduous devotion'
+; श्रुति learning (hearing, sacred knowledge)
+; प्रकृति original form (of anthing), natural;
+; सिद्ध accomplished [KALE possession], [? accomplishment ?]
+; महात्मन् noble, magnanimous
 </C>
 <E>
 009.12-13E: Fortitude in adversity and again forbearance in prosperity, eloquence in an assembly and valour on the battle-field, a liking for fame (good name) and a strong attachment to study -- these are the natural possessions of the magnanimous.
@@ -2806,12 +2954,13 @@
 </P>
 <C>
 ; Shloka 33 not anuzwuB (AryA-vfttam)
-; sampad prosperity
-; vizAda disappointment; raRa battle; DIra-tva firmness, courage;
-; Buvana-traya three worlds (heaven, atmosphere, earth);
-; janayati causal 'jan' cause to be born, give birth
-; tilaka ornament (freckle, symbolical mark on forehead); jananI mother;
-; suta son; virala rare, viralam ind. rarely
+; सम्पद् prosperity; हर्ष joy, delight;
+; विपद् misfortune; विषाद dejection; रण war; धीरत्व courage
+; भुवनत्रय three worlds (heaven, atmosphere, earth);
+; जनयति causal जन्  cause to be born, give birth
+; तिलक ornament (freckle, symbolical mark on forehead)
+; जननी mother;
+; सुत son; विरल rare, विरलम् ind. rarely
 </C>
 <E>
 009.14-15E: A mother rarely gives birth to a son, an ornament of the three worlds, who does not rejoice in prosperity or feel sorrow in adversity and is firm in battle. Moreover,
@@ -2831,10 +2980,12 @@
 009.17P: दीर्घसूत्रता -- दीर्घं सूत्रं व्यवस्था यस्य तस्य भावः दीर्घसूत्रता चिरक्रियता । ऽदीर्घसूत्री विनश्यतिऽ । इ।पं। तन्त्रे (च।तं)
 </P>
 <C>
-; doza fault; hAtavya to be avoided (hA jahAti to leave); BUti well-being;
-; icCatA: desiring (m3s of prap icCat of verb 'iz' to strive , desire)
-; tandrA laziness; Alasya sloth, lack of energy
-; dIrGa-sUtratA procrastination (long-threaded-ness)
+; दोष fault; हातव्य to be avoided (हा जहाति to leave)
+; भूति well-being;
+; इच्छता desiring (m3s of prap इच्छत्  of verb इष्  to strive , desire)
+; निद्रा sleep, तन्द्रा laziness; 
+; भय fear, danger; क्रोध anger; आलस्य idleness, lack of energy
+; दीर्घसूत्रता  procrastination (long-threaded-ness)
 </C>
 <E>
 009.16-17E: A man, wishing for welfare in this world, should avoid these six faults ; viz., sleepiness, slothfulness, timidity, anger, idleness and dilatoriness.
@@ -2852,9 +3003,12 @@
 009.18P: एकचित्तीभूय -- न एकं चित्तं येषां ते अनेकचित्ताः ते एकचित्ताः भूत्वा ।
 </P>
 <C>
-; gadya = prose; padya = poem (metered)
-; BUya (ifc.) becoming
-; jAla net; AdA to take hold of (to receive) ; uq-qI to fly
+[; गद्य  = prose; पद्य = poem (metered)]
+; इदानीम् now; एकचित्ति one-minded; 
+; भूय (ifc.) becoming, एकचित्तिभूय having become one-minded;
+; जाल n. net; आदा to take hold of (to receive)
+; उड्डी to fly
+; [इदानि = (192/225) second. approx 0.85 second]
 </C>
 <E>
 009.18-18E: Even now let this be done. Let us all, being of one mind, fly away with the net. For,
@@ -2873,13 +3027,13 @@
 <P>
 </P>
 <C>
-; saMhati striking together, joint effort
-; sADikA sADaka sAD help to complete the kArya (lead to success of work to do)
-; kAryasADaka in mw. (f. of sADaka is sADikA.) accomplishing any object
-; guRatva string-ness rope; Apanna acquired; baDyante passive banD (to bind)
-; matta-dantin furious or ruttish elephant
-; aDyayana  aDI = aDi+i
-; aDi+ayana
+; अल्प small; वस्तु thing; 
+; संहति f. striking together, ; कार्य work to be done
+; साधिका साधक accomplishing साध् to accomplish
+; तृण grass, blade of grass; गुणत्व string-ness rope
+; आपन्न gone to; बध्यन्ते pass. बन्ध् (to bind)
+; मत्तदन्तिन् furious or ruttish elephant
+[/ ; aDyayana  aDI = aDi+i; aDi+ayana ?]
 </C>
 <E>
 009.19-20E: The union of even small things leads to the accomplishment of an object ; infuriated (rutting) elephants are tied down by means of grass twisted (made) into a rope.
@@ -2898,8 +3052,11 @@
 <P>
 </P>
 <C>
-; saMhati firm union; Sreyas best; alpa-ka small
-; tuza chaff of grain; pari-tyakta deprived of; taRqula grain
+; संहति firm union; श्रेयस् best;
+; पुंसाम् m. pl. g. पुंस् man, human being;
+; स्वकुल one's own family; अल्पक small
+; तुष chaff of grain; परित्यक्त deprived of
+; प्ररुह् to grow up; तण्डुल grain esp. rice;
 </C>
 <E>
 009.21-22E: Union with the members of their family, although insignificant, is for the good of men ; rice stripped of even its husk will not grow.
@@ -2918,10 +3075,15 @@
 <P>
 </P>
 <C>
-; pakzin bird (winged); AdA to take hold of; ut-patita risen (arose)
-; su-dUra very distant
-;  is DAvannacintayat (nn) right?  Yes: Sandhi Xn+aY -> XnnaY
-; paScAt afterwards (adverb)
+; पक्षिन् bird (winged); आदा to take hold of
+; उत्पतित risen (arose)
+; सुदूर  very distant; जाल net
+; अपहार taking away, अपहारक one who takes away;
+; अवलोक् to see; पश्चात् after in time or space;
+; धावन् m. nom. sg. धावत् pr. part. धाव् to run;
+; चिन्त् to think
+;  is धावन्नचिन्तयत् DAvannacintayat (न्न) right?
+;  Yes: Sandhi Xn+aY -> XnnaY
 </C>
 <E>
 009.23-24E: The birds, having thus taken counsel, flew up all with the net. Thereupon the fowler, seeing them, from afar, carrying off the net, and running after them, thought to himself,
@@ -2941,13 +3103,10 @@
 009.26P: विवदिष्यन्ते -- कलहं करिष्यन्ति । निपतिष्यन्ति इति पाठान्तरम् ।
 </P>
 <C>
-; Kale Typo (?): harantI -> haranti
-; ime idam 1p. these
-; haranti ime  -> harantIme
-; viha sky (hay to go); vihaNgama sky-goer, bird
-; why both 'me' and 'mama' ?
-; vi-vad to quarrel, to contradict; vaSa will, authority
-; ezyanti fut. 'i' to go
+; संहत combined; इमे इदम् 1p. these; हरन्ति इमे  ->  हरन्तीमे
+; विह  sky (ibc.); विहङ्गम sky-goer, bird
+; विवद् to quarrel, to contradict; वश will, authority
+; एष्यन्ति fut. 3 pl. ई to go
 </C>
 <E>
 009.25-26E: These birds, being combined, are bearing away my net ; but when they will fall down (or, out among themselves), they will fall into my power.
@@ -2956,7 +3115,7 @@
 
 <group ident="010,01,04" type="prose">
 <F>
-010.01F: ततस्तेषु चक्षुर्विषयआतिक्रान्तेषु पक्षिषु स व्याधो निवृत्तः ।
+010.01F: ततस्तेषु चक्षुर्विषयातिक्रान्तेषु पक्षिषु स व्याधो निवृत्तः ।
 010.02F: अथ लुब्धकं निवृत्तं
 010.03F: दृष्ट्वा कपोता ऊचुः --  किमिदानीं कर्तुमुचितम् ।
 010.04F: चित्रग्रीव उवाच --
@@ -2970,10 +3129,11 @@
 <P>
 </P>
 <C>
-; cakzus eye; vizaya range (or sense object); ati-krAnta gone beyond  
-; nivftta returned, stopped.
-; lubDa-ka hunter (greedy man);
-; ucita proper
+; चक्षुस् eye; विषय range (or sense object)
+; अतिक्रान्त gone beyond; पक्षिन् bird; व्याध hunter;
+; निवृत्त returned, stopped.
+; लुब्धक hunter (greedy man); कपोत pigeon
+; उचित proper
 </C>
 <E>
 010.01-04E: Then, when the birds had passed beyond the range of the eye, the fowler returned. Now the pigeons, seeing that the fowler had turned back, said -- What is proper to be done now? Chitragriva said --
@@ -2993,11 +3153,10 @@
 010.06P: कार्यकारणतः कारणे सत्येव कार्यमिति नियमात् कपोत -- कपोतानां अवपातः अवरोहः तस्मात् भयं तस्मात् ।
 </P>
 <C>
-; tritaya three-fold; (tritayaM ?  print blurred); hita beneficial (friendly)
-; svaBAvAt naturally
-; tas 'from' 'because of'
-; kArya effect (to be done); kAraRa cause;
-; hita-budDi friendly minded (whose mind is helpful)
+; स्वभावत्  naturally; त्रितय three-fold; 
+; हित  beneficial (friendly); कार्य effect (to be done)
+; कारणतस् कारण (cause) + तस्; तस् 'from' 'because of'
+; हितबुद्धि  friendly minded (whose mind is helpful)
 </C>
 <E>
 010.05-06E: A mother, a friend and a father -- these three are naturally friendly ; others are well-disposed according to the law of cause and effect.
@@ -3016,9 +3175,12 @@
 <P>
 </P>
 <C>
-; tad now; asmAkam 'our' (royal we).
-; gaRqakI name of river (gaRqaka rhinoceros); citra-vana name of a forest
-; pASa snare, bond; Cetsyati fut. 3s Cid
+; तद् now; अस्माकम् 'our' (royal we); मित्र friend;
+; हिरण्यक N. of mouse; नाम ind. named;
+; मूषक mouse, राज ifc. king;
+; गण्डकी  name of river (गण्डक rhinoceros); तीर shore
+; चित्रवन name of a forest; निवस् to live;
+; पाश snare, bond; छेत्स्यति fut. 3s छिद् to cut;
 </C>
 <E>
 010.07-08E: Now our friend, Hiranyaka by name, the king of mice, dwells in Chitravana (a beautiful forest) on the bank of the Gandaki. He will cut off our bonds.
@@ -3037,7 +3199,11 @@
 <P>
 </P>
 <C>
-; apAya (going away) misfortune; SaNkA suspicion; ni-vas to inhabit;
+; आलोच् to see, deliberate; हिरण्यक N. of mouse;
+; विवर hole; समीप n. vicinity; सर्वदा always;
+; अपाय (going away) misfortune; शङ्का suspicion
+; शतद्वार having 100 doors; विवर hole; 
+; निवस् to inhabit;
 </C>
 <E>
 010.09-10E: Having thus deliberated, they all went to the hole of Hiranyaka. Hiranyaka, on his part, always apprehensive of danger, had made a burrow with a hundred passages and lived in it.
@@ -3056,8 +3222,10 @@
 <P>
 </P>
 <C>
-; cakita trembling, timid;  
-; samBAz (with acc.) to speak to
+; हिरन्यक N. of mouse; कपोत pigeon; अवपात descent;
+; भय fear; चकित trembling, timid;  तूष्णीम् silently;
+; स्थित stayed; चित्रग्रीव N. of pigeon
+; सखे m. 8 sg. सखि friend; सम्भाष्  (with acc.) to speak to
 </C>
 <E>
 010.11-12E: Then Hiranyaka, startled with fear at the descent of the pigeons, stood silent. Chitragriva said -- Dear Hiranyaka, why don't you talk to us?
@@ -3080,10 +3248,13 @@
 010.14P: ससम्भ्रमं सत्वरं सम्मानपूर्वकं च । ऽगृहमुपगते संभ्रमविधिःऽ इति भर्तृहरिः ।
 </P>
 <C>
-; pratyaBijYA to recognize (the voice and content)  (aBijYA)
-; paricita known, familiar
-; samBrama whirling around, haste; niHsf to go out
-; puRyavat happy (puRya auspicious); samAyAta to come (together)
+; हिरण्यक N. of mouse; वचन speaking; 
+; प्रत्यभिज्ञा to recognize  (अभिज्ञा); परिचित known, familiar
+; सम्भ्रम whirling around, haste, ससम्भ्रमम् ind. in haste;
+; निःसृ  to go out
+; पुण्यवत् happy (पुण्य auspicious)
+; प्रिय dear, सुहृद् friend, good-hearted;
+; चित्रग्रीव N. of pigeon; समायात to come (together)
 </C>
 <E>
 010.13-15E: Then Hiranyaka, having recognised his voice, rushed out in haste and said -- Ah, happy am I! my beloved friend Chitragriva has come.
@@ -3104,9 +3275,10 @@
 010.17P: संलापः -- अन्योन्यं प्रति भाषणं विश्रंभालापः इत्यर्थः । ऽसंलापो भाषणं मिथःऽ इत्यमरः ।
 </P>
 <C>
-; samBAza conversation; saM-sTiti staying together;
-; saM-lApa talking together; puRyavat righteous, happy; iha in the world (here)
-; tataH more than that 
+; मित्र friend; सम्भाष conversation; संस्थिति staying together;
+; संलाप talking together; पुण्यवत्  righteous, happy
+; इह in the world (here)
+; ततः more than that 
 ; 'more' meritorious ?  (how to recognize a comparative here?)
 </C>
 <E>
@@ -3131,10 +3303,13 @@
 010.21P: प्राक्तन -- प्राक् भवं प्राक्तनं , प्राक्तनं च तत् जन्म तस्मिन् कर्म तस्य ।
 </P>
 <C>
-; pASa cord, trap or net;
-; vi-smaya surprise (vi + smi smile)
-; prAYc directed forwards, eastwards; prAktana previous
+; पाश cord, trap or net; बद्ध bound; 
+; विस्मय surprise (वि + स्मि to smile), सविस्मय adj. surprised;
+; क्षण a moment; स्थित्वा having stood;
+; सखे m. voc. sg. सखि, friend; चित्रग्रीव N. of pigeon;
+; प्राञ्च् directed forwards, eastwards; प्राक्तन previous
 ;  Is there relation between 'eastwards' and 'previous'?
+; जन्मन् birth, life;
 </C>
 <E>
 010.18-21E: Seeing them caught in the snares he stood astonished for a moment and said -- Friend, what is this ? Chitragriva replied -- Friend, this is the fruit of our deeds in a previous life.
@@ -3158,9 +3333,10 @@
 </P>
 <C>
 ; begin 4-line shloka
-; SuBa good (in moral sense)
-; vi-DAtf fate (Name of Brahma, as disposer of men's fate; fate.)
-; vaSa will; upEti upa+i 3rd singular (upa+eti) "fall to one's share" (go near)
+; शुभ good (in moral sense)
+; विधातृ fate (Name of Brahma, as disposer of men's fate)
+; वश will
+; उपैति उप + एति, इ pre. 3 sg. "fall to one's share" (go near)
 ; 'From whatever cause (...) one's action is good or bad, similarly
 ; from that cause (...) one goes from the will of fate.'
 ; Thus we can avoid the 'one may do a deed' phrase of Kale's translation.
@@ -3183,13 +3359,13 @@
 010.26P: परीतापः -- सर्वतः संतापः पीडा । उपसर्गस्य घञ्यमनुष्ये बहुलं इति उपसर्गे अकारस्य दीर्घः ॥
 </P>
 <C>
-; roga disease (ruj); Soka affliction, pain (long-lasting) (Suc regret)
-; parItApa agony (as result of some other event)
-; banDana binding; vyasana misfortune (very big);
-; upasarga misfortune
+; रोग disease (रुज्)
+; शोक affliction, pain  (शुच् be sorry,regret)
+; परीताप = परिताप extreme heat, agony 
+; बन्धन binding; व्यसन misfortune; उपसर्ग misfortune
 ; GaYya ??
-; apa-rADa mistake (apa = a, rAD to succeed); vfkza tree
-; dehin the embodied ones (living creatures or men)
+; अपराध mistake (अप = अ, राध् to succeed); वृक्ष tree
+; देहिन् the embodied ones (living creatures or men)
 </C>
 <E>
 010.26-27E: Disease, sorrow, affliction, restraint and calamities -- these are the fruits of the trees in the form of the faults committed by men.
@@ -3208,7 +3384,10 @@
 <P>
 </P>
 <C>
-; sa-tvaram speedily; upa-sfp to approach
+; हिरण्यक N. of mouse; चित्रग्रीव N. of pigeon;
+; बन्धन binding, a tether; छेत्तुम् inf. छिद् to cut
+; सत्वरम् speedily; उपसृप् to approach; मित्र friend;
+; मा ind. a particle of prohibition;
 </C>
 <E>
 010.28-29E: The mouse quickly proceeded to sever the bonds of Chitragriva. Chitragriva said -- Friend, do not do so.
@@ -3229,9 +3408,11 @@
 010.30P: तावत् -- प्रथमम् ।
 </P>
 <C>
-; A-Srita a dependant, follower (Sri to lean on);
-; tAvat first (usu. so great)
-; 10-6-2018. 'CindDi' is Huet spelling. Both spellings correct?
+; आश्रित a dependent, follower (श्रि to lean on);
+; तावत् first (usu. ॑so great)
+; छिन्द्धि imp. 2 sg. छिद् to cut;
+[? ; 10-6-2018. 'CindDi' is Huet spelling. Both spellings correct?]
+; पश्चात् after (in time or space);
 </C>
 <E>
 010.30-31E: First cut the bonds of these my followers ; and then you will cut mine.
@@ -3240,7 +3421,7 @@
 
 <group ident="010,32,33" type="prose">
 <F>
-010.32F: हिरण्यकोऽप्याह -- अहमल्पशक्तिः । दन्ताश्च मे कोमलाः । तद्
+010.32F: हिरण्यकोऽप्याह -- अहमल्पशक्तिः । दन्ताश्च मे कोमलाः ।
 010.33F: तदेतेषां पाशांश्छेत्तुं कथं समर्थः ।
 </F>
 <A>
@@ -3250,8 +3431,10 @@
 <P>
 </P>
 <C>
-; komala tender, soft
-; aham is implied, modified by samarTaH;
+; हिरण्यक N. of mouse; अपि also; अल्प small, शक्ति power;
+; दन्त tooth (दम् to be tamed, to tame)
+; कोमल tender, soft; पाश a net; छिद् to cut;
+; समर्थ strong, competent; 
 </C>
 <E>
 010.32-33E: Hiranyaka too replied -- I have little strength and my teeth are delicate, how then can I gnaw asunder the snares of these all?
@@ -3270,8 +3453,9 @@
 <P>
 </P>
 <C>
-; truw to be torn; yAvat-tAvat as long (much) as;
-; Sakyam as able; CetsyAmi fut. Cid; api too (also)
+; दन्त tooth; त्रुट् to tear; यावत् .. तावत् as long as;
+; शक्यम् as able; छेत्स्यामि fut. छिद् to cut; अपि too (also)
+; पाश net, snare; अनन्तरम् immediately after;
 </C>
 <E>
 010.34-35E: So as long as my teeth are not broken, I will cut your bonds and then sever those of the rest too as far as my strength will allow.
@@ -3293,12 +3477,12 @@
 010.37P: आत्मपरित्यागेन स्वप्राणान् संशये निक्षिप्येत्यर्थः ।
 </P>
 <C>
-; taTA-api even so.
-; KaRq to break, tear. yaTA-Sakti ind. as able 
-; parityAga abandoning
-; saMSaya uncertainty, a doubtful matter.
-; pari-rakzaRa protection; nIti-vid (bahu-vrIhi) who knows (science of) conduct.
-; sam-mata agreed upon
+; तथापि even so.
+; खण्ड् to break, tear; यथाशक्ति ind. as able 
+; परित्याग abandoning
+; संशय uncertainty, a doubtful matter; परिरक्षण protection
+; नीतिविद् (बहुव्रीहि) one who knows (science of) conduct.
+; सम्मत agreed upon
 </C>
 <E>
 010.36-38E:  Chitragriva said -- Be it so; but cut the bonds of these to the best of your strength. Hiranyaka replied -- The protection of dependents at the cost of one's life is not approved of by those conversant with the science of conduct (or, policy). For,
@@ -3319,9 +3503,9 @@
 010.39P: किं न हतं सर्वमेव हतं विनाशितमिति यावत् ।
 </P>
 <C>
-; Apad-arTa purpose of misfortune
-; DanEH (3p): Unusual syntax. Kale: 'at the expense of wealth'. Similarly 'dArEH010.39P: ApadarTamiti -- ApadarTamApatpratIkArArTam . rakzet saMgfhRIyAt .
-; sa-tatam constantly; 
+; आपदर्थ  purpose of misfortune; धन wealth, money;
+; धनैः (3p)  Kale: 'at the expense of wealth'.
+; दार m. pl. wife; आत्मन् the self; सततम् always;
 </C>
 <E>
 010.39-40E: One should save money (as a provision) against the time of trouble, save one's wife even at the expense of wealth and save one's own self even at the cost of one's wife and wealth.
@@ -3340,10 +3524,14 @@
 <P>
 </P>
 <C>
-; saMsTiti staying together; mokza liberation (muc to free)
-; niGnatA  3s of prap ni-han (to strike down); tAn prARAH
-; hata struck, destroyed; 
-; rakzatA 3s of prap of rakz (to protect)
+; धर्म religious duty; अर्थ wealth; काम pleasure;
+; मोक्ष liberation (मुच् to free)
+; संस्थिति staying together, duration; हेतु cause; 
+; निघ्नता  3s of prap निहन् (to strike down)
+; तान् प्राणाः 
+; हत struck, destroyed; 
+; रक्षता 3s of prap of रक्ष् (to protect, save)
+; रक्षित protected, saved
 </C>
 <E>
 011.01-02E: Another consideration is -- Life is the cause of the proper maintenance of Dharma, Artha, Kama and Moksha. *{* See. p. 3, 11, 23-26.} What does he not deprive himself of who deprives himself of it, or what does he not save who saves it?
@@ -3365,8 +3553,11 @@
 011.04P: सर्वथा -- सर्वप्रकारेण । प्रकारवचने थाल इति थाल्प्रत्ययः ।
 </P>
 <C>
-; IdfSa (mf(I)n)  IdfSI  (f1s) such
-; soQum inf. sah: to overcome, to bear; sarvaTA in every way
+; चित्रग्रीव N. of pigeon; सखे voc. s. सखि friend;
+; नीति leading, policy; तावत् first;
+; ईदृश ईदृशी such ईदृश्येव ईदृशी + एव
+; आश्रित a dependent; 
+; सोढुम् inf. सह्  to overcome, to bear; सर्वथा in every way
 ; TAla ?
 </C>
 <E>
@@ -3388,14 +3579,14 @@
 011.07P: नियते ध्रुवं भाविनि ।
 </P>
 <C>
-; Dana wealth (Dan to run); jIvita life (livelihood); 
-; para other, arTa purpose (ifc. for the sake of); prAjYa m. wise man;
-; ut-sfj to let loose
-; sat good, nimitta cause, san-nimitte for the sake of the good (MW)
-; varam ind. preferably; tyAga abandoning (DanAni jIvitam ca)
-; vinASa destruction;
-; niyata certain (held back); sati being
-; Druva fixed;
+; धन wealth (धन् to run); जीवित life (livelihood); 
+; पर other, अर्थ wealth, ifc. for the sake of;; 
+; प्राज्ञ m. wise man; उत्सृज् to let loose, abandon;
+; सत् good, निमित्त cause, सन्निमित्ते for the sake of the good (MW)
+; [? the etymology of निमित्त ?]
+; वरम् ind. preferably; त्याग abandoning (धनानि जीवितम्)
+; विनाश destruction; नियत certain (नियम् to check)
+; सति being 
 </C>
 <E>
 011.06-07E: A wise man should give up his wealth and also his life for another's sake; their abandonment in a good cause is desirable as destruction is certain.
@@ -3412,8 +3603,8 @@
 <P>
 </P>
 <C>
-; apara another; sADAraRaH common; a-sADAraRaH special
-; sADAraRa sa+DAraRa (Df to hold)
+; अपर another; साधारण common; असाधारण special
+; साधारण स + धारण (धृ to hold); हेतु cause, reason;
 </C>
 <E>
 011.08-08E: And this is another special reason.
@@ -3432,10 +3623,11 @@
 <P>
 </P>
 <C>
-; jAti birth, caste; dravya thing (wealth); guRa quality; sAmya equality
-; ezAm of these (citragrIvasya ASritAH )
-; mat irregular substitute for mama and used in compounds;
-; praButva power, lordship
+; जाति birth, caste; द्रव्य thing (wealth)
+; गुण quality; साम्य n. equality
+; एषाम् of these (चित्रग्रीवस्य आश्रिताः )
+; मत् irregular substitute for मम and used in compounds;
+; प्रभुत्व  power, lordship
 </C>
 <E>
 011.09-10E: They bear an equality to me as regards kind, substance and qualities : say then, when and what will be the fruit of my being their lord ?
@@ -3455,10 +3647,10 @@
 011.11P: वर्तनं जीवनोपायम्। वेत न मित्यर्थः ।
 </P>
 <C>
-; vartanam = wages (Kale); antika nearness
-; upAya a means (coming near);
-; ? veta vA ita (imperative 2 pl. ; miti measuring, 
-; vyaya going away; jIvaya caus. imperative (cause to live)
+; वर्तनमेवैते वर्तनम् एव एते; वर्तन n. living, being, wages;
+; त्यज् to leave; अन्तिक nearness
+; उपाय a means (coming near);
+; व्यय going away; जीवय  caus. imper. cause to live
 </C>
 <E>
 011.11-12E: Even without wages they do not leave my side (forsake me); therefore, save these my dependents, even at the sacrifice of my life.
@@ -3479,13 +3671,16 @@
 011.14P: विनश्वरे इति -- यशःशरीरे भव मे दयालुः इति अनुरूपभावः रघुवंशे । २।५७।
 </P>
 <C>
-; mAMsa flesh; mUtra urine; purIza feces; asTi bone;
-; nir-mita constructed (nir-mA, mA to measure);
-;kalevara the body (kala semen);
-; Is 'asTiH' nom. sing? Normally, asTi is nom. singular neuter. Why asTiH?
-; vi-naSvara perishable (vara whose nature is ... kvarap suffix) ;
-; vihAya leaving behind;
-; AsTA f. consideration, regard; yaSas n. fame, reputation; pAl protect
+; मांस flesh; मूत्र urine; पुरीष feces; अस्थि bone;
+; निर्मित constructed (निर्मा मा to measure);
+; कलेवर the body (kala semen);
+; अस्थिः nom. sg.? Normally, अस्थि is nom. sg. n. Why अस्थिः ?
+; विनश्वर perishable, liable to be destroyed;
+; [? (vara whose nature is ... kvarap suffix)?]
+; विहाय having left behind;
+; आस्था f. consideration, regard (regard for + loc.)
+; यशस् n. fame, reputation; पाल् protect [? not in AP90 ?]
+; पालय ca. imp. ac. sg. 2 पा to protect;
 </C>
 <E>
 011.13-14E: Moreover. Giving up all regard for this perishable body which is made of flesh, urine, ordure, and bones, save my reputation, O friend.
@@ -3504,14 +3699,15 @@
 <P>
 </P>
 <C>
-; nityam continual; anitya transient
-; nir-mala without dirt; mala-vAhin  dirt carrying
-; kAya body; laByeta opt-p 3s laB (should be obtained)
-; alternate translation:
+; नित्य continual, eternal; अनित्य transient
+; निर्मल without dirt; मलवाहिन्  dirt carrying; यशस् fame;
+; काय body; लभ्येत  opt-p 3s लभ् (should be obtained)
+; भवेन्नु भवेत् नु should be now; 
+[?; alternate translation:
 ;  if the transient can be obtained by the non-transient, and
 ;  if the unsullied can be obtained by something carrying dirt, and
 ;  if fame can be obtained through the body,
-;  then what is not obtained?
+;  then what is not obtained? ?]
 </C>
 <E>
 011.15-16E: See. If lasting and unsullied fame be gained at the expense of the body which is perishable and a vehicle of dirt, what would not be gained ?

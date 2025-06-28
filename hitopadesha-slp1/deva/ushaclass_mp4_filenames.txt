@@ -398,8 +398,26 @@ Video-20250310_234910-Meeting Recording.mp4  lines=100.01-100.10; shlokas = 92,9
 Video-20250313_235849-Meeting Recording.mp4  lines=100.11-100.24; shlokas = 95,96
 Video-20250319_000747-Meeting Recording.mp4  lines=100.25-100.36
 Video-20250506_001607-Meeting Recording.mp4  lines=005.12-005.19; shlokas = 1.1-1.2
+zoom 2025-05-20 lines=005.20-005.25 loc.abs.
+zoom 2025-05-26 lines=005.26-006.18; shlokas=1.3, 1.4, 1.5
+zoom 2025-06-02 19.00.59 lines=006.19-006.26; shlokas=1.6, 1.7
+zoom 2025-06-09 19.04.07 Samskrta Patha lines=006.27-007.02; shlokas=1.8 [pronunciation visarga]
+June 9, 2025  Usha provides these shlokas:
 
+अहिंसा सत्‍यमस्‍तेयं शौचमिन्‍द्रियनिग्रह:।
+दानं दमो दया शान्‍ति: सर्वेषां धर्मसाधनम्‌।।"
+(याज्ञवल्क्य स्मृति १.१२२)
 
+धृतिः क्षमा दमोऽस्तेयं शौचमिन्द्रियनिग्रहः ।
+धीर्विद्या सत्यमक्रोधो, दशकं धर्मलक्षणम् ।।
+मनुस्मृति
+
+USHA: May 26, 2025 Sloka & Translation | Valmiki Ramayana
+https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1
+
+https://teams.live.com/l/message/19:bb2af88a861dabb390deee53bf662731a24bb78bb5b1ef7fa85380fcb714296b@oneToOne.skype/1748304573250?context=%7B%22contextType%22%3A%22chat%22%7D
+=================================================
+typo 006.09 तन् निरूप्यतां -> तन्निरूप्यतां
 typo 005.01 तत्र -> तव  (print not clear)
 03-19-2023  Mark the story  (idea to discuss further with Usha).****************
 अवगमनम्   understanding the text  तात्पर्यचर्चा , opp. to उच्चारण
@@ -409,7 +427,8 @@ Example: The man is tall like a tree.
 उपमेयम्       man
 उपमावाचकम्   like (-वत्, इव, other
 समानधर्मः     tall(ness)
-
+typo 007.24  तद् अत्र  ->  तदत्र
+typo 007.23  तद् दानं ->  तद्दानं
 typo 104.27  तद् अत्रास्माकं तदत्रास्माकं
 typo 100.32  जम्बूद्वीपाद् आगत्य -> जम्बूद्वीपादागत्य
 typo 100.21  नाथोऽअवदत् -> नाथोऽवदत्
@@ -487,10 +506,17 @@ Edgar Casey, Many Mansions, chapter on women.  Ref. 2.139 सा स्त्र
 
 Video-20240223_004414-Meeting Recording.mp4  Discuss hitokale_10.xml
 
+current usha class
+\(005...F:\)\|\(006...F:\)\|\(007...F:\)\|\(008...F:\)\|\(009...F:\)\|\(010...F:\)\|\(011...F:\)\|\(012...F:\)\|\(013...F:\)\|\(014...F:\)\|\(015...F:\)\|\(016...F:\)\|\(017...F:\)\|\(018...F:\)\|\(019...F:\)
+
 emacs selection from hitokale_deva_p.txt
 \(072...F:\)\|\(073...F:\)\|\(074...F:\)\|\(075...F:\)\|\(076...F:\)\|\(077...F:\)\|\(078...F:\)\|\(079...F:\)\|\(080...F:\)\|\(081...F:\)\|\(082...F:\)\|\(083...F:\)\|\(084...F:\)\|\(085...F:\)\|\(086...F:\)\|\(087...F:\)\|\(088...F:\)\|\(089...F:\)\|\(090...F:\)\|\(091...F:\)\|\(092...F:\)\|\(093...F:\)\|\(094...F:\)\|\(095...F:\)\|\(096...F:\)\|\(097...F:\)\|\(098...F:\)\|\(099...F:\)\|\(100...F:\)\|\(101...F:\)\|\(102...F:\)\|\(103...F:\)\|\(104...F:\)\|\(105...F:\)
 
 \(001...F:\)\|\(002...F:\)\|\(003...F:\)\|\(004...F:\)\|\(005...F:\)\|\(006...F:\)\|\(007...F:\)\|\(008...F:\)\|\(009...F:\)
+
+12-06-05  \(008...F:\)\|\(009...F:\)\|\(010...F:\)\|\(011...F:\)\|\(012...F:\)\|\(013...F:\)\|\(014...F:\)\|\(015...F:\)\|\(016...F:\)\|\(017...F:\)\|\(018...F:\)\|\(019...F:\)
+
+
 chandas_notes.txt
 Sanskrit numbers 80 अशीति -> अशीतः सङ्ख्यानम् प्रातिपदिकम्  (funderburkjim/sanskrit_numbers  repository)
 
@@ -512,3 +538,8 @@ hitopadesha-slp1/deva-format/readme_typos.txt
 hitopadesha-slp1/deva/ushaclass_mp4_filenames.txt
 
 https://www.youtube.com/watch?v=bZsgSO3QU1k
+
+
+05-20-2025  
+link for class with Usha using zoom
+https://indicacademy.zoom.us/j/93112554579?pwd=QkchP3cyRQnaO7c7nBolAZimagM8Xf.1
