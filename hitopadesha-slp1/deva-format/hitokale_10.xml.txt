@@ -7187,7 +7187,7 @@
 </P>
 <C>
 ; 4-line shloka
-; स्वातन्त्र्य  independence; पितृ father,मन्दिर house
+; स्वातन्त्र्य  independence स्वतन्त्र स्व self, तन्त्र dependant; पितृ father,मन्दिर house
 ; निवसतिः habitation; यात्रा going, procession उत्सव festival;
 ; संगति union, meeting; 
 ; गोष्ठी assembly, पुरुष person; संनिधावनियम = संनिधौ + अनियम;
@@ -7195,10 +7195,10 @@
 ; वास dwelling; विदेश foreign country;
 ; संसर्ग association; पुंश्चली  (man-running) unchaste woman;
 ; असकृत् not once, repeatedly; वृत्तेः 5/6 sg. वृत्ति conduct
-; निजायाः : 6s of निजा, निज one's own; क्षति injury, decline
+; निजायाः : f. 6s of निजा, निज one's own; क्षति injury, decline
 ; पत्युः  6s पति (irregular declension)
 ; पत्युः m. case 5/6 sg. पति (Huet: not in Cologne inflected)
-; वार्धक  old age (ap90 वार्द्धक); ईर्षित envied (jealousy)
+; वार्धक n. old age (ap90, mw वार्द्धक); ईर्षित jealousy
 ; प्रवसन going on a journey;
 ; स्त्रियाः 5s/6s स्त्री (Huet: not in Cologne inflected)
 </C>
@@ -7265,7 +7265,7 @@
 <P>
 </P>
 <C>
-; स्थान place; क्षण moment, leisure; प्रार्थयितृ one who wishes for, a suitor;
+; स्थान place; क्षण moment, leisure; प्रार्थयितृ one who requests, a suitor;
 ; नारद N. of a famous man. [KALE omits in translation.]
 ; सती good woman, सतीत्व wifely fidelity;
 ; उपजन् to be born, arise;
@@ -7290,7 +7290,7 @@
 </P>
 <C>
 ; स्त्रियः 1/2 pl. स्त्री woman; चपल fickle; नित्यम् always (सर्वदा);
-; देव a god; विश्रुत famous (well-known); रक्षित protected
+; देव a god; विश्रुत well-known; रक्षित protected
 ; सुखभागिन् happiness-sharing
 </C>
 <E>
@@ -7312,7 +7312,7 @@
 <C>
 ; स्त्रीणाम् 6pl. स्त्री woman; अप्रिय disliked; प्रिय liked;
 ; गावाः 1pl. गो cow; तृण grass; प्रार्थ् to desire (+ acc.);
-; नव new;
+; नव new; [? printchange नवं नवम् -> नवं नरम्]
 </C>
 <E>
 020.13-14E: There is none who is disagreeable to women; nor is there one who is loved by them; they ever seek a fresh man, as cows do grass in a forest.
@@ -7332,10 +7332,11 @@
 </P>
 <C>
 ; घृत-कुम्भ ghee-jar; नारी woman; तप्त-अङ्गार  hot-coal;
-; पुमान् 1sg. पुंस्; 
-; वह्नि  fire, (वह् to caagni = bearer of oblations)
+; पुमान् 1sg. पुंस् man; 
+; वह्नि  fire, (वह् to carry) bearer of oblations, अग्नि
 ; एकत्र ind. in one place;
-; स्थापयेत् opt. 3s. caus. स्था cause to stay; 
+; स्थापयेत् opt. 3s. caus. स्था cause to stay;
+; बुध a wise man, sage;
 </C>
 <E>
 020.15-16E: Again. A woman resembles a pot of ghee, while a man is like live charcoal: a wise man should not, therefore, keep together the two.
@@ -7377,10 +7378,11 @@
 <P>
 </P>
 <C>
-; पितृ father; कौमार childhood; भर्तृ husband; यौवन adolescence;
+; पितृ father; कौमार childhood; भर्तृ husband
+; यौवन adolescence; रक्ष् to guard, protect;
 ; स्थाविर thick, old age; स्वातन्त्र्य  independence
 ; स्वतन्त्र independence; तन्त्र ifc. depending on;
-; अर्ह् to deserve, to be allowed to do something (acc.);
+; अर्ह् to deserve, to be allowed  (acc.);
 </C>
 <E>
 020.19-20E: The father guards a woman in childhood, the husband in youth and the son in old age: a woman is not allowed liberty (in any case ).
@@ -7432,8 +7434,8 @@
 </P>
 <C>
 ; उशना (m. sg. nom. HUET) उशनस्, N. of शुक्र
+; वेद = prf. 3s of विद्; शास्त्र n. a science
 ; बृहस्पति is teacher of gods (इन्द्र, वरुण, अग्नि, etc.)
-; शास्त्र n. a science; वेद = prf. 3s of विद्
 ; स्वभाव innate; बुद्धौ loc. sg. बुद्धि intelligence, talent;
 ; सुप्रतिष्ठित well-established, प्रतिष्ठित set up, fixed, established
 </C>
@@ -7458,14 +7460,13 @@
 </P>
 <C>
 ; आलिङ्गन n. embracing;  अवलोक् to see; समीप near;
-; वर्तिनी f. 1sg. वर्तिन् 
-; कुट्टनी kuwwanI bawd (a woman in charge of a brothel);
+; वर्तिनी f. 1sg. वर्तिन् being, staying;
+; कुट्टनी bawd (a woman in charge of a brothel);
 ; चिन्त् to think; अकस्मात् suddenly, without cause;
 ; इयम् f. 1s इदम्; एनम् m. 2s इदम्;
 ; उपगूढवती  past participle active, embraced
 ; तत्कारण = तस्य कारण, cause of that; परिज्ञा to ascertain
-; गुप्त secret (person in merchant class, e.g. चन्दनदास)
-; दण्डित punished; 
+; गुप्त secret; दण्डित punished; गुप्तेन दण्डित punished with secret fine.
 </C>
 <E>
 020.26-27E: Seeing that embrace a procuress that stood by said to herself "She has embraced him all of a sudden!" Then that procuress, having ascertained the cause, punished that Lilavati with a secret fine.
@@ -7537,17 +7538,17 @@
 </P>
 <C>
 ; [अपि हिरण्यको वक्ति ?]
-; खनित्र instrument for digging; विवर hole
-; चिर-संचित  long gathered
-; गृहीत taken;
-; praBfti f. beginning; ind. ever since;
+; खनित्र instrument for digging; आदा to seize; विवर hole;
+; खन् to dig;
+; चिर-संचित long gathered; गृहीत taken;
+; प्रभृति f. beginning; ind. ever since;
 ; ततः प्रभृति  thenceforth; निज innate, his own;
-; सत्त्व spirit (truthfulness), उत्साह effort;
+; शक्ति power; हीन without
+; सत्त्व spirit (truthfulness), उत्साह power, effort;
 ; रहित abandoned; स्वाहार स्व+आहार one's own food;
-; उत्पाद् caus. उत्पद् to produce 
-; अक्षम unable (क्षम् to be able)
+; उत्पाद् caus. उत्पद् to produce; अक्षम unable (क्षम् to be able)
 ; Kale typo ?: श्रूडाकर्णेन  -> श्चूडाकर्णेन 
-; स-त्रास with fear (त्रस् to fear); मन्द slow
+; स-त्रासम् with fear (त्रस् to fear); मन्दम् slowly
 ; उपसर्पंश्चूडाकर्णेन = उपसर्पन् चूडाकर्णेन
 ; उपसर्पन् m. nom. sg. उपसर्पत् pre. part. उपसृप् to approach
 ; उपसर्प creeping; अवलोकित seen;
@@ -7571,7 +7572,7 @@
 <C>
 ; धन wealth, money; बलवत् possessing power; लोक the world;
 ; भू to arise; पण्डित learned, wise;
-; पश्य ipv-4a 2s पश् to behold, look at; एनम् m. nom. sg. इदम्;
+; पश्य ipv-4a 2s पश् to behold, look at; एनम् m. acc. sg. इदम्;
 ; मूषिक mouse; पाप adj. wicked;
 ; स्वजाति one's own class; सम-ता sameness;
 </C>
@@ -7618,6 +7619,7 @@
 </P>
 <C>
 ; अर्थ wealth; मित्र friend; बान्धव kinsman;
+; 
 ; पुमाँल्लोके = पुमान् + लोके , m. sg. nom. पुंस् man,  लोक world;
 ; पण्डित learned;
 </C>
@@ -7669,7 +7671,7 @@
 ; इन्द्रिय power, power of senses (limb Kale ?)
 ; कल indistinct; विकल deprived of (a limb); अविकल unimpaired
 ; तदेव = तद् + एव the same (that indeed)
-; नाम n. 1s नामन् name; बुद्धि intelligence;
+; नाम ind. by name, n. name; बुद्धि intelligence;
 ; अप्रतिहत unobstructed;
 ; अर्थ wealth, उष्मन् heat; विरहित deprived of (instr.)
 ; क्षण moment, क्षणेन in a moment; विचित्र strange;
@@ -7716,7 +7718,7 @@
 <C>
 ; अर्थ-नाश wealth-destruction; मनस्‌-ताप mind-burning, mental pain;
 ; गृह house,; दुश्-चरित ill conducts;
-; वञ्चन cheating; अप-मान disgrace, contempt
+; वञ्चन cheating; अप-मान contempt, disgrace;
 ; मतिमत् intelligent;
 ; प्रकाशयेत् (ca. opt. ac. sg. 3 HUET) प्रकाश् (ca.) to make visible;
 </C>
@@ -7788,7 +7790,7 @@
 <P>
 </P>
 <C>
-; मनस्विन् wise, intelligent;
+; मनस्विन् wise, intelligent; म्रियते 
 ; कामम् ind. surely, कामम् न rather not
 ; कार्पण्य poverty (कृपण pitiable, poor);
 ; अनल fire; निर्-वाण extinction (blown out); आया to come;
@@ -7813,7 +7815,7 @@
 </P>
 <C>
 ; कुसुम-स्तबक flower-bunch
-; वृत्ती f. 1/2 du. वृत्ति  behavior (rolling)
+; वृत्ती f. 1/2 du. वृत्ति  (rolling) course of action;
 ; विशीर्येत opt. 3s वि-शॄ to crumble, perish (शॄ tear to pieces);
 ; मनस्विन् wise; मूर्ध्नि loc. sg. मूर्धन् head; वन forest अथवा or;
 </C>
@@ -7859,10 +7861,10 @@
 ; वरम् ind. it is better that
 ; विभव wealth, हीन abandoned, ifc. without; विभवहीन  poor man;
 ; प्राण life breath; 
-; संतर्पित completely satisfied (तृप् to satisfy)
+; संतर्पित completely satisfied (तृप् to satisfy); अनल fire
 ; उपचार act of civility (approach)
 ; परिभ्रष्ट fallen (भ्रंस् to fall); ifc. deprived of
-; कृपण stingy (pitiable); प्रार्थित प्र-अर्थित solicited (wished for);
+; कृपण poor, pitiable, low, mean; प्रार्थित प्र-अर्थित solicited (wished for);
 </C>
 <E>
 021.29-30E: It were better for a poor man to satisfy fire with his life than to solicit a mean person, lost to all civility.
@@ -7890,9 +7892,10 @@
 <C>
 ; दारुद्र्य poverty; एति (he/one) goes to;
 ; ह्रियम् f2s of ह्री, shame (irregular declension - cf. Huet)
-; परिगत filled with; सत्त्व goodness; परिभ्रंश् to fall away from;
+; परिगत filled with; सत्त्व goodness
+; परिभ्रंश् to fall away from, भ्रश्यते pre-p 3s OR pre-4m 3s
 ; परिभूयते (passive) is despised; परिभू [AP] to overcome, desipse
-; परिभव contempt; निर्वेद dejection; 
+; परिभव insult [against-being]; निर्वेद dejection; 
 ; आपद् to go near, to fall into misfortune; 
 ; निर्विण्ण  dejection (निर्-विद्); शुच् sorrow; शोक sorrow,
 ; निहत struck down;
@@ -7920,7 +7923,7 @@
 ; 4-line shloka. Not anuzwup.
 ; वरम् preferably; मौन silence; कार्य to be done
 ; वचन speech, words; उक्त spoken; अनृत false;
-; क्लैब्य impotence; पुंसाम् m. pl. g.;
+; क्लैब्य impotence; पुंसाम् m. pl. g. पुंस् man;
 ; कलत्र n. wife (कल sweet and indistinct);
 ; परकलत्र another's wife; अभिगम् to come near, have sex with;
 </C>
@@ -7945,11 +7948,11 @@
 <C>
 ; non-anuzWuB
 ; वरम् preferred; प्राण breath, life, त्याग leaving;
-; पिशुन cruel (पिश् to be decomposed); वाक्य speech, words;
+; पिशुन wicked (पिश् to be decomposed); वाक्य speech, words;
 ; अभिरुचि delighting in (locative);
-; आशिन् eating; भिक्षाशित्व भिक्षा + आशि + त्व eating begged food;
+; आशिन् eating; भिक्षाशित्व भिक्षा + आशि + त्व alms-eating-state;
 ; आस्वादन enjoying (स्वाद् = स्वद् to sweeten);
-; पर-धन-आस्वादन another food enjoying; सुख n. happiness
+; पर-धन-आस्वादन another wealth enjoying; सुख n. happiness
 </C>
 <E>
 022.01-02E: Better to abandon life than to have a liking for the words of the wicked; better to live on alms than to have the happiness of enjoying another's wealth.
@@ -7973,7 +7976,7 @@
 </P>
 <C>
 ; 4-line shloka
-; शून्य empty; शाला SAlA stable; खलु ind. indeed
+; शून्य empty; शाला SAlA house, stable; खलु ind. indeed
 ; दुष्ट  bad, वृषभ bull (ox)
 ; वेश्या courtezan; अविनीत immodest, ill-trained;
 ; कुल family, वधू young wife;
@@ -7981,7 +7984,7 @@
 ; अविवेक undiscriminating, अधिप ruler; पुर town, city;
 ; प्राण breath, life, त्याग leaving;
 ; अधम low; उपगम going to;
-; kft-suffix (gamaH) takes 6th case (aDamAnAm) in place of 2nd case
+; kft-suffix (गमः) takes 6th case (अधमानाम्) in place of 2nd case
 [; 3 kinds of पत्नी wife : धर्मपत्नी virtuous wife;
 ; अर्थपत्नी wealthy wife, कामपत्नी pleasure wife;]
 ; सह-गमन = सती wife burning herself with dead husband
@@ -8010,7 +8013,7 @@
 ; ज्योत्स्ना moonlight
 ; जरा old age; लावण्य beauty (लवण salt, tasteful, beautiful)
 ; हरि विष्णु, हर शिव, कथा story (talk); दुरित sin;
-; अर्थिता asking (begging)
+; गुण virtues; अर्थिता asking (begging)
 </C>
 <E>
 022.07-08E: Moreover. As service destroys all self-respect, moonlight darkness, old age beauty, the stories about Hari and Hara sin, so does begging destroy even a hundred good qualities.
@@ -8055,7 +8058,7 @@
 ; पाण्डित्य scholarship;
 ; क्रय buying (क्री), क्रीत bought; क्रयक्रीत bought [ap]
 ; ([usha] bought by buying (contrast bought by barter)
-; मैथुन n. sexual intercourse; भोजन eating
+; मैथुन n. sexual intercourse; भोजन eating, food;
 ; अधीन dependent, subject to
 ; पराधीन subject to another's will
 ; तिस्रः f. pl. त्रि; पुंसाम् of men;
@@ -8081,7 +8084,7 @@
 ; not anuzwup meter  
 ; रोगिन् sickness; चिर long time, प्रवासिन् dwelling abroad
 ; भोजिन् eating; परान्नभोजिन् = पर + अन्न + भोजिन् another's food eating;
-; अवसथ  house (= आवसथ = वसथ); शायिन् resting (शी to lie down);
+; अवसथ  house (= आवसथ = वसथ); शायिन् resting (शी to lie down); मरण death; 
 ; विश्राम rest;
 </C>
 <E>
@@ -8101,8 +8104,7 @@
 <C>
 ; आलोच् to consider, reflect upon; लोभ greed;
 ; पुनर् again; अर्थ purpose, wealth; ग्रह seizing
-; graham kf: 'to decide' ;
-; अकरवम् ipf. 1s कृ; 
+; ग्रहम् कृ to decide ; अकरवम् ipf. 1s कृ; 
 </C>
 <E>
 022.15-15E: Although I considered thus, yet, from avarice, I made up my mind to hoard wealth. For it is said,
@@ -8127,7 +8129,7 @@
 ; तृषा-आर्त  (one) afflicted by thirst
 ; दुःख n. distress, misery;
 ; [Gemini त्रल् suffix -- in which place]
-; परत्र  पर future 
+; परत्र पर future अत्र here
 ; परत्र hereafter (world after death before next birth);
 ; मानव a human being; 
 </C>
@@ -8152,8 +8154,8 @@
 ; मन्दम् ind. slowly; उपसर्प approaching;
 ; बीणाकर्ण  N. of mendicant; जर्जर decrepit, broken
 ; वंश bamboo or any cane; खण्ड broken, a piece;
-; ताडित struck; चिन्त् to think.
-; लुब्ध (one who is greedy); असंतुष्ट discontented
+; ताडित struck; अचिन्तयम् ipf. 1 sg. चिन्त् to think.
+; लुब्ध one who is greedy; असंतुष्ट discontented
 ; नियतम् always; आत्मन् one-self;
 ; द्रोहिन् who hurts (द्रुह्  to hurt)
 </C>

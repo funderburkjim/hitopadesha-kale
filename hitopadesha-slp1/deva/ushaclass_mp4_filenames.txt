@@ -468,8 +468,12 @@ Typos recorded in file ../deva_format/readme_typos.txt
   (begun 08-05-2024  contains history back to 057.15)
 
 # git bash command to back up video folder.
-cp -r -n /e/UzaSanskritClass/ /f/UzaSanskritClass/
+#cp -r -n /e/UzaSanskritClass/ /f/UzaSanskritClass/
  # -n don't overwrite
+ -R recursive
+-n do not overwrite an existing file 
+cp -Rn /e/UzaSanskritClass /f/   ## USE THIS to backup UzaSanskritClass
+
 # git bash command to sync hitokale repository to github
 cd /c/xampp/htdocs/funderburkjim/hitopadesha-kale
 git status # to see files with changes. Be sure no '#xxx' files (made by Emacs)
@@ -531,9 +535,6 @@ At about time 8:12 of Bhagavadgita chanting, Chap 10, verse 30:
 prahlAda   pronounced pralhAda  (cf  brahma)
 (setq nxml-child-indent nil)
 
--R recursive
--n do not overwrite an existing file 
-cp -Rn /e/UzaSanskritClass /f/
 
 08-20-2024 ऋक्षः मधुम् रोचते । 
 
